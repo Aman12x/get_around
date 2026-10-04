@@ -1,0 +1,536 @@
+{
+  "country": "morocco",
+  "topics": {
+    "history": [
+      {
+        "q": "In what year did Morocco regain its independence from France?",
+        "choices": ["1956", "1962", "1912", "1947"],
+        "answer": 0,
+        "fact": "France recognised Morocco's independence on 2 March 1956, and Spain gave up most of its northern protectorate a few weeks later.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which European country established a protectorate over most of Morocco with the Treaty of Fez in 1912?",
+        "choices": ["Italy", "France", "Britain", "Germany"],
+        "answer": 1,
+        "fact": "Spain received a separate zone in the north, and the French moved the seat of government from Fez to Rabat.",
+        "difficulty": 1
+      },
+      {
+        "q": "In January 1943, which two Allied leaders met at the Casablanca Conference?",
+        "choices": ["Churchill and Stalin", "Roosevelt and Stalin", "Roosevelt and Churchill", "Truman and Attlee"],
+        "answer": 2,
+        "fact": "Meeting in the Anfa suburb of Casablanca, they announced that the Allies would accept nothing less than the Axis powers' unconditional surrender.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1777 Morocco is often cited as the first country to recognise the independence of which new nation?",
+        "choices": ["Haiti", "Mexico", "Brazil", "The United States"],
+        "answer": 3,
+        "fact": "The 1786 Moroccan-American Treaty of Friendship is the United States' oldest unbroken treaty, and Tangier hosted its first overseas diplomatic property.",
+        "difficulty": 1
+      },
+      {
+        "q": "The well-preserved ruins of Volubilis, near Meknes, are mainly the remains of a city of which ancient empire?",
+        "choices": ["The Roman Empire", "The Ottoman Empire", "The Persian Empire", "The Mongol Empire"],
+        "answer": 0,
+        "fact": "Volubilis grew rich exporting olive oil, and many of its floor mosaics still lie in place where they were laid.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which great medieval traveller was born in Tangier in 1304?",
+        "choices": ["Marco Polo", "Ibn Battuta", "Ibn Khaldun", "Zheng He"],
+        "answer": 1,
+        "fact": "Over about 30 years Ibn Battuta covered some 117,000 km across Africa, Asia and Europe, then dictated his travels, the Rihla, back in Morocco.",
+        "difficulty": 1
+      },
+      {
+        "q": "Tariq ibn Ziyad crossed from North Africa into Iberia in 711. Which landmark still bears his name?",
+        "choices": ["Andalusia", "Algeciras", "Gibraltar", "Granada"],
+        "answer": 2,
+        "fact": "Gibraltar comes from the Arabic Jabal Tariq, meaning 'Tariq's mountain'.",
+        "difficulty": 1
+      },
+      {
+        "q": "The English name 'Morocco' comes from which Moroccan city?",
+        "choices": ["Fez", "Meknes", "Rabat", "Marrakesh"],
+        "answer": 3,
+        "fact": "In Arabic the country is al-Maghrib, 'the place where the sun sets', while Persian speakers still call it Marakesh.",
+        "difficulty": 1
+      },
+      {
+        "q": "Allied troops landed near Casablanca in November 1942 as part of which operation?",
+        "choices": ["Operation Torch", "Operation Overlord", "Operation Husky", "Operation Barbarossa"],
+        "answer": 0,
+        "fact": "Torch was the first large American operation of the war against Germany's Axis in the European-African theatre, with landings in Morocco and Algeria.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which dynasty has reigned in Morocco since the 17th century?",
+        "choices": ["Saadian", "Alaouite", "Marinid", "Wattasid"],
+        "answer": 1,
+        "fact": "The Alaouites came to power in the 1660s, and their dynasty has reigned without interruption ever since.",
+        "difficulty": 2
+      },
+      {
+        "q": "Idris I founded which dynasty in 788, whose rulers went on to establish the city of Fez?",
+        "choices": ["Almohad", "Fatimid", "Idrisid", "Umayyad"],
+        "answer": 2,
+        "fact": "Fez grew from twin settlements on either bank of its river; today its medina is a UNESCO World Heritage Site and a maze of some 9,000 alleys.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Berber dynasty founded Marrakesh around 1070?",
+        "choices": ["Almohads", "Marinids", "Saadians", "Almoravids"],
+        "answer": 3,
+        "fact": "Under Yusuf ibn Tashfin, the Almoravids ruled an empire that stretched from the Senegal River into Spain.",
+        "difficulty": 2
+      },
+      {
+        "q": "Sultan Mohammed V returned from exile in which year, paving the way to independence?",
+        "choices": ["1955", "1948", "1961", "1939"],
+        "answer": 0,
+        "fact": "French authorities had exiled him in 1953; Morocco's Independence Day on 18 November recalls the speech he gave after his return.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city was run as an international zone by several foreign powers from the 1920s until 1956?",
+        "choices": ["Casablanca", "Tangier", "Tetouan", "Essaouira"],
+        "answer": 1,
+        "fact": "Interzone Tangier drew spies, bankers and writers, from Paul Bowles to William S. Burroughs, who wrote much of 'Naked Lunch' there.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city served as the capital of Spain's protectorate zone in northern Morocco?",
+        "choices": ["Larache", "Nador", "Tetouan", "Al Hoceima"],
+        "answer": 2,
+        "fact": "Tetouan's whitewashed medina, rebuilt by refugees from Andalusia in the late 15th century, is a UNESCO World Heritage Site.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Rif leader defeated a Spanish army at the Battle of Annual in 1921?",
+        "choices": ["Mohammed V", "Allal al-Fassi", "Ahmed al-Raisuni", "Abd el-Krim"],
+        "answer": 3,
+        "fact": "Abd el-Krim proclaimed a Republic of the Rif, which held out until a joint French-Spanish campaign forced his surrender in 1926.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which European king was killed at the Battle of Ksar el-Kebir, the 'Battle of the Three Kings', in 1578?",
+        "choices": ["Sebastian of Portugal", "Philip II of Spain", "Charles V", "Henry VIII of England"],
+        "answer": 0,
+        "fact": "Sebastian died without an heir, which led to Portugal's union with Spain in 1580, while the victory brought great prestige to Morocco's Ahmad al-Mansur.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who founded the al-Qarawiyyin mosque and centre of learning in Fez in 859?",
+        "choices": ["Sayyida al-Hurra", "Fatima al-Fihri", "Zaynab an-Nafzawiyya", "Dihya (al-Kahina)"],
+        "answer": 1,
+        "fact": "Al-Qarawiyyin is often described as the world's oldest continuously operating educational institution.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1591 an army sent by Sultan Ahmad al-Mansur crossed the Sahara and defeated which empire at Tondibi?",
+        "choices": ["Mali", "Ghana", "Songhai", "Kanem"],
+        "answer": 2,
+        "fact": "The army, led by the Spanish-born commander Judar Pasha, carried firearms across the desert and went on to occupy Timbuktu and Gao.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Alaouite sultan, reigning for 55 years from 1672, made Meknes his imperial capital?",
+        "choices": ["Ahmad al-Mansur", "Mohammed III", "Moulay Rashid", "Moulay Ismail"],
+        "answer": 3,
+        "fact": "He ringed Meknes with tens of kilometres of walls and monumental gates; the historic city is now a UNESCO World Heritage Site.",
+        "difficulty": 3
+      },
+      {
+        "q": "Whose landing at Tangier in 1905 triggered the First Moroccan Crisis?",
+        "choices": ["Kaiser Wilhelm II", "Napoleon III", "Tsar Nicholas II", "Emperor Franz Joseph"],
+        "answer": 0,
+        "fact": "The crisis was settled at the Algeciras Conference of 1906, which confirmed French and Spanish influence in Morocco.",
+        "difficulty": 3
+      },
+      {
+        "q": "The arrival of which German gunboat at Agadir in 1911 sparked the Agadir Crisis?",
+        "choices": ["Bismarck", "Panther", "Emden", "Dresden"],
+        "answer": 1,
+        "fact": "Germany eventually accepted a French protectorate over Morocco in return for a slice of French territory in Central Africa.",
+        "difficulty": 3
+      },
+      {
+        "q": "Juba II, the Roman client king of Mauretania, married the daughter of which famous queen?",
+        "choices": ["Zenobia", "Dido", "Cleopatra VII", "Boudica"],
+        "answer": 2,
+        "fact": "His wife, Cleopatra Selene, was the daughter of Cleopatra VII and Mark Antony; Juba himself was a scholar who wrote books in Greek.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Granada-born scholar, raised in Fez, wrote the 'Description of Africa' published in 1550?",
+        "choices": ["Ibn Khaldun", "Al-Idrisi", "Ibn Tufayl", "Leo Africanus"],
+        "answer": 3,
+        "fact": "Born al-Hasan al-Wazzan, he was captured by corsairs and presented to Pope Leo X, whose name he took.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Atlantic city was the Portuguese fortress of Mazagan until 1769?",
+        "choices": ["El Jadida", "Essaouira", "Asilah", "Agadir"],
+        "answer": 0,
+        "fact": "Its vaulted Portuguese Cistern, lit by a single round opening in the roof, appears in Orson Welles's film 'Othello'.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "The vast Noor complex near Ouarzazate generates electricity from what?",
+        "choices": ["Sunlight", "Wind", "Natural gas", "Tidal power"],
+        "answer": 0,
+        "fact": "Noor, Arabic for 'light', is among the world's largest concentrated solar power complexes, using mirrors to focus desert sunshine.",
+        "difficulty": 1
+      },
+      {
+        "q": "Morocco holds the world's largest reserves of which mineral resource, a key ingredient of fertilisers?",
+        "choices": ["Copper", "Phosphate rock", "Bauxite", "Lithium"],
+        "answer": 1,
+        "fact": "Phosphorus is one of the three main crop nutrients, alongside nitrogen and potassium, so Moroccan rock helps feed farms around the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2018 Morocco opened Africa's first high-speed railway, linking Tangier with which city?",
+        "choices": ["Marrakesh", "Agadir", "Casablanca", "Oujda"],
+        "answer": 2,
+        "fact": "The Al Boraq service, named after a winged steed of Islamic tradition, cut the Tangier-Casablanca journey from nearly five hours to about two.",
+        "difficulty": 1
+      },
+      {
+        "q": "Since 1997, undersea power cables have linked Morocco's electricity grid with which country?",
+        "choices": ["Portugal", "France", "Italy", "Spain"],
+        "answer": 3,
+        "fact": "The cables beneath the Strait of Gibraltar are the only electricity link between Africa and Europe.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which oil is pressed from the kernels of a tree that grows wild almost only in southwestern Morocco?",
+        "choices": ["Argan oil", "Olive oil", "Palm oil", "Coconut oil"],
+        "answer": 0,
+        "fact": "Much of it is produced by women's cooperatives, and the argan forest region is a UNESCO biosphere reserve.",
+        "difficulty": 1
+      },
+      {
+        "q": "Fossils from Jebel Irhoud, dated in 2017 to about 300,000 years old, are among the oldest known remains of which species?",
+        "choices": ["Neanderthals", "Homo sapiens", "Homo erectus", "Homo habilis"],
+        "answer": 1,
+        "fact": "The find pushed back our species' known origins by about 100,000 years and suggested Homo sapiens emerged across Africa, not in a single cradle.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Tissint meteorite, seen falling over southern Morocco in 2011, came from which world?",
+        "choices": ["The Moon", "Venus", "Mars", "Mercury"],
+        "answer": 2,
+        "fact": "Witnessed falls of Martian meteorites are extremely rare, and Tissint's fresh fragments preserved traces of the Red Planet's chemistry.",
+        "difficulty": 1
+      },
+      {
+        "q": "What has been processed for centuries in the dye pits of Fez's Chouara Tannery?",
+        "choices": ["Wool for carpets", "Clay for tiles", "Olives for oil", "Animal hides for leather"],
+        "answer": 3,
+        "fact": "Hides are softened in vats of lime and pigeon droppings, then coloured with natural dyes such as poppy, indigo and henna.",
+        "difficulty": 1
+      },
+      {
+        "q": "Greenhouses on the Souss plain near Agadir make Morocco one of Europe's main suppliers of which crop?",
+        "choices": ["Tomatoes", "Potatoes", "Cabbages", "Onions"],
+        "answer": 0,
+        "fact": "Mild winters in the Souss-Massa region let growers harvest from autumn to spring, when fields in northern Europe are cold.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French carmaker opened a large factory near Tangier in 2012?",
+        "choices": ["Volkswagen", "Renault", "Fiat", "Toyota"],
+        "answer": 1,
+        "fact": "Linked by rail to the Tanger Med port, the plant exports most of the cars it builds, many of them Dacias.",
+        "difficulty": 2
+      },
+      {
+        "q": "Morocco's state phosphate company, founded in 1920, is known by which initials?",
+        "choices": ["ONCF", "RAM", "OCP", "ONEE"],
+        "answer": 2,
+        "fact": "Founded as the Office Chérifien des Phosphates, OCP is today one of the world's largest producers of phosphate and fertilisers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which town in central Morocco grew up around the country's first big phosphate mine, opened in the 1920s?",
+        "choices": ["Ifrane", "Ouarzazate", "Larache", "Khouribga"],
+        "answer": 3,
+        "fact": "Khouribga sits on one of the world's richest phosphate basins; a slurry pipeline now carries the ore to the coast at Jorf Lasfar.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Córdoba-born philosopher and physician served the Almohad court and died in Marrakesh in 1198?",
+        "choices": ["Averroes (Ibn Rushd)", "Avicenna (Ibn Sina)", "Maimonides", "Al-Farabi"],
+        "answer": 0,
+        "fact": "His commentaries on Aristotle were so influential in medieval Europe that he was known simply as 'the Commentator'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Moroccan-born scientist Rachid Yazami shared the 2014 Draper Prize for pioneering work on which technology?",
+        "choices": ["Solar panels", "Lithium-ion batteries", "LED lighting", "Fibre optics"],
+        "answer": 1,
+        "fact": "In 1980 he showed that lithium could be reversibly stored in graphite, the basis of the anode in most lithium-ion batteries.",
+        "difficulty": 2
+      },
+      {
+        "q": "What part of Casablanca's Hassan II Mosque can slide open to the sky?",
+        "choices": ["The minaret", "The courtyard gates", "The prayer-hall roof", "The seaward wall"],
+        "answer": 2,
+        "fact": "Completed in 1993, the mosque stands partly over the Atlantic, and its prayer hall can hold around 25,000 worshippers.",
+        "difficulty": 2
+      },
+      {
+        "q": "What are the khettaras of Morocco's Tafilalet region?",
+        "choices": ["Terraced rice fields", "Windmills", "Salt pans", "Underground irrigation channels"],
+        "answer": 3,
+        "fact": "Like Persian qanats, these gently sloping tunnels carry groundwater by gravity to oasis fields, marked on the surface by lines of shafts.",
+        "difficulty": 2
+      },
+      {
+        "q": "What top speed do Morocco's Al Boraq high-speed trains reach in regular service?",
+        "choices": ["320 km/h", "160 km/h", "220 km/h", "450 km/h"],
+        "answer": 0,
+        "fact": "During a test run in 2017, one of the trains reached 357 km/h, a rail speed record for Africa.",
+        "difficulty": 2
+      },
+      {
+        "q": "What type of bridge is the Mohammed VI Bridge, opened in 2016 across the Bou Regreg valley near Rabat?",
+        "choices": ["Suspension", "Cable-stayed", "Steel arch", "Cantilever truss"],
+        "answer": 1,
+        "fact": "Its two arch-shaped pylons echo traditional city gates, and it was billed as Africa's longest cable-stayed bridge when it opened.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which mathematician from Marrakesh (1256-1321) wrote the influential arithmetic manual 'Talkhis a'mal al-hisab'?",
+        "choices": ["Ibn Tufayl", "Ibn Zuhr", "Ibn al-Banna al-Marrakushi", "Al-Bitruji"],
+        "answer": 2,
+        "fact": "His concise summary of arithmetic was studied, copied and commented on across North Africa for centuries.",
+        "difficulty": 3
+      },
+      {
+        "q": "Fez's Dar al-Magana, built in 1357 facing the Bou Inania Madrasa, housed what device?",
+        "choices": ["A printing press", "An astronomical telescope", "A windmill", "A water clock"],
+        "answer": 3,
+        "fact": "A row of windows and brass bowls once marked the hours, but exactly how its long-lost mechanism worked is still debated.",
+        "difficulty": 3
+      },
+      {
+        "q": "Morocco's Earth-observation satellite Mohammed VI-A was launched in 2017 from which spaceport?",
+        "choices": ["Kourou, French Guiana", "Baikonur, Kazakhstan", "Cape Canaveral, USA", "Sriharikota, India"],
+        "answer": 0,
+        "fact": "It rode a European Vega rocket, and a twin satellite, Mohammed VI-B, followed from the same spaceport in 2018.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which southern coastal town hosts a 301 MW wind farm, opened in 2014 and among Africa's largest?",
+        "choices": ["Kenitra", "Tarfaya", "El Jadida", "Ifrane"],
+        "answer": 1,
+        "fact": "Its 131 turbines catch the steady trade winds blowing off the Atlantic near Cape Juby.",
+        "difficulty": 3
+      },
+      {
+        "q": "Perforated shell beads at least 142,000 years old, reported in 2021, were found in which cave near Essaouira?",
+        "choices": ["Hercules Caves", "Grotte des Pigeons", "Bizmoune Cave", "Ifri n'Amr ou Moussa"],
+        "answer": 2,
+        "fact": "They are among the oldest known personal ornaments, hinting that early humans used jewellery to signal identity.",
+        "difficulty": 3
+      },
+      {
+        "q": "A 2020 study of a Spinosaurus skeleton from Morocco's Kem Kem beds revealed what swimming adaptation?",
+        "choices": ["Webbed wings", "Armoured plates", "A display crest", "A paddle-like tail"],
+        "answer": 3,
+        "fact": "The tall, flexible tail was strong evidence that this giant predator propelled itself through water like a crocodile.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which material stores heat at the Noor Ouarzazate solar plants so they can keep generating after sunset?",
+        "choices": ["Molten salt", "Lithium batteries", "Pumped water", "Compressed air"],
+        "answer": 0,
+        "fact": "Sun-heated salt is kept in huge insulated tanks and later used to make steam, letting the plants supply power for hours after dark.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "What is zellij, a hallmark of Moroccan palaces and fountains?",
+        "choices": ["Mosaic of hand-cut glazed tiles", "Carved cedar ceilings", "Hand-knotted wool rugs", "Embroidered silk"],
+        "answer": 0,
+        "fact": "Craftsmen chip each tiny piece by hand from glazed terracotta, then fit them together into intricate geometric stars.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which fashion designer bought and restored Marrakesh's Jardin Majorelle with Pierre Bergé in 1980?",
+        "choices": ["Coco Chanel", "Yves Saint Laurent", "Christian Dior", "Giorgio Armani"],
+        "answer": 1,
+        "fact": "The garden was created by painter Jacques Majorelle, whose vivid cobalt shade is now known as 'Majorelle blue'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Where was the 1942 film 'Casablanca' almost entirely shot?",
+        "choices": ["In Casablanca", "In Tangier", "In Hollywood studios in California", "In Marseille"],
+        "answer": 2,
+        "fact": "Apart from scenes at a Los Angeles-area airport, it was made on Warner Bros. sound stages, and it went on to win the Oscar for Best Picture.",
+        "difficulty": 1
+      },
+      {
+        "q": "The mud-brick ksar of Aït Benhaddou has served as a location for which film?",
+        "choices": ["Titanic", "The Sound of Music", "Jaws", "Gladiator"],
+        "answer": 3,
+        "fact": "The UNESCO-listed fortified village has also appeared in 'Lawrence of Arabia' and 'Game of Thrones'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Essaouira's big annual festival celebrates which spiritual music with sub-Saharan roots?",
+        "choices": ["Gnawa", "Flamenco", "Fado", "Raï"],
+        "answer": 0,
+        "fact": "Gnawa musicians play iron castanets called qraqeb, building hypnotic rhythms that can carry a ceremony through the night.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 12th-century minaret, about 77 m tall, dominates the skyline of Marrakesh?",
+        "choices": ["Hassan Tower", "Koutoubia", "Bou Inania", "Kasbah Mosque"],
+        "answer": 1,
+        "fact": "Its name comes from the booksellers, the kutubiyyin, who once traded at its foot.",
+        "difficulty": 1
+      },
+      {
+        "q": "Roughly how tall is the minaret of Casablanca's Hassan II Mosque, completed in 1993?",
+        "choices": ["About 90 m", "About 150 m", "About 210 m", "About 330 m"],
+        "answer": 2,
+        "fact": "At night a laser beam shines from its summit in the direction of Mecca.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are babouches, sold by the thousand in Moroccan souks?",
+        "choices": ["Brass lanterns", "Woven baskets", "Clay cooking pots", "Leather slippers"],
+        "answer": 3,
+        "fact": "Soft, heelless and easy to slip off at the door, classic men's babouches come in a bright saffron yellow.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which American writer, who settled in Tangier, wrote the 1949 novel 'The Sheltering Sky'?",
+        "choices": ["Paul Bowles", "Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck"],
+        "answer": 0,
+        "fact": "Bowles lived in Tangier for more than 50 years and also made landmark field recordings of traditional Moroccan music.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French Romantic painter filled sketchbooks during a diplomatic mission to Morocco in 1832?",
+        "choices": ["Jean-Auguste-Dominique Ingres", "Eugène Delacroix", "Paul Gauguin", "Gustave Courbet"],
+        "answer": 1,
+        "fact": "Delacroix drew on these sketches for decades, in works such as 'Jewish Wedding in Morocco'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which painter created 'Window at Tangier' during stays in Morocco in 1912-13?",
+        "choices": ["Pablo Picasso", "Paul Cézanne", "Henri Matisse", "Claude Monet"],
+        "answer": 2,
+        "fact": "Matisse's room at Tangier's Grand Hotel Villa de France, the view from which he painted, is preserved for visiting art lovers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Fez's Bou Inania and Al-Attarine madrasas, masterpieces of carved cedar and stucco, were built by which dynasty?",
+        "choices": ["Almoravid", "Saadian", "Alaouite", "Marinid"],
+        "answer": 3,
+        "fact": "Built in the 14th century, the Bou Inania is one of the few religious buildings in Morocco that non-Muslim visitors may enter.",
+        "difficulty": 2
+      },
+      {
+        "q": "Seville's Giralda tower began as a minaret built by which dynasty, which also raised Marrakesh's Koutoubia?",
+        "choices": ["The Almohads", "The Nasrids", "The Umayyads", "The Marinids"],
+        "answer": 0,
+        "fact": "The Giralda, the Koutoubia and Rabat's unfinished Hassan Tower are often called three sister towers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Tangier author wrote the autobiographical novel 'For Bread Alone'?",
+        "choices": ["Tahar Ben Jelloun", "Mohamed Choukri", "Driss Chraïbi", "Abdellatif Laâbi"],
+        "answer": 1,
+        "fact": "Paul Bowles's English translation appeared in 1973, almost a decade before the Arabic original was published.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Moroccan author won France's Prix Goncourt in 1987 for 'The Sacred Night'?",
+        "choices": ["Driss Chraïbi", "Leïla Slimani", "Tahar Ben Jelloun", "Mohamed Choukri"],
+        "answer": 2,
+        "fact": "'The Sacred Night' continued the story begun in his earlier novel 'The Sand Child'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1956 Alfred Hitchcock thriller opens in Marrakesh?",
+        "choices": ["Psycho", "Vertigo", "North by Northwest", "The Man Who Knew Too Much"],
+        "answer": 3,
+        "fact": "Starring James Stewart and Doris Day, it introduced the song 'Que Sera, Sera', which won the Oscar for Best Original Song.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Atlantic port is renowned as Morocco's capital of pottery?",
+        "choices": ["Safi", "Ifrane", "Kenitra", "Larache"],
+        "answer": 0,
+        "fact": "Safi's potters work in a hillside quarter called the Colline des Potiers, firing glazed ceramics in traditional kilns.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Saadian sultan built Marrakesh's El Badi Palace after the victory of 1578?",
+        "choices": ["Moulay Ismail", "Ahmad al-Mansur", "Yusuf ibn Tashfin", "Abd al-Malik"],
+        "answer": 1,
+        "fact": "Its name means 'the incomparable'; a century later Moulay Ismail stripped its marble and gold to adorn Meknes.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1960s modernist art movement grew around Farid Belkahia, Mohamed Melehi and Mohamed Chabâa?",
+        "choices": ["The Tangier Group", "The Fez Circle", "The Casablanca School", "The Atlas Movement"],
+        "answer": 2,
+        "fact": "Teaching at the city's fine-arts school, they drew on Amazigh motifs, crafts and calligraphy rather than European academic painting.",
+        "difficulty": 3
+      },
+      {
+        "q": "Orson Welles shot much of 'Othello', which won the top prize at Cannes in 1952, in which walled port?",
+        "choices": ["Tangier", "Agadir", "Larache", "Essaouira"],
+        "answer": 3,
+        "fact": "Essaouira, then known as Mogador, later named a seafront square after the director.",
+        "difficulty": 3
+      },
+      {
+        "q": "Rolling Stones guitarist Brian Jones recorded which group of musicians in a Rif village in 1968?",
+        "choices": ["The Master Musicians of Joujouka", "Jil Jilala", "Lemchaheb", "Izenzaren"],
+        "answer": 0,
+        "fact": "The album came out in 1971 after Jones's death, and the musicians later played on the Rolling Stones' 'Continental Drift' (1989).",
+        "difficulty": 3
+      },
+      {
+        "q": "Which three-stringed bass lute is the central instrument of Gnawa music?",
+        "choices": ["Oud", "Guembri", "Rebab", "Qanun"],
+        "answer": 1,
+        "fact": "Also called the sintir or hajhouj, it has a skin-covered body and is played by the maâlem, the master musician who leads the ceremony.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1970s Casablanca group, often dubbed 'the Rolling Stones of Africa', transformed Moroccan popular music?",
+        "choices": ["Hoba Hoba Spirit", "Jil Jilala", "Nass El Ghiwane", "Lemchaheb"],
+        "answer": 2,
+        "fact": "Formed in Casablanca's Hay Mohammadi district, the band blended Gnawa rhythms, Sufi chants and sung poetry about everyday life.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which director made 'Ali Zaoua' (2000), about street children in Casablanca?",
+        "choices": ["Faouzi Bensaïdi", "Hicham Lasri", "Leila Kilani", "Nabil Ayouch"],
+        "answer": 3,
+        "fact": "Ayouch cast children who really lived on Casablanca's streets, and the film became one of Morocco's best-known abroad.",
+        "difficulty": 3
+      },
+      {
+        "q": "Essaouira's woodworkers are famous for marquetry made from the burl of which fragrant local tree?",
+        "choices": ["Thuya", "Teak", "Ebony", "Mahogany"],
+        "answer": 0,
+        "fact": "The thuya's knotted root burl is polished to a rich swirling grain and often inlaid with lemonwood or mother-of-pearl.",
+        "difficulty": 3
+      }
+    ]
+  }
+}
