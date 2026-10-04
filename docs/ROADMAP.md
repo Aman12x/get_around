@@ -33,7 +33,7 @@ How it scales: the server keeps no state between requests, so you can add Railwa
   - [x] Graceful SIGTERM shutdown.
 - [x] Postgres connection (Drizzle and postgres.js), with configuration checked by zod at startup.
 - [x] Migrations pipeline: `npm run db:generate` creates them and `node dist-server/migrate.js` applies them (Railway's pre-deploy command).
-- [x] Multi-stage `Dockerfile` (the runtime image contains production dependencies only and runs as the non-root `node` user), `railway.json`, `docker-compose.yml` and `.env.example`.
+- [x] Multi-stage `Dockerfile` (the runtime image contains production dependencies only and runs as the non-root `node` user), `docker-compose.yml` and `.env.example`.
 - [x] `npm run dev` runs the game and the API together; Vite forwards `/api` to the API.
 - [x] Speed:
   - [x] The world map is drawn at build time (`npm run bake:globe`) instead of in every browser.
@@ -84,16 +84,29 @@ How it scales: the server keeps no state between requests, so you can add Railwa
 
 ---
 
-## Railway checklist (first deploy)
+## Railway setup
 
-1. Create a Railway project, choose **Deploy from GitHub repo**, and pick this repository. Railway reads `railway.json` and builds the `Dockerfile`.
-2. Add a database with **+ New → Database → PostgreSQL**.
-3. On the web service, under **Variables**, add `DATABASE_URL` = `${{Postgres.DATABASE_URL}}`. This is a reference variable, and it routes over the private network.
-4. Generate a public domain, or add your own under **Settings → Networking**.
-5. Check that `https://<your-domain>/health` returns `{"status":"ok", "db":"ok", ...}`.
-6. Optional:
-   - Turn on "Wait for CI" so deploys happen only after GitHub Actions passes.
-   - Turn on PR environments for staging.
-   - Turn on Postgres backups.
+Railway builds the `Dockerfile` automatically. Railway's Config as Code (`railway.json`) is deprecated and can't be enabled on new services, so the settings below live in the dashboard.
 
-> `railway.json` sets the pre-deploy migration command (`node dist-server/migrate.js`), the `/health` check and a restart policy. The Railway docs weren't reachable from the environment this was built in, so after the first deploy confirm that the service's **Settings** show those values.
+**Service → Settings**
+
+| Section | Setting | Value |
+| --- | --- | --- |
+| Source | Branch connected to production | `main` |
+| Source | Wait for CI | On |
+| Networking | Public domain → target port | `8080` |
+| Deploy | Pre-deploy Command | `node dist-server/migrate.js` |
+| Deploy | Custom Start Command | *(empty: the Dockerfile's `CMD` starts the server)* |
+| Deploy | Healthcheck Path | `/health` |
+| Deploy | Serverless | Off (avoids cold starts on a player's first visit) |
+| Deploy | Restart Policy | On Failure, max 5 retries |
+| Edge | CDN Caching | Static assets only (fingerprinted files are cached for a year; HTML must stay uncached) |
+
+**Service → Variables**
+
+| Variable | Value |
+| --- | --- |
+| `PORT` | `8080` (must match the domain's target port) |
+| `DATABASE_URL` | `${{Postgres.DATABASE_URL}}` (reference variable, private network) |
+
+**Check:** `https://<your-domain>/health` should return `"status":"ok"`, `"db":"ok"` and the deployed commit as `version`.

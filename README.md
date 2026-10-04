@@ -18,7 +18,7 @@ The game runs without a database. To develop against Postgres, run `docker compo
 
 ## Deploying to Railway
 
-The app deploys as one Railway service (Fastify serves the game and `/api`) plus Railway Postgres. `railway.json` and the `Dockerfile` handle the build, the pre-deploy migrations and the `/health` check. For the step-by-step checklist and what comes next, see [`docs/ROADMAP.md`](docs/ROADMAP.md).
+The app deploys as one Railway service (Fastify serves the game and `/api`) plus Railway Postgres. Railway builds the `Dockerfile`. The pre-deploy migration command, `/health` check and other service settings live in the Railway dashboard; the checklist in [`docs/ROADMAP.md`](docs/ROADMAP.md) lists them, along with what comes next.
 
 ## How the game plays
 
