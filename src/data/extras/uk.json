@@ -1,0 +1,39 @@
+{
+  "country": "uk",
+  "timeline": [
+    { "event": "The great sarsen stones of Stonehenge are raised", "year": -2500, "label": "c. 2500 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Emperor Claudius launches the Roman conquest of Britain", "year": 43, "label": "43 CE", "difficulty": 1 },
+    { "event": "Construction of Hadrian's Wall begins", "year": 122, "label": "122 CE", "difficulty": 2 },
+    { "event": "Alfred the Great defeats the Vikings at the Battle of Edington", "year": 878, "label": "878", "difficulty": 3 },
+    { "event": "The Battle of Hastings is fought", "year": 1066, "label": "1066", "difficulty": 1 },
+    { "event": "The Domesday Book survey of England is compiled", "year": 1086, "label": "1086", "difficulty": 3 },
+    { "event": "King John seals Magna Carta at Runnymede", "year": 1215, "label": "1215", "difficulty": 1 },
+    { "event": "The Black Death reaches England", "year": 1348, "label": "1348", "difficulty": 2 },
+    { "event": "Henry Tudor wins the Battle of Bosworth Field", "year": 1485, "label": "1485", "difficulty": 2 },
+    { "event": "The Spanish Armada is defeated", "year": 1588, "label": "1588", "difficulty": 1 },
+    { "event": "Guy Fawkes and the Gunpowder Plot are foiled", "year": 1605, "label": "1605", "difficulty": 2 },
+    { "event": "The Great Fire of London destroys much of the City", "year": 1666, "label": "1666", "difficulty": 1 },
+    { "event": "The Acts of Union create the Kingdom of Great Britain", "year": 1707, "label": "1707", "difficulty": 2 },
+    { "event": "Parliament passes the Slavery Abolition Act", "year": 1833, "label": "1833", "difficulty": 3 },
+    { "event": "Women over thirty win the right to vote in general elections", "year": 1918, "label": "1918", "difficulty": 3 },
+    { "event": "The RAF fights the Battle of Britain", "year": 1940, "label": "1940", "difficulty": 1 },
+    { "event": "The National Health Service is founded", "year": 1948, "label": "1948", "difficulty": 2 },
+    { "event": "Elizabeth II is crowned at Westminster Abbey", "year": 1953, "label": "1953", "difficulty": 1 },
+    { "event": "The Channel Tunnel opens to France", "year": 1994, "label": "1994", "difficulty": 2 },
+    { "event": "London hosts the Summer Olympic Games for a third time", "year": 2012, "label": "2012", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "London", "kind": "city", "lat": 51.51, "lon": -0.13, "clue": "Its Underground railway, opened in 1863, is the oldest metro system in the world.", "difficulty": 1 },
+    { "name": "Edinburgh", "kind": "city", "lat": 55.95, "lon": -3.19, "clue": "Its castle crowns the plug of a long-extinct volcano, and a cannon is fired from it at one o'clock most days.", "difficulty": 1 },
+    { "name": "Stonehenge", "kind": "historic", "lat": 51.18, "lon": -1.83, "clue": "Some of its smaller 'bluestones' were hauled more than 200 km from the Preseli Hills of west Wales.", "difficulty": 1 },
+    { "name": "Giant's Causeway", "kind": "nature", "lat": 55.24, "lon": -6.51, "clue": "Around 40,000 interlocking basalt columns, mostly hexagonal, formed here as ancient lava cooled and cracked.", "difficulty": 1 },
+    { "name": "Loch Ness", "kind": "nature", "lat": 57.30, "lon": -4.45, "clue": "This deep Highland loch holds more fresh water than all the lakes of England and Wales combined.", "difficulty": 1 },
+    { "name": "Snowdon (Yr Wyddfa)", "kind": "nature", "lat": 53.07, "lon": -4.08, "clue": "A rack-and-pinion railway has hauled visitors up Wales's highest mountain since 1896.", "difficulty": 2 },
+    { "name": "York", "kind": "city", "lat": 53.96, "lon": -1.08, "clue": "Founded by the Romans as Eboracum, it is where Constantine was proclaimed emperor in 306 CE.", "difficulty": 2 },
+    { "name": "Land's End", "kind": "nature", "lat": 50.07, "lon": -5.71, "clue": "Mainland England's westernmost tip is the traditional start of the 874-mile trek to John o' Groats.", "difficulty": 2 },
+    { "name": "Housesteads Roman Fort", "kind": "historic", "lat": 55.01, "lon": -2.33, "clue": "One of the best-preserved forts on Hadrian's Wall, which ran 73 miles from coast to coast.", "difficulty": 2 },
+    { "name": "Lindisfarne", "kind": "historic", "lat": 55.68, "lon": -1.80, "clue": "A Viking raid on this tidal island's monastery in 793 is often seen as the start of the Viking Age in Britain.", "difficulty": 3 },
+    { "name": "Iona", "kind": "historic", "lat": 56.33, "lon": -6.41, "clue": "St Columba founded a monastery on this small Hebridean island in 563, making it a cradle of Scottish Christianity.", "difficulty": 3 },
+    { "name": "Ironbridge Gorge", "kind": "historic", "lat": 52.63, "lon": -2.49, "clue": "The world's first major cast-iron bridge was raised across the River Severn here in 1779.", "difficulty": 3 }
+  ]
+}

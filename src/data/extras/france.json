@@ -1,0 +1,39 @@
+{
+  "country": "france",
+  "timeline": [
+    { "event": "Greek colonists from Phocaea found Massalia, today's Marseille", "year": -600, "label": "c. 600 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Julius Caesar defeats Vercingetorix at the siege of Alesia", "year": -52, "label": "52 BCE", "difficulty": 2 },
+    { "event": "Charlemagne is crowned Emperor of the Romans", "year": 800, "label": "800", "difficulty": 1 },
+    { "event": "The Treaty of Verdun splits Charlemagne's empire among his grandsons", "year": 843, "label": "843", "difficulty": 3 },
+    { "event": "Hugh Capet is crowned King of the Franks", "year": 987, "label": "987", "difficulty": 3 },
+    { "event": "Construction of Notre-Dame de Paris begins", "year": 1163, "label": "1163", "difficulty": 2 },
+    { "event": "Joan of Arc lifts the English siege of Orléans", "year": 1429, "label": "1429", "difficulty": 1 },
+    { "event": "The St Bartholomew's Day massacre of Huguenots begins in Paris", "year": 1572, "label": "1572", "difficulty": 3 },
+    { "event": "Henry IV grants Protestants rights in the Edict of Nantes", "year": 1598, "label": "1598", "difficulty": 3 },
+    { "event": "Louis XIV moves the royal court to Versailles", "year": 1682, "label": "1682", "difficulty": 2 },
+    { "event": "Revolutionaries storm the Bastille", "year": 1789, "label": "1789", "difficulty": 1 },
+    { "event": "Napoleon crowns himself Emperor at Notre-Dame", "year": 1804, "label": "1804", "difficulty": 1 },
+    { "event": "The Eiffel Tower is completed for the World's Fair", "year": 1889, "label": "1889", "difficulty": 1 },
+    { "event": "The Lumière brothers hold the first paid public film screening", "year": 1895, "label": "1895", "difficulty": 2 },
+    { "event": "The First World War armistice is signed in a railway carriage at Compiègne", "year": 1918, "label": "1918", "difficulty": 2 },
+    { "event": "Allied troops land on the beaches of Normandy on D-Day", "year": 1944, "label": "1944", "difficulty": 1 },
+    { "event": "Charles de Gaulle founds the Fifth Republic", "year": 1958, "label": "1958", "difficulty": 2 },
+    { "event": "Concorde makes its maiden flight from Toulouse", "year": 1969, "label": "1969", "difficulty": 2 },
+    { "event": "France wins the football World Cup on home soil", "year": 1998, "label": "1998", "difficulty": 1 },
+    { "event": "Euro notes and coins replace the French franc", "year": 2002, "label": "2002", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Paris", "kind": "city", "lat": 48.86, "lon": 2.35, "clue": "Baron Haussmann's 19th-century rebuilding gave it most of its broad boulevards and cream-stone apartment blocks.", "difficulty": 1 },
+    { "name": "Mont-Saint-Michel", "kind": "landmark", "lat": 48.64, "lon": -1.51, "clue": "A medieval abbey crowns this tidal island, which for centuries pilgrims could reach on foot only at low tide.", "difficulty": 1 },
+    { "name": "Marseille", "kind": "city", "lat": 43.30, "lon": 5.37, "clue": "Founded by Greek sailors around 600 BCE, it is France's oldest city.", "difficulty": 1 },
+    { "name": "Lyon", "kind": "city", "lat": 45.76, "lon": 4.84, "clue": "Its hidden 'traboules', passageways cut through buildings, once let silk workers carry fabric through the city out of the rain.", "difficulty": 1 },
+    { "name": "Nice", "kind": "city", "lat": 43.70, "lon": 7.27, "clue": "Its seafront Promenade des Anglais is named after the English aristocrats who wintered here in the 1800s.", "difficulty": 1 },
+    { "name": "Strasbourg", "kind": "city", "lat": 48.58, "lon": 7.75, "clue": "This Alsatian seat of the European Parliament has a cathedral that was the world's tallest building for over two centuries.", "difficulty": 2 },
+    { "name": "Chamonix", "kind": "city", "lat": 45.92, "lon": 6.87, "clue": "This Alpine town beneath Mont Blanc hosted the very first Winter Olympic Games in 1924.", "difficulty": 2 },
+    { "name": "Lascaux", "kind": "historic", "lat": 45.05, "lon": 1.17, "clue": "Teenagers stumbled on this cave in 1940, its walls covered with hundreds of animals painted some 17,000 years ago.", "difficulty": 2 },
+    { "name": "Carcassonne", "kind": "historic", "lat": 43.21, "lon": 2.36, "clue": "Its walled medieval Cité was heavily restored in the 19th century by the architect Eugène Viollet-le-Duc.", "difficulty": 2 },
+    { "name": "Carnac", "kind": "historic", "lat": 47.59, "lon": -3.08, "clue": "More than 3,000 prehistoric standing stones march across its Breton fields in long parallel rows.", "difficulty": 3 },
+    { "name": "Dune du Pilat", "kind": "nature", "lat": 44.59, "lon": -1.21, "clue": "Europe's tallest sand dune rises more than 100 metres above the pine forests and the Arcachon Bay.", "difficulty": 3 },
+    { "name": "Bonifacio", "kind": "city", "lat": 41.39, "lon": 9.16, "clue": "This Corsican old town perches on white limestone cliffs above the narrow strait that separates Corsica from Sardinia.", "difficulty": 3 }
+  ]
+}

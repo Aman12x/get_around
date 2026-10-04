@@ -1,4 +1,5 @@
 import { COUNTRIES, COUNTRY_BY_ID, type CountryId } from '../data/countries';
+import { extrasFor, loadExtras } from '../data/extras';
 import { loadBank, questionsFor } from '../data/questions';
 import { recommendedRouteIds, ROUTE_BY_ID, ROUTES, type Route } from '../data/routes';
 import { TOPIC_BY_ID, TOPICS, type TopicId } from '../data/topics';
@@ -23,8 +24,11 @@ import {
   type Journey,
   type SaveData,
 } from '../game/progress';
-import { buildQuiz, isPass, requiredCorrect, sparesLeft, type QuizQuestion } from '../game/quiz';
+import { buildQuiz, isPass, requiredCorrect, sparesLeft } from '../game/quiz';
+import { assembleQuiz, distanceKm, isChronological, type QuizItem } from '../game/rounds';
+import { landmarkThumb } from '../three/thumbnails';
 import { Stage } from '../three/stage';
+import { mountPinMap } from './pinMap';
 import { setMuted, sfx } from './sfx';
 
 const esc = (s: string) =>
@@ -36,11 +40,13 @@ interface QuizState {
   country: CountryId;
   topic: TopicId;
   level: LevelId;
-  questions: QuizQuestion[];
+  questions: QuizItem[];
+  /** Per-item outcome, filled in as the player answers. */
+  results: boolean[];
   index: number;
   correct: number;
   wrong: number;
-  answered: number | null;
+  answered: boolean;
 }
 
 export class App {
@@ -388,6 +394,7 @@ export class App {
       sfx.takeoff();
       // Fetch the destination's questions while the plane is in the air.
       void loadBank(to).catch(() => {});
+      void loadExtras(to).catch(() => {});
       await this.stage.globe.fly(from, to);
       this.setJourney(arrive(j, to));
       this.enterCountry(to, true);
@@ -405,7 +412,7 @@ export class App {
         this.stage.diorama.show(id);
         this.stage.setView('diorama');
         try {
-          await loadBank(id);
+          await Promise.all([loadBank(id), loadExtras(id)]);
         } catch {
           this.toast('Couldn’t load the questions. Check your connection and visit again.');
         }
@@ -531,38 +538,49 @@ export class App {
   // ---------- quiz ----------
 
   private startQuiz(country: CountryId, topic: TopicId, level: LevelId): void {
-    const questions = buildQuiz(questionsFor(country, topic), Math.random, {
+    const mcqs = buildQuiz(questionsFor(country, topic), Math.random, {
       mix: LEVEL_BY_ID[level].mix,
       seen: seenSet(this.save, country, topic),
     });
-    // Remember these so the next attempt leads with questions the player hasn't met.
-    this.save = markSeen(this.save, country, topic, questions.map((q) => q.id));
+    const extras = extrasFor(country);
+    const questions = assembleQuiz({
+      mcqs,
+      country,
+      topic,
+      level,
+      timeline: extras.timeline,
+      places: extras.places,
+      view: COUNTRY_BY_ID[country].mapView,
+      allCountries: COUNTRIES.map((c) => c.id),
+      rng: Math.random,
+    });
+    // Remember the written questions so the next attempt leads with ones the player hasn't met.
+    const ids = questions.filter((q) => q.kind === 'mcq' || q.kind === 'tf').map((q) => q.id);
+    this.save = markSeen(this.save, country, topic, ids);
     this.persist();
-    this.quiz = { country, topic, level, questions, index: 0, correct: 0, wrong: 0, answered: null };
+    this.quiz = { country, topic, level, questions, results: [], index: 0, correct: 0, wrong: 0, answered: false };
     this.renderQuestion();
   }
 
   private renderQuestion(): void {
     const qz = this.quiz!;
-    const q = qz.questions[qz.index];
+    const item = qz.questions[qz.index];
     const t = TOPIC_BY_ID[qz.topic];
     const c = COUNTRY_BY_ID[qz.country];
     const total = qz.questions.length;
-    const spare = sparesLeft(qz.wrong, total);
     const pips = qz.questions.map(() => '<span class="pip"></span>').join('');
+    const asOf = 'asOf' in item && item.asOf ? ` <span class="asof">as of ${esc(item.asOf)}</span>` : '';
+    const kindTag = { mcq: '', tf: '⚡ Quick call', order: '🗓️ Timeline', pin: '📍 Map', landmark: '🏝️ Spot the landmark' }[item.kind];
     const el = this.mount(
-      `<section class="quiz panel" style="--c:${t.color}">
+      `<section class="quiz panel kind-${item.kind}" style="--c:${t.color}">
         <div class="quiz-top">
           <span class="chip" style="--c:${t.color}">${t.icon} ${t.label} · ${c.flag} ${esc(c.name)}</span>
           <span class="chip level-chip" style="--c:${LEVEL_BY_ID[qz.level].color}">${LEVEL_BY_ID[qz.level].icon} ${LEVEL_BY_ID[qz.level].label}</span>
-          <span class="spares" title="Misses you can still afford">${spare > 0 ? '🎟️'.repeat(spare) + ` ${spare} spare` : spare === 0 ? '⚠️ No misses left' : '❌'}</span>
+          <span class="spares" title="Misses you can still afford">${sparesLabel(sparesLeft(qz.wrong, total))}</span>
         </div>
         <div class="pips">${pips}</div>
-        <p class="q-count">Question ${qz.index + 1} of ${total}${q.asOf ? ` <span class="asof">as of ${esc(q.asOf)}</span>` : ''}</p>
-        <h3 class="question">${esc(q.q)}</h3>
-        <div class="answers">
-          ${q.choices.map((ch, i) => `<button class="answer" data-i="${i}"><kbd>${i + 1}</kbd><span>${esc(ch)}</span></button>`).join('')}
-        </div>
+        <p class="q-count">Question ${qz.index + 1} of ${total}${kindTag ? ` <span class="kind-tag">${kindTag}</span>` : ''}${asOf}</p>
+        ${this.questionBody(item)}
         <div class="postcard" hidden></div>
         <div class="quiz-foot">
           <button class="btn ghost small" data-act="quit">Leave quiz</button>
@@ -572,47 +590,174 @@ export class App {
       'screen-quiz',
     );
     this.paintPips();
+    if (item.kind === 'pin') this.mountPin(item);
+
+    const order: number[] = [];
     el.onclick = (e) => {
       const tgt = e.target as HTMLElement;
       if (tgt.closest('[data-act="quit"]')) return this.showLevels(qz.country, qz.topic);
       if (tgt.closest('[data-act="next"]')) return this.nextQuestion();
-      const a = tgt.closest<HTMLElement>('.answer');
-      if (a) this.answer(Number(a.dataset.i));
+      if (qz.answered) return;
+      if (item.kind === 'mcq') {
+        const a = tgt.closest<HTMLElement>('[data-i]');
+        if (a) this.answerChoice(Number(a.dataset.i));
+      } else if (item.kind === 'tf') {
+        const a = tgt.closest<HTMLElement>('[data-tf]');
+        if (a) this.answerTrueFalse(a.dataset.tf === '1');
+      } else if (item.kind === 'landmark') {
+        const a = tgt.closest<HTMLElement>('[data-lm]');
+        if (a) this.answerLandmark(Number(a.dataset.lm));
+      } else if (item.kind === 'order') {
+        if (tgt.closest('[data-act="lock"]')) return this.answerOrder(order);
+        const o = tgt.closest<HTMLElement>('[data-o]');
+        if (!o) return;
+        const idx = Number(o.dataset.o);
+        // Tap to number in order; tapping the last-numbered item undoes it.
+        if (order.at(-1) === idx) order.pop();
+        else if (!order.includes(idx)) order.push(idx);
+        this.paintOrder(order);
+        sfx.click();
+      }
     };
     this.setKeys((e) => {
-      if (qz.answered === null && /^[1-4]$/.test(e.key)) this.answer(Number(e.key) - 1);
-      else if (qz.answered !== null && (e.key === 'Enter' || e.key === ' ')) {
-        e.preventDefault();
-        this.nextQuestion();
+      if (qz.answered) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          this.nextQuestion();
+        }
+        return;
       }
+      if (item.kind === 'mcq' && /^[1-4]$/.test(e.key)) this.answerChoice(Number(e.key) - 1);
+      if (item.kind === 'tf' && /^[tf12]$/i.test(e.key)) this.answerTrueFalse(/^[t1]$/i.test(e.key));
+      if (item.kind === 'landmark' && /^[1-4]$/.test(e.key)) this.answerLandmark(Number(e.key) - 1);
     });
+  }
+
+  private questionBody(item: QuizItem): string {
+    const c = COUNTRY_BY_ID[this.quiz!.country];
+    switch (item.kind) {
+      case 'mcq':
+        return `<h3 class="question">${esc(item.q)}</h3>
+          <div class="answers">${item.choices.map((ch, i) => `<button class="answer" data-i="${i}"><kbd>${i + 1}</kbd><span>${esc(ch)}</span></button>`).join('')}</div>`;
+      case 'tf':
+        return `<h3 class="question">${esc(item.q)}</h3>
+          <p class="tf-claim">Is it <strong>${esc(item.claim)}</strong>?</p>
+          <div class="answers tf-answers">
+            <button class="answer tf-btn yes" data-tf="1"><kbd>T</kbd><span>✔ True</span></button>
+            <button class="answer tf-btn no" data-tf="0"><kbd>F</kbd><span>✘ False</span></button>
+          </div>`;
+      case 'order':
+        return `<h3 class="question">Put these in order, oldest first</h3>
+          <p class="sub hint-line">Tap them one by one. Tap the last one again to undo.</p>
+          <div class="order-list">${item.events.map((ev, i) => `<button class="order-item" data-o="${i}"><span class="order-num"></span><span class="order-text">${esc(ev.event)}</span><span class="order-year"></span></button>`).join('')}</div>
+          <button class="btn primary wide lock-btn" data-act="lock" disabled>Lock in my order</button>`;
+      case 'pin':
+        return `<h3 class="question">Tap where <strong>${esc(item.place.name)}</strong> is</h3>
+          <p class="sub hint-line">${placeKind(item.place.kind)} in ${esc(c.name)} · within ${item.radiusKm} km counts</p>
+          <div class="pin-map"></div>`;
+      case 'landmark':
+        return `<h3 class="question">Which of these landmarks is in ${esc(c.name)}?</h3>
+          <div class="lm-grid">${item.options.map((id, i) => `<button class="lm-opt" data-lm="${i}" aria-label="Landmark ${i + 1}"><img src="${landmarkThumb(id)}" alt="" /><span class="lm-name"><kbd>${i + 1}</kbd></span></button>`).join('')}</div>`;
+    }
+  }
+
+  private mountPin(item: Extract<QuizItem, { kind: 'pin' }>): void {
+    const host = $(this.screen, '.pin-map');
+    const map = mountPinMap(host, COUNTRY_BY_ID[this.quiz!.country], (guess) => {
+      if (this.quiz!.answered) return;
+      const d = Math.round(distanceKm(guess, item.place));
+      const right = d <= item.radiusKm;
+      map.reveal(item.place, guess, item.radiusKm, right);
+      this.resolve(right, `${right ? `Only ${d} km away!` : `${d} km away.`} ${item.place.clue}`);
+    });
+  }
+
+  private paintOrder(order: number[]): void {
+    this.screen.querySelectorAll<HTMLElement>('.order-item').forEach((el) => {
+      const pos = order.indexOf(Number(el.dataset.o));
+      el.classList.toggle('picked', pos >= 0);
+      el.querySelector('.order-num')!.textContent = pos >= 0 ? String(pos + 1) : '';
+    });
+    const item = this.quiz!.questions[this.quiz!.index];
+    $<HTMLButtonElement>(this.screen, '.lock-btn').disabled = item.kind !== 'order' || order.length !== item.events.length;
   }
 
   private paintPips(): void {
     const qz = this.quiz!;
     this.screen.querySelectorAll<HTMLElement>('.pip').forEach((p, i) => {
-      const res = qz.questions[i] as QuizQuestion & { result?: boolean };
-      p.className = 'pip' + (res.result === true ? ' ok' : res.result === false ? ' bad' : '') + (i === qz.index ? ' now' : '');
+      const res = qz.results[i];
+      p.className = 'pip' + (res === true ? ' ok' : res === false ? ' bad' : '') + (i === qz.index ? ' now' : '');
     });
   }
 
-  private answer(i: number): void {
+  private answerChoice(i: number): void {
+    const item = this.quiz!.questions[this.quiz!.index];
+    if (item.kind !== 'mcq') return;
+    const right = i === item.correctIndex;
+    this.screen.querySelectorAll<HTMLButtonElement>('.answer').forEach((b, k) => {
+      if (k === item.correctIndex) b.classList.add('correct');
+      else if (k === i) b.classList.add('wrong');
+    });
+    this.resolve(right, item.fact);
+  }
+
+  private answerTrueFalse(saysTrue: boolean): void {
+    const item = this.quiz!.questions[this.quiz!.index];
+    if (item.kind !== 'tf') return;
+    const right = saysTrue === item.truth;
+    this.screen.querySelectorAll<HTMLButtonElement>('.tf-btn').forEach((b) => {
+      const isTrueBtn = b.dataset.tf === '1';
+      if (isTrueBtn === item.truth) b.classList.add('correct');
+      else if (isTrueBtn === saysTrue) b.classList.add('wrong');
+    });
+    const lead = item.truth ? `Yes, it’s ${item.answer}.` : `No, it’s ${item.answer}, not ${item.claim}.`;
+    this.resolve(right, `${lead} ${item.fact}`);
+  }
+
+  private answerLandmark(i: number): void {
+    const item = this.quiz!.questions[this.quiz!.index];
+    if (item.kind !== 'landmark') return;
+    const right = item.options[i] === item.answer;
+    this.screen.querySelectorAll<HTMLButtonElement>('.lm-opt').forEach((b, k) => {
+      const cc = COUNTRY_BY_ID[item.options[k]];
+      b.querySelector('.lm-name')!.innerHTML = `${cc.flag} ${esc(cc.landmark)}`;
+      if (item.options[k] === item.answer) b.classList.add('correct');
+      else if (k === i) b.classList.add('wrong');
+    });
+    const c = COUNTRY_BY_ID[item.answer];
+    this.resolve(right, `${c.flag} ${c.landmark} is ${c.name}’s landmark on this journey.`);
+  }
+
+  private answerOrder(order: number[]): void {
+    const item = this.quiz!.questions[this.quiz!.index];
+    if (item.kind !== 'order' || order.length !== item.events.length) return;
+    const right = isChronological(item, order);
+    const sorted = item.events.map((_, i) => i).sort((a, b) => item.events[a].year - item.events[b].year);
+    this.screen.querySelectorAll<HTMLElement>('.order-item').forEach((el) => {
+      const idx = Number(el.dataset.o);
+      const ev = item.events[idx];
+      el.querySelector('.order-year')!.textContent = ev.label;
+      el.classList.add(order.indexOf(idx) === sorted.indexOf(idx) ? 'correct' : 'wrong');
+    });
+    // Show the true order by re-sorting the list.
+    const list = $(this.screen, '.order-list');
+    sorted.forEach((idx) => list.appendChild(list.querySelector(`[data-o="${idx}"]`)!));
+    $<HTMLButtonElement>(this.screen, '.lock-btn').hidden = true;
+    this.resolve(right, right ? 'Perfect chronology! Every event is in its place.' : 'Here’s the real order, oldest at the top.');
+  }
+
+  /** Shared ending for every round type: score it, show the postcard and the Next button. */
+  private resolve(right: boolean, fact: string): void {
     const qz = this.quiz!;
-    if (qz.answered !== null) return;
-    qz.answered = i;
-    const q = qz.questions[qz.index] as QuizQuestion & { result?: boolean };
-    const right = i === q.correctIndex;
-    q.result = right;
+    if (qz.answered) return;
+    qz.answered = true;
+    qz.results[qz.index] = right;
     if (right) qz.correct++;
     else qz.wrong++;
     right ? sfx.correct() : sfx.wrong();
     if (right) this.stage.diorama.celebrate([TOPIC_BY_ID[qz.topic].color, COUNTRY_BY_ID[qz.country].color, '#ffffff'], 30);
 
-    this.screen.querySelectorAll<HTMLButtonElement>('.answer').forEach((b, k) => {
-      b.disabled = true;
-      if (k === q.correctIndex) b.classList.add('correct');
-      else if (k === i) b.classList.add('wrong');
-    });
+    this.screen.querySelectorAll<HTMLButtonElement>('.answer, .lm-opt, .order-item').forEach((b) => (b.disabled = true));
     this.paintPips();
     const total = qz.questions.length;
     const spare = sparesLeft(qz.wrong, total);
@@ -623,10 +768,10 @@ export class App {
       <div class="pc-stamp">${right ? '✔' : '✘'}</div>
       <div class="pc-body">
         <strong>${right ? pick(['Brilliant!', 'Spot on!', 'Correct!', 'Nailed it!']) : 'Not quite.'}</strong>
-        <p>${esc(q.fact)}</p>
+        <p>${esc(fact)}</p>
       </div>
       <button class="btn primary" data-act="next">${last ? (spare < 0 ? 'See result' : 'Finish') : 'Next →'}</button>`;
-    $(this.screen, '.spares').innerHTML = spare > 0 ? '🎟️'.repeat(spare) + ` ${spare} spare` : spare === 0 ? '⚠️ No misses left' : '❌ Target missed';
+    $(this.screen, '.spares').innerHTML = sparesLabel(spare);
     $<HTMLButtonElement>(pc, 'button').focus({ preventScroll: true });
     pc.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   }
@@ -636,7 +781,7 @@ export class App {
     const total = qz.questions.length;
     if (qz.index === total - 1 || sparesLeft(qz.wrong, total) < 0) return this.finishQuiz();
     qz.index++;
-    qz.answered = null;
+    qz.answered = false;
     this.renderQuestion();
   }
 
@@ -742,6 +887,14 @@ export class App {
 }
 
 // ---------- small utilities ----------
+
+function sparesLabel(spare: number): string {
+  return spare > 0 ? '🎟️'.repeat(spare) + ` ${spare} spare` : spare === 0 ? '⚠️ No misses left' : '❌ Target missed';
+}
+
+function placeKind(kind: string): string {
+  return { city: '🏙️ A city', landmark: '🏛️ A landmark', nature: '🏞️ A natural wonder', historic: '📜 A historic site' }[kind] ?? 'A place';
+}
 
 /** Three medal pips (bronze, silver, gold) for one subject, filled when earned. */
 function medalRow(j: Journey, country: CountryId, topic: TopicId): string {

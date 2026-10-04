@@ -1,0 +1,39 @@
+{
+  "country": "egypt",
+  "timeline": [
+    { "event": "Upper and Lower Egypt are unified under the first pharaohs", "year": -3100, "label": "c. 3100 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Djoser's Step Pyramid rises at Saqqara", "year": -2670, "label": "c. 2670 BCE", "approx": true, "difficulty": 3 },
+    { "event": "Construction of the Great Pyramid of Giza is completed", "year": -2560, "label": "c. 2560 BCE", "approx": true, "difficulty": 1 },
+    { "event": "Hatshepsut takes the throne as pharaoh", "year": -1479, "label": "c. 1479 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Ramesses II fights the Hittites at the Battle of Kadesh", "year": -1274, "label": "c. 1274 BCE", "approx": true, "difficulty": 3 },
+    { "event": "Alexander the Great founds Alexandria", "year": -331, "label": "331 BCE", "difficulty": 1 },
+    { "event": "Cleopatra VII dies and Egypt becomes a Roman province", "year": -30, "label": "30 BCE", "difficulty": 1 },
+    { "event": "The Fatimids found the city of Cairo", "year": 969, "label": "969", "difficulty": 2 },
+    { "event": "Saladin ends Fatimid rule and founds the Ayyubid dynasty", "year": 1171, "label": "1171", "difficulty": 3 },
+    { "event": "The Ottoman Empire conquers Egypt", "year": 1517, "label": "1517", "difficulty": 2 },
+    { "event": "Napoleon's French army lands in Egypt", "year": 1798, "label": "1798", "difficulty": 1 },
+    { "event": "Champollion announces his decipherment of hieroglyphs", "year": 1822, "label": "1822", "difficulty": 2 },
+    { "event": "The Suez Canal opens", "year": 1869, "label": "1869", "difficulty": 1 },
+    { "event": "British forces occupy Egypt", "year": 1882, "label": "1882", "difficulty": 2 },
+    { "event": "Howard Carter discovers Tutankhamun's tomb", "year": 1922, "label": "1922", "difficulty": 1 },
+    { "event": "The Free Officers' revolution ends the monarchy", "year": 1952, "label": "1952", "difficulty": 2 },
+    { "event": "Nasser nationalises the Suez Canal", "year": 1956, "label": "1956", "difficulty": 1 },
+    { "event": "Construction of the Aswan High Dam is completed", "year": 1970, "label": "1970", "difficulty": 1 },
+    { "event": "Naguib Mahfouz wins the Nobel Prize in Literature", "year": 1988, "label": "1988", "difficulty": 2 },
+    { "event": "The new Bibliotheca Alexandrina opens", "year": 2002, "label": "2002", "difficulty": 3 }
+  ],
+  "places": [
+    { "name": "Pyramids of Giza", "kind": "landmark", "lat": 29.98, "lon": 31.13, "clue": "The Great Pyramid was the tallest human-made structure on Earth for nearly 4,000 years.", "difficulty": 1 },
+    { "name": "Alexandria", "kind": "city", "lat": 31.20, "lon": 29.92, "clue": "Its ancient lighthouse, the Pharos, was one of the Seven Wonders of the Ancient World.", "difficulty": 1 },
+    { "name": "Luxor", "kind": "city", "lat": 25.69, "lon": 32.64, "clue": "Ancient Thebes: across the Nile lies the Valley of the Kings, where Tutankhamun was buried.", "difficulty": 1 },
+    { "name": "Abu Simbel", "kind": "historic", "lat": 22.34, "lon": 31.63, "clue": "Ramesses II's colossal temples were cut into blocks and moved uphill in the 1960s to escape the rising waters of Lake Nasser.", "difficulty": 1 },
+    { "name": "Aswan", "kind": "city", "lat": 24.09, "lon": 32.90, "clue": "Its granite quarries supplied ancient obelisks, and an unfinished one still lies cracked in the bedrock.", "difficulty": 1 },
+    { "name": "Siwa Oasis", "kind": "nature", "lat": 29.20, "lon": 25.52, "clue": "Alexander the Great crossed the desert to consult the oracle of Amun at this remote oasis near the Libyan border.", "difficulty": 2 },
+    { "name": "Mount Sinai", "kind": "nature", "lat": 28.54, "lon": 33.98, "clue": "At its foot stands Saint Catherine's Monastery, one of the oldest working Christian monasteries in the world.", "difficulty": 2 },
+    { "name": "Port Said", "kind": "city", "lat": 31.26, "lon": 32.30, "clue": "Founded in 1859 to house the workers digging the Suez Canal, it guards the canal's northern entrance.", "difficulty": 2 },
+    { "name": "Hurghada", "kind": "city", "lat": 27.26, "lon": 33.81, "clue": "Once a small fishing village, it grew into one of the Red Sea's busiest diving and beach resorts.", "difficulty": 2 },
+    { "name": "Abydos", "kind": "historic", "lat": 26.18, "lon": 31.92, "clue": "The Temple of Seti I here holds the Abydos King List, a carved roll call of dozens of earlier pharaohs.", "difficulty": 3 },
+    { "name": "Wadi Al-Hitan", "kind": "nature", "lat": 29.27, "lon": 30.04, "clue": "Fossil skeletons of ancient whales, complete with tiny hind legs, lie across this desert valley that was once a seabed.", "difficulty": 3 },
+    { "name": "Kharga Oasis", "kind": "nature", "lat": 25.44, "lon": 30.55, "clue": "Its Temple of Hibis, dedicated to Amun, is one of the best-preserved temples from Egypt's Persian period.", "difficulty": 3 }
+  ]
+}

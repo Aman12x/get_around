@@ -42,6 +42,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* The hidden attribute must win over component display rules (grid, flex…). */
+[hidden] {
+  display: none !important;
+}
+
 button {
   font: inherit;
   color: inherit;
@@ -1703,4 +1708,207 @@ h2 {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
+}
+
+/* ---------- Round types ---------- */
+
+.kind-tag {
+  margin-left: 6px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--c) 30%, transparent);
+  color: var(--ink);
+  font-size: 11px;
+}
+
+.hint-line {
+  margin: -8px 0 12px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+/* True / false */
+
+.tf-claim {
+  margin: -4px 0 14px;
+  font-size: 18px;
+}
+
+.tf-claim strong {
+  font-family: var(--display);
+  font-size: 22px;
+  color: var(--yellow);
+}
+
+.tf-answers {
+  grid-template-columns: 1fr 1fr;
+}
+
+.tf-btn {
+  justify-content: center;
+  font-size: 18px;
+  padding: 16px;
+}
+
+.tf-btn.yes:hover:not(:disabled) {
+  border-color: var(--good);
+  background: color-mix(in srgb, var(--good) 20%, transparent);
+}
+
+.tf-btn.no:hover:not(:disabled) {
+  border-color: var(--bad);
+  background: color-mix(in srgb, var(--bad) 20%, transparent);
+}
+
+/* Timeline */
+
+.order-list {
+  display: grid;
+  gap: 8px;
+}
+
+.order-item {
+  display: grid;
+  grid-template-columns: 30px 1fr auto;
+  align-items: center;
+  gap: 10px;
+  text-align: left;
+  padding: 12px;
+  border-radius: 14px;
+  border: 2px dashed rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.06);
+  font-weight: 700;
+  transition:
+    transform 0.15s,
+    border-color 0.15s;
+}
+
+.order-item:hover:not(:disabled) {
+  transform: translateX(3px);
+  border-color: var(--c);
+}
+
+.order-num {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-family: var(--display);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.order-item.picked {
+  border-style: solid;
+  border-color: var(--c);
+  background: color-mix(in srgb, var(--c) 18%, transparent);
+}
+
+.order-item.picked .order-num {
+  background: var(--c);
+  border-color: var(--c);
+  color: #1b1145;
+}
+
+.order-year {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--yellow);
+}
+
+.order-item.correct {
+  border: 2px solid var(--good);
+  background: color-mix(in srgb, var(--good) 22%, transparent);
+}
+
+.order-item.wrong {
+  border: 2px solid var(--bad);
+  background: color-mix(in srgb, var(--bad) 18%, transparent);
+}
+
+.lock-btn {
+  margin-top: 12px;
+}
+
+.lock-btn:disabled {
+  opacity: 0.45;
+  transform: none;
+  filter: grayscale(0.6);
+}
+
+/* Map pin */
+
+.pin-map {
+  display: grid;
+  place-items: center;
+  min-height: 160px;
+}
+
+.pin-canvas {
+  border-radius: 14px;
+  border: 2px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+  cursor: crosshair;
+  max-width: 100%;
+  touch-action: manipulation;
+}
+
+/* Spot the landmark */
+
+.lm-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.lm-opt {
+  position: relative;
+  padding: 0;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  background: radial-gradient(circle at 50% 35%, color-mix(in srgb, var(--c) 35%, #fff3), rgba(255, 255, 255, 0.04) 70%);
+  aspect-ratio: 1;
+  transition:
+    transform 0.15s,
+    border-color 0.15s;
+}
+
+.lm-opt:hover:not(:disabled) {
+  transform: scale(1.03);
+  border-color: var(--c);
+}
+
+.lm-opt img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.lm-name {
+  position: absolute;
+  left: 6px;
+  right: 6px;
+  bottom: 6px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: rgba(15, 10, 45, 0.75);
+  font-size: 12px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.lm-name kbd {
+  font-family: var(--mono);
+}
+
+.lm-opt.correct {
+  border-color: var(--good);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--good) 50%, transparent);
+}
+
+.lm-opt.wrong {
+  border-color: var(--bad);
+  opacity: 0.75;
 }

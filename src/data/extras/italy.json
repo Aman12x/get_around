@@ -1,0 +1,39 @@
+{
+  "country": "italy",
+  "timeline": [
+    { "event": "Rome is founded, according to tradition, by Romulus", "year": -753, "label": "c. 753 BCE", "approx": true, "difficulty": 1 },
+    { "event": "Hannibal leads his army and elephants across the Alps", "year": -218, "label": "218 BCE", "difficulty": 2 },
+    { "event": "Julius Caesar is assassinated in the Roman Senate", "year": -44, "label": "44 BCE", "difficulty": 1 },
+    { "event": "Octavian takes the title Augustus, becoming the first Roman emperor", "year": -27, "label": "27 BCE", "difficulty": 1 },
+    { "event": "Mount Vesuvius erupts, burying Pompeii", "year": 79, "label": "79 CE", "difficulty": 1 },
+    { "event": "Odoacer deposes Romulus Augustulus, last emperor in the West", "year": 476, "label": "476", "difficulty": 2 },
+    { "event": "Construction of the Leaning Tower of Pisa begins", "year": 1173, "label": "1173", "difficulty": 2 },
+    { "event": "Marco Polo sets out from Venice on his journey to China", "year": 1271, "label": "1271", "difficulty": 3 },
+    { "event": "Brunelleschi's dome of Florence Cathedral is completed", "year": 1436, "label": "1436", "difficulty": 3 },
+    { "event": "Michelangelo finishes painting the Sistine Chapel ceiling", "year": 1512, "label": "1512", "difficulty": 2 },
+    { "event": "Pope Gregory XIII introduces the Gregorian calendar", "year": 1582, "label": "1582", "difficulty": 3 },
+    { "event": "Galileo is put on trial by the Roman Inquisition", "year": 1633, "label": "1633", "difficulty": 2 },
+    { "event": "The Kingdom of Italy is proclaimed", "year": 1861, "label": "1861", "difficulty": 1 },
+    { "event": "Mussolini's Fascists stage the March on Rome", "year": 1922, "label": "1922", "difficulty": 2 },
+    { "event": "The Lateran Treaty creates the independent Vatican City", "year": 1929, "label": "1929", "difficulty": 3 },
+    { "event": "Italians vote in a referendum to become a republic", "year": 1946, "label": "1946", "difficulty": 2 },
+    { "event": "The Treaty of Rome founds the European Economic Community", "year": 1957, "label": "1957", "difficulty": 2 },
+    { "event": "Rome hosts the Summer Olympic Games", "year": 1960, "label": "1960", "difficulty": 1 },
+    { "event": "Euro notes and coins replace the Italian lira", "year": 2002, "label": "2002", "difficulty": 1 },
+    { "event": "Italy wins its fourth football World Cup in Berlin", "year": 2006, "label": "2006", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Rome", "kind": "city", "lat": 41.90, "lon": 12.50, "clue": "Fittingly for the Eternal City, it surrounds an entire country: Vatican City, the world's smallest state.", "difficulty": 1 },
+    { "name": "Venice", "kind": "city", "lat": 45.44, "lon": 12.32, "clue": "Built on more than 100 small islands in a lagoon, it is stitched together by some 400 bridges.", "difficulty": 1 },
+    { "name": "Florence", "kind": "city", "lat": 43.77, "lon": 11.26, "clue": "Brunelleschi's cathedral dome here is still the largest brick dome ever built.", "difficulty": 1 },
+    { "name": "Milan", "kind": "city", "lat": 45.46, "lon": 9.19, "clue": "Leonardo da Vinci's Last Supper is painted on the refectory wall of a convent in this city.", "difficulty": 1 },
+    { "name": "Pompeii", "kind": "historic", "lat": 40.75, "lon": 14.49, "clue": "Buried by Vesuvius in 79 CE, this Roman town lay preserved under ash for some 1,500 years before its rediscovery.", "difficulty": 1 },
+    { "name": "Mount Etna", "kind": "nature", "lat": 37.75, "lon": 14.99, "clue": "Europe's tallest active volcano erupts so often that its height keeps changing.", "difficulty": 2 },
+    { "name": "Cinque Terre", "kind": "landmark", "lat": 44.13, "lon": 9.68, "clue": "Five colourful fishing villages cling to these Ligurian cliffs, linked by footpaths and a coastal railway.", "difficulty": 2 },
+    { "name": "Tre Cime di Lavaredo", "kind": "nature", "lat": 46.62, "lon": 12.30, "clue": "These three limestone towers in the Dolomites stood on the front line between Italy and Austria in the First World War.", "difficulty": 2 },
+    { "name": "Matera", "kind": "city", "lat": 40.67, "lon": 16.60, "clue": "Its ancient cave dwellings, the Sassi, were evacuated in the 1950s, yet it became a European Capital of Culture in 2019.", "difficulty": 2 },
+    { "name": "Aosta", "kind": "city", "lat": 45.74, "lon": 7.32, "clue": "Its Roman gate, theatre and walls have earned this Alpine town the nickname 'Rome of the Alps'.", "difficulty": 3 },
+    { "name": "Lecce", "kind": "city", "lat": 40.35, "lon": 18.17, "clue": "Its exuberant Baroque churches, carved from soft golden local stone, earn it the nickname 'Florence of the South'.", "difficulty": 3 },
+    { "name": "Su Nuraxi di Barumini", "kind": "historic", "lat": 39.71, "lon": 8.99, "clue": "This Bronze Age stone fortress is the finest surviving example of Sardinia's thousands of cone-shaped nuraghe towers.", "difficulty": 3 }
+  ]
+}

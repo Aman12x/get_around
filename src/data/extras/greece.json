@@ -1,0 +1,39 @@
+{
+  "country": "greece",
+  "timeline": [
+    { "event": "The first recorded Olympic Games are held at Olympia", "year": -776, "label": "c. 776 BCE", "approx": true, "difficulty": 1 },
+    { "event": "Athenians defeat the Persian invaders at Marathon", "year": -490, "label": "490 BCE", "difficulty": 1 },
+    { "event": "King Leonidas and his Spartans make their stand at Thermopylae", "year": -480, "label": "480 BCE", "difficulty": 1 },
+    { "event": "Construction of the Parthenon begins on the Acropolis", "year": -447, "label": "447 BCE", "difficulty": 1 },
+    { "event": "The philosopher Socrates is sentenced to death in Athens", "year": -399, "label": "399 BCE", "difficulty": 2 },
+    { "event": "Alexander the Great becomes king of Macedon", "year": -336, "label": "336 BCE", "difficulty": 1 },
+    { "event": "Roman legions sack and destroy Corinth", "year": -146, "label": "146 BCE", "difficulty": 3 },
+    { "event": "Octavian defeats Antony and Cleopatra at the Battle of Actium", "year": -31, "label": "31 BCE", "difficulty": 2 },
+    { "event": "Emperor Justinian closes the philosophical schools of Athens", "year": 529, "label": "529", "difficulty": 3 },
+    { "event": "The Ottomans capture Thessaloniki from Venice", "year": 1430, "label": "1430", "difficulty": 2 },
+    { "event": "A Holy League fleet crushes the Ottoman navy at Lepanto", "year": 1571, "label": "1571", "difficulty": 2 },
+    { "event": "A Venetian shell blows up the Parthenon, then an Ottoman gunpowder store", "year": 1687, "label": "1687", "difficulty": 3 },
+    { "event": "The Greek War of Independence begins", "year": 1821, "label": "1821", "difficulty": 1 },
+    { "event": "Athens replaces Nafplio as the capital of Greece", "year": 1834, "label": "1834", "difficulty": 2 },
+    { "event": "Athens hosts the first modern Olympic Games", "year": 1896, "label": "1896", "difficulty": 1 },
+    { "event": "Crete is formally united with Greece", "year": 1913, "label": "1913", "difficulty": 3 },
+    { "event": "German forces occupy Athens", "year": 1941, "label": "1941", "difficulty": 2 },
+    { "event": "A group of army colonels seizes power in a military coup", "year": 1967, "label": "1967", "difficulty": 2 },
+    { "event": "Greece joins the European Economic Community", "year": 1981, "label": "1981", "difficulty": 2 },
+    { "event": "The Olympic Games return to Athens", "year": 2004, "label": "2004", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Athens", "kind": "city", "lat": 37.98, "lon": 23.73, "clue": "The marble Parthenon has crowned its Acropolis hill since the 5th century BCE.", "difficulty": 1 },
+    { "name": "Santorini", "kind": "nature", "lat": 36.42, "lon": 25.43, "clue": "Its whitewashed villages cling to the rim of a flooded caldera left by a colossal Bronze Age eruption.", "difficulty": 1 },
+    { "name": "Thessaloniki", "kind": "city", "lat": 40.64, "lon": 22.94, "clue": "Greece's second city was the birthplace of Mustafa Kemal Atatürk, founder of modern Turkey.", "difficulty": 1 },
+    { "name": "Meteora", "kind": "landmark", "lat": 39.72, "lon": 21.63, "clue": "Monks built monasteries atop these towering rock pillars, once reachable only by ladders or nets hauled up by rope.", "difficulty": 1 },
+    { "name": "Mount Olympus", "kind": "nature", "lat": 40.09, "lon": 22.36, "clue": "Greece's highest peak, at about 2,918 metres, was the mythical home of the twelve Olympian gods.", "difficulty": 1 },
+    { "name": "Delphi", "kind": "historic", "lat": 38.48, "lon": 22.50, "clue": "Ancient Greeks considered this mountainside sanctuary of Apollo, home of the famous oracle, the navel of the world.", "difficulty": 2 },
+    { "name": "Knossos", "kind": "historic", "lat": 35.30, "lon": 25.16, "clue": "Legend placed the Minotaur's labyrinth in this sprawling Bronze Age palace of the Minoans on Crete.", "difficulty": 2 },
+    { "name": "Olympia", "kind": "historic", "lat": 37.64, "lon": 21.63, "clue": "This sanctuary of Zeus hosted the ancient Olympic Games, and the modern Olympic flame is still lit here.", "difficulty": 2 },
+    { "name": "Corfu", "kind": "city", "lat": 39.62, "lon": 19.92, "clue": "Venice held this Ionian island for four centuries, and Ottoman sieges never managed to capture it.", "difficulty": 2 },
+    { "name": "Mystras", "kind": "historic", "lat": 37.07, "lon": 22.37, "clue": "This hillside Byzantine city near Sparta was among the last great centres of Byzantine learning.", "difficulty": 3 },
+    { "name": "Mount Athos", "kind": "nature", "lat": 40.16, "lon": 24.33, "clue": "Twenty Orthodox monasteries share this peninsula, where women have been barred from setting foot for about a thousand years.", "difficulty": 3 },
+    { "name": "Vikos Gorge", "kind": "nature", "lat": 39.93, "lon": 20.74, "clue": "Guinness World Records once listed this Epirus canyon as the world's deepest gorge in proportion to its width.", "difficulty": 3 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "country": "china",
+  "timeline": [
+    { "event": "The Zhou dynasty overthrows the Shang", "year": -1046, "label": "c. 1046 BCE", "approx": true, "difficulty": 3 },
+    { "event": "Confucius is born in the state of Lu", "year": -551, "label": "c. 551 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Qin Shi Huang unifies China and becomes its first emperor", "year": -221, "label": "221 BCE", "difficulty": 1 },
+    { "event": "Cai Lun presents his improved method of making paper", "year": 105, "label": "105 CE", "difficulty": 3 },
+    { "event": "The Tang dynasty is founded", "year": 618, "label": "618", "difficulty": 2 },
+    { "event": "The Diamond Sutra, the oldest known dated printed book, is made", "year": 868, "label": "868", "difficulty": 3 },
+    { "event": "Zhao Kuangyin founds the Song dynasty", "year": 960, "label": "960", "difficulty": 2 },
+    { "event": "Kublai Khan proclaims the Yuan dynasty", "year": 1271, "label": "1271", "difficulty": 2 },
+    { "event": "Zhu Yuanzhang founds the Ming dynasty", "year": 1368, "label": "1368", "difficulty": 2 },
+    { "event": "Zheng He sets sail on the first of his treasure voyages", "year": 1405, "label": "1405", "difficulty": 2 },
+    { "event": "Construction of Beijing's Forbidden City is completed", "year": 1420, "label": "1420", "difficulty": 1 },
+    { "event": "Qing forces enter Beijing as the Ming dynasty falls", "year": 1644, "label": "1644", "difficulty": 2 },
+    { "event": "The First Opium War begins", "year": 1839, "label": "1839", "difficulty": 1 },
+    { "event": "The Republic of China is proclaimed, ending imperial rule", "year": 1912, "label": "1912", "difficulty": 1 },
+    { "event": "The Communist Red Army sets out on the Long March", "year": 1934, "label": "1934", "difficulty": 2 },
+    { "event": "The People's Republic of China is proclaimed", "year": 1949, "label": "1949", "difficulty": 1 },
+    { "event": "Farmers digging a well uncover the Terracotta Army", "year": 1974, "label": "1974", "difficulty": 1 },
+    { "event": "Hong Kong is handed over from Britain to China", "year": 1997, "label": "1997", "difficulty": 1 },
+    { "event": "Yang Liwei becomes China's first astronaut in space", "year": 2003, "label": "2003", "difficulty": 3 },
+    { "event": "Beijing hosts the Summer Olympic Games", "year": 2008, "label": "2008", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Forbidden City, Beijing", "kind": "landmark", "lat": 39.92, "lon": 116.39, "clue": "For nearly 500 years this vast palace was home to 24 Ming and Qing emperors and closed to ordinary people.", "difficulty": 1 },
+    { "name": "The Bund, Shanghai", "kind": "landmark", "lat": 31.24, "lon": 121.49, "clue": "This riverside promenade of colonial-era banks faces the futuristic skyline of Pudong across the Huangpu River.", "difficulty": 1 },
+    { "name": "Terracotta Army", "kind": "historic", "lat": 34.38, "lon": 109.27, "clue": "Thousands of life-size clay soldiers, each with a different face, were buried to guard the tomb of China's first emperor.", "difficulty": 1 },
+    { "name": "Potala Palace, Lhasa", "kind": "landmark", "lat": 29.66, "lon": 91.12, "clue": "Rising from Red Hill at about 3,700 m, this vast palace of over a thousand rooms was the winter residence of the Dalai Lamas.", "difficulty": 1 },
+    { "name": "Hong Kong", "kind": "city", "lat": 22.30, "lon": 114.17, "clue": "Its name means 'fragrant harbour', and its skyline holds more skyscrapers than almost any other city on Earth.", "difficulty": 1 },
+    { "name": "Guilin", "kind": "city", "lat": 25.27, "lon": 110.29, "clue": "Boats from here glide down the Li River past karst peaks so famous they appear on the back of the 20-yuan note.", "difficulty": 2 },
+    { "name": "Zhangjiajie", "kind": "nature", "lat": 29.33, "lon": 110.48, "clue": "Its thousands of towering sandstone pillars inspired the floating mountains of Pandora in the film Avatar.", "difficulty": 2 },
+    { "name": "Mogao Caves, Dunhuang", "kind": "historic", "lat": 40.04, "lon": 94.81, "clue": "A sealed library cave in these Buddhist grottoes hid the Diamond Sutra, the world's oldest known dated printed book.", "difficulty": 2 },
+    { "name": "Harbin", "kind": "city", "lat": 45.80, "lon": 126.53, "clue": "Every winter it hosts a huge ice and snow festival, with full-size buildings carved from blocks of river ice.", "difficulty": 2 },
+    { "name": "Kashgar", "kind": "city", "lat": 39.47, "lon": 75.99, "clue": "This far-western oasis was a great Silk Road crossroads, where caravan routes skirting the Taklamakan Desert met.", "difficulty": 3 },
+    { "name": "Qufu", "kind": "historic", "lat": 35.60, "lon": 116.99, "clue": "Confucius's hometown holds his temple, his family's mansion and a forest cemetery used by his descendants for over 2,000 years.", "difficulty": 3 },
+    { "name": "Leshan Giant Buddha", "kind": "landmark", "lat": 29.55, "lon": 103.77, "clue": "Carved into a riverside cliff over about 90 years of the Tang dynasty, this 71 m figure is the world's largest stone Buddha.", "difficulty": 3 }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "country": "mexico",
+  "timeline": [
+    { "event": "The Olmec city of San Lorenzo flourishes on the Gulf coast", "year": -1200, "label": "c. 1200 BCE", "approx": true, "difficulty": 3 },
+    { "event": "The Pyramid of the Sun rises at Teotihuacan", "year": 200, "label": "c. 200 CE", "approx": true, "difficulty": 2 },
+    { "event": "Pakal the Great becomes ruler of the Maya city of Palenque", "year": 615, "label": "615", "difficulty": 3 },
+    { "event": "The Mexica found Tenochtitlan on an island in Lake Texcoco", "year": 1325, "label": "c. 1325", "approx": true, "difficulty": 1 },
+    { "event": "Hernán Cortés's expedition reaches the Mexican coast", "year": 1519, "label": "1519", "difficulty": 2 },
+    { "event": "Tenochtitlan falls to Spanish and allied Indigenous forces", "year": 1521, "label": "1521", "difficulty": 1 },
+    { "event": "The Royal and Pontifical University of Mexico is founded", "year": 1551, "label": "1551", "difficulty": 3 },
+    { "event": "Miguel Hidalgo issues the Cry of Dolores", "year": 1810, "label": "1810", "difficulty": 1 },
+    { "event": "Mexico wins independence from Spain", "year": 1821, "label": "1821", "difficulty": 1 },
+    { "event": "Texas declares independence from Mexico", "year": 1836, "label": "1836", "difficulty": 2 },
+    { "event": "The Treaty of Guadalupe Hidalgo ends the Mexican-American War", "year": 1848, "label": "1848", "difficulty": 2 },
+    { "event": "Mexican forces defeat the French at the Battle of Puebla", "year": 1862, "label": "1862", "difficulty": 1 },
+    { "event": "Emperor Maximilian is executed and the Republic restored", "year": 1867, "label": "1867", "difficulty": 2 },
+    { "event": "The Mexican Revolution begins", "year": 1910, "label": "1910", "difficulty": 1 },
+    { "event": "A new Constitution is proclaimed in Querétaro", "year": 1917, "label": "1917", "difficulty": 2 },
+    { "event": "President Lázaro Cárdenas nationalizes the oil industry", "year": 1938, "label": "1938", "difficulty": 3 },
+    { "event": "Mexico City hosts the Summer Olympic Games", "year": 1968, "label": "1968", "difficulty": 1 },
+    { "event": "A powerful earthquake devastates Mexico City", "year": 1985, "label": "1985", "difficulty": 2 },
+    { "event": "The North American Free Trade Agreement takes effect", "year": 1994, "label": "1994", "difficulty": 1 },
+    { "event": "Vicente Fox's election ends seven decades of PRI presidencies", "year": 2000, "label": "2000", "difficulty": 2 }
+  ],
+  "places": [
+    { "name": "Mexico City", "kind": "city", "lat": 19.43, "lon": -99.13, "clue": "Built on the drained lakebed of the Aztec capital Tenochtitlan, parts of the city are still sinking every year.", "difficulty": 1 },
+    { "name": "Chichén Itzá", "kind": "historic", "lat": 20.68, "lon": -88.57, "clue": "At the equinoxes, shadows on El Castillo's staircase form the illusion of a serpent slithering down the pyramid.", "difficulty": 1 },
+    { "name": "Cancún", "kind": "city", "lat": 21.16, "lon": -86.85, "clue": "Its hotel zone sits on a narrow 7-shaped sandbar between the Caribbean Sea and the Nichupté Lagoon.", "difficulty": 1 },
+    { "name": "Guadalajara", "kind": "city", "lat": 20.67, "lon": -103.35, "clue": "Mariachi music and tequila both trace their roots to the countryside around this western city.", "difficulty": 1 },
+    { "name": "Cabo San Lucas", "kind": "city", "lat": 22.89, "lon": -109.91, "clue": "Its famous rock arch, El Arco, stands at the tip of Baja California where the Pacific meets the Gulf of California.", "difficulty": 1 },
+    { "name": "Copper Canyon", "kind": "nature", "lat": 27.50, "lon": -107.80, "clue": "This network of gorges in the Sierra Madre Occidental is larger, and in places deeper, than the Grand Canyon.", "difficulty": 2 },
+    { "name": "Monte Albán", "kind": "historic", "lat": 17.04, "lon": -96.77, "clue": "The Zapotecs flattened a mountaintop to build this ceremonial city high above the Oaxaca Valley.", "difficulty": 2 },
+    { "name": "Palenque", "kind": "historic", "lat": 17.48, "lon": -92.05, "clue": "Its jungle temples hid the tomb of King Pakal, discovered in 1952 deep beneath the Temple of the Inscriptions.", "difficulty": 2 },
+    { "name": "Popocatépetl", "kind": "nature", "lat": 19.02, "lon": -98.62, "clue": "One of the country's most active volcanoes, its Nahuatl name means 'Smoking Mountain'.", "difficulty": 2 },
+    { "name": "Guanajuato", "kind": "city", "lat": 21.02, "lon": -101.26, "clue": "Its colourful colonial streets run partly through tunnels, and its silver mines were once among the richest in the world.", "difficulty": 3 },
+    { "name": "Cuatro Ciénegas", "kind": "nature", "lat": 26.99, "lon": -102.07, "clue": "Desert pools here shelter living stromatolites, giving scientists a glimpse of what early life on Earth looked like.", "difficulty": 3 },
+    { "name": "El Pinacate", "kind": "nature", "lat": 31.80, "lon": -113.50, "clue": "Its giant volcanic craters looked lunar enough that Apollo astronauts trained among them before going to the Moon.", "difficulty": 3 }
+  ]
+}

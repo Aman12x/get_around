@@ -1,0 +1,39 @@
+{
+  "country": "brazil",
+  "timeline": [
+    { "event": "The mound-building Marajoara culture emerges at the mouth of the Amazon", "year": 400, "label": "c. 400 CE", "approx": true, "difficulty": 3 },
+    { "event": "Pedro Álvares Cabral's fleet reaches Brazil", "year": 1500, "label": "1500", "difficulty": 1 },
+    { "event": "Salvador is founded as the colonial capital", "year": 1549, "label": "1549", "difficulty": 2 },
+    { "event": "Rio de Janeiro is founded by Estácio de Sá", "year": 1565, "label": "1565", "difficulty": 2 },
+    { "event": "The Dutch capture Olinda and Recife in Pernambuco", "year": 1630, "label": "1630", "difficulty": 3 },
+    { "event": "The colonial capital moves from Salvador to Rio de Janeiro", "year": 1763, "label": "1763", "difficulty": 3 },
+    { "event": "The Portuguese royal court arrives, fleeing Napoleon's invasion", "year": 1808, "label": "1808", "difficulty": 2 },
+    { "event": "Dom Pedro declares independence on the banks of the Ipiranga", "year": 1822, "label": "1822", "difficulty": 1 },
+    { "event": "The War of the Triple Alliance against Paraguay begins", "year": 1864, "label": "1864", "difficulty": 3 },
+    { "event": "The Golden Law abolishes slavery", "year": 1888, "label": "1888", "difficulty": 1 },
+    { "event": "Emperor Pedro II is deposed and a republic is proclaimed", "year": 1889, "label": "1889", "difficulty": 1 },
+    { "event": "The Christ the Redeemer statue is inaugurated", "year": 1931, "label": "1931", "difficulty": 1 },
+    { "event": "Getúlio Vargas proclaims the Estado Novo", "year": 1937, "label": "1937", "difficulty": 2 },
+    { "event": "Brazil hosts the World Cup and loses the deciding match at the Maracanã", "year": 1950, "label": "1950", "difficulty": 2 },
+    { "event": "Brasília is inaugurated as the new capital", "year": 1960, "label": "1960", "difficulty": 1 },
+    { "event": "The military takes power in a coup", "year": 1964, "label": "1964", "difficulty": 2 },
+    { "event": "A new democratic constitution is promulgated", "year": 1988, "label": "1988", "difficulty": 2 },
+    { "event": "The Real Plan introduces a new currency, the real", "year": 1994, "label": "1994", "difficulty": 2 },
+    { "event": "Brazil wins a record fifth World Cup", "year": 2002, "label": "2002", "difficulty": 1 },
+    { "event": "Rio de Janeiro hosts South America's first Olympic Games", "year": 2016, "label": "2016", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Christ the Redeemer", "kind": "landmark", "lat": -22.95, "lon": -43.21, "clue": "The statue's outstretched arms span about 28 m from the summit of Corcovado mountain above Rio.", "difficulty": 1 },
+    { "name": "Brasília", "kind": "city", "lat": -15.79, "lon": -47.88, "clue": "Planned by Lúcio Costa and built in just a few years, its layout is often likened to an airplane or a bird in flight.", "difficulty": 1 },
+    { "name": "São Paulo", "kind": "city", "lat": -23.55, "lon": -46.63, "clue": "The Southern Hemisphere's biggest city is home to the largest Japanese community anywhere outside Japan.", "difficulty": 1 },
+    { "name": "Iguaçu Falls", "kind": "nature", "lat": -25.69, "lon": -54.44, "clue": "Around 275 separate cascades thunder along this horseshoe of cliffs on the border with Argentina.", "difficulty": 1 },
+    { "name": "Manaus", "kind": "city", "lat": -3.12, "lon": -60.02, "clue": "Rubber-boom fortunes built a grand opera house here, deep in the rainforest where the Rio Negro meets the Amazon.", "difficulty": 1 },
+    { "name": "Salvador", "kind": "city", "lat": -12.97, "lon": -38.50, "clue": "The country's first capital, its hilltop Pelourinho district is lined with pastel colonial facades.", "difficulty": 2 },
+    { "name": "Lençóis Maranhenses", "kind": "nature", "lat": -2.50, "lon": -43.10, "clue": "Each rainy season, rainwater collects between its white dunes, forming thousands of blue lagoons.", "difficulty": 2 },
+    { "name": "Pantanal", "kind": "nature", "lat": -17.80, "lon": -56.80, "clue": "The world's largest tropical wetland offers some of the best chances anywhere to spot wild jaguars.", "difficulty": 2 },
+    { "name": "Ouro Preto", "kind": "historic", "lat": -20.39, "lon": -43.50, "clue": "This baroque gold-rush town is filled with churches adorned by the sculptor Aleijadinho.", "difficulty": 2 },
+    { "name": "Olinda", "kind": "historic", "lat": -8.01, "lon": -34.86, "clue": "Its hilltop colonial churches overlook neighbouring Recife, and its Carnival parades feature giant puppets.", "difficulty": 3 },
+    { "name": "Chapada Diamantina", "kind": "nature", "lat": -12.56, "lon": -41.39, "clue": "Table mountains, caves and waterfalls rise from these highlands, once a frenzied diamond-mining frontier.", "difficulty": 3 },
+    { "name": "Serra da Capivara", "kind": "historic", "lat": -8.83, "lon": -42.55, "clue": "Its rock shelters hold thousands of prehistoric paintings, among the oldest known rock art in the Americas.", "difficulty": 3 }
+  ]
+}

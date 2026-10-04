@@ -1,0 +1,39 @@
+{
+  "country": "usa",
+  "timeline": [
+    { "event": "Clovis hunters spread across North America", "year": -11000, "label": "c. 11,000 BCE", "approx": true, "difficulty": 3 },
+    { "event": "Cahokia becomes the largest city north of Mexico", "year": 1100, "label": "c. 1100", "approx": true, "difficulty": 3 },
+    { "event": "The Spanish found St. Augustine in Florida", "year": 1565, "label": "1565", "difficulty": 2 },
+    { "event": "English colonists found Jamestown in Virginia", "year": 1607, "label": "1607", "difficulty": 1 },
+    { "event": "The Mayflower Pilgrims found Plymouth Colony", "year": 1620, "label": "1620", "difficulty": 1 },
+    { "event": "Colonists dump British tea into Boston Harbor", "year": 1773, "label": "1773", "difficulty": 2 },
+    { "event": "The Declaration of Independence is adopted", "year": 1776, "label": "1776", "difficulty": 1 },
+    { "event": "The U.S. Constitution is signed in Philadelphia", "year": 1787, "label": "1787", "difficulty": 2 },
+    { "event": "The Louisiana Purchase doubles the nation's size", "year": 1803, "label": "1803", "difficulty": 2 },
+    { "event": "The Erie Canal opens, linking the Great Lakes to the Atlantic", "year": 1825, "label": "1825", "difficulty": 3 },
+    { "event": "Gold is found at Sutter's Mill, sparking the California Gold Rush", "year": 1848, "label": "1848", "difficulty": 2 },
+    { "event": "The Civil War begins with the attack on Fort Sumter", "year": 1861, "label": "1861", "difficulty": 1 },
+    { "event": "The first transcontinental railroad is completed", "year": 1869, "label": "1869", "difficulty": 2 },
+    { "event": "The Wright brothers make the first powered airplane flight", "year": 1903, "label": "1903", "difficulty": 1 },
+    { "event": "The Nineteenth Amendment grants women the right to vote", "year": 1920, "label": "1920", "difficulty": 2 },
+    { "event": "Wall Street crashes, ushering in the Great Depression", "year": 1929, "label": "1929", "difficulty": 2 },
+    { "event": "Japan attacks Pearl Harbor", "year": 1941, "label": "1941", "difficulty": 1 },
+    { "event": "The Supreme Court rules on Brown v. Board of Education", "year": 1954, "label": "1954", "difficulty": 3 },
+    { "event": "Apollo 11 lands the first humans on the Moon", "year": 1969, "label": "1969", "difficulty": 1 },
+    { "event": "Terrorist attacks destroy the World Trade Center's Twin Towers", "year": 2001, "label": "2001", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Washington, D.C.", "kind": "city", "lat": 38.90, "lon": -77.04, "clue": "The capital's grand avenues and diagonal streets were planned by French-born engineer Pierre L'Enfant in 1791.", "difficulty": 1 },
+    { "name": "Statue of Liberty", "kind": "landmark", "lat": 40.69, "lon": -74.04, "clue": "A gift from France dedicated in 1886, its copper skin has slowly weathered to its famous green.", "difficulty": 1 },
+    { "name": "Grand Canyon", "kind": "nature", "lat": 36.10, "lon": -112.10, "clue": "The Colorado River carved this gorge over 1.8 km deep, exposing rocks nearly two billion years old at its bottom.", "difficulty": 1 },
+    { "name": "Golden Gate Bridge", "kind": "landmark", "lat": 37.82, "lon": -122.48, "clue": "When it opened in 1937, its 1,280 m main span was the longest of any suspension bridge in the world.", "difficulty": 1 },
+    { "name": "Yellowstone National Park", "kind": "nature", "lat": 44.60, "lon": -110.50, "clue": "Established in 1872, it is widely regarded as the world's first national park and holds about half of Earth's geysers.", "difficulty": 1 },
+    { "name": "New Orleans", "kind": "city", "lat": 29.95, "lon": -90.07, "clue": "Founded by the French in 1718 near the mouth of the Mississippi, it is celebrated as the birthplace of jazz.", "difficulty": 2 },
+    { "name": "Mount Rushmore", "kind": "landmark", "lat": 43.88, "lon": -103.46, "clue": "Each of the four presidents' faces carved into its granite stands about 18 m tall.", "difficulty": 2 },
+    { "name": "The Alamo", "kind": "historic", "lat": 29.43, "lon": -98.49, "clue": "In 1836 a small garrison held this former Spanish mission for 13 days before it fell to Mexican forces.", "difficulty": 2 },
+    { "name": "Everglades", "kind": "nature", "lat": 25.30, "lon": -80.90, "clue": "Nicknamed the 'River of Grass', this vast wetland is a rare place where alligators and crocodiles live side by side.", "difficulty": 2 },
+    { "name": "Cahokia Mounds", "kind": "historic", "lat": 38.66, "lon": -90.06, "clue": "Its Monks Mound is the largest prehistoric earthwork in the Americas, raised by Mississippian people about a thousand years ago.", "difficulty": 3 },
+    { "name": "Mesa Verde", "kind": "historic", "lat": 37.17, "lon": -108.47, "clue": "Ancestral Puebloans tucked the Cliff Palace, with around 150 rooms, into a sandstone alcove here.", "difficulty": 3 },
+    { "name": "Crater Lake", "kind": "nature", "lat": 42.94, "lon": -122.10, "clue": "Filling the collapsed crater of an ancient volcano, it is the deepest lake in the country at about 594 m.", "difficulty": 3 }
+  ]
+}

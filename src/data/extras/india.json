@@ -1,0 +1,39 @@
+{
+  "country": "india",
+  "timeline": [
+    { "event": "The Indus Valley civilisation enters its mature urban phase", "year": -2600, "label": "c. 2600 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Emperor Ashoka turns to Buddhism after the Kalinga War", "year": -261, "label": "c. 261 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Chandragupta I founds the Gupta Empire", "year": 320, "label": "c. 320 CE", "approx": true, "difficulty": 3 },
+    { "event": "Aryabhata completes his astronomy treatise, the Aryabhatiya", "year": 499, "label": "499 CE", "difficulty": 3 },
+    { "event": "The Delhi Sultanate is founded", "year": 1206, "label": "1206", "difficulty": 2 },
+    { "event": "Vasco da Gama reaches Calicut by sea from Portugal", "year": 1498, "label": "1498", "difficulty": 1 },
+    { "event": "Babur wins the First Battle of Panipat and founds the Mughal Empire", "year": 1526, "label": "1526", "difficulty": 1 },
+    { "event": "Akbar becomes Mughal emperor at the age of thirteen", "year": 1556, "label": "1556", "difficulty": 3 },
+    { "event": "The English East India Company receives its royal charter", "year": 1600, "label": "1600", "difficulty": 2 },
+    { "event": "Construction of the Taj Mahal begins", "year": 1632, "label": "1632", "difficulty": 1 },
+    { "event": "The East India Company wins the Battle of Plassey", "year": 1757, "label": "1757", "difficulty": 2 },
+    { "event": "The Indian Rebellion breaks out against Company rule", "year": 1857, "label": "1857", "difficulty": 1 },
+    { "event": "The Indian National Congress is founded", "year": 1885, "label": "1885", "difficulty": 2 },
+    { "event": "Rabindranath Tagore wins the Nobel Prize in Literature", "year": 1913, "label": "1913", "difficulty": 2 },
+    { "event": "Gandhi leads the Salt March to Dandi", "year": 1930, "label": "1930", "difficulty": 1 },
+    { "event": "India gains independence from British rule", "year": 1947, "label": "1947", "difficulty": 1 },
+    { "event": "India's constitution takes effect and it becomes a republic", "year": 1950, "label": "1950", "difficulty": 1 },
+    { "event": "India wins its first Cricket World Cup", "year": 1983, "label": "1983", "difficulty": 1 },
+    { "event": "Sweeping economic liberalisation reforms are launched", "year": 1991, "label": "1991", "difficulty": 3 },
+    { "event": "India's first Moon mission, Chandrayaan-1, launches", "year": 2008, "label": "2008", "difficulty": 2 }
+  ],
+  "places": [
+    { "name": "New Delhi", "kind": "city", "lat": 28.61, "lon": 77.21, "clue": "Laid out by architect Edwin Lutyens, it was inaugurated as British India's capital in 1931 and now seats India's government.", "difficulty": 1 },
+    { "name": "Taj Mahal", "kind": "landmark", "lat": 27.17, "lon": 78.04, "clue": "Shah Jahan built this white marble mausoleum for his beloved wife Mumtaz Mahal, who died in childbirth.", "difficulty": 1 },
+    { "name": "Mumbai", "kind": "city", "lat": 19.08, "lon": 72.88, "clue": "Once seven separate islands, it was joined by land reclamation into one of the world's most populous cities.", "difficulty": 1 },
+    { "name": "Varanasi", "kind": "city", "lat": 25.32, "lon": 83.01, "clue": "One of the world's oldest continuously inhabited cities, its riverside ghats host the nightly Ganga Aarti ceremony.", "difficulty": 1 },
+    { "name": "Golden Temple, Amritsar", "kind": "landmark", "lat": 31.62, "lon": 74.88, "clue": "Its community kitchen serves free vegetarian meals to tens of thousands of visitors every day, whatever their faith.", "difficulty": 1 },
+    { "name": "Hampi", "kind": "historic", "lat": 15.34, "lon": 76.46, "clue": "These boulder-strewn ruins were once Vijayanagara, capital of a mighty South Indian empire and among the largest cities of its age.", "difficulty": 2 },
+    { "name": "Kaziranga National Park", "kind": "nature", "lat": 26.67, "lon": 93.36, "clue": "This Brahmaputra floodplain shelters about two-thirds of the world's greater one-horned rhinos.", "difficulty": 2 },
+    { "name": "Meenakshi Temple, Madurai", "kind": "landmark", "lat": 9.92, "lon": 78.12, "clue": "Its towering gateway gopurams are covered in thousands of brightly painted sculptures of gods, demons and animals.", "difficulty": 2 },
+    { "name": "Jaisalmer", "kind": "city", "lat": 26.92, "lon": 70.91, "clue": "Nicknamed the Golden City, its sandstone fort is one of the few in the world where people still live inside the walls.", "difficulty": 2 },
+    { "name": "Dholavira", "kind": "historic", "lat": 23.89, "lon": 70.21, "clue": "This Harappan city in the salt flats of Kutch had clever reservoirs and a giant signboard written in Indus script.", "difficulty": 3 },
+    { "name": "Konark Sun Temple", "kind": "historic", "lat": 19.89, "lon": 86.09, "clue": "This 13th-century temple to the sun god is carved as a colossal stone chariot with 24 wheels, pulled by seven horses.", "difficulty": 3 },
+    { "name": "Mawsynram", "kind": "nature", "lat": 25.30, "lon": 91.58, "clue": "This village in the Khasi Hills is often called the wettest place on Earth, soaking up nearly 12 metres of rain a year.", "difficulty": 3 }
+  ]
+}
