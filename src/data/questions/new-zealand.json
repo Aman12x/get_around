@@ -1,0 +1,1092 @@
+{
+  "country": "new-zealand",
+  "topics": {
+    "history": [
+      {
+        "q": "Which Dutch navigator was the first European known to reach New Zealand, in 1642?",
+        "choices": ["James Cook", "Abel Tasman", "Ferdinand Magellan", "Willem Janszoon"],
+        "answer": 1,
+        "fact": "Tasman never landed: after a deadly clash with Ngāti Tūmatakōkiri in Golden Bay/Mohua, he sailed on up the west coast.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which British navigator charted almost the entire coastline of New Zealand in 1769–70?",
+        "choices": ["George Vancouver", "James Cook", "William Bligh", "Abel Tasman"],
+        "answer": 1,
+        "fact": "Cook's chart was remarkably accurate, though he mistook Banks Peninsula for an island and Stewart Island for a peninsula.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year was the Treaty of Waitangi first signed?",
+        "choices": ["1814", "1907", "1769", "1840"],
+        "answer": 3,
+        "fact": "The first signing took place on 6 February at Waitangi in the Bay of Islands; copies then travelled the country for months to gather signatures.",
+        "difficulty": 1
+      },
+      {
+        "q": "Around 1250–1300 CE, the ancestors of Māori arrived in New Zealand by canoe from which region?",
+        "choices": ["Australia", "Japan", "Eastern Polynesia", "South America"],
+        "answer": 2,
+        "fact": "Navigating by stars, swells and birds, voyagers in waka hourua (double-hulled canoes) made one of the last great migrations to unpeopled land.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which First World War campaign did ANZAC troops land on 25 April 1915?",
+        "choices": ["Messines", "Gallipoli", "Passchendaele", "The Somme"],
+        "answer": 1,
+        "fact": "Anzac Day marks the landing every 25 April, with dawn services held in towns and cities across New Zealand.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Auckland-raised mountaineer made the first confirmed ascent of Mount Everest with Tenzing Norgay in 1953?",
+        "choices": ["Reinhold Messner", "Peter Hillary", "George Mallory", "Edmund Hillary"],
+        "answer": 3,
+        "fact": "Hillary later founded the Himalayan Trust, building schools and clinics in Nepal, and his face appears on New Zealand's $5 note.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city replaced Auckland as New Zealand's capital in 1865?",
+        "choices": ["Christchurch", "Dunedin", "Wellington", "Nelson"],
+        "answer": 2,
+        "fact": "A panel of three Australian commissioners chose Wellington for its central position and fine harbour on Cook Strait.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city was struck by a deadly magnitude 6.3 earthquake on 22 February 2011?",
+        "choices": ["Christchurch", "Dunedin", "Napier", "Wellington"],
+        "answer": 0,
+        "fact": "The quake killed 185 people and toppled the spire of ChristChurch Cathedral; a 'Cardboard Cathedral' became a symbol of the rebuild.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Hawke's Bay city was rebuilt in Art Deco style after a devastating earthquake in 1931?",
+        "choices": ["Napier", "Whanganui", "Nelson", "Timaru"],
+        "answer": 0,
+        "fact": "The quake killed 256 people and lifted the Ahuriri Lagoon out of the sea; Napier's airport now sits on the raised land.",
+        "difficulty": 1
+      },
+      {
+        "q": "Gabriel Read's discovery of gold at Gabriel's Gully in 1861 sparked a rush in which region?",
+        "choices": ["Taranaki", "Canterbury", "Otago", "Northland"],
+        "answer": 2,
+        "fact": "Thousands of miners poured in, and the boom made Dunedin, for a time, New Zealand's largest and richest town.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Ngāpuhi chief repeatedly cut down the British flagstaff at Kororāreka (Russell) in 1844–45?",
+        "choices": ["Te Rauparaha", "Hōne Heke", "Tāmati Wāka Nene", "Te Kooti"],
+        "answer": 1,
+        "fact": "Heke's fourth felling of the flagstaff, in March 1845, opened the Northern War, often called the Flagstaff War.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was raised up as the first Māori King in 1858?",
+        "choices": ["Hōne Heke", "Tāwhiao", "Pōtatau Te Wherowhero", "Te Rauparaha"],
+        "answer": 2,
+        "fact": "The Kīngitanga (Māori King movement) was formed to unite iwi and halt land sales, and it continues today.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Taranaki settlement, a centre of non-violent resistance led by Te Whiti o Rongomai and Tohu Kākahi, was invaded in 1881?",
+        "choices": ["Parihaka", "Kororāreka", "Ōrākau", "Rangiaowhia"],
+        "answer": 0,
+        "fact": "When some 1,600 troops and volunteers marched in, they were met by singing children and women offering bread.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who preached the first Christian sermon in New Zealand, at Oihi in the Bay of Islands on Christmas Day 1814?",
+        "choices": ["Samuel Marsden", "Thomas Kendall", "William Colenso", "Henry Williams"],
+        "answer": 0,
+        "fact": "Marsden, chaplain in New South Wales, came with the first Church Missionary Society party, protected by the rangatira Ruatara.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Second World War infantry unit was formed from Māori volunteers, with companies drawn largely along tribal lines?",
+        "choices": ["NZ Tunnelling Company", "28th (Māori) Battalion", "Long Range Desert Group", "22nd Battalion"],
+        "answer": 1,
+        "fact": "Second Lieutenant Te Moananui-a-Kiwa Ngarimu of the battalion won a posthumous Victoria Cross in Tunisia in 1943.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 1981 rugby tour that bitterly divided New Zealand was by which team?",
+        "choices": ["South Africa's Springboks", "Australia's Wallabies", "The British and Irish Lions", "England"],
+        "answer": 0,
+        "fact": "Protests against apartheid were so intense that the Hamilton match was called off after demonstrators invaded the pitch.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Greenpeace ship was sunk by French secret agents in Auckland Harbour in 1985?",
+        "choices": ["Sirius", "Esperanza", "Arctic Sunrise", "Rainbow Warrior"],
+        "answer": 3,
+        "fact": "Photographer Fernando Pereira was killed; the wreck was later scuttled off the Cavalli Islands, where it is now a dive site and reef.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which colonising company, promoted by Edward Gibbon Wakefield, founded the settlement at Wellington in 1840?",
+        "choices": ["Canterbury Association", "Hudson's Bay Company", "East India Company", "New Zealand Company"],
+        "answer": 3,
+        "fact": "Its first emigrant ship, the Aurora, reached Port Nicholson in January 1840, just weeks before the Treaty was signed.",
+        "difficulty": 2
+      },
+      {
+        "q": "At which 1864 battle did defenders reply 'Ka whawhai tonu mātou, ake, ake, ake!' to a call to surrender?",
+        "choices": ["Ruapekapeka", "Gate Pā", "Ōrākau", "Rangiriri"],
+        "answer": 2,
+        "fact": "The defiant reply, 'We will fight on for ever and ever', became one of the best-remembered lines of the New Zealand Wars.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Rongowhakaata leader escaped exile on the Chatham Islands in 1868 and founded the Ringatū faith?",
+        "choices": ["Te Kooti Arikirangi Te Turuki", "Rua Kēnana", "Te Whiti o Rongomai", "Te Ua Haumēne"],
+        "answer": 0,
+        "fact": "Te Kooti and nearly 300 prisoners seized the schooner Rifleman and sailed back to the North Island.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which cruiser, crewed largely by New Zealanders, fought at the Battle of the River Plate in 1939?",
+        "choices": ["HMS Hood", "HMS Leander", "HMS Achilles", "HMS Exeter"],
+        "answer": 2,
+        "fact": "The battle ended with the German raider Admiral Graf Spee being scuttled off Montevideo.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Ngāpuhi rangatira travelled to England in 1820, met King George IV, and returned to lead campaigns of the Musket Wars?",
+        "choices": ["Te Rauparaha", "Hongi Hika", "Hōne Heke", "Tāmati Wāka Nene"],
+        "answer": 1,
+        "fact": "At Cambridge he helped Professor Samuel Lee compile an early grammar and vocabulary of the Māori language.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which settlement, then named Russell, served as New Zealand's first capital in 1840–41?",
+        "choices": ["Paihia", "Waitangi", "Kororāreka", "Okiato"],
+        "answer": 3,
+        "fact": "The name Russell later passed to nearby Kororāreka, which is why today's Russell is not the site of the old capital.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which German colony did New Zealand forces occupy at the start of the First World War in 1914?",
+        "choices": ["Samoa", "Nauru", "Marshall Islands", "New Guinea"],
+        "answer": 0,
+        "fact": "New Zealand administered Samoa until 1962, when it became the first Pacific island nation to regain independence.",
+        "difficulty": 3
+      },
+      {
+        "q": "12 October 1917 is remembered as New Zealand's darkest day. Which battle was it?",
+        "choices": ["The Somme", "Le Quesnoy", "Messines", "Passchendaele"],
+        "answer": 3,
+        "fact": "About 2,700 New Zealanders were killed or wounded within a few hours, more than on any other day in the nation's history.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which New Zealand-born scientist is often called the father of nuclear physics?",
+        "choices": ["J. J. Thomson", "James Chadwick", "Niels Bohr", "Ernest Rutherford"],
+        "answer": 3,
+        "fact": "Rutherford won the 1908 Nobel Prize in Chemistry, and his portrait appears on New Zealand's $100 note.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which adventure activity did A. J. Hackett launch commercially at Queenstown's Kawarau Bridge in 1988?",
+        "choices": ["Paragliding", "White-water rafting", "Bungee jumping", "Skydiving"],
+        "answer": 2,
+        "fact": "The 43 m leap from the Kawarau Gorge Suspension Bridge is billed as the world's first permanent commercial bungy site.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Wellington visual-effects company, co-founded by Peter Jackson, created Gollum for The Lord of the Rings?",
+        "choices": ["Pixar", "Industrial Light & Magic", "Wētā FX", "Framestore"],
+        "answer": 2,
+        "fact": "Formerly Weta Digital, the company has won several visual-effects Oscars, for films from The Lord of the Rings to Avatar.",
+        "difficulty": 1
+      },
+      {
+        "q": "Products from which industry make up New Zealand's largest category of goods exports?",
+        "choices": ["Wine", "Dairy", "Wool", "Timber"],
+        "answer": 1,
+        "fact": "Farmer-owned co-operative Fonterra, formed in 2001, is one of the world's biggest dairy exporters.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which renewable source generates the majority of New Zealand's electricity?",
+        "choices": ["Wind", "Geothermal", "Solar", "Hydroelectricity"],
+        "answer": 3,
+        "fact": "Hydro dams supply over half the country's power, and geothermal stations in the volcanic central North Island are the next largest source.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which aerospace company, founded by Peter Beck, launches rockets from the Māhia Peninsula?",
+        "choices": ["Gilmour Space", "Rocket Lab", "Blue Origin", "SpaceX"],
+        "answer": 1,
+        "fact": "Its Electron rocket is powered by Rutherford engines, named after the physicist, which use battery-driven electric pumps.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which New Zealand engineer developed the modern water-jet boat for shallow, fast rivers?",
+        "choices": ["Bill Hamilton", "Burt Munro", "Richard Pearse", "John Britten"],
+        "answer": 0,
+        "fact": "Hamilton jet boats carried Sir Edmund Hillary's 1977 expedition up the Ganges from the sea towards the Himalaya.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Kiwi phrase 'number 8 wire', a symbol of do-it-yourself ingenuity, refers to what?",
+        "choices": ["A gauge of fencing wire", "A telegraph cable", "A size of nail", "A type of fishing line"],
+        "answer": 0,
+        "fact": "No. 8 fencing wire is about 4 mm thick, and farmers famously used it to fix almost anything.",
+        "difficulty": 1
+      },
+      {
+        "q": "Before New Zealand growers renamed it for export in 1959, kiwifruit was usually called what?",
+        "choices": ["Chinese gooseberry", "Cape gooseberry", "Tamarillo", "Feijoa"],
+        "answer": 0,
+        "fact": "Seeds were brought from China in 1904 by teacher Isabel Fraser; the new name helped sales in the United States.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Invercargill motorcyclist set a world land-speed record at Bonneville on a modified 1920 Indian Scout?",
+        "choices": ["Burt Munro", "Hugh Anderson", "Bill Hamilton", "John Britten"],
+        "answer": 0,
+        "fact": "His 1967 under-1,000 cc record of 183.586 mph still stands, and his story was told in the film The World's Fastest Indian.",
+        "difficulty": 2
+      },
+      {
+        "q": "Rolling downhill inside a giant transparent inflatable ball, invented by two New Zealanders in 1994, is known as what?",
+        "choices": ["Sphering", "Bubble soccer", "Zorbing", "Hamster balling"],
+        "answer": 2,
+        "fact": "Andrew Akers and Dwane van der Sluis developed the Zorb, in which a cushion of air between two spheres protects the rider.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which New Zealand-born chemist shared the 2000 Nobel Prize in Chemistry for discovering conductive polymers?",
+        "choices": ["Maurice Wilkins", "William Pickering", "Alan MacDiarmid", "Ernest Rutherford"],
+        "answer": 2,
+        "fact": "Raised in the Hutt Valley, MacDiarmid showed that some plastics can conduct electricity, paving the way for flexible electronics.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Christchurch engineer designed the record-setting V1000 racing motorcycle?",
+        "choices": ["John Britten", "Bill Hamilton", "Colin Murdoch", "Burt Munro"],
+        "answer": 0,
+        "fact": "Built largely by hand by Britten and friends, the V1000 set world speed records in the 1990s; one is displayed at Te Papa.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Clyde Dam harnesses which river, the largest in New Zealand by volume of water?",
+        "choices": ["Waitaki", "Rangitata", "Waikato", "Clutha"],
+        "answer": 3,
+        "fact": "The Clutha/Mata-Au drains the great southern lakes Wānaka, Hāwea and Wakatipu on its way to the sea south of Dunedin.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which New Zealand appliance maker invented the DishDrawer dishwasher?",
+        "choices": ["Electrolux", "Fisher & Paykel", "Bosch", "Miele"],
+        "answer": 1,
+        "fact": "Launched in the late 1990s, the DishDrawer splits a dishwasher into two drawers that can run independently.",
+        "difficulty": 2
+      },
+      {
+        "q": "Fibre from which native plant was a major 19th-century export, prized for making rope?",
+        "choices": ["Tōtara", "Raupō", "Harakeke (New Zealand flax)", "Kauri"],
+        "answer": 2,
+        "fact": "Māori had long woven harakeke into kete, mats and cloaks; European traders valued its strong fibre for rope and twine.",
+        "difficulty": 2
+      },
+      {
+        "q": "Manapōuri Power Station in Fiordland was built mainly to supply which industry?",
+        "choices": ["Paper milling", "Aluminium smelting", "Steelmaking", "Oil refining"],
+        "answer": 1,
+        "fact": "The 1970 'Save Manapouri' petition, with nearly 265,000 signatures, stopped plans to raise the lake and helped launch NZ's environmental movement.",
+        "difficulty": 2
+      },
+      {
+        "q": "At which university did Ernest Rutherford discover the atomic nucleus in 1911?",
+        "choices": ["McGill University", "University of Cambridge", "University of Canterbury", "University of Manchester"],
+        "answer": 3,
+        "fact": "Gold-foil experiments run by Hans Geiger and Ernest Marsden showed a few particles bouncing straight back, revealing a tiny, dense nucleus.",
+        "difficulty": 2
+      },
+      {
+        "q": "Near which town was Wairakei, one of the world's first large geothermal power stations, commissioned in 1958?",
+        "choices": ["Taupō", "Rotorua", "Tokoroa", "Whakatāne"],
+        "answer": 0,
+        "fact": "Wairakei was the second large geothermal plant in the world after Italy's Larderello, and the first to draw on a 'wet' steam field.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which New Zealand-born physicist shared the 1962 Nobel Prize for work on the structure of DNA?",
+        "choices": ["Alan MacDiarmid", "Ernest Rutherford", "Maurice Wilkins", "Francis Crick"],
+        "answer": 2,
+        "fact": "Wilkins was born in Pongaroa in 1916 and moved to England as a child; his lab's X-ray images were key to the double helix.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Wellington-born engineer directed NASA's Jet Propulsion Laboratory from 1954 to 1976?",
+        "choices": ["Wernher von Braun", "William Pickering", "Gene Kranz", "Robert Goddard"],
+        "answer": 1,
+        "fact": "Pickering's team built Explorer 1, the first US satellite, launched in 1958.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which fossilised resin was dug from Northland fields in the 1800s and exported to make varnish?",
+        "choices": ["Copal", "Rimu resin", "Amber", "Kauri gum"],
+        "answer": 3,
+        "fact": "Thousands of gumdiggers, many from Dalmatia in today's Croatia, worked the northern gumfields.",
+        "difficulty": 3
+      },
+      {
+        "q": "New Zealand Steel at Glenbrook makes steel from which unusual local raw material?",
+        "choices": ["Banded iron ore", "Bog iron", "Meteoric iron", "Ironsand"],
+        "answer": 3,
+        "fact": "The black sand of the North Island's west-coast beaches is rich in titanomagnetite, an iron ore.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which astronomer, raised in New Zealand, did pioneering work on how galaxies change as their stars age?",
+        "choices": ["Cecilia Payne-Gaposchkin", "Beatrice Tinsley", "Henrietta Leavitt", "Vera Rubin"],
+        "answer": 1,
+        "fact": "Tinsley grew up in Christchurch and New Plymouth and became Yale's first female professor of astronomy before dying in 1981, aged 40.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which New Zealand mathematician won the 1990 Fields Medal for work in knot theory?",
+        "choices": ["Vaughan Jones", "Shing-Tung Yau", "Edward Witten", "Michael Freedman"],
+        "answer": 0,
+        "fact": "The Jones polynomial, which grew out of his work on operator algebras, revealed surprising links between knots and physics.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which New Zealand director made The Lord of the Rings film trilogy?",
+        "choices": ["Jane Campion", "Andrew Adamson", "Taika Waititi", "Peter Jackson"],
+        "answer": 3,
+        "fact": "The Return of the King won all 11 Oscars it was nominated for, tying the record for most Academy Awards won by a film.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Auckland singer topped the US Billboard Hot 100 at 16 with 'Royals' in 2013?",
+        "choices": ["Lorde", "Bic Runga", "Benee", "Kimbra"],
+        "answer": 0,
+        "fact": "Lorde became the youngest solo artist to top the Hot 100 since 1987, and 'Royals' won the Grammy for Song of the Year.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Māori performing art, combining song, dance, poi and haka, called?",
+        "choices": ["Hula", "Kapa haka", "Tamure", "Siva"],
+        "answer": 1,
+        "fact": "Te Matatini, the national kapa haka festival, is held every two years and draws top groups from across the country.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which haka, composed by Ngāti Toa chief Te Rauparaha, is the one most associated with the All Blacks?",
+        "choices": ["Tika Tonu", "Ruaumoko", "Ka Mate", "Kapa o Pango"],
+        "answer": 2,
+        "fact": "Ngāti Toa's authorship of Ka Mate is recognised in law by the Haka Ka Mate Attribution Act 2014.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which New Zealand filmmaker won the 2022 Oscar for Best Director for The Power of the Dog?",
+        "choices": ["Taika Waititi", "Niki Caro", "Peter Jackson", "Jane Campion"],
+        "answer": 3,
+        "fact": "Campion was also the first woman to win the Palme d'Or at Cannes, for The Piano (1993).",
+        "difficulty": 1
+      },
+      {
+        "q": "For which film did Taika Waititi win the Academy Award for Best Adapted Screenplay?",
+        "choices": ["Hunt for the Wilderpeople", "Boy", "Thor: Ragnarok", "Jojo Rabbit"],
+        "answer": 3,
+        "fact": "Waititi (Te Whānau-ā-Apanui) became the first Māori filmmaker to win an Academy Award, in 2020.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the traditional Māori art of permanent body and face marking called?",
+        "choices": ["Whakairo", "Raranga", "Tā moko", "Tukutuku"],
+        "answer": 2,
+        "fact": "Traditional tā moko was carved with uhi (chisels), leaving grooved skin rather than the smooth surface of a modern tattoo.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which duo starred as themselves in HBO's comedy series Flight of the Conchords?",
+        "choices": ["Taika Waititi and Rhys Darby", "Neil and Tim Finn", "Bret McKenzie and Jemaine Clement", "Jack Black and Kyle Gass"],
+        "answer": 2,
+        "fact": "Bret McKenzie later won an Oscar for 'Man or Muppet', written for The Muppets (2011).",
+        "difficulty": 1
+      },
+      {
+        "q": "Which band, formed in Melbourne by New Zealander Neil Finn, recorded 'Don't Dream It's Over'?",
+        "choices": ["The Exponents", "Crowded House", "Dragon", "Split Enz"],
+        "answer": 1,
+        "fact": "Before Crowded House, Neil and his brother Tim Finn were members of the art-rock band Split Enz.",
+        "difficulty": 1
+      },
+      {
+        "q": "The film Whale Rider (2002) is based on a novel by which Māori author?",
+        "choices": ["Witi Ihimaera", "Patricia Grace", "Keri Hulme", "Alan Duff"],
+        "answer": 0,
+        "fact": "Ihimaera (Te Aitanga-a-Māhaki) was the first Māori writer to publish a novel, Tangi, in 1973.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which New Zealand author won the 2013 Booker Prize for The Luminaries?",
+        "choices": ["Katherine Mansfield", "Keri Hulme", "Janet Frame", "Eleanor Catton"],
+        "answer": 3,
+        "fact": "At 28, Catton was then the youngest Booker winner, and at 832 pages The Luminaries was the longest winning novel.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Wellington-born writer is famous for short stories such as 'The Garden Party'?",
+        "choices": ["Katherine Mansfield", "Janet Frame", "Ngaio Marsh", "Virginia Woolf"],
+        "answer": 0,
+        "fact": "Born in 1888, Mansfield moved in London's modernist circles and died in France aged just 34.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Keri Hulme novel won the Booker Prize in 1985?",
+        "choices": ["Potiki", "The Bone People", "The Luminaries", "Once Were Warriors"],
+        "answer": 1,
+        "fact": "Hulme's debut was turned down by several publishers before a small feminist collective, Spiral, printed it.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the Māori art of carving, in wood, bone or stone, called?",
+        "choices": ["Kōwhaiwhai", "Raranga", "Tāniko", "Whakairo"],
+        "answer": 3,
+        "fact": "A carved wharenui often embodies an ancestor: the ridgepole is the backbone, the rafters ribs and the bargeboards outstretched arms.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1994 Lee Tamahori film, based on Alan Duff's novel, follows the Heke family in South Auckland?",
+        "choices": ["Whale Rider", "Utu", "Boy", "Once Were Warriors"],
+        "answer": 3,
+        "fact": "Temuera Morrison's role as Jake 'the Muss' Heke made him a household name.",
+        "difficulty": 2
+      },
+      {
+        "q": "New Zealand's national museum in Wellington, opened in 1998, is known by which Māori name?",
+        "choices": ["Tāmaki Paenga Hira", "Te Ara", "Te Papa Tongarewa", "Te Puia"],
+        "answer": 2,
+        "fact": "The name is often translated as 'container of treasures'. Tāmaki Paenga Hira is the Māori name of Auckland Museum.",
+        "difficulty": 2
+      },
+      {
+        "q": "At whose 1981 wedding did Gisborne-born soprano Kiri Te Kanawa sing?",
+        "choices": ["Prince William and Catherine Middleton", "Prince Charles and Lady Diana Spencer", "Prince Andrew and Sarah Ferguson", "Princess Anne and Mark Phillips"],
+        "answer": 1,
+        "fact": "She sang Handel's 'Let the Bright Seraphim' to a worldwide TV audience of hundreds of millions.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which author created the picture-book dog Hairy Maclary from Donaldson's Dairy?",
+        "choices": ["Lynley Dodd", "Julia Donaldson", "Margaret Mahy", "Joy Cowley"],
+        "answer": 0,
+        "fact": "Bronze statues of Hairy Maclary and his friends trot along the waterfront in Tauranga, Dodd's longtime home.",
+        "difficulty": 2
+      },
+      {
+        "q": "What are the painted scroll patterns on the rafters of a Māori meeting house called?",
+        "choices": ["Moko", "Kōwhaiwhai", "Tāniko", "Tukutuku"],
+        "answer": 1,
+        "fact": "Traditionally painted in red, black and white, kōwhaiwhai often use the koru, the unfurling fern frond, as a motif.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Bohemian-born painter, who arrived in 1874, made celebrated portraits of Māori rangatira?",
+        "choices": ["John Gully", "Gottfried Lindauer", "Charles Goldie", "Colin McCahon"],
+        "answer": 1,
+        "fact": "Lindauer painted hundreds of portraits, and Auckland Art Gallery holds a large collection of them.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which New Zealand author won the Hans Christian Andersen Award in 2006?",
+        "choices": ["Margaret Mahy", "Joy Cowley", "Lynley Dodd", "Janet Frame"],
+        "answer": 0,
+        "fact": "Mahy also won the Carnegie Medal twice, for The Haunting and The Changeover.",
+        "difficulty": 3
+      },
+      {
+        "q": "Whose autobiography was adapted by Jane Campion as the film An Angel at My Table?",
+        "choices": ["Katherine Mansfield", "Keri Hulme", "Janet Frame", "Ngaio Marsh"],
+        "answer": 2,
+        "fact": "Frame was reportedly spared a planned lobotomy after her first book won a literary prize.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which detective did Christchurch writer Ngaio Marsh create?",
+        "choices": ["Roderick Alleyn", "Albert Campion", "Hercule Poirot", "Lord Peter Wimsey"],
+        "answer": 0,
+        "fact": "Marsh is counted among the 'Queens of Crime' with Agatha Christie, Dorothy L. Sayers and Margery Allingham.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Māori artist (Te Aupōuri) is known for dark, minimal paintings and the installation Black Phoenix?",
+        "choices": ["Ralph Hotere", "Gordon Walters", "Colin McCahon", "Shane Cotton"],
+        "answer": 0,
+        "fact": "Black Phoenix (1984–88) was made from the charred bow of a fishing boat destroyed by fire.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which record label, founded in Christchurch in 1981, was home to 'Dunedin sound' bands such as The Clean and The Chills?",
+        "choices": ["Rough Trade", "Sub Pop", "Flying Nun", "Mushroom Records"],
+        "answer": 2,
+        "fact": "Founded by Roger Shepherd, Flying Nun's jangly guitar bands influenced indie rock far beyond New Zealand.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "In 1893 New Zealand became the first self-governing country to grant what?",
+        "choices": ["Compulsory voting", "A written constitution", "Women the vote in national elections", "An elected upper house"],
+        "answer": 2,
+        "fact": "Women voted for the first time at the general election of 28 November 1893, just ten weeks after the law was signed.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who led the campaign for women's suffrage and has appeared on the $10 note since 1991?",
+        "choices": ["Elizabeth Yates", "Emmeline Pankhurst", "Kate Sheppard", "Jenny Shipley"],
+        "answer": 2,
+        "fact": "The 1893 suffrage petitions carried nearly 32,000 signatures, the largest petition yet presented to Parliament.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the nickname of the round executive wing of New Zealand's Parliament Buildings?",
+        "choices": ["The Shell", "The Beehive", "The Gherkin", "The Drum"],
+        "answer": 1,
+        "fact": "Designed by Scottish architect Sir Basil Spence, the Beehive houses ministers' offices and the Cabinet room.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which voting system has New Zealand used to elect Parliament since 1996?",
+        "choices": ["First-past-the-post", "Mixed-member proportional (MMP)", "Single transferable vote", "Preferential voting"],
+        "answer": 1,
+        "fact": "Voters get two votes: one for a party and one for a local electorate MP. MMP was chosen in referendums in 1992 and 1993.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many chambers does New Zealand's Parliament have?",
+        "choices": ["Four", "Two", "One", "Three"],
+        "answer": 2,
+        "fact": "The appointed upper house, the Legislative Council, was abolished from 1 January 1951, leaving only the House of Representatives.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became New Zealand's first female prime minister, in 1997?",
+        "choices": ["Jenny Shipley", "Jacinda Ardern", "Helen Clark", "Judith Collins"],
+        "answer": 0,
+        "fact": "Shipley took over as National leader mid-term; Helen Clark became the first woman to win the job at a general election, in 1999.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which official represents the monarch, New Zealand's head of state, within the country?",
+        "choices": ["The Prime Minister", "The Speaker", "The Chief Justice", "The Governor-General"],
+        "answer": 3,
+        "fact": "Sir Arthur Porritt, appointed in 1967, was the first New Zealand-born Governor-General.",
+        "difficulty": 1
+      },
+      {
+        "q": "On which date is Waitangi Day, New Zealand's national day, held?",
+        "choices": ["6 February", "26 January", "25 April", "1 March"],
+        "answer": 0,
+        "fact": "It marks the first signing of the Treaty of Waitangi in 1840, and ceremonies are held each year at the Treaty Grounds in Northland.",
+        "difficulty": 1
+      },
+      {
+        "q": "Jacinda Ardern became prime minister in 2017 as leader of which party?",
+        "choices": ["National", "Labour", "Green", "NZ First"],
+        "answer": 1,
+        "fact": "At 37 she was New Zealand's youngest prime minister in over 150 years, and in 2018 she gave birth while in office.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which prime minister's government passed the 1987 law making New Zealand nuclear-free?",
+        "choices": ["Jim Bolger", "David Lange", "Robert Muldoon", "Norman Kirk"],
+        "answer": 1,
+        "fact": "In a 1985 Oxford Union debate, Lange quipped that he could smell the uranium on his opponent's breath.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which body, set up in 1975, hears claims that the Crown has breached the Treaty of Waitangi?",
+        "choices": ["Waitangi Tribunal", "Law Commission", "Māori Land Court", "Human Rights Commission"],
+        "answer": 0,
+        "fact": "Since 1985 the Tribunal has been able to investigate claims going all the way back to 1840.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the Māori-language text of the Treaty of Waitangi called?",
+        "choices": ["Te Tiriti o Waitangi", "He Whakaputanga", "Te Ture Whenua", "Te Kawenata"],
+        "answer": 0,
+        "fact": "About 540 rangatira signed, all but 39 of them on the Māori text, whose wording differs from the English in key ways.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Liberal premier, nicknamed 'King Dick', is New Zealand's longest-serving head of government?",
+        "choices": ["Julius Vogel", "Keith Holyoake", "Robert Muldoon", "Richard Seddon"],
+        "answer": 3,
+        "fact": "Seddon led the country from 1893 until his death in 1906, on board a ship returning from Australia.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Labour prime minister introduced the Social Security Act 1938, laying the foundations of the welfare state?",
+        "choices": ["Norman Kirk", "Michael Joseph Savage", "Peter Fraser", "Richard Seddon"],
+        "answer": 1,
+        "fact": "Savage was so beloved that his portrait hung in many homes; he died in office in 1940.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which party did Winston Peters found in 1993?",
+        "choices": ["New Zealand First", "ACT", "United Future", "The Opportunity Party"],
+        "answer": 0,
+        "fact": "NZ First has entered coalition governments with National (1996 and 2023) and with Labour (2017).",
+        "difficulty": 2
+      },
+      {
+        "q": "Who led the 1975 Māori land march from Te Hāpua in the Far North to Parliament?",
+        "choices": ["Iriaka Rātana", "Eva Rickard", "Whina Cooper", "Te Puea Hērangi"],
+        "answer": 2,
+        "fact": "Aged 79, she set off with marchers on a journey of over 1,000 km under the call 'Not one more acre of Māori land'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which former prime minister went on to lead the United Nations Development Programme?",
+        "choices": ["Mike Moore", "Jenny Shipley", "Helen Clark", "Jim Bolger"],
+        "answer": 2,
+        "fact": "Clark was the first woman to head the UNDP, serving from 2009 to 2017.",
+        "difficulty": 2
+      },
+      {
+        "q": "What nickname was given to the free-market reforms of the 1984–90 Labour government's finance minister?",
+        "choices": ["Rogernomics", "Thatchernomics", "Muldoonism", "Ruthanasia"],
+        "answer": 0,
+        "fact": "Under Roger Douglas the New Zealand dollar was floated in 1985 and many state departments were turned into companies.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did New Zealand adopt the Statute of Westminster, gaining full legislative independence?",
+        "choices": ["1986", "1931", "1907", "1947"],
+        "answer": 3,
+        "fact": "Britain passed the Statute in 1931, but New Zealand was among the last dominions to adopt it.",
+        "difficulty": 3
+      },
+      {
+        "q": "How many Māori electorates were created when they were first established in 1867?",
+        "choices": ["Seven", "Four", "Ten", "Two"],
+        "answer": 1,
+        "fact": "The four seats were intended as temporary but have lasted ever since; today there are seven Māori electorates.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who in 1949 became the first Māori woman elected to Parliament?",
+        "choices": ["Mabel Howard", "Te Puea Hērangi", "Whina Cooper", "Iriaka Rātana"],
+        "answer": 3,
+        "fact": "She succeeded her late husband, Matiu Rātana, as MP for Western Maori and held the seat until 1969.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which prime minister sent navy frigates to Mururoa in 1973 to protest French nuclear testing?",
+        "choices": ["Keith Holyoake", "Robert Muldoon", "David Lange", "Norman Kirk"],
+        "answer": 3,
+        "fact": "HMNZS Otago and HMNZS Canterbury sailed to the test zone, with Cabinet minister Fraser Colman on board.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which prime minister served just 59 days in 1990 and later became Director-General of the World Trade Organization?",
+        "choices": ["Bill Rowling", "Bill English", "Mike Moore", "Geoffrey Palmer"],
+        "answer": 2,
+        "fact": "Moore led the WTO from 1999 to 2002, and later served as New Zealand's ambassador to the United States.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 1835, 34 northern rangatira signed He Whakaputanga, declaring the independence of which confederation?",
+        "choices": ["The Kīngitanga", "The Confederation of Hawaiki", "The Kotahitanga", "The United Tribes of New Zealand"],
+        "answer": 3,
+        "fact": "By 1839, 52 chiefs had signed the declaration, which Britain acknowledged before the Treaty of Waitangi.",
+        "difficulty": 3
+      },
+      {
+        "q": "In the 2016 referendum, voters kept the existing flag over an alternative showing the Southern Cross and what?",
+        "choices": ["A silver fern", "A koru", "A pōhutukawa flower", "A kiwi"],
+        "answer": 0,
+        "fact": "About 57% voted to keep the flag; the alternative, by designer Kyle Lockwood, was black and blue with a white fern.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "After the Christchurch mosque attacks of 15 March 2019, New Zealand quickly banned which items?",
+        "choices": ["Fireworks", "All handguns", "Hunting knives", "Most military-style semi-automatic firearms"],
+        "answer": 3,
+        "fact": "Parliament passed the ban by 119 votes to 1 in April 2019, and a government buy-back of the newly banned guns followed.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Whakaari/White Island, which erupted on 9 December 2019, lies in which bay?",
+        "choices": ["Tasman Bay", "Bay of Islands", "Bay of Plenty", "Hawke Bay"],
+        "answer": 2,
+        "fact": "The eruption killed 22 people, most of them visitors on tours of the active crater.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "At the October 2020 election, which party won the first outright majority under MMP?",
+        "choices": ["Labour", "ACT", "Green", "National"],
+        "answer": 0,
+        "fact": "Labour won 65 of the 120 seats with about 50% of the party vote, something no party had managed since MMP began in 1996.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Who succeeded Jacinda Ardern as prime minister in January 2023?",
+        "choices": ["Chris Hipkins", "Christopher Luxon", "Grant Robertson", "Kelvin Davis"],
+        "answer": 0,
+        "fact": "Announcing her resignation, Ardern said she no longer had 'enough in the tank' to do the job justice.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who became prime minister after the October 2023 general election?",
+        "choices": ["Chris Hipkins", "Winston Peters", "Christopher Luxon", "David Seymour"],
+        "answer": 2,
+        "fact": "Luxon, a former Air New Zealand chief executive, formed a three-party coalition of National, ACT and NZ First.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which cyclone devastated Hawke's Bay and Tairāwhiti in February 2023?",
+        "choices": ["Bola", "Gabrielle", "Yasi", "Gita"],
+        "answer": 1,
+        "fact": "Only the third national state of emergency in New Zealand's history was declared as the storm hit.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which country co-hosted the 2023 FIFA Women's World Cup with New Zealand?",
+        "choices": ["Australia", "Canada", "Japan", "Fiji"],
+        "answer": 0,
+        "fact": "In the opening match at Eden Park, the Football Ferns beat Norway 1–0, their first ever World Cup win.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which team won the women's Rugby World Cup final at Eden Park in November 2022?",
+        "choices": ["New Zealand", "England", "France", "Canada"],
+        "answer": 0,
+        "fact": "The Black Ferns beat England 34–31 in front of more than 42,000 fans, a record crowd for a women's rugby match.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "What was the name of New Zealand's 2020 strategy, which aimed to stamp out Covid-19 entirely?",
+        "choices": ["Elimination", "Mitigation", "Suppression", "Herd immunity"],
+        "answer": 0,
+        "fact": "A strict Alert Level 4 lockdown began on 25 March 2020, with the country's borders closed to almost all non-residents.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In March 2021 Emirates Team New Zealand defended the America's Cup in Auckland against which challenger?",
+        "choices": ["Alinghi", "Luna Rossa", "INEOS Team UK", "American Magic"],
+        "answer": 1,
+        "fact": "The Kiwi foiling monohull Te Rehutai beat the Italian syndicate 7–3 on the Hauraki Gulf.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which city was hit by record rainfall and deadly flooding on 27 January 2023?",
+        "choices": ["Napier", "Dunedin", "Wellington", "Auckland"],
+        "answer": 3,
+        "fact": "The Auckland Anniversary Weekend floods killed four people, just two weeks before Cyclone Gabrielle struck.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who became the Māori Queen in September 2024, following the death of Kīngi Tūheitia?",
+        "choices": ["Whatumoana Paki", "Ngā wai hono i te pō", "Te Atairangikaahu", "Te Puea Hērangi"],
+        "answer": 1,
+        "fact": "She is the second Māori Queen, after her grandmother, Te Arikinui Dame Te Atairangikaahu.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "The November 2024 Hīkoi mō te Tiriti marched to Parliament to oppose which proposed law?",
+        "choices": ["The Smokefree Generation Bill", "The Fair Pay Agreements Bill", "The Three Waters Bill", "The Treaty Principles Bill"],
+        "answer": 3,
+        "fact": "Police estimated 42,000 people gathered at Parliament; the bill was voted down 112–11 at its second reading in April 2025.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Who won Olympic high jump gold for New Zealand at the Paris 2024 Games?",
+        "choices": ["Gianmarco Tamberi", "Shelby McEwen", "Hamish Kerr", "Tom Walsh"],
+        "answer": 2,
+        "fact": "Kerr took the title after a tense jump-off with American Shelby McEwen.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which kayaker became New Zealand's most successful Olympian at Paris 2024, taking her gold tally to eight?",
+        "choices": ["Aimee Fisher", "Lisa Carrington", "Valerie Adams", "Lydia Ko"],
+        "answer": 1,
+        "fact": "Carrington won three golds in Paris, in the K-1 500, K-2 500 and K-4 500.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In New Zealand's October 2020 referendums, voters approved which proposal?",
+        "choices": ["A four-year parliamentary term", "Changing the national flag", "Legalising recreational cannabis", "Legalising assisted dying"],
+        "answer": 3,
+        "fact": "About two-thirds backed the End of Life Choice Act, while recreational cannabis was narrowly rejected with just under 49% support.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "In January 2025, Parliament recognised which mountain as a legal person?",
+        "choices": ["Aoraki", "Tongariro", "Ruapehu", "Taranaki Maunga"],
+        "answer": 3,
+        "fact": "It joined Te Urewera (2014) and the Whanganui River (2017) as natural features with legal personhood in New Zealand.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Matariki, first celebrated as a public holiday in June 2022, marks the rising of which star cluster?",
+        "choices": ["Southern Cross", "Pleiades", "Hyades", "Orion's Belt"],
+        "answer": 1,
+        "fact": "It was the first public holiday to recognise te ao Māori, and its date shifts each year with the maramataka (Māori lunar calendar).",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Who became New Zealand's youngest MP in over 170 years at the October 2023 election, aged 21?",
+        "choices": ["Chlöe Swarbrick", "Debbie Ngarewa-Packer", "Hana-Rāwhiti Maipi-Clarke", "Rawiri Waititi"],
+        "answer": 2,
+        "fact": "Te Pāti Māori's Maipi-Clarke won Hauraki-Waikato, and her maiden speech, which opened with a haka, was watched worldwide.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which international forum did New Zealand host entirely online in 2021?",
+        "choices": ["APEC", "Pacific Islands Forum", "G20", "CHOGM"],
+        "answer": 0,
+        "fact": "Jacinda Ardern chaired the leaders' meeting by video link; New Zealand had last hosted APEC in person in Auckland in 1999.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Who was sworn in as New Zealand's Governor-General in October 2021?",
+        "choices": ["Cindy Kiro", "Jerry Mateparae", "Patsy Reddy", "Silvia Cartwright"],
+        "answer": 0,
+        "fact": "Dame Cindy Kiro (Ngāpuhi, Ngāti Kahu, Ngāti Hine) is the first Māori woman to hold the role.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2021 the government formally apologised to which communities for the Dawn Raids of the 1970s?",
+        "choices": ["Vietnamese refugees", "Pacific communities", "Indian New Zealanders", "Chinese New Zealanders"],
+        "answer": 1,
+        "fact": "The early-morning raids targeted alleged overstayers, overwhelmingly people from Pacific nations such as Tonga and Samoa.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In October 2024 the White Ferns won their first Women's T20 World Cup by beating which team in the final?",
+        "choices": ["India", "England", "Australia", "South Africa"],
+        "answer": 3,
+        "fact": "They won by 32 runs in Dubai, and Amelia Kerr was named player of the match and of the tournament.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "At the October 2023 election, Te Pāti Māori won how many of the seven Māori electorates?",
+        "choices": ["Seven", "Three", "Six", "Four"],
+        "answer": 2,
+        "fact": "Its electorate wins outstripped its party vote, creating an overhang that took Parliament to 123 seats.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "New Zealand's December 2022 'smokefree generation' law would have banned tobacco sales to anyone born on or after which date?",
+        "choices": ["1 January 2005", "1 January 2012", "1 January 2009", "1 January 2000"],
+        "answer": 2,
+        "fact": "The law was repealed in February 2024, before the generational ban took effect.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is the Māori name most widely used for New Zealand?",
+        "choices": ["Rangiātea", "Te Moana-nui-a-Kiwa", "Hawaiki", "Aotearoa"],
+        "answer": 3,
+        "fact": "Aotearoa is often translated as 'land of the long white cloud', after the clouds that marked land for approaching voyagers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which flightless, nocturnal bird is New Zealand's best-known national symbol?",
+        "choices": ["Kiwi", "Takahē", "Weka", "Kākāpō"],
+        "answer": 0,
+        "fact": "The kiwi is the only bird with nostrils at the tip of its long bill, which it uses to sniff out worms underground.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of New Zealand's national men's rugby union team?",
+        "choices": ["Pumas", "Wallabies", "All Blacks", "Springboks"],
+        "answer": 2,
+        "fact": "The All Blacks have won the Rugby World Cup three times, in 1987, 2011 and 2015.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which strait separates the North Island from the South Island?",
+        "choices": ["Bass Strait", "Cook Strait", "Foveaux Strait", "Torres Strait"],
+        "answer": 1,
+        "fact": "At its narrowest the strait is only about 22 km wide, but its currents and winds make it one of the world's roughest crossings.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is New Zealand's highest mountain?",
+        "choices": ["Mount Ruapehu", "Aoraki / Mount Cook", "Mount Aspiring / Tititea", "Mount Taranaki"],
+        "answer": 1,
+        "fact": "Aoraki stands 3,724 m tall; a huge rockfall in 1991 knocked about 10 m off its summit.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which is New Zealand's largest city by population?",
+        "choices": ["Christchurch", "Hamilton", "Auckland", "Wellington"],
+        "answer": 2,
+        "fact": "Auckland, Tāmaki Makaurau, is built on a volcanic field of about 50 volcanoes, including Rangitoto in its harbour.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which meringue dessert, topped with cream and fruit, do New Zealand and Australia both claim?",
+        "choices": ["Eton mess", "Pavlova", "Lamington", "Baked Alaska"],
+        "answer": 1,
+        "fact": "It is named after Russian ballerina Anna Pavlova, who toured both countries in the 1920s.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the Māori name for food cooked in an earth oven using heated stones?",
+        "choices": ["Kūmara", "Hāngī", "Pāua", "Rēwena"],
+        "answer": 1,
+        "fact": "Meat and vegetables are wrapped, placed on hot stones in a pit and covered with earth to steam for several hours.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ice cream flavour, vanilla with crunchy lumps of honeycomb toffee, is a Kiwi classic?",
+        "choices": ["Rocky road", "Tutti frutti", "Hokey pokey", "Cookies and cream"],
+        "answer": 2,
+        "fact": "In New Zealand 'hokey pokey' also means the honeycomb toffee itself, made by adding baking soda to bubbling sugar syrup.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Hobbiton movie set from The Lord of the Rings is near which Waikato town?",
+        "choices": ["Matamata", "Te Awamutu", "Taupō", "Cambridge"],
+        "answer": 0,
+        "fact": "The set sits on a working sheep and beef farm owned by the Alexander family, which Peter Jackson's scouts spotted from the air.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which giant flightless birds were hunted to extinction within a few centuries of human settlement in New Zealand?",
+        "choices": ["Elephant birds", "Dodo", "Moa", "Great auks"],
+        "answer": 2,
+        "fact": "The largest moa stood about 3.6 m tall with neck stretched upward, and was hunted by the huge Haast's eagle.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which famous natural wonder was destroyed by the 1886 eruption of Mount Tarawera?",
+        "choices": ["Champagne Pool", "Huka Falls", "Pōhutu Geyser", "The Pink and White Terraces"],
+        "answer": 3,
+        "fact": "The silica terraces on Lake Rotomahana were a major tourist attraction; the eruption also buried the village of Te Wairoa.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of New Zealand's flightless, nocturnal parrot?",
+        "choices": ["Kākāpō", "Kākā", "Kākāriki", "Kea"],
+        "answer": 0,
+        "fact": "The kākāpō is also the world's heaviest parrot, and every surviving bird is named and closely monitored.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is New Zealand's largest lake?",
+        "choices": ["Lake Te Anau", "Lake Taupō", "Lake Rotorua", "Lake Wakatipu"],
+        "answer": 1,
+        "fact": "Lake Taupō fills a caldera formed by enormous volcanic eruptions, the most recent major one about 1,800 years ago.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Fiordland inlet, overlooked by Mitre Peak, is New Zealand's most visited fiord?",
+        "choices": ["Doubtful Sound / Patea", "Pelorus Sound", "Dusky Sound", "Milford Sound / Piopiotahi"],
+        "answer": 3,
+        "fact": "Despite its name, Milford Sound is a fiord carved by glaciers; Mitre Peak rises about 1,690 m straight from the water.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of New Zealand's national netball team?",
+        "choices": ["White Ferns", "Football Ferns", "Black Ferns", "Silver Ferns"],
+        "answer": 3,
+        "fact": "The silver fern, or ponga, gets its name from the silvery-white underside of its fronds.",
+        "difficulty": 2
+      },
+      {
+        "q": "What creates the starry glow on the ceilings of the Waitomo Caves?",
+        "choices": ["Glowworms", "Phosphorescent minerals", "Fireflies", "Luminous fungi"],
+        "answer": 0,
+        "fact": "Waitomo's glowworms are the larvae of a fungus gnat; they dangle sticky silk threads to catch insects drawn to their light.",
+        "difficulty": 2
+      },
+      {
+        "q": "The everyday greeting 'kia ora' literally wishes someone what?",
+        "choices": ["A warm welcome home", "Good morning", "A safe journey", "Good health / to be well"],
+        "answer": 3,
+        "fact": "Te reo Māori became an official language of New Zealand in 1987, and 'kia ora' is used for hello, thanks and good wishes.",
+        "difficulty": 2
+      },
+      {
+        "q": "Tongariro, New Zealand's first national park, was gifted in 1887 by the paramount chief of which iwi?",
+        "choices": ["Ngāti Tūwharetoa", "Ngāpuhi", "Ngāti Porou", "Ngāi Tahu"],
+        "answer": 0,
+        "fact": "Te Heuheu Tūkino IV gifted the sacred peaks; Tongariro is now a dual World Heritage Site for both nature and culture.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the Māori name for the South Island, often translated as 'the waters of greenstone'?",
+        "choices": ["Te Ika-a-Māui", "Rakiura", "Te Tai Tokerau", "Te Waipounamu"],
+        "answer": 3,
+        "fact": "Pounamu (greenstone) from the island's west coast rivers was prized for tools and treasured adornments.",
+        "difficulty": 3
+      },
+      {
+        "q": "A hill with one of the world's longest place names, 85 letters long, lies in which region?",
+        "choices": ["Northland", "Southland", "Hawke's Bay", "Taranaki"],
+        "answer": 2,
+        "fact": "Taumata… tells how the ancestor Tamatea played his kōauau (flute) on the hilltop to his loved one.",
+        "difficulty": 3
+      },
+      {
+        "q": "The tuatara is the only living member of which ancient order of reptiles?",
+        "choices": ["Testudines", "Rhynchocephalia", "Crocodilia", "Squamata"],
+        "answer": 1,
+        "fact": "Tuatara have a 'third eye' (parietal eye) on top of the head, visible in hatchlings before scales grow over it.",
+        "difficulty": 3
+      },
+      {
+        "q": "Franz Josef and Fox glaciers lie in which national park?",
+        "choices": ["Mount Aspiring", "Fiordland", "Westland Tai Poutini", "Aoraki/Mount Cook"],
+        "answer": 2,
+        "fact": "Both glaciers flow from the Southern Alps down towards temperate rainforest, only a short distance from the Tasman Sea.",
+        "difficulty": 3
+      },
+      {
+        "q": "Stewart Island's Māori name, Rakiura, is often translated as what?",
+        "choices": ["Glowing skies", "Fish of Māui", "Long white cloud", "Waters of greenstone"],
+        "answer": 0,
+        "fact": "The name is linked to the aurora australis and blazing sunsets; about 85% of the island is Rakiura National Park.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which language became an official language of New Zealand by law in 2006?",
+        "choices": ["New Zealand Sign Language", "Mandarin", "Hindi", "Samoan"],
+        "answer": 0,
+        "fact": "Te reo Māori (1987) and NZ Sign Language (2006) are official by statute, while English is official through everyday use.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

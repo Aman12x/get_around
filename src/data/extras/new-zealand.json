@@ -1,0 +1,39 @@
+{
+  "country": "new-zealand",
+  "timeline": [
+    { "event": "East Polynesian voyagers settle Aotearoa by waka hourua", "year": 1280, "label": "c. 1250–1300", "approx": true, "difficulty": 1 },
+    { "event": "Abel Tasman becomes the first European to sight New Zealand", "year": 1642, "label": "1642", "difficulty": 1 },
+    { "event": "James Cook's Endeavour makes landfall at Tūranganui-a-Kiwa (Gisborne)", "year": 1769, "label": "1769", "difficulty": 1 },
+    { "event": "Samuel Marsden preaches the first Christian sermon, at Oihi", "year": 1814, "label": "1814", "difficulty": 2 },
+    { "event": "Northern rangatira sign He Whakaputanga, a declaration of independence", "year": 1835, "label": "1835", "difficulty": 3 },
+    { "event": "The Treaty of Waitangi is first signed", "year": 1840, "label": "1840", "difficulty": 1 },
+    { "event": "Pōtatau Te Wherowhero becomes the first Māori King", "year": 1858, "label": "1858", "difficulty": 3 },
+    { "event": "Gold is found at Gabriel's Gully, starting the Otago gold rush", "year": 1861, "label": "1861", "difficulty": 2 },
+    { "event": "The seat of government moves from Auckland to Wellington", "year": 1865, "label": "1865", "difficulty": 2 },
+    { "event": "Mount Tarawera erupts, destroying the Pink and White Terraces", "year": 1886, "label": "1886", "difficulty": 2 },
+    { "event": "New Zealand women win the right to vote in national elections", "year": 1893, "label": "1893", "difficulty": 1 },
+    { "event": "New Zealand becomes a Dominion of the British Empire", "year": 1907, "label": "1907", "difficulty": 3 },
+    { "event": "ANZAC troops land at Gallipoli", "year": 1915, "label": "1915", "difficulty": 1 },
+    { "event": "The Hawke's Bay earthquake devastates Napier and Hastings", "year": 1931, "label": "1931", "difficulty": 2 },
+    { "event": "Edmund Hillary and Tenzing Norgay reach the summit of Everest", "year": 1953, "label": "1953", "difficulty": 1 },
+    { "event": "The Waitangi Tribunal is established", "year": 1975, "label": "1975", "difficulty": 3 },
+    { "event": "French agents sink the Rainbow Warrior in Auckland Harbour", "year": 1985, "label": "1985", "difficulty": 2 },
+    { "event": "Parliament passes the law making New Zealand nuclear-free", "year": 1987, "label": "1987", "difficulty": 2 },
+    { "event": "The first general election under MMP is held", "year": 1996, "label": "1996", "difficulty": 2 },
+    { "event": "The Return of the King sweeps the Academy Awards", "year": 2004, "label": "2004", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Wellington", "kind": "city", "lat": -41.29, "lon": 174.78, "clue": "The world's southernmost capital of a sovereign state, on the shores of Te Whanganui-a-Tara harbour.", "difficulty": 1 },
+    { "name": "Auckland", "kind": "city", "lat": -36.85, "lon": 174.76, "clue": "New Zealand's largest city, Tāmaki Makaurau, sits on a narrow isthmus between two harbours.", "difficulty": 1 },
+    { "name": "Queenstown", "kind": "city", "lat": -45.03, "lon": 168.66, "clue": "Commercial bungee jumping began nearby in 1988, at this Lake Wakatipu resort's Kawarau Bridge.", "difficulty": 1 },
+    { "name": "Aoraki / Mount Cook", "kind": "nature", "lat": -43.60, "lon": 170.14, "clue": "New Zealand's highest peak, 3,724 m, sacred to Ngāi Tahu as their most important ancestor.", "difficulty": 1 },
+    { "name": "Milford Sound / Piopiotahi", "kind": "nature", "lat": -44.64, "lon": 167.90, "clue": "A glacier-carved fiord in Fiordland where Mitre Peak rises straight from the water.", "difficulty": 1 },
+    { "name": "Rotorua", "kind": "city", "lat": -38.14, "lon": 176.25, "clue": "A geothermal city of geysers and bubbling mud, and a heartland of Te Arawa culture.", "difficulty": 2 },
+    { "name": "Waitangi Treaty Grounds", "kind": "historic", "lat": -35.27, "lon": 174.08, "clue": "Where the Treaty of Waitangi was first signed on 6 February 1840, in the Bay of Islands.", "difficulty": 2 },
+    { "name": "Hobbiton Movie Set", "kind": "landmark", "lat": -37.87, "lon": 175.68, "clue": "The Shire from The Lord of the Rings, built on a working sheep and beef farm near Matamata.", "difficulty": 2 },
+    { "name": "Napier", "kind": "city", "lat": -39.49, "lon": 176.91, "clue": "Rebuilt after the 1931 Hawke's Bay earthquake, it is famed for its Art Deco streets.", "difficulty": 2 },
+    { "name": "Cape Reinga / Te Rerenga Wairua", "kind": "landmark", "lat": -34.43, "lon": 172.68, "clue": "In Māori tradition, the leaping place of spirits departing for Hawaiki; its lighthouse overlooks two seas meeting.", "difficulty": 3 },
+    { "name": "Moeraki Boulders", "kind": "nature", "lat": -45.35, "lon": 170.83, "clue": "Huge spherical concretions scattered along Koekohe Beach on the North Otago coast.", "difficulty": 3 },
+    { "name": "Punakaiki Pancake Rocks", "kind": "nature", "lat": -42.11, "lon": 171.33, "clue": "Layered limestone stacks and blowholes on the wild West Coast in Paparoa National Park.", "difficulty": 3 }
+  ]
+}
