@@ -1,0 +1,1092 @@
+{
+  "country": "turkey",
+  "topics": {
+    "history": [
+      {
+        "q": "Which Ottoman sultan conquered Constantinople in 1453?",
+        "choices": ["Suleiman the Magnificent", "Osman I", "Selim I", "Mehmed II"],
+        "answer": 3,
+        "fact": "Mehmed was just 21 when the city fell, earning him the title Fatih, \"the Conqueror.\"",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was the first President of the Republic of Turkey?",
+        "choices": ["İsmet İnönü", "Celal Bayar", "Mustafa Kemal Atatürk", "Enver Pasha"],
+        "answer": 2,
+        "fact": "The surname Atatürk, meaning \"Father of the Turks,\" was granted to him by parliament in 1934.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient city, the setting of Homer's Iliad, lies in northwest Anatolia?",
+        "choices": ["Ephesus", "Pergamon", "Miletus", "Troy"],
+        "answer": 3,
+        "fact": "Heinrich Schliemann began excavating the mound of Hisarlık in 1871; the mound holds the remains of nine successive cities.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Ottoman sultan, known in Europe as \"the Magnificent\", reigned from 1520 to 1566?",
+        "choices": ["Mehmed II", "Selim II", "Suleiman I", "Murad IV"],
+        "answer": 2,
+        "fact": "In Turkey he is called Kanuni, \"the Lawgiver,\" for his overhaul of the empire's legal system.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Roman emperor refounded Byzantium as his new capital in 330 CE?",
+        "choices": ["Justinian I", "Theodosius I", "Augustus", "Constantine the Great"],
+        "answer": 3,
+        "fact": "The city was named Constantinople after him and remained an imperial capital for more than 1,500 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "In what year was the Republic of Turkey proclaimed?",
+        "choices": ["1923", "1919", "1938", "1908"],
+        "answer": 0,
+        "fact": "The Republic was declared on 29 October 1923, now celebrated every year as Republic Day.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Ottoman Empire takes its name from which founder?",
+        "choices": ["Orhan", "Osman I", "Ertuğrul", "Bayezid I"],
+        "answer": 1,
+        "fact": "Osman led a small principality in northwest Anatolia around 1300; his dynasty ruled for over 600 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which First World War campaign of 1915 saw Ottoman forces repel Allied landings on a peninsula by the Dardanelles?",
+        "choices": ["Gallipoli", "Verdun", "Kut", "The Somme"],
+        "answer": 0,
+        "fact": "Mustafa Kemal rose to prominence as a commander there; Australia and New Zealand remember the campaign on Anzac Day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Byzantine emperor ordered the great codification of Roman law known as the Corpus Juris Civilis?",
+        "choices": ["Constantine the Great", "Basil II", "Justinian I", "Heraclius"],
+        "answer": 2,
+        "fact": "Justinian's law code became the foundation of civil law systems across much of Europe.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Bronze Age people built an empire in central Anatolia with its capital at Hattusa?",
+        "choices": ["Phrygians", "Hittites", "Lydians", "Assyrians"],
+        "answer": 1,
+        "fact": "The Hittite language is the oldest written Indo-European language known, recorded on clay tablets.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which king of Lydia gave his name to a byword for great wealth?",
+        "choices": ["Midas", "Croesus", "Gyges", "Priam"],
+        "answer": 1,
+        "fact": "Croesus ruled from Sardis in western Anatolia until the Persian king Cyrus the Great conquered Lydia in the 6th century BCE.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1071 battle, in which Alp Arslan captured a Byzantine emperor, opened Anatolia to the Seljuk Turks?",
+        "choices": ["Kosovo", "Mohács", "Ankara", "Manzikert"],
+        "answer": 3,
+        "fact": "Emperor Romanos IV Diogenes was captured at Manzikert (Malazgirt) and later released on ransom.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1923 treaty set out the internationally recognised borders of the new Turkish state?",
+        "choices": ["Treaty of Lausanne", "Treaty of Sèvres", "Treaty of Versailles", "Treaty of Trianon"],
+        "answer": 0,
+        "fact": "The treaty was signed in Switzerland on 24 July 1923, a few months before the Republic was proclaimed.",
+        "difficulty": 2
+      },
+      {
+        "q": "At which 1402 battle was Ottoman sultan Bayezid I defeated and captured by Timur?",
+        "choices": ["Battle of Manzikert", "Battle of Nicopolis", "Battle of Varna", "Battle of Ankara"],
+        "answer": 3,
+        "fact": "Bayezid's defeat led to over a decade of civil war among his sons, known as the Ottoman Interregnum.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which legendary king, whose touch supposedly turned things to gold, ruled Phrygia from Gordion?",
+        "choices": ["Croesus", "Priam", "Midas", "Agamemnon"],
+        "answer": 2,
+        "fact": "Alexander the Great is said to have cut the famous Gordian Knot at Gordion in 333 BCE.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which elite Ottoman infantry corps was abolished by Sultan Mahmud II in 1826?",
+        "choices": ["Sipahis", "Janissaries", "Mamluks", "Akıncı"],
+        "answer": 1,
+        "fact": "The Janissaries' military band, the mehter, is considered one of the oldest military bands in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Ottoman sultan conquered Mamluk Egypt in 1517?",
+        "choices": ["Selim I", "Suleiman I", "Mehmed II", "Murad II"],
+        "answer": 0,
+        "fact": "Selim's conquests of Syria, Egypt and western Arabia greatly enlarged the empire in a reign of just eight years.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city did the Ottomans capture in 1326 and make their first major capital?",
+        "choices": ["Bursa", "Edirne", "Konya", "Iznik"],
+        "answer": 0,
+        "fact": "Bursa holds the tombs of the early sultans Osman and Orhan, and its silk trade made it wealthy.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Seljuk state had its capital at Konya in central Anatolia?",
+        "choices": ["Great Seljuk Empire", "Ilkhanate", "Sultanate of Rum", "Danishmendids"],
+        "answer": 2,
+        "fact": "\"Rum\" means \"Rome,\" referring to the former Byzantine lands the Seljuks ruled in Anatolia.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Neolithic town in central Anatolia had houses so tightly packed that people entered them through the roof?",
+        "choices": ["Hattusa", "Çatalhöyük", "Gordion", "Alaca Höyük"],
+        "answer": 1,
+        "fact": "Çatalhöyük was occupied from around 7400 BCE and its wall paintings include an early landscape scene.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1699 treaty marked the first major Ottoman territorial losses in central Europe?",
+        "choices": ["Treaty of Karlowitz", "Treaty of Passarowitz", "Treaty of Küçük Kaynarca", "Treaty of Berlin"],
+        "answer": 0,
+        "fact": "The treaty, which ceded most of Hungary to the Habsburgs, followed the failed Ottoman siege of Vienna in 1683.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1839 decree launched the Ottoman reform era known as the Tanzimat?",
+        "choices": ["Imperial Reform Edict", "Edict of Gülhane", "Treaty of Balta Liman", "Kanun-i Esasi"],
+        "answer": 1,
+        "fact": "Read aloud in the Gülhane rose garden of Topkapı Palace, it promised security of life, honour and property to all subjects.",
+        "difficulty": 3
+      },
+      {
+        "q": "In what year was the first Ottoman constitution proclaimed?",
+        "choices": ["1839", "1908", "1876", "1923"],
+        "answer": 2,
+        "fact": "Sultan Abdulhamid II suspended it in 1878; it was restored in 1908.",
+        "difficulty": 3
+      },
+      {
+        "q": "Herodotus, called the \"Father of History\", was born in which city on Anatolia's Aegean coast?",
+        "choices": ["Halicarnassus", "Miletus", "Ephesus", "Smyrna"],
+        "answer": 0,
+        "fact": "Halicarnassus is today's resort town of Bodrum.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Hellenistic dynasty, whose last king bequeathed his realm to Rome in 133 BCE, ruled from Pergamon?",
+        "choices": ["Seleucids", "Ptolemies", "Antigonids", "Attalids"],
+        "answer": 3,
+        "fact": "Attalus III's will turned his kingdom into the Roman province of Asia.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which ancient Anatolian kingdom is credited with minting the first coins?",
+        "choices": ["Phrygia", "Lycia", "Lydia", "Caria"],
+        "answer": 2,
+        "fact": "The earliest Lydian coins, from the 7th century BCE, were struck from electrum, a natural gold-silver alloy.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which writing material takes its name from the ancient Anatolian city of Pergamon?",
+        "choices": ["Papyrus", "Vellum paper", "Parchment", "Rice paper"],
+        "answer": 2,
+        "fact": "Pergamon's library was said to rival Alexandria's, and its scribes became famous for writing on prepared animal skins.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which incendiary weapon helped the Byzantines defend Constantinople from naval attack?",
+        "choices": ["Napalm", "The trebuchet", "Greek fire", "Gunpowder rockets"],
+        "answer": 2,
+        "fact": "Its recipe was such a closely guarded state secret that it is still not known for certain today.",
+        "difficulty": 1
+      },
+      {
+        "q": "Turkey is the world's largest producer of which nut?",
+        "choices": ["Hazelnuts", "Almonds", "Walnuts", "Cashews"],
+        "answer": 0,
+        "fact": "Most of the crop grows on the hillsides of the Black Sea coast, and much of it ends up in chocolate spreads.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which field did Turkish-born scientist Aziz Sancar win a Nobel Prize in 2015?",
+        "choices": ["Chemistry", "Physics", "Medicine", "Economics"],
+        "answer": 0,
+        "fact": "Sancar shared the prize for mapping how cells repair damaged DNA.",
+        "difficulty": 1
+      },
+      {
+        "q": "In what year did the first bridge across the Bosphorus open?",
+        "choices": ["1953", "1988", "1923", "1973"],
+        "answer": 3,
+        "fact": "It opened on 30 October 1973, a day after the Republic's 50th anniversary, linking Europe and Asia by road.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Istanbul cistern, built under Justinian, has 336 columns and two carved Medusa heads?",
+        "choices": ["Basilica Cistern", "Cistern of Philoxenos", "Valens Aqueduct", "Theodosius Cistern"],
+        "answer": 0,
+        "fact": "The underground reservoir could hold around 80,000 cubic metres of water for the Great Palace and nearby buildings.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which dam on the Euphrates is Turkey's largest?",
+        "choices": ["Keban Dam", "Atatürk Dam", "Ilısu Dam", "Karakaya Dam"],
+        "answer": 1,
+        "fact": "Built in the 1980s and early 1990s, it is the centrepiece of the Southeastern Anatolia Project for irrigation and hydropower.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which rail tunnel beneath the Bosphorus, opened in 2013, links the European and Asian sides of Istanbul?",
+        "choices": ["Marmaray", "Eurasia Tunnel", "Metrobüs", "Taksim Funicular"],
+        "answer": 0,
+        "fact": "Digging the tunnel uncovered the Byzantine harbour of Theodosius at Yenikapı, with dozens of ancient shipwrecks.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which cannon-maker cast giant bombards for Mehmed II's siege of Constantinople in 1453?",
+        "choices": ["Mimar Sinan", "Orban", "Taqi al-Din", "Piri Reis"],
+        "answer": 1,
+        "fact": "Orban had reportedly first offered his services to the Byzantines, who could not afford him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Ottoman admiral drew a world map in 1513 that shows part of the Americas?",
+        "choices": ["Hayreddin Barbarossa", "Turgut Reis", "Kemal Reis", "Piri Reis"],
+        "answer": 3,
+        "fact": "The surviving fragment of the map, drawn on gazelle-skin parchment, was rediscovered at Topkapı Palace in 1929.",
+        "difficulty": 2
+      },
+      {
+        "q": "Turkey holds most of the world's known reserves of which mineral, used in glass, ceramics and detergents?",
+        "choices": ["Lithium", "Boron", "Cobalt", "Tungsten"],
+        "answer": 1,
+        "fact": "Boron compounds are also used in fibreglass and heat-resistant borosilicate glass.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which home-appliance brand, sold widely across Europe, belongs to the Turkish company Arçelik?",
+        "choices": ["Beko", "Bosch", "Miele", "Electrolux"],
+        "answer": 0,
+        "fact": "Arçelik is part of Koç Holding, one of Turkey's largest industrial groups.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Roman emperor's aqueduct still strides across central Istanbul?",
+        "choices": ["Hadrian", "Valens", "Trajan", "Nero"],
+        "answer": 1,
+        "fact": "Completed in 368 CE, the Valens Aqueduct carried water into Constantinople for well over a thousand years.",
+        "difficulty": 2
+      },
+      {
+        "q": "Constantinople's massive land walls, which held for about a thousand years, are named after which emperor?",
+        "choices": ["Justinian I", "Constantine I", "Theodosius II", "Valens"],
+        "answer": 2,
+        "fact": "The walls combined a moat, an outer wall and a taller inner wall studded with nearly 100 towers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Turkey's first high-speed rail line, opened in 2009, linked Ankara with which city?",
+        "choices": ["Istanbul", "Konya", "Izmir", "Eskişehir"],
+        "answer": 3,
+        "fact": "The line was later extended to Istanbul and Konya, cutting journey times dramatically.",
+        "difficulty": 2
+      },
+      {
+        "q": "Turkey's first nuclear power plant, built with Russia's Rosatom, is at which Mediterranean site?",
+        "choices": ["Akkuyu", "Sinop", "İğneada", "Karaburun"],
+        "answer": 0,
+        "fact": "Akkuyu, in Mersin province, is designed with four reactors.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which philosopher from Miletus is said to have predicted the solar eclipse of 585 BCE?",
+        "choices": ["Pythagoras", "Heraclitus", "Thales", "Democritus"],
+        "answer": 2,
+        "fact": "According to Herodotus, the eclipse halted a battle between the Lydians and the Medes.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Turkish mathematician, known for an \"invariant\" named after him, appears on the 10-lira banknote?",
+        "choices": ["Kerim Erim", "Feza Gürsey", "Cahit Arf", "Ali Kuşçu"],
+        "answer": 2,
+        "fact": "The Arf invariant from his 1941 paper is still used in topology and coding theory.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Turkish surgeon was named \"Neurosurgery's Man of the Century\" for pioneering microneurosurgery?",
+        "choices": ["Aziz Sancar", "Mehmet Öz", "Hulusi Behçet", "Gazi Yaşargil"],
+        "answer": 3,
+        "fact": "Yaşargil developed many techniques and instruments for operating on the brain under a microscope.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which engineer at the Artuqid court in Diyarbakır wrote a famous 1206 book of ingenious mechanical devices?",
+        "choices": ["Taqi al-Din", "Hezârfen Ahmed Çelebi", "Ibn al-Haytham", "Al-Jazari"],
+        "answer": 3,
+        "fact": "His book describes water clocks, automata and pumps, illustrated with detailed drawings.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which mathematician from Tralles co-designed Hagia Sophia with Isidore of Miletus?",
+        "choices": ["Anthemius", "Archimedes", "Hero", "Apollodorus"],
+        "answer": 0,
+        "fact": "Their dome was so daring that it partly collapsed after an earthquake in 558 and had to be rebuilt higher.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who founded the first Ottoman printing press for books in Turkish, in the 1720s?",
+        "choices": ["Katip Çelebi", "İbrahim Müteferrika", "Evliya Çelebi", "Piri Reis"],
+        "answer": 1,
+        "fact": "His first book, an Arabic-Turkish dictionary, appeared in 1729.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which astronomer built an observatory in Istanbul in 1577 that was demolished only a few years later?",
+        "choices": ["Ulugh Beg", "Ali Kuşçu", "Al-Battani", "Taqi al-Din"],
+        "answer": 3,
+        "fact": "The observatory was torn down in 1580, after the appearance of a great comet in 1577 had stirred controversy at court.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who designed and flew the first aircraft built in Turkey, the Vecihi K-VI, in 1925?",
+        "choices": ["Nuri Demirağ", "Vecihi Hürkuş", "Sabiha Gökçen", "Hezârfen Ahmed Çelebi"],
+        "answer": 1,
+        "fact": "Hürkuş had been a fighter pilot in the First World War before turning to designing his own aircraft.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which Istanbul monument was completed as a cathedral under Emperor Justinian in 537?",
+        "choices": ["Hagia Sophia", "Sultan Ahmed Mosque", "Chora Church", "Hagia Irene"],
+        "answer": 0,
+        "fact": "Its 31-metre-wide dome seemed to float on a ring of windows, and it was the world's largest cathedral for nearly a thousand years.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Istanbul mosque is popularly called the \"Blue Mosque\" for its interior tiles?",
+        "choices": ["Süleymaniye Mosque", "Fatih Mosque", "Sultan Ahmed Mosque", "Rüstem Pasha Mosque"],
+        "answer": 2,
+        "fact": "Completed in the early 1600s, it is unusual for having six minarets.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which chief Ottoman architect designed the Süleymaniye Mosque in Istanbul and the Selimiye Mosque in Edirne?",
+        "choices": ["Mimar Sinan", "Sedefkar Mehmed Agha", "Mimar Kemaleddin", "Davud Agha"],
+        "answer": 0,
+        "fact": "Sinan is credited with hundreds of buildings and called the Selimiye in Edirne his masterpiece.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Turkish novelist won the 2006 Nobel Prize in Literature?",
+        "choices": ["Elif Şafak", "Yaşar Kemal", "Nazım Hikmet", "Orhan Pamuk"],
+        "answer": 3,
+        "fact": "Pamuk opened a real Museum of Innocence in Istanbul to accompany his novel of the same name.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 13th-century Sufi poet, buried in Konya, inspired the order known for its whirling dervishes?",
+        "choices": ["Rumi", "Hafez", "Omar Khayyam", "Saadi"],
+        "answer": 0,
+        "fact": "Known in Turkey as Mevlana, Rumi wrote the Masnavi, a long spiritual poem in Persian.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Istanbul palace was the main residence of the Ottoman sultans for nearly 400 years?",
+        "choices": ["Dolmabahçe Palace", "Topkapı Palace", "Çırağan Palace", "Yıldız Palace"],
+        "answer": 1,
+        "fact": "Topkapı is now a museum whose treasures include the 86-carat Spoonmaker's Diamond.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which of the Seven Wonders of the Ancient World stood at Halicarnassus, modern Bodrum?",
+        "choices": ["The Mausoleum", "The Colossus", "The Lighthouse of Alexandria", "The Hanging Gardens"],
+        "answer": 0,
+        "fact": "The tomb of Mausolus was so grand that \"mausoleum\" became the word for any monumental tomb.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which of the Seven Wonders of the Ancient World stood at Ephesus?",
+        "choices": ["Statue of Zeus", "Temple of Artemis", "The Mausoleum", "The Colossus"],
+        "answer": 1,
+        "fact": "Only a single re-erected column now marks the site of the once-vast temple.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Turkish TV drama about the life of Suleiman the Magnificent became an international hit in the early 2010s?",
+        "choices": ["Magnificent Century", "Resurrection: Ertuğrul", "Forbidden Love", "Valley of the Wolves"],
+        "answer": 0,
+        "fact": "\"Muhteşem Yüzyıl\" was broadcast in dozens of countries and boosted tourism to Topkapı Palace.",
+        "difficulty": 1
+      },
+      {
+        "q": "The reconstructed façade of the Library of Celsus stands in which ancient city?",
+        "choices": ["Pergamon", "Ephesus", "Aphrodisias", "Side"],
+        "answer": 1,
+        "fact": "Built in the 2nd century CE, the library also served as a tomb for the Roman senator Celsus.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the Turkish art of making swirling patterns by floating paint on water and lifting them onto paper?",
+        "choices": ["Ebru", "Hat", "Tezhip", "Çini"],
+        "answer": 0,
+        "fact": "Ebru, known in English as paper marbling, is on UNESCO's list of intangible cultural heritage.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 19th-century Bosphorus palace replaced Topkapı as the sultans' main residence?",
+        "choices": ["Dolmabahçe Palace", "Beylerbeyi Palace", "Çırağan Palace", "Yıldız Palace"],
+        "answer": 0,
+        "fact": "Atatürk died there on 10 November 1938, and the palace clocks are still set to 9:05, the time of his death.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which modernist poet wrote the epic \"Human Landscapes from My Country\"?",
+        "choices": ["Orhan Veli", "Yahya Kemal", "Yunus Emre", "Nazım Hikmet"],
+        "answer": 3,
+        "fact": "Nazım Hikmet wrote much of the work while in prison, and spent his last years in exile.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which painter of \"The Tortoise Trainer\" (1906) also founded Istanbul's Archaeology Museum?",
+        "choices": ["Şeker Ahmed Pasha", "Fikret Mualla", "Osman Hamdi Bey", "Bedri Rahmi Eyüboğlu"],
+        "answer": 2,
+        "fact": "The painting now hangs in Istanbul's Pera Museum, which bought it in 2004 for a record price.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 16th-century glazed tiles decorating Topkapı Palace and the Blue Mosque were mainly made in which town?",
+        "choices": ["Kütahya", "İznik", "Bursa", "Konya"],
+        "answer": 1,
+        "fact": "İznik potters perfected a vivid \"tomato red\" glaze that was famously hard to reproduce.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which author wrote \"Memed, My Hawk\" (İnce Memed), about a bandit in the Taurus Mountains?",
+        "choices": ["Orhan Pamuk", "Sabahattin Ali", "Elif Şafak", "Yaşar Kemal"],
+        "answer": 3,
+        "fact": "Published in 1955, the novel has been translated into dozens of languages.",
+        "difficulty": 2
+      },
+      {
+        "q": "Nuri Bilge Ceylan won the Palme d'Or at Cannes in 2014 for which film?",
+        "choices": ["Once Upon a Time in Anatolia", "Distant", "The Wild Pear Tree", "Winter Sleep"],
+        "answer": 3,
+        "fact": "The three-hour drama is set in a cave hotel in snowy Cappadocia.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which site near Şanlıurfa has carved T-shaped stone pillars more than 11,000 years old?",
+        "choices": ["Çatalhöyük", "Mount Nemrut", "Göbekli Tepe", "Hattusa"],
+        "answer": 2,
+        "fact": "Its monumental enclosures were built by hunter-gatherers, before the invention of pottery or writing.",
+        "difficulty": 2
+      },
+      {
+        "q": "Karagöz and Hacivat are the stock characters of which traditional Turkish art?",
+        "choices": ["Miniature painting", "Calligraphy", "Shadow puppet theatre", "Folk dance"],
+        "answer": 2,
+        "fact": "Legend links the pair to builders of a Bursa mosque; their comic shadow plays are on UNESCO's intangible heritage list.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 13th-14th-century poet is celebrated for pioneering mystical poetry in everyday Turkish?",
+        "choices": ["Fuzuli", "Baki", "Nedim", "Yunus Emre"],
+        "answer": 3,
+        "fact": "Turkey's cultural institute abroad, the Yunus Emre Institute, is named after him.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 16th-century Ottoman polymath painted detailed bird's-eye views of cities on Suleiman's campaigns?",
+        "choices": ["Levni", "Matrakçı Nasuh", "Nakkaş Osman", "Piri Reis"],
+        "answer": 1,
+        "fact": "Matrakçı Nasuh was also a mathematician and is credited with inventing the martial game of matrak.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ancient city in Caria, famed for its school of marble sculptors, was named after a goddess of love?",
+        "choices": ["Hierapolis", "Priene", "Aphrodisias", "Sardis"],
+        "answer": 2,
+        "fact": "Aphrodisias was added to the UNESCO World Heritage list in 2017.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which composer, one of the \"Turkish Five\", wrote the oratorio \"Yunus Emre\" (1942)?",
+        "choices": ["Ulvi Cemal Erkin", "Cemal Reşit Rey", "Ahmed Adnan Saygun", "Fazıl Say"],
+        "answer": 2,
+        "fact": "Saygun also collaborated with Béla Bartók on folk-song research in Anatolia in 1936.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which architect designed Anıtkabir, Atatürk's mausoleum in Ankara, together with Orhan Arda?",
+        "choices": ["Mimar Kemaleddin", "Vedat Tek", "Sedad Hakkı Eldem", "Emin Onat"],
+        "answer": 3,
+        "fact": "Their design won an international competition in 1942, and the mausoleum was completed in 1953.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Turkish pianist composed \"Black Earth\", inspired by a song of the folk poet Âşık Veysel?",
+        "choices": ["İdil Biret", "Fazıl Say", "Gülsin Onay", "Ahmed Adnan Saygun"],
+        "answer": 1,
+        "fact": "Say imitates the sound of the bağlama, a Turkish long-necked lute, by muting the piano strings with his hand.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "What is the capital of Turkey?",
+        "choices": ["Istanbul", "Izmir", "Bursa", "Ankara"],
+        "answer": 3,
+        "fact": "Ankara became the capital in October 1923, replacing Istanbul, which had been the imperial seat for centuries.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of Turkey's parliament?",
+        "choices": ["Majlis", "Supreme Soviet", "Grand National Assembly", "National Diet"],
+        "answer": 2,
+        "fact": "Its full name is the Grand National Assembly of Turkey (Türkiye Büyük Millet Meclisi).",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1928, Turkey replaced the Arabic script for writing Turkish with which alphabet?",
+        "choices": ["Cyrillic", "Greek", "Armenian", "Latin"],
+        "answer": 3,
+        "fact": "Atatürk toured the country with a blackboard and chalk to teach the new letters himself.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who served as Turkey's Prime Minister from 2003 to 2014 and then became President?",
+        "choices": ["Recep Tayyip Erdoğan", "Abdullah Gül", "Ahmet Davutoğlu", "Binali Yıldırım"],
+        "answer": 0,
+        "fact": "In 2014 he became the first Turkish president elected directly by popular vote.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which military alliance did Turkey join in 1952?",
+        "choices": ["Warsaw Pact", "SEATO", "NATO", "ANZUS"],
+        "answer": 2,
+        "fact": "Turkey and Greece joined NATO together in February 1952, in the alliance's first enlargement.",
+        "difficulty": 1
+      },
+      {
+        "q": "What does the surname \"Atatürk\" mean?",
+        "choices": ["Father of the Turks", "Leader of the Turks", "Hero of the Turks", "Teacher of the Turks"],
+        "answer": 0,
+        "fact": "A 1934 law granted him the name and barred anyone else from adopting it.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1945, Turkey was among the founding members of which organisation?",
+        "choices": ["United Nations", "NATO", "European Economic Community", "OPEC"],
+        "answer": 0,
+        "fact": "Turkey signed the UN Charter in San Francisco in June 1945.",
+        "difficulty": 1
+      },
+      {
+        "q": "On which date does Turkey celebrate Republic Day?",
+        "choices": ["23 April", "29 October", "19 May", "30 August"],
+        "answer": 1,
+        "fact": "Celebrations include flag-filled streets, parades and fireworks over the Bosphorus.",
+        "difficulty": 1
+      },
+      {
+        "q": "Turkey applied to join the European Community in 1987 and began membership talks with which body in 2005?",
+        "choices": ["Council of Europe", "OSCE", "European Union", "European Free Trade Association"],
+        "answer": 2,
+        "fact": "Turkey has had a customs union with the EU since 1996.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who succeeded Atatürk as President of Turkey in 1938?",
+        "choices": ["İsmet İnönü", "Celal Bayar", "Adnan Menderes", "Fevzi Çakmak"],
+        "answer": 0,
+        "fact": "İnönü had been Atatürk's chief negotiator at Lausanne and served as president until 1950.",
+        "difficulty": 2
+      },
+      {
+        "q": "In what year did the Turkish Grand National Assembly abolish the Ottoman sultanate?",
+        "choices": ["1908", "1924", "1922", "1918"],
+        "answer": 2,
+        "fact": "The last sultan, Mehmed VI, left Istanbul aboard a British warship in November 1922.",
+        "difficulty": 2
+      },
+      {
+        "q": "In what year did Turkish women gain the right to vote and stand in national elections?",
+        "choices": ["1923", "1946", "1960", "1934"],
+        "answer": 3,
+        "fact": "Eighteen women were elected to parliament in the 1935 election that followed.",
+        "difficulty": 2
+      },
+      {
+        "q": "A 2017 referendum approved Turkey's switch to which system of government?",
+        "choices": ["Parliamentary system", "Federal system", "Constitutional monarchy", "Presidential system"],
+        "answer": 3,
+        "fact": "The changes took full effect after the 2018 elections, abolishing the office of prime minister.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which office, held for centuries by Ottoman sultans, was abolished by Turkey's parliament in 1924?",
+        "choices": ["The sultanate", "The grand vizierate", "The Janissary corps", "The caliphate"],
+        "answer": 3,
+        "fact": "The last caliph, Abdulmejid II, was also a painter whose works hang in Turkish museums.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1934 law required every citizen of Turkey to adopt a family surname?",
+        "choices": ["Hat Law", "Civil Code", "Surname Law", "Alphabet Law"],
+        "answer": 2,
+        "fact": "Before the law, most Turks were known by a given name plus a nickname, title or father's name.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which party won Turkey's 1950 election, ending the Republican People's Party's long period in power?",
+        "choices": ["Justice Party", "Democrat Party", "Motherland Party", "True Path Party"],
+        "answer": 1,
+        "fact": "Celal Bayar became president and Adnan Menderes prime minister after the vote.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which political party did Atatürk found in 1923?",
+        "choices": ["Democrat Party", "Justice and Development Party", "Motherland Party", "Republican People's Party"],
+        "answer": 3,
+        "fact": "Known by its Turkish initials CHP, it is the oldest political party in the Republic.",
+        "difficulty": 2
+      },
+      {
+        "q": "Mustafa Kemal landed at which Black Sea port on 19 May 1919, a date taken as the start of the War of Independence?",
+        "choices": ["Samsun", "Trabzon", "Sinop", "Zonguldak"],
+        "answer": 0,
+        "fact": "19 May is now Commemoration of Atatürk, Youth and Sports Day.",
+        "difficulty": 2
+      },
+      {
+        "q": "Turkey's 1926 Civil Code was adapted from which country's code?",
+        "choices": ["Switzerland", "France", "Germany", "Italy"],
+        "answer": 0,
+        "fact": "The new code banned polygamy and gave women equal rights in divorce and inheritance.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which movement's 1908 revolution forced the Ottoman sultan to restore the constitution?",
+        "choices": ["Young Turks", "Young Ottomans", "Tanzimat reformers", "Janissaries"],
+        "answer": 0,
+        "fact": "Their Committee of Union and Progress went on to dominate Ottoman politics until 1918.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became Turkey's first female Prime Minister, in 1993?",
+        "choices": ["Meral Akşener", "Tansu Çiller", "Türkan Saylan", "Halide Edib Adıvar"],
+        "answer": 1,
+        "fact": "Çiller, an economist, led the True Path Party and served as prime minister until 1996.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which founder of the Motherland Party served as Prime Minister and then became President in 1989?",
+        "choices": ["Süleyman Demirel", "Turgut Özal", "Bülent Ecevit", "Necmettin Erbakan"],
+        "answer": 1,
+        "fact": "Özal's government opened up Turkey's economy to exports and foreign trade in the 1980s.",
+        "difficulty": 3
+      },
+      {
+        "q": "In what year did the Grand National Assembly first convene in Ankara?",
+        "choices": ["1919", "1920", "1923", "1921"],
+        "answer": 1,
+        "fact": "It opened on 23 April 1920, now celebrated as National Sovereignty and Children's Day.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which politician served as Prime Minister seven times before becoming President from 1993 to 2000?",
+        "choices": ["Turgut Özal", "Süleyman Demirel", "Bülent Ecevit", "Adnan Menderes"],
+        "answer": 1,
+        "fact": "Demirel, a trained engineer, was a leading figure in Turkish politics for four decades.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was the last Grand Vizier of the Ottoman Empire?",
+        "choices": ["Talat Pasha", "Mehmed Said Halim Pasha", "Ahmet Tevfik Pasha", "Damat Ferid Pasha"],
+        "answer": 2,
+        "fact": "His office ended along with the sultanate in November 1922.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "On 6 February 2023, a devastating earthquake struck southern Turkey near which city?",
+        "choices": ["Izmir", "Van", "Kahramanmaraş", "Erzincan"],
+        "answer": 2,
+        "fact": "A second powerful quake struck the same region hours later, and the disaster affected eleven provinces.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2022, the United Nations agreed to Turkey's request to be known internationally by which name?",
+        "choices": ["Anatolia", "Türkiye", "Turkistan", "Türkmeneli"],
+        "answer": 1,
+        "fact": "The UN accepted the change in June 2022; Türkiye is how the country has long referred to itself in Turkish.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In July 2020, Istanbul's Hagia Sophia was reopened as what?",
+        "choices": ["A mosque", "A church", "A library", "A concert hall"],
+        "answer": 0,
+        "fact": "It had served as a museum since 1934; visitors of all faiths can still enter outside prayer times.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which city hosted the 2023 UEFA Champions League final?",
+        "choices": ["Ankara", "Izmir", "Antalya", "Istanbul"],
+        "answer": 3,
+        "fact": "Manchester City beat Inter Milan 1-0 at the Atatürk Olympic Stadium on 10 June 2023.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Turkish electric-car brand began delivering its first model, the T10X, in 2023?",
+        "choices": ["Togg", "Tofaş", "Karsan", "Otokar"],
+        "answer": 0,
+        "fact": "Togg's factory is in Gemlik, near Bursa.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Turkish-born scientist co-founded BioNTech, whose COVID-19 vaccine with Pfizer was approved in 2020?",
+        "choices": ["Aziz Sancar", "Cahit Arf", "Gazi Yaşargil", "Uğur Şahin"],
+        "answer": 3,
+        "fact": "Şahin, born in İskenderun, founded the company in Germany with his wife, Özlem Türeci.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Who won Turkey's presidential runoff election on 28 May 2023?",
+        "choices": ["Kemal Kılıçdaroğlu", "Recep Tayyip Erdoğan", "Sinan Oğan", "Muharrem İnce"],
+        "answer": 1,
+        "fact": "It was the first presidential runoff in Turkey's history, held two weeks after the first round.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, Turkey's women's national team won both the Nations League and the European Championship in which sport?",
+        "choices": ["Basketball", "Handball", "Football", "Volleyball"],
+        "answer": 3,
+        "fact": "It was the first time the women's volleyball team had won the European title.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Turkish shooter went viral at the Paris 2024 Olympics for his relaxed, hand-in-pocket style while winning silver?",
+        "choices": ["Mete Gazoz", "Arda Güler", "Yusuf Dikeç", "Hakan Çalhanoğlu"],
+        "answer": 2,
+        "fact": "Dikeç and Şevval İlayda Tarhan won silver in the mixed team 10 m air pistol event.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "The Çanakkale 1915 Bridge, opened in March 2022, set a world record for what?",
+        "choices": ["Longest suspension-bridge main span", "Tallest bridge deck", "Longest rail bridge", "Longest floating bridge"],
+        "answer": 0,
+        "fact": "Its main span is 2,023 m long, a nod to the Republic's centenary year.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In April 2019, Turkish Airlines moved its main hub from Atatürk Airport to which airport?",
+        "choices": ["Sabiha Gökçen Airport", "Istanbul Airport", "Esenboğa Airport", "Antalya Airport"],
+        "answer": 1,
+        "fact": "The overnight move of equipment was one of the largest airport relocations ever attempted.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Who became the first Turkish astronaut to visit the International Space Station, in January 2024?",
+        "choices": ["Tuva Cihangir Atasever", "Sabiha Gökçen", "Alper Gezeravcı", "Vecihi Hürkuş"],
+        "answer": 2,
+        "fact": "Gezeravcı, an air force pilot, flew on the Axiom Mission 3 and carried out experiments in orbit.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which round did Turkey's men's football team reach at Euro 2024?",
+        "choices": ["Group stage", "Round of 16", "Semi-finals", "Quarter-finals"],
+        "answer": 3,
+        "fact": "Turkey lost 2-1 to the Netherlands in Berlin after beating Austria in the round of 16.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Turkish midfielder joined Real Madrid from Fenerbahçe in July 2023?",
+        "choices": ["Hakan Çalhanoğlu", "Arda Güler", "Kenan Yıldız", "Ferdi Kadıoğlu"],
+        "answer": 1,
+        "fact": "Güler was 18 when he signed; he scored a memorable long-range goal for Turkey at Euro 2024.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, Mete Gazoz won Turkey's first Olympic gold medal in which sport?",
+        "choices": ["Archery", "Shooting", "Fencing", "Judo"],
+        "answer": 0,
+        "fact": "Gazoz won the men's individual title at the Tokyo Games.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which city, known in antiquity as Antioch, was heavily damaged in the February 2023 earthquakes?",
+        "choices": ["Adana", "Gaziantep", "Antakya", "Şanlıurfa"],
+        "answer": 2,
+        "fact": "Antakya is famed for its mosaics museum, one of the largest collections of Roman mosaics in the world.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "On 29 October 2023, Turkey marked the 100th anniversary of what?",
+        "choices": ["The founding of the Republic", "The Gallipoli campaign", "The conquest of Istanbul", "The adoption of the Latin alphabet"],
+        "answer": 0,
+        "fact": "Celebrations included a naval parade of ships on the Bosphorus and nationwide fireworks.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which club won Turkey's Süper Lig in the 2023-24 season?",
+        "choices": ["Fenerbahçe", "Beşiktaş", "Galatasaray", "Trabzonspor"],
+        "answer": 2,
+        "fact": "Galatasaray finished with a club-record 102 points, just ahead of rivals Fenerbahçe.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Turkish actress won Best Actress at the Cannes Film Festival in 2023 for \"About Dry Grasses\"?",
+        "choices": ["Beren Saat", "Türkan Şoray", "Merve Dizdar", "Hazar Ergüçlü"],
+        "answer": 2,
+        "fact": "The film was directed by Nuri Bilge Ceylan and is set in a village in eastern Anatolia.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which club won the 2021-22 Süper Lig, its first league title since 1984?",
+        "choices": ["Trabzonspor", "Galatasaray", "Fenerbahçe", "Beşiktaş"],
+        "answer": 0,
+        "fact": "Trabzonspor was the first club from outside Istanbul to win the Turkish league, back in 1976.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Busenaz Sürmeneli won Olympic gold at the Tokyo Games in 2021 in which sport?",
+        "choices": ["Boxing", "Wrestling", "Taekwondo", "Weightlifting"],
+        "answer": 0,
+        "fact": "She won the women's welterweight title, Turkey's first Olympic gold in women's boxing.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which company's rocket launched Turkey's Türksat 5A communications satellite in January 2021?",
+        "choices": ["Arianespace", "Roscosmos", "Rocket Lab", "SpaceX"],
+        "answer": 3,
+        "fact": "Türksat 5A rode a Falcon 9 from Cape Canaveral, Florida.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2021, the Sea of Marmara was coated with a thick layer of what, nicknamed \"sea snot\"?",
+        "choices": ["Crude oil", "Mucilage", "Sea ice", "Jellyfish"],
+        "answer": 1,
+        "fact": "The slimy mucilage was linked to warm water and pollution; a large clean-up operation followed.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Alperen Şengün was named an NBA All-Star in 2025 while playing for which team?",
+        "choices": ["Oklahoma City Thunder", "Utah Jazz", "Milwaukee Bucks", "Houston Rockets"],
+        "answer": 3,
+        "fact": "The Giresun-born centre joined Houston in 2021 and became only the second Turkish player to be named an NBA All-Star.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which club won the 2019 UEFA Super Cup, played in Istanbul?",
+        "choices": ["Chelsea", "Liverpool", "Tottenham Hotspur", "Manchester City"],
+        "answer": 1,
+        "fact": "Liverpool beat Chelsea on penalties at Beşiktaş's stadium in August 2019.",
+        "difficulty": 3,
+        "asOf": "2019"
+      }
+    ],
+    "general": [
+      {
+        "q": "Which city straddles Europe and Asia on either side of the Bosphorus?",
+        "choices": ["Ankara", "Izmir", "Istanbul", "Trabzon"],
+        "answer": 2,
+        "fact": "Istanbul is the most populous city in Europe, with roughly 15 million residents.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Turkey's currency?",
+        "choices": ["Dinar", "Rial", "Drachma", "Lira"],
+        "answer": 3,
+        "fact": "The lira's symbol ₺ was introduced in 2012 and is based on the letter L with two strokes like an anchor.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which central Anatolian region is famous for \"fairy chimney\" rock spires and sunrise hot-air balloon flights?",
+        "choices": ["Lycia", "Thrace", "Cappadocia", "Pontus"],
+        "answer": 2,
+        "fact": "People carved homes, churches and even entire underground cities into Cappadocia's soft volcanic rock.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which site near Denizli is famous for its terraces of white travertine pools?",
+        "choices": ["Ölüdeniz", "Pamukkale", "Uludağ", "Kaçkar"],
+        "answer": 1,
+        "fact": "Pamukkale means \"cotton castle\"; the ruins of the Roman spa city Hierapolis sit on top.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which layered filo pastry with chopped nuts and syrup is one of Turkey's best-known desserts?",
+        "choices": ["Cannoli", "Strudel", "Pavlova", "Baklava"],
+        "answer": 3,
+        "fact": "Gaziantep is especially renowned for its pistachio baklava.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which sea lies along Turkey's northern coast?",
+        "choices": ["Caspian Sea", "Black Sea", "Red Sea", "Adriatic Sea"],
+        "answer": 1,
+        "fact": "The Black Sea coast is Turkey's rainiest region and its tea-growing heartland.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which strait connects the Sea of Marmara to the Aegean Sea?",
+        "choices": ["Bosphorus", "Strait of Gibraltar", "Strait of Hormuz", "Dardanelles"],
+        "answer": 3,
+        "fact": "In ancient times it was called the Hellespont, which the Persian king Xerxes crossed on a bridge of boats.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which mountain, associated with Noah's Ark, is Turkey's highest peak?",
+        "choices": ["Mount Ararat", "Mount Erciyes", "Mount Nemrut", "Uludağ"],
+        "answer": 0,
+        "fact": "Ararat, called Ağrı Dağı in Turkish, is a dormant volcano rising to about 5,137 m.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Istanbul market, with around 4,000 shops, is one of the oldest and largest covered markets in the world?",
+        "choices": ["Spice Bazaar", "Sahaflar Book Bazaar", "Grand Bazaar", "Arasta Bazaar"],
+        "answer": 2,
+        "fact": "Construction of its core began in the 1450s soon after the Ottoman conquest of the city.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Turkey's largest lake?",
+        "choices": ["Lake Tuz", "Lake Eğirdir", "Lake Van", "Lake Beyşehir"],
+        "answer": 2,
+        "fact": "Lake Van is highly alkaline, and few fish other than the pearl mullet can live in it.",
+        "difficulty": 2
+      },
+      {
+        "q": "Edirne's Kırkpınar festival is famous for which sport?",
+        "choices": ["Oil wrestling", "Camel wrestling", "Horseback archery", "Javelin on horseback"],
+        "answer": 0,
+        "fact": "Wrestlers douse themselves in olive oil; the event is said to have been held since the 14th century.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which sesame-crusted bread ring is sold from street carts all over Turkey?",
+        "choices": ["Simit", "Pide", "Lahmacun", "Börek"],
+        "answer": 0,
+        "fact": "Simit is often eaten for breakfast with tea, cheese and olives.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which mountain-top site features giant stone heads from the tomb-sanctuary of King Antiochus I of Commagene?",
+        "choices": ["Mount Ararat", "Mount Erciyes", "Mount Olympos", "Mount Nemrut"],
+        "answer": 3,
+        "fact": "Visitors climb before dawn to watch the sunrise light up the toppled heads of gods and kings.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Tigris and which other great river both rise in the mountains of eastern Turkey?",
+        "choices": ["Jordan", "Indus", "Danube", "Euphrates"],
+        "answer": 3,
+        "fact": "The two rivers flow south to Mesopotamia, the \"land between the rivers.\"",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the blue glass eye charm, believed to ward off the evil eye, called in Turkish?",
+        "choices": ["Tespih", "Nazar boncuğu", "Fes", "Kilim"],
+        "answer": 1,
+        "fact": "Nazar charms hang everywhere from cars and doorways to babies' clothes.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Aegean port is Turkey's third-largest city?",
+        "choices": ["Izmir", "Antalya", "Bursa", "Mersin"],
+        "answer": 0,
+        "fact": "Izmir was known in antiquity as Smyrna, and it is one of the claimed birthplaces of Homer.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which aniseed-flavoured spirit, turning milky white with water, is nicknamed \"lion's milk\" in Turkey?",
+        "choices": ["Ouzo", "Arak", "Rakı", "Absinthe"],
+        "answer": 2,
+        "fact": "Rakı is traditionally sipped slowly with meze and fish.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 2000, which Istanbul club became the first Turkish team to win a European trophy, the UEFA Cup?",
+        "choices": ["Fenerbahçe", "Galatasaray", "Beşiktaş", "Trabzonspor"],
+        "answer": 1,
+        "fact": "Galatasaray beat Arsenal on penalties in Copenhagen, then won the UEFA Super Cup against Real Madrid.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which energetic folk dance, performed in a line with shoulders shimmying, comes from Turkey's Black Sea region?",
+        "choices": ["Zeybek", "Horon", "Halay", "Sirtaki"],
+        "answer": 1,
+        "fact": "Horon is often danced to the kemençe, a small bowed fiddle of the Black Sea coast.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which shallow salt lake in central Anatolia is Turkey's second-largest lake?",
+        "choices": ["Lake Van", "Lake Tuz", "Lake Salda", "Lake Eğirdir"],
+        "answer": 1,
+        "fact": "Lake Tuz supplies a large share of Turkey's salt and turns pink in summer, attracting flamingos.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which lake in southwest Turkey, nicknamed \"Turkey's Maldives\", was studied by NASA as a model of a Martian crater?",
+        "choices": ["Lake Salda", "Lake Van", "Lake Tuz", "Lake Bafa"],
+        "answer": 0,
+        "fact": "Salda's white shores are made of minerals similar to those in Jezero Crater, where the Perseverance rover landed.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the longest river flowing entirely within Turkey?",
+        "choices": ["Kızılırmak", "Sakarya", "Yeşilırmak", "Büyük Menderes"],
+        "answer": 0,
+        "fact": "Its name means \"Red River\" in Turkish, from the reddish sediment it carries; it was the Halys of antiquity.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Kangal shepherd dog is named after a district in which Turkish province?",
+        "choices": ["Sivas", "Kars", "Van", "Konya"],
+        "answer": 0,
+        "fact": "Kangals have guarded sheep from wolves for centuries and are prized for their calm, loyal temperament.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which mountain near Bursa, known in antiquity as the Mysian Olympus, is a major ski resort?",
+        "choices": ["Erciyes", "Palandöken", "Uludağ", "Kartalkaya"],
+        "answer": 2,
+        "fact": "A cable car climbs from Bursa's city edge onto the mountain's slopes.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Lycian Way, a long-distance hiking trail along the Mediterranean coast, runs from Fethiye to near which city?",
+        "choices": ["Bodrum", "Alanya", "Mersin", "Antalya"],
+        "answer": 3,
+        "fact": "The waymarked route passes rock-cut tombs, ancient cities and beaches over roughly 500 km.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

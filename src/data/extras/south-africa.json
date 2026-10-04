@@ -1,0 +1,39 @@
+{
+  "country": "south-africa",
+  "timeline": [
+    { "event": "Engraved ochre is made by early humans at Blombos Cave", "year": -75000, "label": "c. 75,000 BCE", "approx": true, "difficulty": 3 },
+    { "event": "The kingdom of Mapungubwe flourishes near the Limpopo River", "year": 1220, "label": "c. 1220", "approx": true, "difficulty": 3 },
+    { "event": "Bartolomeu Dias sails around the southern tip of Africa", "year": 1488, "label": "1488", "difficulty": 1 },
+    { "event": "Jan van Riebeeck sets up a Dutch supply station at the Cape", "year": 1652, "label": "1652", "difficulty": 1 },
+    { "event": "French Huguenot refugees arrive at the Cape", "year": 1688, "label": "1688", "difficulty": 3 },
+    { "event": "Shaka becomes king of the Zulu", "year": 1816, "label": "1816", "difficulty": 2 },
+    { "event": "Slavery is abolished in the Cape Colony", "year": 1834, "label": "1834", "difficulty": 3 },
+    { "event": "Voortrekkers and Zulu forces clash at the Battle of Blood River", "year": 1838, "label": "1838", "difficulty": 2 },
+    { "event": "A Zulu army defeats British forces at Isandlwana", "year": 1879, "label": "1879", "difficulty": 2 },
+    { "event": "Gold is discovered on the Witwatersrand", "year": 1886, "label": "1886", "difficulty": 1 },
+    { "event": "The Second Boer War breaks out", "year": 1899, "label": "1899", "difficulty": 2 },
+    { "event": "The Union of South Africa is formed", "year": 1910, "label": "1910", "difficulty": 2 },
+    { "event": "The South African Native National Congress, later the ANC, is founded", "year": 1912, "label": "1912", "difficulty": 2 },
+    { "event": "The National Party wins power and begins enforcing apartheid", "year": 1948, "label": "1948", "difficulty": 1 },
+    { "event": "Police kill 69 protesters at Sharpeville", "year": 1960, "label": "1960", "difficulty": 2 },
+    { "event": "Christiaan Barnard performs the first human heart transplant", "year": 1967, "label": "1967", "difficulty": 2 },
+    { "event": "Students lead the Soweto uprising", "year": 1976, "label": "1976", "difficulty": 1 },
+    { "event": "Nelson Mandela is released from prison", "year": 1990, "label": "1990", "difficulty": 1 },
+    { "event": "South Africa holds its first democratic election", "year": 1994, "label": "1994", "difficulty": 1 },
+    { "event": "South Africa hosts Africa's first FIFA World Cup", "year": 2010, "label": "2010", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Table Mountain", "kind": "landmark", "lat": -33.96, "lon": 18.40, "clue": "Cape Town's flat-topped backdrop, often draped in a \"tablecloth\" of cloud.", "difficulty": 1 },
+    { "name": "Johannesburg", "kind": "city", "lat": -26.20, "lon": 28.05, "clue": "South Africa's largest city, founded after gold was found on the Witwatersrand in 1886.", "difficulty": 1 },
+    { "name": "Durban", "kind": "city", "lat": -29.86, "lon": 31.03, "clue": "A warm Indian Ocean port famous for its beaches and its bunny chow curry.", "difficulty": 1 },
+    { "name": "Kruger National Park", "kind": "nature", "lat": -24.99, "lon": 31.59, "clue": "One of Africa's largest game reserves, home to lions, leopards, elephants, buffalo and rhinos.", "difficulty": 1 },
+    { "name": "Bloemfontein", "kind": "city", "lat": -29.12, "lon": 26.21, "clue": "The judicial capital, where the ANC's forerunner was founded in 1912.", "difficulty": 1 },
+    { "name": "Kimberley's Big Hole", "kind": "historic", "lat": -28.74, "lon": 24.76, "clue": "A vast diamond mine dug largely by hand between 1871 and 1914.", "difficulty": 2 },
+    { "name": "Cape Agulhas", "kind": "nature", "lat": -34.83, "lon": 20.00, "clue": "The southernmost point of Africa, where the Atlantic and Indian oceans officially meet.", "difficulty": 2 },
+    { "name": "Drakensberg Amphitheatre", "kind": "nature", "lat": -28.75, "lon": 28.90, "clue": "A five-kilometre wall of cliffs over which Tugela Falls plunges.", "difficulty": 2 },
+    { "name": "Blyde River Canyon", "kind": "nature", "lat": -24.58, "lon": 30.81, "clue": "A deep, green canyon in Mpumalanga overlooked by the Three Rondavels rock formations.", "difficulty": 2 },
+    { "name": "Mapungubwe", "kind": "historic", "lat": -22.19, "lon": 29.24, "clue": "Hilltop capital of a 13th-century kingdom where a famous golden rhinoceros was found.", "difficulty": 3 },
+    { "name": "Vredefort Dome", "kind": "nature", "lat": -27.00, "lon": 27.45, "clue": "The eroded remains of the largest verified meteorite impact structure on Earth.", "difficulty": 3 },
+    { "name": "Graaff-Reinet", "kind": "city", "lat": -32.25, "lon": 24.53, "clue": "A Karoo town founded in 1786, ringed by the cliffs of the Camdeboo and the Valley of Desolation.", "difficulty": 3 }
+  ]
+}

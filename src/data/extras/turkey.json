@@ -1,0 +1,39 @@
+{
+  "country": "turkey",
+  "timeline": [
+    { "event": "Monumental carved stone pillars are raised at Göbekli Tepe", "year": -9500, "label": "c. 9500 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Farmers settle the tightly packed town of Çatalhöyük", "year": -7400, "label": "c. 7400 BCE", "approx": true, "difficulty": 3 },
+    { "event": "The Hittites make Hattusa their capital", "year": -1650, "label": "c. 1650 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Lydia strikes some of the world's first coins", "year": -600, "label": "c. 600 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Alexander the Great crosses into Anatolia and wins at the Granicus", "year": -334, "label": "334 BCE", "difficulty": 2 },
+    { "event": "Constantine dedicates Constantinople as his new capital", "year": 330, "label": "330", "difficulty": 1 },
+    { "event": "Justinian's Hagia Sophia is completed", "year": 537, "label": "537", "difficulty": 1 },
+    { "event": "The Seljuk Turks defeat the Byzantines at Manzikert", "year": 1071, "label": "1071", "difficulty": 2 },
+    { "event": "Osman I founds the Ottoman state", "year": 1299, "label": "c. 1299", "approx": true, "difficulty": 2 },
+    { "event": "Mehmed II conquers Constantinople", "year": 1453, "label": "1453", "difficulty": 1 },
+    { "event": "Suleiman the Magnificent becomes sultan", "year": 1520, "label": "1520", "difficulty": 1 },
+    { "event": "The Treaty of Karlowitz brings the first major Ottoman losses in Europe", "year": 1699, "label": "1699", "difficulty": 3 },
+    { "event": "The Edict of Gülhane launches the Tanzimat reforms", "year": 1839, "label": "1839", "difficulty": 3 },
+    { "event": "Allied forces land at Gallipoli", "year": 1915, "label": "1915", "difficulty": 1 },
+    { "event": "The Republic of Turkey is proclaimed", "year": 1923, "label": "1923", "difficulty": 1 },
+    { "event": "Turkish adopts the Latin alphabet", "year": 1928, "label": "1928", "difficulty": 2 },
+    { "event": "Atatürk dies at Dolmabahçe Palace", "year": 1938, "label": "1938", "difficulty": 2 },
+    { "event": "Turkey joins NATO", "year": 1952, "label": "1952", "difficulty": 1 },
+    { "event": "The first bridge across the Bosphorus opens", "year": 1973, "label": "1973", "difficulty": 1 },
+    { "event": "The Marmaray rail tunnel opens beneath the Bosphorus", "year": 2013, "label": "2013", "difficulty": 3 }
+  ],
+  "places": [
+    { "name": "Istanbul", "kind": "city", "lat": 41.01, "lon": 28.98, "clue": "Once Byzantium and Constantinople, it straddles the Bosphorus between Europe and Asia.", "difficulty": 1 },
+    { "name": "Ankara", "kind": "city", "lat": 39.93, "lon": 32.86, "clue": "Turkey's capital since 1923 and home to Anıtkabir, Atatürk's mausoleum.", "difficulty": 1 },
+    { "name": "Cappadocia (Göreme)", "kind": "nature", "lat": 38.64, "lon": 34.83, "clue": "Fairy-chimney rock spires, cave churches and dawn hot-air balloon flights.", "difficulty": 1 },
+    { "name": "Pamukkale", "kind": "nature", "lat": 37.92, "lon": 29.12, "clue": "The \"cotton castle\": white travertine terraces topped by the Roman spa city of Hierapolis.", "difficulty": 1 },
+    { "name": "Ephesus", "kind": "historic", "lat": 37.94, "lon": 27.34, "clue": "A great Greco-Roman city with the Library of Celsus and the site of the Temple of Artemis.", "difficulty": 1 },
+    { "name": "Troy", "kind": "historic", "lat": 39.96, "lon": 26.24, "clue": "The mound of Hisarlık, setting of Homer's Iliad, holds nine layers of ancient cities.", "difficulty": 2 },
+    { "name": "Antalya", "kind": "city", "lat": 36.90, "lon": 30.70, "clue": "A Mediterranean resort city with a walled old town and Hadrian's Gate.", "difficulty": 2 },
+    { "name": "Mount Nemrut", "kind": "historic", "lat": 37.98, "lon": 38.74, "clue": "Giant stone heads guard the hilltop tomb-sanctuary of King Antiochus I of Commagene.", "difficulty": 2 },
+    { "name": "Mount Ararat", "kind": "nature", "lat": 39.70, "lon": 44.30, "clue": "Turkey's highest peak, a dormant volcano linked in tradition to Noah's Ark.", "difficulty": 2 },
+    { "name": "Göbekli Tepe", "kind": "historic", "lat": 37.22, "lon": 38.92, "clue": "Carved stone pillars over 11,000 years old, built by hunter-gatherers.", "difficulty": 3 },
+    { "name": "Hattusa", "kind": "historic", "lat": 40.02, "lon": 34.62, "clue": "Capital of the Hittite Empire, entered through the famous Lion Gate.", "difficulty": 3 },
+    { "name": "Sumela Monastery", "kind": "landmark", "lat": 40.69, "lon": 39.66, "clue": "A Greek Orthodox monastery clinging to a sheer cliff face above a forested valley near Trabzon.", "difficulty": 3 }
+  ]
+}
