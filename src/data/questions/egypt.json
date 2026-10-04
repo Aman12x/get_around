@@ -1,0 +1,747 @@
+{
+  "country": "egypt",
+  "topics": {
+    "history": [
+      {
+        "q": "Whose nearly intact tomb did Howard Carter discover in the Valley of the Kings in 1922?",
+        "choices": [
+          "Ramesses II",
+          "Tutankhamun",
+          "Khufu",
+          "Seti I"
+        ],
+        "answer": 1,
+        "fact": "Tomb KV62 held more than 5,000 objects, including the famous gold funerary mask.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Macedonian conqueror founded the city of Alexandria in 331 BCE?",
+        "choices": [
+          "Julius Caesar",
+          "Ptolemy I",
+          "Alexander the Great",
+          "Darius I"
+        ],
+        "answer": 2,
+        "fact": "Alexandria's Pharos lighthouse was one of the Seven Wonders of the Ancient World, and its Great Library became a legendary centre of learning.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was the last active ruler of Egypt's Ptolemaic Kingdom before it became a Roman province in 30 BCE?",
+        "choices": [
+          "Cleopatra VII",
+          "Nefertiti",
+          "Hatshepsut",
+          "Berenice II"
+        ],
+        "answer": 0,
+        "fact": "According to Plutarch, Cleopatra spoke many languages and was the first of her Greek-Macedonian dynasty to learn Egyptian.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Rosetta Stone was found in 1799 during which military campaign?",
+        "choices": [
+          "The British invasion of 1882",
+          "Alexander the Great's conquest",
+          "The Ottoman conquest of 1517",
+          "Napoleon's French campaign in Egypt"
+        ],
+        "answer": 3,
+        "fact": "Its 196 BCE decree appears in hieroglyphs, Demotic and Greek, which helped Jean-François Champollion decipher hieroglyphs in 1822.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which pharaoh fought the Hittites at the Battle of Kadesh around 1274 BCE?",
+        "choices": [
+          "Akhenaten",
+          "Amenhotep III",
+          "Ramesses II",
+          "Tutankhamun"
+        ],
+        "answer": 2,
+        "fact": "A later peace treaty between Ramesses II and the Hittites (c. 1259 BCE) is one of the earliest known; a replica is displayed at the UN in New York.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which king is traditionally credited with unifying Upper and Lower Egypt around 3100 BCE?",
+        "choices": [
+          "Djoser",
+          "Narmer",
+          "Khufu",
+          "Sneferu"
+        ],
+        "answer": 1,
+        "fact": "The Narmer Palette shows him wearing the white crown of Upper Egypt on one side and the red crown of Lower Egypt on the other.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which female pharaoh of the 18th Dynasty built a terraced mortuary temple at Deir el-Bahari?",
+        "choices": [
+          "Hatshepsut",
+          "Nefertari",
+          "Tiye",
+          "Cleopatra VII"
+        ],
+        "answer": 0,
+        "fact": "She sent a celebrated trading expedition to the Land of Punt, shown in her temple's reliefs, which brought back incense trees.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did the Suez Canal open to shipping?",
+        "choices": [
+          "1798",
+          "1869",
+          "1882",
+          "1914"
+        ],
+        "answer": 1,
+        "fact": "The canal has no locks: the Mediterranean and Red Sea are close enough in level that ships sail straight through.",
+        "difficulty": 2
+      },
+      {
+        "q": "Pharaoh Akhenaten built a new capital devoted to the sun disc Aten. What was it called?",
+        "choices": [
+          "Pi-Ramesses",
+          "Tanis",
+          "Avaris",
+          "Akhetaten"
+        ],
+        "answer": 3,
+        "fact": "Today called Amarna, the site yielded the 'Amarna letters', diplomatic tablets written in Akkadian cuneiform.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which dynasty founded the city of Cairo in 969 CE?",
+        "choices": [
+          "Ayyubid",
+          "Fatimid",
+          "Abbasid",
+          "Mamluk"
+        ],
+        "answer": 1,
+        "fact": "The Fatimids also founded Al-Azhar Mosque in 970-972; its university is one of the oldest continuously operating in the world.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "What writing material did ancient Egyptians make from a reed that grew along the Nile?",
+        "choices": [
+          "Parchment",
+          "Papyrus",
+          "Vellum",
+          "Bamboo slips"
+        ],
+        "answer": 1,
+        "fact": "The English word 'paper' comes from 'papyrus'. Sheets were made by laying strips of the plant's pith crosswise and pressing them together.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who is credited as the architect of the Step Pyramid of Djoser at Saqqara?",
+        "choices": [
+          "Hemiunu",
+          "Senenmut",
+          "Imhotep",
+          "Ineni"
+        ],
+        "answer": 2,
+        "fact": "Built around the 27th century BCE, it is one of the oldest large stone buildings; Imhotep was later revered as a god of medicine.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many days were in the ancient Egyptian civil calendar year?",
+        "choices": [
+          "365",
+          "360",
+          "354",
+          "366"
+        ],
+        "answer": 0,
+        "fact": "It had 12 months of 30 days plus 5 extra days at year's end, celebrated as the birthdays of gods including Osiris and Isis.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Egyptian-born scientist won the 1999 Nobel Prize in Chemistry for femtochemistry?",
+        "choices": [
+          "Magdi Yacoub",
+          "Farouk El-Baz",
+          "Mohamed ElBaradei",
+          "Ahmed Zewail"
+        ],
+        "answer": 3,
+        "fact": "Femtochemistry uses ultrafast laser flashes to watch atoms move during chemical reactions, on timescales of a millionth of a billionth of a second.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which major dam on the Nile, completed in 1970, created Lake Nasser?",
+        "choices": [
+          "Aswan High Dam",
+          "Grand Ethiopian Renaissance Dam",
+          "Merowe Dam",
+          "Owen Falls Dam"
+        ],
+        "answer": 0,
+        "fact": "Lake Nasser stretches for hundreds of kilometres and crosses into Sudan, where its southern part is called Lake Nubia.",
+        "difficulty": 1
+      },
+      {
+        "q": "Working in Alexandria around 240 BCE, which scholar estimated Earth's circumference by comparing shadows?",
+        "choices": [
+          "Euclid",
+          "Eratosthenes",
+          "Ptolemy",
+          "Archimedes"
+        ],
+        "answer": 1,
+        "fact": "He compared the Sun's angle at Syene (modern Aswan) and at Alexandria; his estimate was remarkably close to the true value.",
+        "difficulty": 2
+      },
+      {
+        "q": "What structure did ancient Egyptians use to measure the Nile's flood level?",
+        "choices": [
+          "Shaduf",
+          "Astrolabe",
+          "Nilometer",
+          "Clepsydra"
+        ],
+        "answer": 2,
+        "fact": "Flood readings helped officials predict harvests and set taxes. The Nilometer on Cairo's Roda Island dates to 861 CE.",
+        "difficulty": 2
+      },
+      {
+        "q": "During mummification, internal organs were stored in which kind of container?",
+        "choices": [
+          "Amphorae",
+          "Kraters",
+          "Hydriae",
+          "Canopic jars"
+        ],
+        "answer": 3,
+        "fact": "There were usually four jars, their lids often shaped as the four Sons of Horus, guarding the liver, lungs, stomach and intestines.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which scribe copied the Rhind Mathematical Papyrus around 1550 BCE?",
+        "choices": [
+          "Ahmes",
+          "Manetho",
+          "Ptahhotep",
+          "Imhotep"
+        ],
+        "answer": 0,
+        "fact": "Its 80-plus problems cover fractions, areas and volumes. The papyrus is now held in the British Museum.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Edwin Smith Papyrus is one of the oldest known texts on which subject?",
+        "choices": [
+          "Astronomy",
+          "Surgery and trauma care",
+          "Agriculture",
+          "Law"
+        ],
+        "answer": 1,
+        "fact": "It describes 48 injury cases, each with an examination, diagnosis and treatment, in a remarkably practical style.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "A famous painted limestone bust in Berlin's Neues Museum depicts which queen?",
+        "choices": [
+          "Cleopatra VII",
+          "Nefertiti",
+          "Hatshepsut",
+          "Nefertari"
+        ],
+        "answer": 1,
+        "fact": "Made around 1345 BCE, it was found in 1912 in the Amarna workshop of the sculptor Thutmose.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Egyptian writer won the 1988 Nobel Prize in Literature?",
+        "choices": [
+          "Taha Hussein",
+          "Tawfiq al-Hakim",
+          "Naguib Mahfouz",
+          "Alaa Al Aswany"
+        ],
+        "answer": 2,
+        "fact": "He was the first Arabic-language writer to win; his Cairo Trilogy follows one family across three generations.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Great Sphinx of Giza has a human head on the body of which animal?",
+        "choices": [
+          "Bull",
+          "Falcon",
+          "Jackal",
+          "Lion"
+        ],
+        "answer": 3,
+        "fact": "It was carved directly from the limestone bedrock of the Giza plateau and is about 73 m long.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which collection of spells, written on papyrus and placed in tombs, was meant to guide the dead through the afterlife?",
+        "choices": [
+          "Book of the Dead",
+          "Epic of Gilgamesh",
+          "Tale of Sinuhe",
+          "Avesta"
+        ],
+        "answer": 0,
+        "fact": "Its Egyptian title means roughly 'Book of Coming Forth by Day'. One famous scene shows the heart weighed against the feather of Ma'at.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Egyptian singer was nicknamed 'Kawkab al-Sharq' (Star of the East)?",
+        "choices": [
+          "Fairuz",
+          "Umm Kulthum",
+          "Warda",
+          "Sabah"
+        ],
+        "answer": 1,
+        "fact": "Her monthly live radio concerts drew huge audiences across the Arab world, and a single song could stretch beyond an hour.",
+        "difficulty": 2
+      },
+      {
+        "q": "In the 1960s, which organization led the international campaign to relocate the Abu Simbel temples away from rising waters?",
+        "choices": [
+          "World Bank",
+          "Red Cross",
+          "UNESCO",
+          "NATO"
+        ],
+        "answer": 2,
+        "fact": "The temples of Ramesses II were cut into huge blocks and reassembled about 65 m higher, a rescue that inspired the World Heritage system.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Egyptian director made the classic film 'Cairo Station' (1958)?",
+        "choices": [
+          "Youssef Chahine",
+          "Salah Abu Seif",
+          "Henry Barakat",
+          "Ezz El-Dine Zulficar"
+        ],
+        "answer": 0,
+        "fact": "Chahine also starred in the film as a newspaper seller, and received a lifetime achievement prize at Cannes in 1997.",
+        "difficulty": 2
+      },
+      {
+        "q": "Egyptian actor Omar Sharif earned an Oscar nomination for which 1962 film?",
+        "choices": [
+          "Doctor Zhivago",
+          "Ben-Hur",
+          "Funny Girl",
+          "Lawrence of Arabia"
+        ],
+        "answer": 3,
+        "fact": "Sharif was also a world-class contract bridge player who wrote newspaper columns about the game.",
+        "difficulty": 2
+      },
+      {
+        "q": "Lifelike portraits painted on wooden panels and placed over mummies in Roman-era Egypt are named after which region?",
+        "choices": [
+          "Thebes",
+          "Nubia",
+          "Fayum",
+          "Amarna"
+        ],
+        "answer": 2,
+        "fact": "Many were painted in encaustic, pigment mixed with hot wax, and they are among the most realistic portraits surviving from antiquity.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Cairo mosque, completed in 879 CE, is known for a minaret with an external spiral staircase?",
+        "choices": [
+          "Al-Azhar Mosque",
+          "Mosque of Ibn Tulun",
+          "Mosque of Muhammad Ali",
+          "Al-Rifa'i Mosque"
+        ],
+        "answer": 1,
+        "fact": "Its founder, Ahmad ibn Tulun, grew up in Samarra, Iraq, and the spiral minaret echoes the famous Great Mosque of Samarra.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "Which Egyptian president nationalized the Suez Canal in 1956?",
+        "choices": [
+          "Anwar Sadat",
+          "Gamal Abdel Nasser",
+          "Muhammad Naguib",
+          "Hosni Mubarak"
+        ],
+        "answer": 1,
+        "fact": "He announced the nationalization in a speech in Alexandria on 26 July 1956, sparking the Suez Crisis.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Egyptian president signed the Camp David Accords with Israel in 1978?",
+        "choices": [
+          "Anwar Sadat",
+          "Gamal Abdel Nasser",
+          "Hosni Mubarak",
+          "Muhammad Naguib"
+        ],
+        "answer": 0,
+        "fact": "Sadat shared the 1978 Nobel Peace Prize with Israeli Prime Minister Menachem Begin.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who served as Egypt's president from 1981 to 2011?",
+        "choices": [
+          "Adly Mansour",
+          "Gamal Abdel Nasser",
+          "Hosni Mubarak",
+          "Anwar Sadat"
+        ],
+        "answer": 2,
+        "fact": "He stepped down in February 2011 after 18 days of mass protests centred on Cairo's Tahrir Square.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which regional organization was founded in Cairo in 1945 and is headquartered there?",
+        "choices": [
+          "African Union",
+          "Gulf Cooperation Council",
+          "OPEC",
+          "Arab League"
+        ],
+        "answer": 3,
+        "fact": "Its headquarters moved to Tunis from 1979 to 1990 before returning to Cairo.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became Egypt's first president when the republic was declared in 1953?",
+        "choices": [
+          "Gamal Abdel Nasser",
+          "Muhammad Naguib",
+          "Anwar Sadat",
+          "Mustafa el-Nahhas"
+        ],
+        "answer": 1,
+        "fact": "A leading figure of the 1952 revolution, he was sidelined by Nasser in 1954 and spent years under house arrest.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Egyptian diplomat served as UN Secretary-General from 1992 to 1996?",
+        "choices": [
+          "Kofi Annan",
+          "Amr Moussa",
+          "Boutros Boutros-Ghali",
+          "Javier Pérez de Cuéllar"
+        ],
+        "answer": 2,
+        "fact": "He was the first UN Secretary-General from Africa and the Arab world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Egyptian diplomat led the International Atomic Energy Agency and shared the 2005 Nobel Peace Prize with it?",
+        "choices": [
+          "Mohamed ElBaradei",
+          "Amr Moussa",
+          "Boutros Boutros-Ghali",
+          "Nabil Elaraby"
+        ],
+        "answer": 0,
+        "fact": "He headed the IAEA, the UN's nuclear watchdog based in Vienna, from 1997 to 2009.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which nationalist leader inspired Egypt's 1919 revolution against British rule and later became prime minister?",
+        "choices": [
+          "Ahmed Urabi",
+          "Mustafa Kamil",
+          "Talaat Harb",
+          "Saad Zaghloul"
+        ],
+        "answer": 3,
+        "fact": "His exile by the British in 1919 sparked nationwide protests; he led the Wafd Party and became prime minister in 1924.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ruler took the title King of Egypt when Britain recognized Egyptian independence in 1922?",
+        "choices": [
+          "Farouk",
+          "Fuad I",
+          "Abbas II",
+          "Ismail"
+        ],
+        "answer": 1,
+        "fact": "His son Farouk succeeded him in 1936 and abdicated after the 1952 revolution.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Ottoman-appointed governor, who took power in 1805, is often called the founder of modern Egypt?",
+        "choices": [
+          "Ibrahim Pasha",
+          "Khedive Ismail",
+          "Muhammad Ali",
+          "Selim I"
+        ],
+        "answer": 2,
+        "fact": "His dynasty ruled Egypt until 1952, and his domed mosque crowns the skyline of Cairo's Citadel.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Which container ship blocked the Suez Canal for six days in March 2021?",
+        "choices": [
+          "Ever Ace",
+          "Ever Given",
+          "Maersk Alabama",
+          "MSC Oscar"
+        ],
+        "answer": 1,
+        "fact": "The 400 m-long ship was freed with help from dredgers, tugs and a high spring tide, while hundreds of vessels queued at each end.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Egyptian city hosted the COP27 UN climate conference in November 2022?",
+        "choices": [
+          "Hurghada",
+          "Alexandria",
+          "Sharm El-Sheikh",
+          "Luxor"
+        ],
+        "answer": 2,
+        "fact": "Delegates agreed to create a 'loss and damage' fund to help vulnerable countries cope with climate impacts.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Who won Egypt's presidential election held in December 2023?",
+        "choices": [
+          "Abdel Fattah el-Sisi",
+          "Mostafa Madbouly",
+          "Amr Moussa",
+          "Mohamed ElBaradei"
+        ],
+        "answer": 0,
+        "fact": "It was his third term; 2019 constitutional amendments had extended presidential terms from four years to six.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Egyptian forward Mohamed Salah helped which club win the 2024-25 Premier League title?",
+        "choices": [
+          "Manchester City",
+          "Arsenal",
+          "Chelsea",
+          "Liverpool"
+        ],
+        "answer": 3,
+        "fact": "Salah scored 29 league goals that season, winning the Golden Boot and the Premier League Player of the Season award.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In April 2021's 'Pharaohs' Golden Parade', 22 royal mummies were moved to which museum?",
+        "choices": [
+          "Grand Egyptian Museum",
+          "Luxor Museum",
+          "National Museum of Egyptian Civilization",
+          "Egyptian Museum in Tahrir Square"
+        ],
+        "answer": 2,
+        "fact": "The 18 kings and 4 queens, including Ramesses II and Hatshepsut, travelled through Cairo in specially built, shock-absorbing vehicles.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In November 2021, Egypt reopened an ancient processional avenue lined with sphinxes linking two temples in which city?",
+        "choices": [
+          "Aswan",
+          "Luxor",
+          "Giza",
+          "Alexandria"
+        ],
+        "answer": 1,
+        "fact": "The roughly 2.7 km avenue connects the Karnak and Luxor temples and once hosted processions of the ancient Opet Festival.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Egypt became a full member of which group of nations on 1 January 2024?",
+        "choices": [
+          "OPEC",
+          "BRICS",
+          "G7",
+          "ASEAN"
+        ],
+        "answer": 1,
+        "fact": "Egypt joined alongside Ethiopia, Iran and the United Arab Emirates in the group's first expansion since South Africa's entry.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In October 2024, the World Health Organization certified Egypt free of which disease?",
+        "choices": [
+          "Cholera",
+          "Measles",
+          "Malaria",
+          "Tuberculosis"
+        ],
+        "answer": 2,
+        "fact": "The WHO noted malaria had been present in Egypt since ancient times; genetic traces of the parasite were found in Tutankhamun's mummy.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, Egypt became the first country to reach WHO 'gold tier' status on the path to eliminating which disease?",
+        "choices": [
+          "HIV",
+          "Hepatitis C",
+          "Dengue fever",
+          "Tuberculosis"
+        ],
+        "answer": 1,
+        "fact": "Its '100 Million Healthy Lives' campaign, launched in 2018, screened tens of millions of people and offered free treatment.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In March 2023, scientists announced a hidden corridor about 9 m long behind the north face of which pyramid?",
+        "choices": [
+          "Pyramid of Khafre",
+          "Pyramid of Menkaure",
+          "Step Pyramid of Djoser",
+          "Great Pyramid of Khufu"
+        ],
+        "answer": 3,
+        "fact": "The ScanPyramids project detected it using muons, particles created by cosmic rays, then confirmed it with an endoscope camera.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
+    "general": [
+      {
+        "q": "Which river flows north through Egypt to the Mediterranean Sea?",
+        "choices": [
+          "Niger",
+          "Congo",
+          "Nile",
+          "Jordan"
+        ],
+        "answer": 2,
+        "fact": "Most Egyptians live in the narrow Nile Valley and Delta, a green ribbon covering only a small fraction of the country's land.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the currency of Egypt?",
+        "choices": [
+          "Egyptian pound",
+          "Egyptian dinar",
+          "Egyptian dirham",
+          "Egyptian riyal"
+        ],
+        "answer": 0,
+        "fact": "The pound is divided into 100 piastres, and Egyptians often call it the 'geneih'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Egypt's Sinai Peninsula forms a land bridge between Africa and which continent?",
+        "choices": [
+          "Europe",
+          "Asia",
+          "Australia",
+          "South America"
+        ],
+        "answer": 1,
+        "fact": "At Sinai's southern tip, Ras Mohammed National Park protects some of the Red Sea's most spectacular coral reefs.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the nickname of Egypt's national football team?",
+        "choices": [
+          "The Lions of Atlas",
+          "The Super Eagles",
+          "The Black Stars",
+          "The Pharaohs"
+        ],
+        "answer": 3,
+        "fact": "Egypt has won the Africa Cup of Nations a record seven times, including three in a row from 2006 to 2010.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which popular Egyptian street dish combines rice, lentils, pasta and chickpeas topped with tomato sauce and crispy onions?",
+        "choices": [
+          "Ful medames",
+          "Koshari",
+          "Molokhia",
+          "Ta'ameya"
+        ],
+        "answer": 1,
+        "fact": "Ta'ameya, Egypt's version of falafel, is traditionally made with fava beans rather than chickpeas.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which language, descended from ancient Egyptian, is still used in the liturgy of Egypt's Coptic Church?",
+        "choices": [
+          "Aramaic",
+          "Syriac",
+          "Coptic",
+          "Ge'ez"
+        ],
+        "answer": 2,
+        "fact": "Coptic is written in an alphabet based on Greek, plus several extra letters borrowed from Demotic Egyptian script.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Egypt's highest mountain?",
+        "choices": [
+          "Mount Sinai",
+          "Gebel Elba",
+          "Mount Serbal",
+          "Mount Catherine"
+        ],
+        "answer": 3,
+        "fact": "Rising about 2,629 m in southern Sinai, it stands near St Catherine's Monastery, one of the oldest working Christian monasteries.",
+        "difficulty": 2
+      },
+      {
+        "q": "The ancient city of Thebes lies at the site of which modern Egyptian city?",
+        "choices": [
+          "Luxor",
+          "Aswan",
+          "Asyut",
+          "Minya"
+        ],
+        "answer": 0,
+        "fact": "Across the Nile on Luxor's West Bank lies the Valley of the Kings, burial ground of New Kingdom pharaohs.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which depression in Egypt's Western Desert sinks to about 133 m below sea level?",
+        "choices": [
+          "Siwa Depression",
+          "Faiyum Depression",
+          "Qattara Depression",
+          "Kharga Depression"
+        ],
+        "answer": 2,
+        "fact": "It is one of the lowest points in Africa, and its salt marshes were nearly impassable to armies during World War II.",
+        "difficulty": 3
+      },
+      {
+        "q": "Alexander the Great visited a famous oracle at Siwa Oasis dedicated to which god?",
+        "choices": [
+          "Osiris",
+          "Amun",
+          "Thoth",
+          "Ra"
+        ],
+        "answer": 1,
+        "fact": "Many of Siwa's people speak Siwi, a Berber (Amazigh) language, reflecting the oasis's long ties to North Africa's west.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

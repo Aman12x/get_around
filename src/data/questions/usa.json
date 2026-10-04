@@ -1,0 +1,447 @@
+{
+  "country": "usa",
+  "topics": {
+    "history": [
+      {
+        "q": "In what year was the Declaration of Independence adopted?",
+        "choices": ["1787", "1776", "1754", "1812"],
+        "answer": 1,
+        "fact": "The Second Continental Congress adopted it in Philadelphia on July 4, 1776; Thomas Jefferson was its principal author.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was the first President of the United States?",
+        "choices": ["John Adams", "Thomas Jefferson", "Benjamin Franklin", "George Washington"],
+        "answer": 3,
+        "fact": "Washington took the oath in 1789 on the balcony of Federal Hall in New York City, which was then the nation's capital.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ship carried the Pilgrims to Plymouth in 1620?",
+        "choices": ["Mayflower", "Santa María", "Half Moon", "Endeavour"],
+        "answer": 0,
+        "fact": "Before landing, the passengers signed the Mayflower Compact, an early agreement to govern themselves by majority rule.",
+        "difficulty": 1
+      },
+      {
+        "q": "From which country did the United States purchase Alaska in 1867?",
+        "choices": ["Britain", "Canada", "Russia", "Spain"],
+        "answer": 2,
+        "fact": "Secretary of State William Seward paid $7.2 million, about 2 cents an acre; critics mocked the deal as \"Seward's Folly.\"",
+        "difficulty": 1
+      },
+      {
+        "q": "From which country did the United States buy the Louisiana Territory in 1803?",
+        "choices": ["Spain", "France", "Britain", "Mexico"],
+        "answer": 1,
+        "fact": "Napoleon sold the territory for about $15 million, roughly doubling the size of the young United States overnight.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the first permanent English settlement in North America, founded in 1607?",
+        "choices": ["Plymouth", "Roanoke", "St. Augustine", "Jamestown"],
+        "answer": 3,
+        "fact": "Jamestown, Virginia, survived early famine and later served as the colony's capital until 1699.",
+        "difficulty": 2
+      },
+      {
+        "q": "In what year was the 19th Amendment, guaranteeing women the right to vote, ratified?",
+        "choices": ["1920", "1865", "1890", "1945"],
+        "answer": 0,
+        "fact": "Tennessee clinched ratification after 24-year-old legislator Harry Burn switched his vote, following a letter from his mother.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which president sent Lewis and Clark on their 1804-1806 expedition to the Pacific?",
+        "choices": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"],
+        "answer": 2,
+        "fact": "Sacagawea, a Lemhi Shoshone woman, served as an interpreter for the expedition; she appears on a US dollar coin first issued in 2000.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which British general surrendered at Yorktown in 1781, effectively ending major fighting in the Revolutionary War?",
+        "choices": ["John Burgoyne", "Charles Cornwallis", "William Howe", "Henry Clinton"],
+        "answer": 1,
+        "fact": "French troops under Rochambeau and a French fleet under de Grasse were crucial to trapping the British army at Yorktown.",
+        "difficulty": 3
+      },
+      {
+        "q": "The first transcontinental railroad was completed in 1869 at Promontory Summit, in which present-day state?",
+        "choices": ["Nevada", "Wyoming", "Colorado", "Utah"],
+        "answer": 3,
+        "fact": "A ceremonial golden spike was driven on May 10, 1869, joining the Central Pacific and Union Pacific lines.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which brothers made the first controlled, sustained powered airplane flights in 1903?",
+        "choices": ["The Wright brothers", "The Montgolfier brothers", "The Lumière brothers", "The Dodge brothers"],
+        "answer": 0,
+        "fact": "The first flight at Kitty Hawk, North Carolina, lasted 12 seconds and covered 120 feet, shorter than a Boeing 747's wingspan.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was the first person to walk on the Moon, in July 1969?",
+        "choices": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+        "answer": 1,
+        "fact": "While Armstrong and Aldrin explored the surface, Michael Collins orbited alone in the Apollo 11 command module, Columbia.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who received the 1876 US patent for the telephone?",
+        "choices": ["Thomas Edison", "Samuel Morse", "Alexander Graham Bell", "Nikola Tesla"],
+        "answer": 2,
+        "fact": "Bell was born in Edinburgh, Scotland, and worked as a teacher of the deaf before his telephone experiments in Boston.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Ford car, introduced in 1908, put motoring within reach of ordinary Americans?",
+        "choices": ["Mustang", "Thunderbird", "Model A", "Model T"],
+        "answer": 3,
+        "fact": "Ford's moving assembly line, introduced in 1913, cut the time to build a Model T from about 12 hours to roughly 90 minutes.",
+        "difficulty": 1
+      },
+      {
+        "q": "Thomas Edison's famous research laboratory was located in which New Jersey town?",
+        "choices": ["Menlo Park", "Princeton", "Trenton", "Hoboken"],
+        "answer": 0,
+        "fact": "Nicknamed \"The Wizard of Menlo Park,\" Edison invented the phonograph there in 1877.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the code name of the World War II US project that developed the first atomic bombs?",
+        "choices": ["Project Mercury", "Manhattan Project", "Apollo Program", "Project Blue Book"],
+        "answer": 1,
+        "fact": "Its main weapons laboratory, at Los Alamos, New Mexico, was directed by physicist J. Robert Oppenheimer.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which American scientist developed the first widely used polio vaccine, announced in 1955?",
+        "choices": ["Louis Pasteur", "Alexander Fleming", "Walter Reed", "Jonas Salk"],
+        "answer": 3,
+        "fact": "Asked who owned the patent, Salk famously replied, \"There is no patent. Could you patent the sun?\"",
+        "difficulty": 2
+      },
+      {
+        "q": "Which company introduced the first commercial microprocessor, the 4004, in 1971?",
+        "choices": ["Apple", "IBM", "Intel", "Hewlett-Packard"],
+        "answer": 2,
+        "fact": "The Intel 4004 packed about 2,300 transistors and was originally designed for a Japanese calculator maker, Busicom.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the first satellite launched by the United States, in January 1958?",
+        "choices": ["Sputnik 1", "Vanguard 1", "Explorer 1", "Telstar 1"],
+        "answer": 2,
+        "fact": "Explorer 1 carried an instrument by James Van Allen that discovered the radiation belts now named after him.",
+        "difficulty": 3
+      },
+      {
+        "q": "ARPANET, a precursor of the internet, sent its first message in 1969 from which university?",
+        "choices": ["UCLA", "MIT", "Harvard", "Carnegie Mellon"],
+        "answer": 0,
+        "fact": "The first message was meant to be \"LOGIN,\" but the system crashed after just two letters, \"LO.\"",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which American painter is famous for his \"drip\" paintings?",
+        "choices": ["Andy Warhol", "Edward Hopper", "Jackson Pollock", "Georgia O'Keeffe"],
+        "answer": 2,
+        "fact": "Pollock often laid his canvases flat on the floor and poured or flung paint onto them, working from all sides.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which artist created the 1962 work \"Campbell's Soup Cans\"?",
+        "choices": ["Andy Warhol", "Roy Lichtenstein", "Keith Haring", "Jasper Johns"],
+        "answer": 0,
+        "fact": "The work consists of 32 canvases, one for each variety of soup Campbell's sold at the time.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who wrote \"The Adventures of Huckleberry Finn\"?",
+        "choices": ["Herman Melville", "Nathaniel Hawthorne", "Jack London", "Mark Twain"],
+        "answer": 3,
+        "fact": "\"Mark Twain\" was the pen name of Samuel Clemens, taken from a riverboat call meaning two fathoms (12 feet) of water: safe to pass.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which musical genre emerged in New Orleans in the early 20th century?",
+        "choices": ["Bluegrass", "Jazz", "Grunge", "Hip hop"],
+        "answer": 1,
+        "fact": "Louis Armstrong, born in New Orleans in 1901, became one of jazz's most influential trumpeters and singers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who painted \"Nighthawks\" (1942), showing late-night diners in a corner restaurant?",
+        "choices": ["Grant Wood", "Norman Rockwell", "Edward Hopper", "Winslow Homer"],
+        "answer": 2,
+        "fact": "The Art Institute of Chicago bought \"Nighthawks\" in 1942, the year it was painted, for $3,000.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which architect designed Fallingwater, a house built over a waterfall in Pennsylvania?",
+        "choices": ["I. M. Pei", "Frank Lloyd Wright", "Frank Gehry", "Louis Sullivan"],
+        "answer": 1,
+        "fact": "Designed in 1935 for the Kaufmann family, Fallingwater's concrete terraces cantilever over the Bear Run stream.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Harper Lee novel won the 1961 Pulitzer Prize for Fiction?",
+        "choices": ["To Kill a Mockingbird", "The Catcher in the Rye", "Of Mice and Men", "Beloved"],
+        "answer": 0,
+        "fact": "The book's fictional town of Maycomb, Alabama, was modeled on Lee's hometown of Monroeville.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which American composer wrote \"Rhapsody in Blue\" (1924)?",
+        "choices": ["Aaron Copland", "Leonard Bernstein", "Cole Porter", "George Gershwin"],
+        "answer": 3,
+        "fact": "The piece opens with a famous rising clarinet glissando; Gershwin himself played the piano at its 1924 New York premiere.",
+        "difficulty": 2
+      },
+      {
+        "q": "Georgia O'Keeffe is especially associated with the landscapes of which US state, where she lived later in life?",
+        "choices": ["Arizona", "Texas", "New Mexico", "Colorado"],
+        "answer": 2,
+        "fact": "The Georgia O'Keeffe Museum opened in Santa Fe, New Mexico, in 1997, holding the largest collection of her work.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1927 film was the first feature-length movie with synchronized spoken dialogue?",
+        "choices": ["Metropolis", "The Jazz Singer", "Citizen Kane", "Gone with the Wind"],
+        "answer": 1,
+        "fact": "Star Al Jolson's ad-libbed line \"You ain't heard nothin' yet!\" became one of the first spoken lines in a feature film.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "How many senators does each US state elect?",
+        "choices": ["1", "2", "3", "4"],
+        "answer": 1,
+        "fact": "Since the 17th Amendment (1913), senators have been elected directly by voters rather than chosen by state legislatures.",
+        "difficulty": 1
+      },
+      {
+        "q": "How long is a single US presidential term?",
+        "choices": ["4 years", "2 years", "5 years", "6 years"],
+        "answer": 0,
+        "fact": "The 22nd Amendment (1951) limits presidents to two elected terms, a response to Franklin D. Roosevelt's four election victories.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which president issued the Emancipation Proclamation?",
+        "choices": ["Andrew Johnson", "Ulysses S. Grant", "James Buchanan", "Abraham Lincoln"],
+        "answer": 3,
+        "fact": "Issued on January 1, 1863, during the Civil War; the 13th Amendment abolished slavery nationwide in 1865.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are the first ten amendments to the US Constitution collectively called?",
+        "choices": ["The Federalist Papers", "The Magna Carta", "The Bill of Rights", "The Monroe Doctrine"],
+        "answer": 2,
+        "fact": "Ratified in 1791, the Bill of Rights was drafted largely by James Madison and protects freedoms such as speech and religion.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many justices sit on the US Supreme Court?",
+        "choices": ["7", "11", "9", "12"],
+        "answer": 2,
+        "fact": "The number of justices is set by Congress, not the Constitution, and has stayed at nine since 1869.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many electoral votes does a candidate need to win the US presidency?",
+        "choices": ["218", "270", "300", "538"],
+        "answer": 1,
+        "fact": "The Electoral College has 538 electors: one for each member of Congress plus three for Washington, D.C.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who is the only US president to have resigned from office?",
+        "choices": ["Richard Nixon", "Andrew Johnson", "Bill Clinton", "Gerald Ford"],
+        "answer": 0,
+        "fact": "Nixon resigned in August 1974; his successor Gerald Ford became the only president never elected as president or vice president.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which city was the US Constitution drafted in 1787?",
+        "choices": ["Boston", "New York City", "Washington, D.C.", "Philadelphia"],
+        "answer": 3,
+        "fact": "The Constitutional Convention met in Independence Hall, the same building where the Declaration of Independence was adopted.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1803 Supreme Court case established the principle of judicial review?",
+        "choices": ["McCulloch v. Maryland", "Marbury v. Madison", "Brown v. Board of Education", "Dred Scott v. Sandford"],
+        "answer": 1,
+        "fact": "Chief Justice John Marshall wrote that it is \"emphatically the province and duty of the judicial department to say what the law is.\"",
+        "difficulty": 3
+      },
+      {
+        "q": "Which document served as the first constitution of the United States, before the current Constitution took effect in 1789?",
+        "choices": ["The Mayflower Compact", "The Federalist Papers", "The Bill of Rights", "The Articles of Confederation"],
+        "answer": 3,
+        "fact": "Ratified in 1781, the Articles created a weak central government that could not levy taxes, prompting calls for a new constitution.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Who won the November 2020 US presidential election?",
+        "choices": ["Bernie Sanders", "Donald Trump", "Joe Biden", "Pete Buttigieg"],
+        "answer": 2,
+        "fact": "Before becoming vice president under Barack Obama, Biden served 36 years as a US senator from Delaware.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Who became the first woman to serve as US Vice President, sworn in in January 2021?",
+        "choices": ["Kamala Harris", "Hillary Clinton", "Nancy Pelosi", "Elizabeth Warren"],
+        "answer": 0,
+        "fact": "Harris was also the first Black American and the first South Asian American to hold the office.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Who won the November 2024 US presidential election?",
+        "choices": ["Kamala Harris", "Joe Biden", "Ron DeSantis", "Donald Trump"],
+        "answer": 3,
+        "fact": "Trump became the second president to serve two non-consecutive terms, after Grover Cleveland (1885-89 and 1893-97).",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which NFL team won Super Bowl LVIII in February 2024?",
+        "choices": ["San Francisco 49ers", "Kansas City Chiefs", "Philadelphia Eagles", "Buffalo Bills"],
+        "answer": 1,
+        "fact": "Played in Las Vegas, it was the city's first Super Bowl and only the second in history to go to overtime.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which NASA rover landed in Mars's Jezero Crater in February 2021?",
+        "choices": ["Curiosity", "Opportunity", "Spirit", "Perseverance"],
+        "answer": 3,
+        "fact": "It carried Ingenuity, a small helicopter that made the first powered, controlled flight on another planet in April 2021.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which NASA-led space telescope, launched in December 2021, released its first full-color science images in July 2022?",
+        "choices": ["James Webb Space Telescope", "Hubble Space Telescope", "Kepler Space Telescope", "Spitzer Space Telescope"],
+        "answer": 0,
+        "fact": "Webb observes from around the Sun-Earth L2 point, about 1.5 million km from Earth, shielded by a tennis-court-sized sunshade.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Who became the first Black woman to serve on the US Supreme Court, in June 2022?",
+        "choices": ["Sonia Sotomayor", "Amy Coney Barrett", "Ketanji Brown Jackson", "Elena Kagan"],
+        "answer": 2,
+        "fact": "Jackson succeeded Justice Stephen Breyer, for whom she had once worked as a law clerk.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Baltimore bridge collapsed in March 2024 after being struck by a container ship?",
+        "choices": ["Chesapeake Bay Bridge", "Francis Scott Key Bridge", "Verrazzano-Narrows Bridge", "Tappan Zee Bridge"],
+        "answer": 1,
+        "fact": "The bridge was named for Francis Scott Key, who wrote the words of \"The Star-Spangled Banner\" after watching a battle in Baltimore in 1814.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In February 2024, which company's Odysseus lander made the first US landing on the Moon since Apollo 17 in 1972?",
+        "choices": ["Intuitive Machines", "SpaceX", "Blue Origin", "Astrobotic"],
+        "answer": 0,
+        "fact": "Odysseus touched down in the Moon's south polar region but tipped onto its side, yet still sent back data and images.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which historic Maui town, once the royal capital of the Kingdom of Hawaii, was devastated by wildfire in August 2023?",
+        "choices": ["Hilo", "Kailua-Kona", "Hana", "Lahaina"],
+        "answer": 3,
+        "fact": "Lahaina's famous banyan tree, planted in 1873, was scorched by the fire but later began sprouting new leaves.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is the capital of the United States?",
+        "choices": ["New York City", "Philadelphia", "Washington, D.C.", "Boston"],
+        "answer": 2,
+        "fact": "D.C. stands for District of Columbia, a federal district that is not part of any state.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which is the largest US state by area?",
+        "choices": ["Alaska", "Texas", "California", "Montana"],
+        "answer": 0,
+        "fact": "Alaska is more than twice the size of Texas, the second-largest state.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many stars are on the current US flag?",
+        "choices": ["13", "48", "52", "50"],
+        "answer": 3,
+        "fact": "The 13 stripes stand for the original colonies; the 50-star design adopted in 1960 is the flag's 27th official version.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which city's harbor does the Statue of Liberty stand?",
+        "choices": ["Boston", "New York City", "Philadelphia", "Baltimore"],
+        "answer": 1,
+        "fact": "A gift from France dedicated in 1886, the statue was designed by Frédéric Auguste Bartholdi with an inner framework by Gustave Eiffel.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which park, established in 1872, is widely considered the world's first national park?",
+        "choices": ["Yosemite", "Grand Canyon", "Zion", "Yellowstone"],
+        "answer": 3,
+        "fact": "Yellowstone sits atop a volcanic hotspot and holds roughly half of the world's geysers, including Old Faithful.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which sport did James Naismith invent in 1891?",
+        "choices": ["Basketball", "Volleyball", "American football", "Baseball"],
+        "answer": 0,
+        "fact": "Naismith, a Canadian-born teacher in Springfield, Massachusetts, used peach baskets as the first hoops.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which of the Great Lakes lies entirely within the United States?",
+        "choices": ["Lake Superior", "Lake Erie", "Lake Michigan", "Lake Ontario"],
+        "answer": 2,
+        "fact": "Together, the five Great Lakes hold about a fifth of the world's fresh surface water.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which was the most recent state to join the United States, in August 1959?",
+        "choices": ["Alaska", "Hawaii", "Arizona", "New Mexico"],
+        "answer": 1,
+        "fact": "Hawaii is the only US state made up entirely of islands, and Hawaiian is an official state language alongside English.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the highest peak in the contiguous United States (excluding Alaska and Hawaii)?",
+        "choices": ["Mount Rainier", "Mount Whitney", "Pikes Peak", "Mount Elbert"],
+        "answer": 1,
+        "fact": "California's Mount Whitney (4,421 m) lies less than 140 km from Badwater Basin in Death Valley, the lowest point in North America.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the official national motto of the United States, adopted in 1956?",
+        "choices": ["E Pluribus Unum", "Liberty and Justice for All", "Novus Ordo Seclorum", "In God We Trust"],
+        "answer": 3,
+        "fact": "\"E pluribus unum\" (\"Out of many, one\") was the traditional motto and still appears on the Great Seal of the United States.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

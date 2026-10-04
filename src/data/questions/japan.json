@@ -1,0 +1,447 @@
+{
+  "country": "japan",
+  "topics": {
+    "history": [
+      {
+        "q": "Which family's shogunate ruled Japan from 1603 to 1868?",
+        "choices": ["Ashikaga", "Tokugawa", "Minamoto", "Hojo"],
+        "answer": 1,
+        "fact": "The Tokugawa shoguns governed from Edo, a fishing village they turned into one of the world's largest cities; today we know it as Tokyo.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which US naval commander arrived with his 'Black Ships' in 1853 to press Japan to open its ports?",
+        "choices": ["Matthew Perry", "Douglas MacArthur", "George Dewey", "Townsend Harris"],
+        "answer": 0,
+        "fact": "Perry returned in 1854 to sign the Convention of Kanagawa, which opened the ports of Shimoda and Hakodate to American ships.",
+        "difficulty": 1
+      },
+      {
+        "q": "Heian-kyo, founded as Japan's capital in 794, is known today as which city?",
+        "choices": ["Nara", "Osaka", "Kyoto", "Kamakura"],
+        "answer": 2,
+        "fact": "Kyoto remained the imperial capital for more than 1,000 years, until the Emperor moved to Tokyo in 1869.",
+        "difficulty": 1
+      },
+      {
+        "q": "The word 'kamikaze' (divine wind) first referred to typhoons said to have wrecked invasion fleets of which empire?",
+        "choices": ["Ming dynasty", "Portuguese Empire", "Spanish Empire", "Mongol Empire"],
+        "answer": 3,
+        "fact": "The Mongols under Kublai Khan attempted to invade Japan twice, in 1274 and 1281, and storms battered their fleets both times.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did the Meiji Restoration return power from the shogun to the Emperor?",
+        "choices": ["1853", "1894", "1912", "1868"],
+        "answer": 3,
+        "fact": "During the Meiji Restoration, Edo was renamed Tokyo, meaning 'Eastern Capital', and became the Emperor's new home.",
+        "difficulty": 2
+      },
+      {
+        "q": "Victory in which battle of 1600 paved the way for Tokugawa Ieyasu to become shogun?",
+        "choices": ["Sekigahara", "Nagashino", "Dan-no-ura", "Okehazama"],
+        "answer": 0,
+        "fact": "Sekigahara is often called the most decisive battle in Japanese history; three years later, in 1603, Ieyasu was appointed shogun.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who founded the Kamakura shogunate, Japan's first shogunate, in the late 12th century?",
+        "choices": ["Ashikaga Takauji", "Minamoto no Yoritomo", "Oda Nobunaga", "Taira no Kiyomori"],
+        "answer": 1,
+        "fact": "The Kamakura shogunate began an era of warrior rule that, in one form or another, lasted almost 700 years until 1868.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which warlord began unifying Japan in the 16th century but died in the Honno-ji Incident of 1582?",
+        "choices": ["Toyotomi Hideyoshi", "Tokugawa Ieyasu", "Oda Nobunaga", "Takeda Shingen"],
+        "answer": 2,
+        "fact": "Oda Nobunaga was betrayed by his own general, Akechi Mitsuhide, at Honno-ji temple in Kyoto; Toyotomi Hideyoshi went on to complete unification.",
+        "difficulty": 2
+      },
+      {
+        "q": "What name is given to the Tokugawa policy that sharply restricted foreign contact, allowing only limited trade such as with the Dutch and Chinese at Nagasaki?",
+        "choices": ["Bakumatsu", "Sakoku", "Bunmei kaika", "Sonno joi"],
+        "answer": 1,
+        "fact": "From 1641 Dutch traders were confined to Dejima, a small fan-shaped artificial island in Nagasaki harbour.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did the Treaty of Portsmouth end the Russo-Japanese War?",
+        "choices": ["1895", "1910", "1918", "1905"],
+        "answer": 3,
+        "fact": "US President Theodore Roosevelt brokered the Treaty of Portsmouth and won the 1906 Nobel Peace Prize for his efforts.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Japan's first Shinkansen bullet train line, opened in 1964, linked Tokyo with which city?",
+        "choices": ["Osaka", "Sendai", "Niigata", "Fukuoka"],
+        "answer": 0,
+        "fact": "The Tokaido Shinkansen opened on 1 October 1964, just nine days before the opening ceremony of the Tokyo Olympics.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which company launched the Walkman portable cassette player in 1979?",
+        "choices": ["Panasonic", "Toshiba", "Sony", "Sharp"],
+        "answer": 2,
+        "fact": "The first Walkman had two headphone jacks so that two people could listen together.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which carmaker developed the 'just-in-time' lean production system studied by factories worldwide?",
+        "choices": ["Honda", "Toyota", "Nissan", "Mazda"],
+        "answer": 1,
+        "fact": "Toyota also launched the Prius in 1997, the world's first mass-produced hybrid car.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Kyoto company, founded in 1889 as a maker of playing cards, later released the Game Boy?",
+        "choices": ["Sega", "Bandai", "Sony", "Nintendo"],
+        "answer": 3,
+        "fact": "Nintendo started out making hanafuda, colourful Japanese flower cards, and still sells them today.",
+        "difficulty": 1
+      },
+      {
+        "q": "The QR code was invented in Japan in 1994. What was it originally designed to track?",
+        "choices": ["Car parts", "Train tickets", "Library books", "Postal mail"],
+        "answer": 0,
+        "fact": "QR stands for 'Quick Response'. Engineer Masahiro Hara of Denso Wave designed it to be read far faster than a traditional barcode.",
+        "difficulty": 2
+      },
+      {
+        "q": "Shinya Yamanaka shared the 2012 Nobel Prize for showing that adult cells can be reprogrammed into what?",
+        "choices": ["Red blood cells", "Antibodies", "Pluripotent stem cells", "Neurons"],
+        "answer": 2,
+        "fact": "Yamanaka shared the prize with Britain's John Gurdon; his 'iPS cells' can develop into almost any type of cell in the body.",
+        "difficulty": 2
+      },
+      {
+        "q": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura won the 2014 Nobel Prize in Physics for efficient LEDs of which colour?",
+        "choices": ["Red", "Blue", "Green", "Yellow"],
+        "answer": 1,
+        "fact": "Blue LEDs were the missing piece needed to make bright, energy-saving white LED light, now used in lamps and screens everywhere.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 2010, Japan's Hayabusa probe became the first spacecraft to return samples from what?",
+        "choices": ["A comet", "Mars", "Venus", "An asteroid"],
+        "answer": 3,
+        "fact": "Despite engine failures and a lost lander, Hayabusa limped home in June 2010 carrying tiny grains from the asteroid Itokawa.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Japanese bridge held the world record for the longest suspension span from 1998 until 2022?",
+        "choices": ["Rainbow Bridge", "Akashi Kaikyo Bridge", "Seto Ohashi Bridge", "Tokyo Gate Bridge"],
+        "answer": 1,
+        "fact": "The Akashi Kaikyo Bridge's central span is 1,991 metres long; it links Kobe with Awaji Island across a busy, storm-prone strait.",
+        "difficulty": 3
+      },
+      {
+        "q": "Shigetaka Kurita designed one of the first widely used emoji sets in 1999 for which mobile internet service?",
+        "choices": ["LINE", "Mixi", "NTT Docomo's i-mode", "Nintendo DS"],
+        "answer": 2,
+        "fact": "Kurita's original set of 176 emoji, each just 12 by 12 pixels, was added to the collection of New York's Museum of Modern Art in 2016.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which artist created the woodblock print 'The Great Wave off Kanagawa'?",
+        "choices": ["Utagawa Hiroshige", "Kitagawa Utamaro", "Katsushika Hokusai", "Sesshu"],
+        "answer": 2,
+        "fact": "The Great Wave, made around 1831, is part of the series 'Thirty-six Views of Mount Fuji'; look closely and you'll spot Fuji in the trough of the wave.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Hayao Miyazaki film became the first anime to win the Oscar for Best Animated Feature?",
+        "choices": ["Spirited Away", "My Neighbor Totoro", "Princess Mononoke", "Howl's Moving Castle"],
+        "answer": 0,
+        "fact": "Spirited Away also shared the Golden Bear at the 2002 Berlin Film Festival, a rare honour for an animated film.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who directed the 1954 film 'Seven Samurai'?",
+        "choices": ["Yasujiro Ozu", "Kenji Mizoguchi", "Takeshi Kitano", "Akira Kurosawa"],
+        "answer": 3,
+        "fact": "Seven Samurai was remade in Hollywood as the western 'The Magnificent Seven' (1960).",
+        "difficulty": 1
+      },
+      {
+        "q": "Which poet wrote the famous haiku about a frog leaping into an old pond?",
+        "choices": ["Kobayashi Issa", "Matsuo Basho", "Yosa Buson", "Masaoka Shiki"],
+        "answer": 1,
+        "fact": "Basho also wrote 'The Narrow Road to the Deep North', a travel journal mixing prose and haiku from his long walk through northern Japan.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who wrote 'The Tale of Genji', the classic of the Heian court written in the early 11th century?",
+        "choices": ["Sei Shonagon", "Ono no Komachi", "Izumi Shikibu", "Murasaki Shikibu"],
+        "answer": 3,
+        "fact": "The Tale of Genji is often called the world's first novel; its author was a lady-in-waiting at the imperial court in Kyoto.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which theatre form, said to have been started by a woman named Izumo no Okuni around 1603, is now performed by all-male casts?",
+        "choices": ["Kabuki", "Noh", "Bunraku", "Rakugo"],
+        "answer": 0,
+        "fact": "Women were banned from the kabuki stage in 1629, giving rise to the onnagata, male actors who specialise in female roles.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Japan's traditional puppet theatre, in which each main puppet is worked by three puppeteers?",
+        "choices": ["Noh", "Kyogen", "Bunraku", "Kabuki"],
+        "answer": 2,
+        "fact": "Many of Japan's most celebrated plays were written for the puppet stage by Chikamatsu Monzaemon, often called 'Japan's Shakespeare'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became the first Japanese writer to win the Nobel Prize in Literature, in 1968?",
+        "choices": ["Kenzaburo Oe", "Yasunari Kawabata", "Yukio Mishima", "Haruki Murakami"],
+        "answer": 1,
+        "fact": "Kawabata was honoured for novels such as 'Snow Country'; Kenzaburo Oe became Japan's second literature laureate in 1994.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ukiyo-e artist created the print series 'The Fifty-three Stations of the Tokaido'?",
+        "choices": ["Katsushika Hokusai", "Kitagawa Utamaro", "Toshusai Sharaku", "Utagawa Hiroshige"],
+        "answer": 3,
+        "fact": "Vincent van Gogh admired Hiroshige so much that he painted his own copies of two of Hiroshige's prints.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 16th-century master shaped the Japanese tea ceremony around the rustic ideal of 'wabi'?",
+        "choices": ["Zeami", "Sen no Rikyu", "Sesshu", "Hon'ami Koetsu"],
+        "answer": 1,
+        "fact": "Sen no Rikyu served as tea master to Oda Nobunaga and Toyotomi Hideyoshi, who ordered him to commit ritual suicide in 1591.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "What is the name of Japan's national legislature?",
+        "choices": ["State Council", "National Diet", "Federal Assembly", "National People's Congress"],
+        "answer": 1,
+        "fact": "Japan's first Diet convened in 1890 under the Meiji Constitution; today's Diet Building in Tokyo's Nagatacho district was completed in 1936.",
+        "difficulty": 1
+      },
+      {
+        "q": "Under Japan's 1947 constitution, how is the Emperor defined?",
+        "choices": ["As head of government", "As commander-in-chief", "As the symbol of the State and the unity of the people", "As chief justice"],
+        "answer": 2,
+        "fact": "Japan's imperial line is traditionally regarded as the oldest continuous hereditary monarchy in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who is Japan's longest-serving prime minister?",
+        "choices": ["Shinzo Abe", "Junichiro Koizumi", "Eisaku Sato", "Shigeru Yoshida"],
+        "answer": 0,
+        "fact": "Shinzo Abe served two stints, in 2006-07 and 2012-20; his economic programme became known as 'Abenomics'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which party has governed Japan for most of the period since its founding in 1955?",
+        "choices": ["Democratic Party of Japan", "Komeito", "Japan Socialist Party", "Liberal Democratic Party"],
+        "answer": 3,
+        "fact": "Since its creation through a merger in 1955, the LDP has been out of power only twice: in 1993-94 and 2009-12.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which article of Japan's 1947 constitution renounces war as a sovereign right of the nation?",
+        "choices": ["Article 1", "Article 14", "Article 9", "Article 25"],
+        "answer": 2,
+        "fact": "The constitution took effect on 3 May 1947, a date still marked each year as Constitution Memorial Day, a national holiday.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became Japan's first prime minister in 1885?",
+        "choices": ["Yamagata Aritomo", "Okubo Toshimichi", "Saigo Takamori", "Ito Hirobumi"],
+        "answer": 3,
+        "fact": "Ito Hirobumi served as prime minister four times, and his portrait appeared on the 1,000-yen note first issued in 1963.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year was the Meiji Constitution, Japan's first modern constitution, promulgated?",
+        "choices": ["1889", "1868", "1912", "1925"],
+        "answer": 0,
+        "fact": "The Meiji Constitution drew heavily on the Prussian model, which Ito Hirobumi had studied in Europe.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the upper house of Japan's National Diet called?",
+        "choices": ["House of Peers", "House of Councillors", "House of Representatives", "House of Lords"],
+        "answer": 1,
+        "fact": "Members of the House of Councillors serve six-year terms, with half of the seats up for election every three years.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which regent is traditionally credited with Japan's Seventeen-Article Constitution of 604 CE?",
+        "choices": ["Fujiwara no Michinaga", "Emperor Tenji", "Prince Shotoku", "Soga no Umako"],
+        "answer": 2,
+        "fact": "The Seventeen-Article Constitution was a moral code for officials rather than a legal constitution; its first article praises harmony (wa).",
+        "difficulty": 3
+      },
+      {
+        "q": "Which prime minister signed the 1951 San Francisco Peace Treaty for Japan?",
+        "choices": ["Nobusuke Kishi", "Hayato Ikeda", "Ichiro Hatoyama", "Shigeru Yoshida"],
+        "answer": 3,
+        "fact": "The San Francisco Peace Treaty took effect on 28 April 1952, formally ending the Allied occupation of Japan.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Which city hosted the Summer Olympics held in 2021?",
+        "choices": ["Osaka", "Tokyo", "Sapporo", "Nagano"],
+        "answer": 1,
+        "fact": "Postponed by a year because of COVID-19, the Games kept the name 'Tokyo 2020' and were held almost entirely without spectators.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "What era name (gengo) began in Japan when Emperor Naruhito acceded to the throne in May 2019?",
+        "choices": ["Heisei", "Showa", "Reiwa", "Taisho"],
+        "answer": 2,
+        "fact": "Reiwa was taken from the Man'yoshu poetry anthology, the first era name drawn from Japanese rather than Chinese classical literature.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which Japanese city hosted the World Expo held in 2025?",
+        "choices": ["Osaka", "Tokyo", "Nagoya", "Yokohama"],
+        "answer": 0,
+        "fact": "Expo 2025 was held on Yumeshima, an artificial island; its 'Grand Ring' was certified as the world's largest wooden architectural structure.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Japanese baseball star signed a 10-year, $700 million contract with the Los Angeles Dodgers in December 2023?",
+        "choices": ["Yu Darvish", "Yoshinobu Yamamoto", "Ichiro Suzuki", "Shohei Ohtani"],
+        "answer": 3,
+        "fact": "In 2024 Shohei Ohtani became the first Major League player to hit 50 home runs and steal 50 bases in a single season.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who became Prime Minister of Japan in October 2024 after winning the LDP leadership?",
+        "choices": ["Sanae Takaichi", "Shigeru Ishiba", "Fumio Kishida", "Shinjiro Koizumi"],
+        "answer": 1,
+        "fact": "Shigeru Ishiba won the LDP leadership in 2024 on his fifth attempt, having previously run in 2008, 2012, 2018 and 2020.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In October 2025, who became Japan's first female Prime Minister?",
+        "choices": ["Yuriko Koike", "Seiko Noda", "Yoko Kamikawa", "Sanae Takaichi"],
+        "answer": 3,
+        "fact": "Sanae Takaichi, a former Minister for Internal Affairs and Communications, has often named Margaret Thatcher as a political role model.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Japan's SLIM lander touched down in January 2024. Which country in order did that make Japan to soft-land on the Moon?",
+        "choices": ["Third", "Fourth", "Fifth", "Sixth"],
+        "answer": 2,
+        "fact": "Nicknamed the 'Moon Sniper', SLIM touched down within about 100 metres of its target, although it ended up resting on its nose.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Japanese supercomputer was ranked the world's fastest in June 2020?",
+        "choices": ["Fugaku", "K computer", "Earth Simulator", "Summit"],
+        "answer": 0,
+        "fact": "Fugaku, built by RIKEN and Fujitsu in Kobe, topped the TOP500 list four times in a row and was used to model how COVID-19 droplets spread.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "In December 2020, Japan's Hayabusa2 mission delivered samples to Earth from which asteroid?",
+        "choices": ["Itokawa", "Bennu", "Ryugu", "Vesta"],
+        "answer": 2,
+        "fact": "Hayabusa2's sample capsule parachuted into the Australian outback, and scientists later found amino acids in the Ryugu material.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which industrialist, known as the 'father of Japanese capitalism', appears on the new 10,000-yen note issued in 2024?",
+        "choices": ["Fukuzawa Yukichi", "Shibusawa Eiichi", "Tsuda Umeko", "Kitasato Shibasaburo"],
+        "answer": 1,
+        "fact": "The new 1,000-yen note issued in 2024 features Hokusai's 'Great Wave off Kanagawa' on its reverse.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is Japan's highest mountain?",
+        "choices": ["Mount Kita", "Mount Ontake", "Mount Aso", "Mount Fuji"],
+        "answer": 3,
+        "fact": "Mount Fuji rises 3,776 metres and was listed as a UNESCO World Heritage Site in 2013 as a cultural site, honouring its role in art and worship.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which is the largest of Japan's main islands?",
+        "choices": ["Hokkaido", "Honshu", "Kyushu", "Shikoku"],
+        "answer": 1,
+        "fact": "Honshu is the seventh-largest island in the world and home to Tokyo, Osaka and Kyoto.",
+        "difficulty": 1
+      },
+      {
+        "q": "Alongside kanji, which two syllabaries are used to write Japanese?",
+        "choices": ["Hangul and hanja", "Pinyin and zhuyin", "Hiragana and katakana", "Devanagari and Brahmi"],
+        "answer": 2,
+        "fact": "Hiragana and katakana each have 46 basic characters, while Japan's official list of everyday-use kanji contains 2,136 characters.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Japanese name for Japan, 'Nihon' or 'Nippon', means roughly what?",
+        "choices": ["Origin of the sun", "Land of mountains", "Eastern sea", "Islands of peace"],
+        "answer": 0,
+        "fact": "The name is why Japan is called the 'Land of the Rising Sun', and the red disc on its flag represents the sun.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the highest rank in professional sumo wrestling?",
+        "choices": ["Ozeki", "Sekiwake", "Komusubi", "Yokozuna"],
+        "answer": 3,
+        "fact": "Yokozuna means 'horizontal rope', after the thick white braided rope these grand champions wear during their ring-entering ceremony.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which fish may only be prepared by specially licensed chefs in Japan because parts of it are deadly poisonous?",
+        "choices": ["Fugu (pufferfish)", "Unagi (eel)", "Maguro (tuna)", "Saba (mackerel)"],
+        "answer": 0,
+        "fact": "Fugu contains tetrodotoxin, a nerve poison far more potent than cyanide, so chefs train for years to remove the toxic organs safely.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Japan's largest freshwater lake?",
+        "choices": ["Lake Kasumigaura", "Lake Biwa", "Lake Towada", "Lake Ashi"],
+        "answer": 1,
+        "fact": "Lake Biwa in Shiga Prefecture is one of the world's oldest lakes, around 4 million years old, and supplies water to millions in the Kansai region.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many prefectures is Japan divided into?",
+        "choices": ["43", "50", "47", "52"],
+        "answer": 2,
+        "fact": "The 47 comprise one metropolis (Tokyo), one circuit (Hokkaido), two urban prefectures (Osaka and Kyoto) and 43 other prefectures.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the capital city of Okinawa Prefecture?",
+        "choices": ["Kagoshima", "Nagasaki", "Miyazaki", "Naha"],
+        "answer": 3,
+        "fact": "Naha is home to Shuri Castle, once the royal seat of the Ryukyu Kingdom, which ruled the islands before they became part of Japan.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Tokyo railway station is recognised by Guinness World Records as the world's busiest by passenger numbers?",
+        "choices": ["Shinjuku", "Tokyo", "Shibuya", "Ikebukuro"],
+        "answer": 0,
+        "fact": "Shinjuku Station handles roughly 3.5 million passengers a day in normal times and has around 200 exits.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

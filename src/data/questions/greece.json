@@ -1,0 +1,747 @@
+{
+  "country": "greece",
+  "topics": {
+    "history": [
+      {
+        "q": "At the Battle of Marathon in 490 BCE, Athenians defeated an invading army from which empire?",
+        "choices": [
+          "The Roman Empire",
+          "The Egyptian Empire",
+          "The Persian Empire",
+          "The Assyrian Empire"
+        ],
+        "answer": 2,
+        "fact": "The legend of a messenger running from Marathon to Athens inspired the marathon race, first run at the 1896 Athens Olympics.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Macedonian king built an empire stretching from Greece to India?",
+        "choices": [
+          "Philip II",
+          "Pyrrhus",
+          "Ptolemy I",
+          "Alexander the Great"
+        ],
+        "answer": 3,
+        "fact": "Tutored as a teenager by Aristotle, Alexander founded many cities bearing his name, most famously Alexandria in Egypt.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Spartan king led the Greek stand at Thermopylae in 480 BCE?",
+        "choices": [
+          "Leonidas",
+          "Lycurgus",
+          "Agesilaus",
+          "Menelaus"
+        ],
+        "answer": 0,
+        "fact": "The famous 300 Spartans fought alongside thousands of other Greeks, including about 700 Thespians who also stayed to the end.",
+        "difficulty": 1
+      },
+      {
+        "q": "During the Peloponnesian War (431-404 BCE), which city-state led the alliance that fought Athens?",
+        "choices": [
+          "Argos",
+          "Megara",
+          "Sparta",
+          "Miletus"
+        ],
+        "answer": 2,
+        "fact": "The war's great chronicler, Thucydides, was himself an Athenian general who was exiled after a military failure.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did the Greek War of Independence against the Ottoman Empire begin?",
+        "choices": [
+          "1821",
+          "1789",
+          "1830",
+          "1912"
+        ],
+        "answer": 0,
+        "fact": "Greece celebrates Independence Day on 25 March, the same day as the Orthodox Feast of the Annunciation.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Bronze Age Minoan civilisation was centred on which island?",
+        "choices": [
+          "Rhodes",
+          "Cyprus",
+          "Delos",
+          "Crete"
+        ],
+        "answer": 3,
+        "fact": "The palace of Knossos, excavated by Arthur Evans from 1900, is linked in legend to the Minotaur's labyrinth.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Constantinople, capital of the Byzantine Empire, fall to the Ottomans?",
+        "choices": [
+          "1204",
+          "1453",
+          "1389",
+          "1571"
+        ],
+        "answer": 1,
+        "fact": "The last Byzantine emperor, Constantine XI Palaiologos, died defending the city's walls on 29 May 1453.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Athenian statesman masterminded the Greek naval victory at Salamis in 480 BCE?",
+        "choices": [
+          "Pericles",
+          "Themistocles",
+          "Miltiades",
+          "Alcibiades"
+        ],
+        "answer": 1,
+        "fact": "Themistocles had earlier persuaded Athens to spend a windfall from its Laurion silver mines on building a fleet of warships.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1827 naval battle, won by British, French and Russian fleets, proved decisive for Greek independence?",
+        "choices": [
+          "Lepanto",
+          "Actium",
+          "Chesma",
+          "Navarino"
+        ],
+        "answer": 3,
+        "fact": "Fought off modern Pylos, Navarino was the last major naval battle fought entirely with wooden sailing ships.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which town served as Greece's capital before the seat of government moved to Athens in 1834?",
+        "choices": [
+          "Nafplio",
+          "Thessaloniki",
+          "Patras",
+          "Corinth"
+        ],
+        "answer": 0,
+        "fact": "Ioannis Kapodistrias, independent Greece's first head of state, was assassinated outside a church in Nafplio in 1831.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which Greek mathematician of Syracuse is said to have shouted 'Eureka!' in his bath?",
+        "choices": [
+          "Euclid",
+          "Pythagoras",
+          "Archimedes",
+          "Thales"
+        ],
+        "answer": 2,
+        "fact": "Archimedes also designed war machines to defend Syracuse against a Roman siege, which ended with his death in 212 BCE.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient Greek physician is known as the 'father of medicine'?",
+        "choices": [
+          "Hippocrates",
+          "Galen",
+          "Asclepius",
+          "Herophilus"
+        ],
+        "answer": 0,
+        "fact": "Hippocrates came from the island of Kos and taught that diseases have natural causes rather than being punishments from the gods.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Greek thinker gives his name to the theorem a² + b² = c²?",
+        "choices": [
+          "Euclid",
+          "Archimedes",
+          "Plato",
+          "Pythagoras"
+        ],
+        "answer": 3,
+        "fact": "Pythagoras was born on the island of Samos, where the harbour town of Pythagoreio now bears his name.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Greek mathematician wrote the 'Elements', the classic textbook of geometry?",
+        "choices": [
+          "Aristotle",
+          "Euclid",
+          "Hipparchus",
+          "Thales"
+        ],
+        "answer": 1,
+        "fact": "Euclid worked in Alexandria around 300 BCE; his Elements served as the standard geometry textbook for over 2,000 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Antikythera mechanism, recovered from an ancient shipwreck in 1901, was used for what?",
+        "choices": [
+          "Measuring the depth of the sea",
+          "Predicting astronomical positions and eclipses",
+          "Encrypting secret messages",
+          "Weighing ships' cargo"
+        ],
+        "answer": 1,
+        "fact": "Often called the world's first analogue computer, its corroded bronze gears are displayed at the National Archaeological Museum in Athens.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Greek scholar estimated the Earth's circumference using shadows cast in two Egyptian cities?",
+        "choices": [
+          "Ptolemy",
+          "Hipparchus",
+          "Anaximander",
+          "Eratosthenes"
+        ],
+        "answer": 3,
+        "fact": "Eratosthenes, chief librarian at Alexandria, is also credited with coining the word 'geography'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Hero of Alexandria described the aeolipile, a spinning sphere driven by what?",
+        "choices": [
+          "Steam",
+          "Wind",
+          "Falling water",
+          "Magnetism"
+        ],
+        "answer": 0,
+        "fact": "Hero also described a coin-operated holy-water dispenser, often called the world's first vending machine.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ancient Greek astronomer is credited with the earliest known model placing the Sun at the centre of the cosmos?",
+        "choices": [
+          "Ptolemy",
+          "Thales of Miletus",
+          "Aristarchus of Samos",
+          "Hipparchus"
+        ],
+        "answer": 2,
+        "fact": "Aristarchus also tried to measure the sizes and distances of the Sun and Moon, concluding the Sun was much larger than the Earth.",
+        "difficulty": 2
+      },
+      {
+        "q": "Opened in 1893, the Corinth Canal links the Gulf of Corinth with which other gulf?",
+        "choices": [
+          "Thermaic Gulf",
+          "Argolic Gulf",
+          "Pagasetic Gulf",
+          "Saronic Gulf"
+        ],
+        "answer": 3,
+        "fact": "About 6.4 km long and only about 21 m wide at water level, the canal realised a project first attempted by Emperor Nero in 67 CE.",
+        "difficulty": 3
+      },
+      {
+        "q": "Greek-born physician Georgios Papanikolaou pioneered a screening test for which disease?",
+        "choices": [
+          "Cervical cancer",
+          "Tuberculosis",
+          "Diabetes",
+          "Malaria"
+        ],
+        "answer": 0,
+        "fact": "Born in Kymi on the island of Euboea, Papanikolaou did his research in New York; his 'Pap test' has saved countless lives.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Who is traditionally credited as the author of the 'Iliad' and the 'Odyssey'?",
+        "choices": [
+          "Hesiod",
+          "Homer",
+          "Sophocles",
+          "Herodotus"
+        ],
+        "answer": 1,
+        "fact": "The Iliad is set during the Trojan War, while the Odyssey follows Odysseus' ten-year voyage home to Ithaca.",
+        "difficulty": 1
+      },
+      {
+        "q": "To which goddess was the Parthenon in Athens dedicated?",
+        "choices": [
+          "Aphrodite",
+          "Athena",
+          "Hera",
+          "Artemis"
+        ],
+        "answer": 1,
+        "fact": "Built in 447-432 BCE, the Parthenon was badly damaged in 1687 when a Venetian shell ignited Ottoman gunpowder stored inside.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Venus de Milo statue, now in the Louvre, was found on which Greek island?",
+        "choices": [
+          "Naxos",
+          "Paros",
+          "Rhodes",
+          "Milos"
+        ],
+        "answer": 3,
+        "fact": "Found by a farmer in 1820, the statue is thought to depict Aphrodite; her missing arms have never been found.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Greek-American soprano was nicknamed 'La Divina'?",
+        "choices": [
+          "Maria Callas",
+          "Agnes Baltsa",
+          "Nana Mouskouri",
+          "Joan Sutherland"
+        ],
+        "answer": 0,
+        "fact": "Born in New York to Greek parents, Callas spent her teenage years in Athens, where she trained at the conservatory.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Athenian playwright wrote the tragedy 'Oedipus Rex'?",
+        "choices": [
+          "Euripides",
+          "Aeschylus",
+          "Sophocles",
+          "Aristophanes"
+        ],
+        "answer": 2,
+        "fact": "Sophocles is said to have written over 120 plays, but only seven complete tragedies survive.",
+        "difficulty": 2
+      },
+      {
+        "q": "The painter El Greco, famous for his work in Toledo, Spain, was born on which island?",
+        "choices": [
+          "Corfu",
+          "Cyprus",
+          "Chios",
+          "Crete"
+        ],
+        "answer": 3,
+        "fact": "His real name was Domenikos Theotokopoulos; 'El Greco' simply means 'the Greek' in Spanish.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which order of classical columns, the plainest of the three Greek orders, was used for the Parthenon's outer colonnade?",
+        "choices": [
+          "Doric",
+          "Ionic",
+          "Corinthian",
+          "Tuscan"
+        ],
+        "answer": 0,
+        "fact": "The Parthenon's columns swell slightly in the middle, a technique called entasis that makes them look perfectly straight from afar.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ancient theatre in the Peloponnese is famed for acoustics so good that a whisper on stage carries to the back rows?",
+        "choices": [
+          "Delphi",
+          "Dodona",
+          "Epidaurus",
+          "Pergamon"
+        ],
+        "answer": 2,
+        "fact": "Built in the 4th century BCE and seating around 14,000, the theatre still hosts plays every summer during the Epidaurus Festival.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Cretan author wrote the novel 'Zorba the Greek'?",
+        "choices": [
+          "Nikos Kazantzakis",
+          "Constantine Cavafy",
+          "Giorgos Seferis",
+          "Odysseas Elytis"
+        ],
+        "answer": 0,
+        "fact": "Kazantzakis' grave in Heraklion bears the epitaph: 'I hope for nothing. I fear nothing. I am free.'",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became the first Greek to win the Nobel Prize in Literature, in 1963?",
+        "choices": [
+          "Odysseas Elytis",
+          "Nikos Kazantzakis",
+          "Constantine Cavafy",
+          "Giorgos Seferis"
+        ],
+        "answer": 3,
+        "fact": "Seferis was also a career diplomat who served as Greek ambassador in London; Odysseas Elytis became Greece's second literature laureate in 1979.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "Democracy, meaning 'rule by the people', first developed in which ancient city-state?",
+        "choices": [
+          "Sparta",
+          "Corinth",
+          "Thebes",
+          "Athens"
+        ],
+        "answer": 3,
+        "fact": "Athenian citizens voted directly on laws in the Assembly, which met on the Pnyx hill facing the Acropolis.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Athenian statesman led the city in its 5th-century BCE 'Golden Age' and championed building the Parthenon?",
+        "choices": [
+          "Pericles",
+          "Solon",
+          "Draco",
+          "Cleon"
+        ],
+        "answer": 0,
+        "fact": "Pericles' famous Funeral Oration was recorded by the historian Thucydides; Pericles died during the plague of Athens in 429 BCE.",
+        "difficulty": 1
+      },
+      {
+        "q": "In ancient Athens, what was the practice of voting to exile a citizen for ten years called?",
+        "choices": [
+          "Proscription",
+          "Excommunication",
+          "Ostracism",
+          "Impeachment"
+        ],
+        "answer": 2,
+        "fact": "Voters scratched names on pottery shards called ostraka; thousands of these have been excavated in Athens.",
+        "difficulty": 1
+      },
+      {
+        "q": "Under its 1975 constitution, what is Greece's form of government?",
+        "choices": [
+          "Parliamentary republic",
+          "Constitutional monarchy",
+          "Federal republic",
+          "Absolute monarchy"
+        ],
+        "answer": 0,
+        "fact": "Greece's president is elected by Parliament and is largely ceremonial; executive power lies with the Prime Minister and cabinet.",
+        "difficulty": 1
+      },
+      {
+        "q": "Whose reforms of 508/507 BCE are traditionally seen as founding Athenian democracy?",
+        "choices": [
+          "Peisistratos",
+          "Draco",
+          "Pericles",
+          "Cleisthenes"
+        ],
+        "answer": 3,
+        "fact": "Cleisthenes reorganised Athenian citizens into ten new tribes, breaking the power of old aristocratic clans.",
+        "difficulty": 2
+      },
+      {
+        "q": "A military junta known as 'the Colonels' ruled Greece from 1967 until which year?",
+        "choices": [
+          "1970",
+          "1974",
+          "1981",
+          "1989"
+        ],
+        "answer": 1,
+        "fact": "Greeks commemorate the November 1973 Athens Polytechnic uprising against the junta every year on 17 November.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many members sit in Greece's single-chamber Hellenic Parliament?",
+        "choices": [
+          "150",
+          "300",
+          "450",
+          "600"
+        ],
+        "answer": 1,
+        "fact": "Parliament meets in the Old Royal Palace on Syntagma Square, originally built for King Otto.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Greece join the European Economic Community?",
+        "choices": [
+          "1973",
+          "1986",
+          "1995",
+          "1981"
+        ],
+        "answer": 3,
+        "fact": "Greece became the EEC's tenth member on 1 January 1981, five years before Spain and Portugal joined.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was the last King of Greece, before the monarchy was abolished by referendum in 1974?",
+        "choices": [
+          "Constantine II",
+          "George II",
+          "Paul",
+          "Otto"
+        ],
+        "answer": 0,
+        "fact": "Before becoming king, Constantine won an Olympic gold medal in sailing at the 1960 Rome Games.",
+        "difficulty": 3
+      },
+      {
+        "q": "Otto, the first king of modern Greece, was a prince from which German kingdom?",
+        "choices": [
+          "Prussia",
+          "Saxony",
+          "Bavaria",
+          "Württemberg"
+        ],
+        "answer": 2,
+        "fact": "Otto arrived in Greece in 1833 aged just 17; he was deposed in 1862 and returned to Bavaria.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Which party won Greece's June 2023 parliamentary election outright?",
+        "choices": [
+          "SYRIZA",
+          "PASOK",
+          "Greek Solution",
+          "New Democracy"
+        ],
+        "answer": 3,
+        "fact": "Kyriakos Mitsotakis, whose father Konstantinos was Prime Minister in 1990-93, began a second term as Prime Minister after the vote.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Greek basketball star Giannis Antetokounmpo won the 2021 NBA championship with which team?",
+        "choices": [
+          "Milwaukee Bucks",
+          "Phoenix Suns",
+          "Boston Celtics",
+          "Los Angeles Lakers"
+        ],
+        "answer": 0,
+        "fact": "Born in Athens to Nigerian parents, Giannis scored 50 points in the title-clinching game and was named Finals MVP.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In April 2024, the Olympic flame was lit at Ancient Olympia for which Summer Games?",
+        "choices": [
+          "Tokyo 2020",
+          "Los Angeles 2028",
+          "Paris 2024",
+          "Brisbane 2032"
+        ],
+        "answer": 2,
+        "fact": "The flame sailed from Greece to Marseille aboard the Belem, a three-masted ship built in the 19th century.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Greek city opened its long-awaited metro system in November 2024?",
+        "choices": [
+          "Patras",
+          "Heraklion",
+          "Larissa",
+          "Thessaloniki"
+        ],
+        "answer": 3,
+        "fact": "Construction was slowed for years by spectacular Byzantine and Roman finds, some of which are now displayed inside the stations.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who became Greece's first female President in March 2020?",
+        "choices": [
+          "Katerina Sakellaropoulou",
+          "Dora Bakoyannis",
+          "Anna Diamantopoulou",
+          "Fofi Gennimata"
+        ],
+        "answer": 0,
+        "fact": "Sakellaropoulou, a judge, had previously been the first woman to lead Greece's Council of State, its supreme administrative court.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which former Prime Minister stepped down as leader of SYRIZA after the 2023 elections?",
+        "choices": [
+          "George Papandreou",
+          "Antonis Samaras",
+          "Alexis Tsipras",
+          "Lucas Papademos"
+        ],
+        "answer": 2,
+        "fact": "Tsipras became Prime Minister in January 2015 aged 40 and steered Greece through that summer's dramatic bailout referendum.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2024, which club became the first Greek side to win a major UEFA club trophy, the Europa Conference League?",
+        "choices": [
+          "Olympiacos",
+          "Panathinaikos",
+          "AEK Athens",
+          "PAOK"
+        ],
+        "answer": 0,
+        "fact": "Olympiacos beat Fiorentina 1-0 in extra time, and the final happened to be played in Athens.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In February 2024, Greece became the first Orthodox Christian-majority country to legalise what?",
+        "choices": [
+          "Recreational cannabis",
+          "Assisted dying",
+          "Voting at age 16",
+          "Same-sex civil marriage"
+        ],
+        "answer": 3,
+        "fact": "The same law also gave same-sex married couples the right to adopt children.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who was elected President of Greece by Parliament in February 2025?",
+        "choices": [
+          "Prokopis Pavlopoulos",
+          "Konstantinos Tasoulas",
+          "Nikos Dendias",
+          "Kyriakos Mitsotakis"
+        ],
+        "answer": 1,
+        "fact": "Tasoulas had served as Speaker of the Hellenic Parliament before taking up the presidency in March 2025.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "Miltiadis Tentoglou won Olympic gold at both Tokyo 2020 and Paris 2024 in which event?",
+        "choices": [
+          "Triple jump",
+          "Long jump",
+          "Pole vault",
+          "High jump"
+        ],
+        "answer": 1,
+        "fact": "In Tokyo he tied Cuba's Juan Miguel Echevarría at 8.41 m with his final jump and took gold thanks to a better second-best leap.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
+    "general": [
+      {
+        "q": "Which mountain, the highest in Greece, was said to be the home of the gods?",
+        "choices": [
+          "Mount Parnassus",
+          "Mount Athos",
+          "Mount Olympus",
+          "Mount Ida"
+        ],
+        "answer": 2,
+        "fact": "Olympus' highest peak, Mytikas, rises to about 2,918 m and was first climbed only in 1913.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which sea lies between mainland Greece and Turkey?",
+        "choices": [
+          "Ionian Sea",
+          "Adriatic Sea",
+          "Black Sea",
+          "Aegean Sea"
+        ],
+        "answer": 3,
+        "fact": "In myth, the Aegean takes its name from King Aegeus of Athens, who threw himself into the sea believing his son Theseus was dead.",
+        "difficulty": 1
+      },
+      {
+        "q": "The word 'alphabet' comes from 'alpha' plus which other Greek letter?",
+        "choices": [
+          "Beta",
+          "Gamma",
+          "Delta",
+          "Omega"
+        ],
+        "answer": 0,
+        "fact": "Adapted from Phoenician script, the Greek alphabet was the first to use separate letters for vowels.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city hosted the first modern Olympic Games in 1896?",
+        "choices": [
+          "Paris",
+          "London",
+          "Athens",
+          "Olympia"
+        ],
+        "answer": 2,
+        "fact": "Spyridon Louis, a Greek water-carrier, won the 1896 marathon and became a national hero.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2004, Greece's men's football team stunned Europe by winning which tournament?",
+        "choices": [
+          "UEFA European Championship",
+          "FIFA World Cup",
+          "FIFA Confederations Cup",
+          "UEFA Nations League"
+        ],
+        "answer": 0,
+        "fact": "Greece beat hosts Portugal 1-0 in the Lisbon final, thanks to a header by Angelos Charisteas.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which self-governing peninsula in northern Greece is home to 20 Orthodox monasteries?",
+        "choices": [
+          "Meteora",
+          "Mani",
+          "Pelion",
+          "Mount Athos"
+        ],
+        "answer": 3,
+        "fact": "Women have been barred from Mount Athos for over a thousand years, under a rule known as the avaton.",
+        "difficulty": 2
+      },
+      {
+        "q": "The whitewashed villages of Oia and Fira perch on the volcanic caldera of which island?",
+        "choices": [
+          "Mykonos",
+          "Santorini",
+          "Naxos",
+          "Corfu"
+        ],
+        "answer": 1,
+        "fact": "Santorini's huge Bronze Age eruption (c. 1600 BCE) buried the town of Akrotiri, preserving it like a Greek Pompeii.",
+        "difficulty": 2
+      },
+      {
+        "q": "Feta cheese is traditionally made mainly from which milk?",
+        "choices": [
+          "Cow's milk",
+          "Sheep's milk",
+          "Buffalo milk",
+          "Camel milk"
+        ],
+        "answer": 1,
+        "fact": "Since 2002, 'feta' has been an EU Protected Designation of Origin: only brined cheese from designated parts of Greece may use the name.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many horizontal stripes are on the flag of Greece?",
+        "choices": [
+          "5",
+          "7",
+          "13",
+          "9"
+        ],
+        "answer": 3,
+        "fact": "The nine blue and white stripes are popularly said to stand for the syllables of 'Eleftheria i Thanatos' ('Freedom or Death').",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the longest river flowing entirely within Greece?",
+        "choices": [
+          "Aliakmonas",
+          "Acheloos",
+          "Pineios",
+          "Strymonas"
+        ],
+        "answer": 0,
+        "fact": "About 300 km long, the Aliakmonas runs from the Pindus mountains to the Thermaic Gulf near Thessaloniki.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

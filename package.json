@@ -1,0 +1,27 @@
+{
+  "name": "get-around",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Get Around — a 3D journey through world history, one country and one quiz at a time.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "validate:content": "node scripts/validate-content.mjs",
+    "test": "node scripts/validate-content.mjs && vitest run"
+  },
+  "dependencies": {
+    "three": "^0.186.1",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "@types/topojson-client": "^3.1.5",
+    "typescript": "~5.9",
+    "vite": "^7.3.6",
+    "vitest": "^3.2.7"
+  }
+}

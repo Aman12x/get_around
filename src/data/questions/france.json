@@ -1,0 +1,447 @@
+{
+  "country": "france",
+  "topics": {
+    "history": [
+      {
+        "q": "In which year did Parisians storm the Bastille?",
+        "choices": ["1776", "1789", "1815", "1848"],
+        "answer": 1,
+        "fact": "The Bastille held only seven prisoners when it was stormed. The date, 14 July, is now France's national holiday.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which military leader crowned himself Emperor of the French in 1804?",
+        "choices": ["Louis XIV", "Charlemagne", "Napoleon Bonaparte", "Charles de Gaulle"],
+        "answer": 2,
+        "fact": "Napoleon was born in Ajaccio, Corsica, in 1769, just a year after Genoa handed the island over to France.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which young peasant woman helped lift the English siege of Orléans in 1429?",
+        "choices": ["Joan of Arc", "Catherine de' Medici", "Eleanor of Aquitaine", "Marie Antoinette"],
+        "answer": 0,
+        "fact": "Joan of Arc was burned at the stake in Rouen in 1431, aged about 19. She was made a saint in 1920 and is a patron saint of France.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French king was known as the \"Sun King\"?",
+        "choices": ["Louis XIII", "Henry IV", "Louis XVI", "Louis XIV"],
+        "answer": 3,
+        "fact": "Louis XIV reigned for 72 years (1643-1715), one of the longest reigns in European history. He moved the royal court to Versailles in 1682.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which queen, the wife of Louis XVI, was guillotined in 1793?",
+        "choices": ["Catherine de' Medici", "Marie Antoinette", "Joséphine de Beauharnais", "Anne of Austria"],
+        "answer": 1,
+        "fact": "Marie Antoinette was born an Archduchess of Austria. There is no evidence that she ever said \"Let them eat cake\".",
+        "difficulty": 2
+      },
+      {
+        "q": "On which French coast did Allied forces land on D-Day, 6 June 1944?",
+        "choices": ["Brittany", "Provence", "Normandy", "Picardy"],
+        "answer": 2,
+        "fact": "The five landing beaches were code-named Utah, Omaha, Gold, Juno and Sword. It is still the largest seaborne invasion in history.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Frankish king was crowned Emperor by the Pope in Rome on Christmas Day in the year 800?",
+        "choices": ["Charlemagne", "Clovis I", "Pepin the Short", "Charles Martel"],
+        "answer": 0,
+        "fact": "Pope Leo III crowned Charlemagne in St Peter's Basilica. His empire covered much of western Europe, and he is sometimes called the \"Father of Europe\".",
+        "difficulty": 2
+      },
+      {
+        "q": "At which battle in 1815 was Napoleon finally defeated?",
+        "choices": ["Austerlitz", "Leipzig", "Trafalgar", "Waterloo"],
+        "answer": 3,
+        "fact": "Waterloo is in present-day Belgium. Napoleon was then exiled to Saint Helena, a remote island in the South Atlantic, where he died in 1821.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1598 decree by Henry IV granted rights and religious tolerance to French Protestants?",
+        "choices": ["The Edict of Fontainebleau", "The Edict of Nantes", "The Peace of Westphalia", "The Concordat of Bologna"],
+        "answer": 1,
+        "fact": "Louis XIV revoked the Edict of Nantes in 1685 with the Edict of Fontainebleau, and hundreds of thousands of Huguenots fled abroad.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was crowned King of the Franks in 987, founding the Capetian dynasty?",
+        "choices": ["Clovis I", "Louis the Pious", "Philip II", "Hugh Capet"],
+        "answer": 3,
+        "fact": "Capetian kings and their branches, the Valois and the Bourbons, ruled France for most of the next 800 years.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which French scientist gave his name to pasteurisation, a way of using heat to kill microbes in food?",
+        "choices": ["Antoine Lavoisier", "Louis Pasteur", "André-Marie Ampère", "Claude Bernard"],
+        "answer": 1,
+        "fact": "Pasteur also developed a rabies vaccine. In 1885 it was first given to Joseph Meister, a nine-year-old boy who had been bitten by a rabid dog, and he survived.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which scientist, working in Paris, became the first person to win two Nobel Prizes?",
+        "choices": ["Marie Curie", "Irène Joliot-Curie", "Lise Meitner", "Rosalind Franklin"],
+        "answer": 0,
+        "fact": "Marie Curie won the Nobel Prize in Physics in 1903 and in Chemistry in 1911. She is still the only person to win in two different sciences.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who invented a raised-dot reading and writing system for blind people?",
+        "choices": ["Valentin Haüy", "Charles Barbier", "Samuel Morse", "Louis Braille"],
+        "answer": 3,
+        "fact": "Louis Braille lost his sight after an accident in his father's workshop at the age of three. He created his system as a teenager.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which brothers held one of the first public screenings of projected films, in Paris in 1895?",
+        "choices": ["The Montgolfier brothers", "The Wright brothers", "The Lumière brothers", "The Renault brothers"],
+        "answer": 2,
+        "fact": "The screening was held at the Grand Café on the Boulevard des Capucines on 28 December 1895, using their Cinématographe.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French brothers pioneered the hot-air balloon, leading to the first crewed free flight in 1783?",
+        "choices": ["The Montgolfier brothers", "The Michelin brothers", "The Lumière brothers", "The Pathé brothers"],
+        "answer": 0,
+        "fact": "Before any people flew, a test flight at Versailles in September 1783 carried a sheep, a duck and a rooster.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which supersonic airliner did France and Britain develop together?",
+        "choices": ["Caravelle", "Tupolev Tu-144", "Airbus A380", "Concorde"],
+        "answer": 3,
+        "fact": "Concorde first flew from Toulouse in 1969. It cruised at about twice the speed of sound and could cross the Atlantic in about three and a half hours.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French chemist, often called the \"father of modern chemistry\", named oxygen and hydrogen?",
+        "choices": ["Joseph Gay-Lussac", "Antoine Lavoisier", "Louis Pasteur", "Henri Becquerel"],
+        "answer": 1,
+        "fact": "Lavoisier also worked as a royal tax collector, and for that he was guillotined in 1794 during the Reign of Terror.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which unit of electric current is named after a French physicist?",
+        "choices": ["Volt", "Ohm", "Ampere", "Watt"],
+        "answer": 2,
+        "fact": "André-Marie Ampère was largely self-taught. His name is one of 72 scientists' and engineers' names engraved around the Eiffel Tower.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French physicist discovered radioactivity in 1896 while experimenting with uranium salts?",
+        "choices": ["Pierre Curie", "Paul Langevin", "Louis de Broglie", "Henri Becquerel"],
+        "answer": 3,
+        "fact": "Becquerel shared the 1903 Nobel Prize in Physics with Marie and Pierre Curie. The SI unit of radioactivity, the becquerel, is named after him.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which French high-speed train set the world speed record for a conventional train, 574.8 km/h, in 2007?",
+        "choices": ["TGV", "ICE", "AVE", "Shinkansen"],
+        "answer": 0,
+        "fact": "TGV stands for Train à Grande Vitesse (\"high-speed train\"). Its first passenger service began in 1981, between Paris and Lyon.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which Impressionist painted the \"Water Lilies\" series in his garden at Giverny?",
+        "choices": ["Pierre-Auguste Renoir", "Edgar Degas", "Paul Cézanne", "Claude Monet"],
+        "answer": 3,
+        "fact": "Impressionism got its name from Monet's 1872 painting \"Impression, Sunrise\". A critic used the word as an insult.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who wrote the novel \"Les Misérables\" (1862)?",
+        "choices": ["Victor Hugo", "Alexandre Dumas", "Gustave Flaubert", "Émile Zola"],
+        "answer": 0,
+        "fact": "Hugo also wrote \"Notre-Dame de Paris\" (The Hunchback of Notre-Dame). Its success helped lead to the cathedral's 19th-century restoration.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Paris museum, once a royal palace, is home to the \"Mona Lisa\"?",
+        "choices": ["Musée d'Orsay", "Centre Pompidou", "The Louvre", "Musée Rodin"],
+        "answer": 2,
+        "fact": "The Louvre's glass pyramid entrance, designed by the architect I. M. Pei, opened in 1989. Many Parisians objected to it at first.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French sculptor created \"The Thinker\"?",
+        "choices": ["Frédéric Auguste Bartholdi", "Auguste Rodin", "Camille Claudel", "Edgar Degas"],
+        "answer": 1,
+        "fact": "\"The Thinker\" was first designed for Rodin's \"Gates of Hell\", where the figure shows the poet Dante thinking about his great poem.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who wrote \"The Three Musketeers\"?",
+        "choices": ["Jules Verne", "Honoré de Balzac", "Victor Hugo", "Alexandre Dumas"],
+        "answer": 3,
+        "fact": "Dumas's father, born in Saint-Domingue (now Haiti), became a general in the French Revolutionary army. He was one of the first generals of African descent.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which singer, nicknamed \"the Little Sparrow\", made \"La Vie en rose\" famous?",
+        "choices": ["Juliette Gréco", "Édith Piaf", "Josephine Baker", "Brigitte Bardot"],
+        "answer": 1,
+        "fact": "Piaf wrote the lyrics of \"La Vie en rose\" herself in 1945. \"Piaf\" is a slang word for a sparrow.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which composer wrote the piano piece \"Clair de lune\"?",
+        "choices": ["Claude Debussy", "Maurice Ravel", "Erik Satie", "Camille Saint-Saëns"],
+        "answer": 0,
+        "fact": "\"Clair de lune\" is part of Debussy's \"Suite bergamasque\", published in 1905. It takes its title from a poem by Paul Verlaine.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which classic French dish of beef slowly braised in red wine comes from Burgundy?",
+        "choices": ["Cassoulet", "Ratatouille", "Boeuf bourguignon", "Bouillabaisse"],
+        "answer": 2,
+        "fact": "In 2010 UNESCO added the \"gastronomic meal of the French\", with its courses, wine pairings and table rituals, to its list of Intangible Cultural Heritage.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which director's 1959 film \"The 400 Blows\" helped launch the French New Wave?",
+        "choices": ["Jean-Luc Godard", "Jean Renoir", "François Truffaut", "Alain Resnais"],
+        "answer": 2,
+        "fact": "Truffaut won Best Director at the 1959 Cannes Film Festival for the film, which drew on memories of his own troubled childhood.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which poet published \"Les Fleurs du mal\" in 1857?",
+        "choices": ["Arthur Rimbaud", "Paul Verlaine", "Stéphane Mallarmé", "Charles Baudelaire"],
+        "answer": 3,
+        "fact": "After an obscenity trial in 1857, six of its poems were banned. The ban was not officially lifted until 1949.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "What is the official motto of the French Republic?",
+        "choices": ["Dieu et mon droit", "Liberté, égalité, fraternité", "Honneur et Patrie", "Travail, famille, patrie"],
+        "answer": 1,
+        "fact": "The wartime Vichy regime replaced the motto with \"Travail, famille, patrie\". \"Liberté, égalité, fraternité\" was restored after the Liberation.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the official residence of the President of France?",
+        "choices": ["Palace of Versailles", "Hôtel Matignon", "Palais du Luxembourg", "Élysée Palace"],
+        "answer": 3,
+        "fact": "The President lives in the Élysée Palace. The Prime Minister lives nearby at the Hôtel Matignon, and the Senate meets in the Luxembourg Palace.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who led the Free French during the Second World War and later founded the Fifth Republic?",
+        "choices": ["Charles de Gaulle", "Philippe Pétain", "François Mitterrand", "Georges Pompidou"],
+        "answer": 0,
+        "fact": "On 18 June 1940 de Gaulle spoke on the BBC from London, calling on the French to keep fighting. That broadcast is known as the Appeal of 18 June.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of the French national anthem?",
+        "choices": ["Le Chant du départ", "L'Internationale", "La Marseillaise", "La Parisienne"],
+        "answer": 2,
+        "fact": "Rouget de Lisle wrote it in Strasbourg in 1792. It is named after volunteers from Marseille who sang it as they marched into Paris.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year was France's Fifth Republic established?",
+        "choices": ["1946", "1968", "1981", "1958"],
+        "answer": 3,
+        "fact": "The 1958 constitution created a powerful presidency. Since a referendum in 1962, the President has been elected directly by the people.",
+        "difficulty": 2
+      },
+      {
+        "q": "How long is the term of the French President, as it has been since 2002?",
+        "choices": ["Four years", "Five years", "Six years", "Seven years"],
+        "answer": 1,
+        "fact": "The President used to serve a seven-year term (the \"septennat\"). Voters chose a five-year term in a referendum in 2000.",
+        "difficulty": 2
+      },
+      {
+        "q": "Under which President did France abolish the death penalty in 1981?",
+        "choices": ["Valéry Giscard d'Estaing", "Jacques Chirac", "François Mitterrand", "Georges Pompidou"],
+        "answer": 2,
+        "fact": "Justice Minister Robert Badinter championed abolition. France's last execution, by guillotine, took place in 1977.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the lower house of the French Parliament called?",
+        "choices": ["The National Assembly", "The Senate", "The Constitutional Council", "The Council of State"],
+        "answer": 0,
+        "fact": "The National Assembly's 577 deputies meet in the Palais Bourbon, on the left bank of the Seine.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year were French women granted the right to vote?",
+        "choices": ["1918", "1928", "1958", "1944"],
+        "answer": 3,
+        "fact": "The right was granted in April 1944. French women voted for the first time a year later, in the municipal elections of April 1945.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which French body decides whether laws comply with the constitution?",
+        "choices": ["The Council of State", "The Constitutional Council", "The Court of Cassation", "The Senate"],
+        "answer": 1,
+        "fact": "Its members are nicknamed \"les Sages\" (the wise ones). Former Presidents of the Republic are entitled to sit on it for life.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Which city hosted the 2024 Summer Olympic Games?",
+        "choices": ["Lyon", "Marseille", "Paris", "Nice"],
+        "answer": 2,
+        "fact": "Paris also hosted the Games in 1900 and 1924, and became only the second city, after London, to host them three times.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who won the French presidential election in 2022?",
+        "choices": ["Emmanuel Macron", "Marine Le Pen", "Jean-Luc Mélenchon", "François Hollande"],
+        "answer": 0,
+        "fact": "Macron beat Marine Le Pen in the runoff and became the first French President to win re-election since Jacques Chirac in 2002.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In which year did Notre-Dame de Paris reopen after the 2019 fire?",
+        "choices": ["2022", "2023", "2025", "2024"],
+        "answer": 3,
+        "fact": "The April 2019 fire toppled the cathedral's 19th-century spire, designed by Viollet-le-Duc. The spire was rebuilt to the same design before the December 2024 reopening.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which team beat France on penalties in the 2022 FIFA World Cup final?",
+        "choices": ["Croatia", "Argentina", "Morocco", "Brazil"],
+        "answer": 1,
+        "fact": "Kylian Mbappé scored a hat-trick in the final, the first in a men's World Cup final since England's Geoff Hurst in 1966.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which French swimmer won four individual gold medals at the Paris 2024 Olympics?",
+        "choices": ["Florent Manaudou", "Teddy Riner", "Antoine Dupont", "Léon Marchand"],
+        "answer": 3,
+        "fact": "On one evening Marchand won the 200m butterfly and the 200m breaststroke, about two hours apart, and the home crowd went wild.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who became French Prime Minister in January 2024, the youngest in the history of the Fifth Republic?",
+        "choices": ["Gabriel Attal", "Élisabeth Borne", "Jean Castex", "Michel Barnier"],
+        "answer": 0,
+        "fact": "Attal was 34 when he was appointed. He had previously been Minister of Education.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "France's 2023 pension reform raised the minimum retirement age from 62 to what?",
+        "choices": ["63", "65", "64", "67"],
+        "answer": 2,
+        "fact": "The government passed the reform using Article 49.3 of the constitution, which allows a bill through without a vote in the National Assembly. Mass protests followed.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which country won the 2023 Rugby World Cup, held in France?",
+        "choices": ["New Zealand", "South Africa", "France", "Ireland"],
+        "answer": 1,
+        "fact": "South Africa beat New Zealand 12-11 in the final at the Stade de France, winning a record fourth Rugby World Cup.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In March 2024, France became the first country to explicitly guarantee which right in its constitution?",
+        "choices": ["The right to housing", "The right to internet access", "The right to clean air", "The freedom to have an abortion"],
+        "answer": 3,
+        "fact": "Both houses of Parliament met together at the Palace of Versailles and approved the amendment by 780 votes to 72.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which former EU chief Brexit negotiator was appointed French Prime Minister in September 2024?",
+        "choices": ["François Bayrou", "Michel Barnier", "Bernard Cazeneuve", "Édouard Philippe"],
+        "answer": 1,
+        "fact": "Barnier's government fell to a no-confidence vote in December 2024, after about three months. It was the first successful no-confidence vote since 1962.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
+    "general": [
+      {
+        "q": "Which mountain on the France-Italy border is the highest in the Alps?",
+        "choices": ["Matterhorn", "Mont Ventoux", "Mont Blanc", "Pic du Midi"],
+        "answer": 2,
+        "fact": "Mont Blanc stands about 4,800 metres high, and its exact height changes slightly from year to year as its ice cap shifts.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which famous three-week cycling race takes place in France every July?",
+        "choices": ["Giro d'Italia", "Tour de France", "Vuelta a España", "Paris-Nice"],
+        "answer": 1,
+        "fact": "The Tour de France was first held in 1903. Since 1919, the overall race leader has worn the famous yellow jersey, the maillot jaune.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Eiffel Tower was built as the entrance arch for which 1889 event?",
+        "choices": ["The Exposition Universelle (World's Fair)", "The Paris Olympic Games", "The coronation of Napoleon III", "The end of the Franco-Prussian War"],
+        "answer": 0,
+        "fact": "The tower was only supposed to stand for 20 years. It was saved partly because it was useful as a giant radio antenna.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Mediterranean island is part of France?",
+        "choices": ["Sardinia", "Sicily", "Malta", "Corsica"],
+        "answer": 3,
+        "fact": "Corsica is nicknamed the \"Île de Beauté\" (Isle of Beauty). Many people there speak Corsican, a language closely related to Italian.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the longest river that flows entirely within France?",
+        "choices": ["Loire", "Seine", "Rhône", "Garonne"],
+        "answer": 0,
+        "fact": "The Loire flows for about 1,000 km. Part of its valley, famous for its Renaissance châteaux, is a UNESCO World Heritage Site.",
+        "difficulty": 2
+      },
+      {
+        "q": "What do the French call the English Channel?",
+        "choices": ["La Mer d'Iroise", "Le Golfe de Gascogne", "La Mer Celtique", "La Manche"],
+        "answer": 3,
+        "fact": "\"La Manche\" means \"the sleeve\", after the Channel's shape. The Channel Tunnel under it, about 50 km long, opened in 1994.",
+        "difficulty": 2
+      },
+      {
+        "q": "Because of its shape, what nickname do the French give to mainland France?",
+        "choices": ["The Boot", "The Hexagon", "The Diamond", "The Square"],
+        "answer": 1,
+        "fact": "\"L'Hexagone\" is so widely used that it often means mainland France as opposed to its overseas territories.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which cathedral city were most French kings traditionally crowned?",
+        "choices": ["Chartres", "Orléans", "Reims", "Paris"],
+        "answer": 2,
+        "fact": "Reims is also at the heart of Champagne country. Many of the great Champagne houses age their wine in chalk cellars beneath the city.",
+        "difficulty": 2
+      },
+      {
+        "q": "Roquefort, one of France's most famous blue cheeses, is made from which animal's milk?",
+        "choices": ["Cow", "Goat", "Buffalo", "Sheep"],
+        "answer": 3,
+        "fact": "To be called Roquefort, the cheese must be aged in the natural Combalou caves at Roquefort-sur-Soulzon. In 1925 it became the first French cheese with an AOC.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which country shares France's longest land border?",
+        "choices": ["Spain", "Belgium", "Brazil", "Germany"],
+        "answer": 2,
+        "fact": "France's longest border, about 730 km, runs between its overseas region of French Guiana and Brazil in South America.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

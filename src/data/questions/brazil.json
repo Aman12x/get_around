@@ -1,0 +1,447 @@
+{
+  "country": "brazil",
+  "topics": {
+    "history": [
+      {
+        "q": "Which Portuguese navigator reached the coast of Brazil in 1500?",
+        "choices": ["Vasco da Gama", "Pedro Álvares Cabral", "Ferdinand Magellan", "Bartolomeu Dias"],
+        "answer": 1,
+        "fact": "Cabral's fleet was on its way to India when it landed near present-day Porto Seguro, in Bahia, and claimed the land for Portugal.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city was Brazil's capital immediately before Brasília?",
+        "choices": ["Rio de Janeiro", "Salvador", "São Paulo", "Recife"],
+        "answer": 0,
+        "fact": "Rio served as capital from 1763 until 1960 and is still nicknamed the \"Cidade Maravilhosa\" (Marvelous City).",
+        "difficulty": 1
+      },
+      {
+        "q": "Brazil takes its name from a tree prized by early traders for what?",
+        "choices": ["Its rubber", "Its fruit", "Its medicinal bark", "Its red dye"],
+        "answer": 3,
+        "fact": "Brazilwood (pau-brasil) gets its name from \"brasa,\" Portuguese for ember, after the glowing red color of its heartwood.",
+        "difficulty": 1
+      },
+      {
+        "q": "In what year did Brazil declare independence from Portugal?",
+        "choices": ["1808", "1889", "1822", "1500"],
+        "answer": 2,
+        "fact": "Prince Pedro declared independence beside the Ipiranga stream near São Paulo on 7 September 1822, reportedly crying \"Independence or death!\"",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 1494 treaty divided newly found lands between Spain and Portugal, placing eastern South America in Portugal's sphere?",
+        "choices": ["Treaty of Utrecht", "Treaty of Westphalia", "Treaty of Tordesillas", "Treaty of Paris"],
+        "answer": 2,
+        "fact": "The treaty drew a north-south line 370 leagues west of the Cape Verde islands; lands east of it went to Portugal.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became Brazil's first emperor after independence?",
+        "choices": ["Pedro I", "Pedro II", "João VI", "Getúlio Vargas"],
+        "answer": 0,
+        "fact": "Pedro I later abdicated and returned to Europe; he also briefly reigned in Portugal as King Pedro IV.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Brazil become a republic, ending its monarchy?",
+        "choices": ["1822", "1888", "1930", "1889"],
+        "answer": 3,
+        "fact": "Emperor Pedro II was deposed in a military coup on 15 November 1889 and spent his final years in exile in Europe.",
+        "difficulty": 2
+      },
+      {
+        "q": "In what year was Brasília inaugurated as Brazil's capital?",
+        "choices": ["1950", "1960", "1970", "1985"],
+        "answer": 1,
+        "fact": "Built from scratch on the central plateau, Brasília is a UNESCO World Heritage Site and one of the few 20th-century cities with that status.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the name of the 1888 law that abolished slavery in Brazil?",
+        "choices": ["Free Womb Law", "Lei Áurea (Golden Law)", "Sexagenarian Law", "Eusébio de Queirós Law"],
+        "answer": 1,
+        "fact": "Signed by Princess Isabel on 13 May 1888, it made Brazil the last country in the Americas to abolish slavery.",
+        "difficulty": 3
+      },
+      {
+        "q": "From 1808 to 1821, which European royal court was based in Rio de Janeiro?",
+        "choices": ["Spanish", "French", "British", "Portuguese"],
+        "answer": 3,
+        "fact": "Fleeing Napoleon's invasion of Portugal, the royal family sailed to Brazil, making Rio the seat of the Portuguese Empire.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which Brazilian aviation pioneer flew the 14-bis airplane in Paris in 1906?",
+        "choices": ["Alberto Santos-Dumont", "Bartolomeu de Gusmão", "Oswaldo Cruz", "Carlos Chagas"],
+        "answer": 0,
+        "fact": "Santos-Dumont helped popularize the wristwatch: his friend Louis Cartier designed one so he could check the time without letting go of the controls.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Brazilian company is one of the world's largest makers of commercial jet aircraft?",
+        "choices": ["Petrobras", "Vale", "Embraer", "Bombardier"],
+        "answer": 2,
+        "fact": "Founded in 1969 and based in São José dos Campos, Embraer is known for its E-Jet family of regional airliners.",
+        "difficulty": 1
+      },
+      {
+        "q": "Brazil is a world leader in powering cars with which biofuel made from sugarcane?",
+        "choices": ["Biodiesel", "Hydrogen", "Methanol", "Ethanol"],
+        "answer": 3,
+        "fact": "Most new cars sold in Brazil are \"flex-fuel,\" able to run on ethanol, gasoline or any mix of the two.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Brazilian state-controlled company produces oil from the deep-water \"pre-salt\" fields?",
+        "choices": ["Petrobras", "Pemex", "Embraer", "Vale"],
+        "answer": 0,
+        "fact": "Pre-salt oil lies beneath a thick layer of salt, kilometers below the Atlantic seabed off Brazil's southeast coast.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which giant hydroelectric dam on the Paraná River is shared by Brazil and Paraguay?",
+        "choices": ["Belo Monte", "Itaipu", "Three Gorges", "Hoover Dam"],
+        "answer": 1,
+        "fact": "In some years Itaipu has generated more electricity than any other power plant on Earth, including China's Three Gorges.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Brazilian mining company is one of the world's largest producers of iron ore?",
+        "choices": ["BHP", "Rio Tinto", "Petrobras", "Vale"],
+        "answer": 3,
+        "fact": "Vale's Carajás complex in Pará state is among the largest iron ore mines in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became the first Brazilian in space, in 2006?",
+        "choices": ["Rodolfo Neri Vela", "Marcos Pontes", "Arnaldo Tamayo Méndez", "Franklin Chang-Díaz"],
+        "answer": 1,
+        "fact": "Pontes flew to the International Space Station on a Russian Soyuz in 2006, the centenary of Santos-Dumont's 14-bis flight.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of the instant payment system launched by Brazil's Central Bank in November 2020?",
+        "choices": ["Venmo", "M-Pesa", "Pix", "UPI"],
+        "answer": 2,
+        "fact": "Pix lets people send money instantly, 24 hours a day, often using just a phone number, email or QR code.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1909, Carlos Chagas described a disease transmitted by which insect?",
+        "choices": ["Kissing bug (triatomine)", "Mosquito", "Tsetse fly", "Sandfly"],
+        "answer": 0,
+        "fact": "Chagas is celebrated for identifying the parasite, its insect vector and the disease it causes, almost single-handedly.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of Brazil's rocket launch center, located near the equator in Maranhão?",
+        "choices": ["Kourou", "Baikonur", "Cape Canaveral", "Alcântara"],
+        "answer": 3,
+        "fact": "Lying about 2 degrees south of the equator, Alcântara lets rockets gain extra speed from Earth's rotation, saving fuel.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which architect designed many of Brasília's landmark modernist buildings?",
+        "choices": ["Lina Bo Bardi", "Le Corbusier", "Oscar Niemeyer", "Roberto Burle Marx"],
+        "answer": 2,
+        "fact": "Urban planner Lúcio Costa drew Brasília's master plan, whose shape is often compared to an airplane or a bird.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which musical style, made famous worldwide by \"The Girl from Ipanema,\" blends samba with jazz?",
+        "choices": ["Bossa nova", "Forró", "Tango", "Salsa"],
+        "answer": 0,
+        "fact": "\"The Girl from Ipanema\" was written in 1962 by Antônio Carlos Jobim with lyrics by poet Vinicius de Moraes.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which music and dance style drives the parades of Rio de Janeiro's Carnival?",
+        "choices": ["Tango", "Merengue", "Flamenco", "Samba"],
+        "answer": 3,
+        "fact": "Rio's samba schools compete in the Sambadrome, a parade venue designed by Oscar Niemeyer and opened in 1984.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Afro-Brazilian martial art combines dance, music and acrobatics?",
+        "choices": ["Kendo", "Capoeira", "Krav Maga", "Savate"],
+        "answer": 1,
+        "fact": "Capoeira is played in a circle (roda) to the rhythm of the berimbau, a one-stringed musical bow.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Brazilian author wrote the international bestseller \"The Alchemist\"?",
+        "choices": ["Jorge Amado", "Machado de Assis", "Paulo Coelho", "Clarice Lispector"],
+        "answer": 2,
+        "fact": "First published in Portuguese in 1988, \"The Alchemist\" has been translated into more than 80 languages.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 19th-century novelist, author of \"Dom Casmurro,\" was the first president of the Brazilian Academy of Letters?",
+        "choices": ["Machado de Assis", "José de Alencar", "Jorge Amado", "Carlos Drummond de Andrade"],
+        "answer": 0,
+        "fact": "Born in 1839 to a poor family in Rio de Janeiro, Machado de Assis rose to become Brazil's most celebrated novelist.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Christ the Redeemer statue in Rio de Janeiro is a famous example of which style?",
+        "choices": ["Baroque", "Gothic", "Brutalism", "Art Deco"],
+        "answer": 3,
+        "fact": "Completed in 1931, it was designed by engineer Heitor da Silva Costa with French sculptor Paul Landowski.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Tropicália musician later served as Brazil's Minister of Culture?",
+        "choices": ["Caetano Veloso", "Gilberto Gil", "Chico Buarque", "João Gilberto"],
+        "answer": 1,
+        "fact": "Gil was Minister of Culture from 2003 to 2008; Tropicália mixed Brazilian rhythms with rock and psychedelia.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Brazilian composer wrote the \"Bachianas Brasileiras\"?",
+        "choices": ["Antônio Carlos Jobim", "Carlos Gomes", "Heitor Villa-Lobos", "Ernesto Nazareth"],
+        "answer": 2,
+        "fact": "Written between 1930 and 1945, the nine Bachianas Brasileiras fuse the style of J. S. Bach with Brazilian folk music.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Brazilian modernist painted \"Abaporu\" (1928)?",
+        "choices": ["Anita Malfatti", "Candido Portinari", "Di Cavalcanti", "Tarsila do Amaral"],
+        "answer": 3,
+        "fact": "\"Abaporu\" (Tupi for \"man who eats people\") inspired Oswald de Andrade's 1928 Anthropophagic Manifesto on \"devouring\" foreign culture.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "Who was Brazil's first female president, taking office in 2011?",
+        "choices": ["Marina Silva", "Dilma Rousseff", "Simone Tebet", "Gleisi Hoffmann"],
+        "answer": 1,
+        "fact": "An economist by training, Rousseff had served as chief of staff to her predecessor, Luiz Inácio Lula da Silva.",
+        "difficulty": 1
+      },
+      {
+        "q": "How long is a presidential term in Brazil?",
+        "choices": ["4 years", "5 years", "6 years", "8 years"],
+        "answer": 0,
+        "fact": "Since a 1997 constitutional amendment, presidents may serve two consecutive terms.",
+        "difficulty": 1
+      },
+      {
+        "q": "For literate Brazilian citizens aged 18 to 70, voting is:",
+        "choices": ["Optional", "Allowed only by mail", "Compulsory", "Restricted to property owners"],
+        "answer": 2,
+        "fact": "Brazil has used electronic voting machines nationwide since 2000, so results are often known within hours.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of Brazil's two-chamber federal legislature?",
+        "choices": ["Federal Assembly", "Cortes Gerais", "Parliament of Brazil", "National Congress"],
+        "answer": 3,
+        "fact": "In its Niemeyer-designed home in Brasília, a dome covers the Senate chamber and an upturned bowl covers the Chamber of Deputies.",
+        "difficulty": 1
+      },
+      {
+        "q": "Brazil's current constitution was promulgated in which year?",
+        "choices": ["1946", "1967", "1988", "2002"],
+        "answer": 2,
+        "fact": "Ulysses Guimarães, who presided over the assembly that wrote it, dubbed it the \"Citizen Constitution.\"",
+        "difficulty": 2
+      },
+      {
+        "q": "Which president led Brazil from 1930 to 1945, including the authoritarian \"Estado Novo,\" and again from 1951 to 1954?",
+        "choices": ["Getúlio Vargas", "Juscelino Kubitschek", "Fernando Henrique Cardoso", "Washington Luís"],
+        "answer": 0,
+        "fact": "Vargas created the state oil company Petrobras in 1953 amid the popular campaign \"O petróleo é nosso\" (\"The oil is ours\").",
+        "difficulty": 2
+      },
+      {
+        "q": "Which president built Brasília, promising \"fifty years of progress in five\"?",
+        "choices": ["Getúlio Vargas", "João Goulart", "Juscelino Kubitschek", "Jânio Quadros"],
+        "answer": 2,
+        "fact": "Kubitschek, a physician by training, also drove the rapid growth of Brazil's car industry in the late 1950s.",
+        "difficulty": 2
+      },
+      {
+        "q": "Not counting the Federal District, how many states does Brazil have?",
+        "choices": ["22", "31", "36", "26"],
+        "answer": 3,
+        "fact": "The Federal District, home to Brasília, is a separate unit and, unlike the states, is not divided into municipalities.",
+        "difficulty": 2
+      },
+      {
+        "q": "Brazil's military regime, which began in 1964, ended with a return to civilian rule in which year?",
+        "choices": ["1974", "1985", "1979", "1990"],
+        "answer": 1,
+        "fact": "The 1984 \"Diretas Já\" movement drew millions into the streets to demand direct presidential elections.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which court is Brazil's highest authority on constitutional matters?",
+        "choices": ["Supreme Federal Court", "Superior Electoral Court", "Federal Court of Accounts", "Superior Military Court"],
+        "answer": 0,
+        "fact": "The Supreme Federal Court (STF) has 11 justices, nominated by the president and approved by the Senate.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Who won Brazil's October 2022 presidential election?",
+        "choices": ["Jair Bolsonaro", "Ciro Gomes", "Simone Tebet", "Luiz Inácio Lula da Silva"],
+        "answer": 3,
+        "fact": "Lula, who had already been president from 2003 to 2010, became the first Brazilian elected to a third presidential term.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Who served as Brazil's president from January 2019 to December 2022?",
+        "choices": ["Jair Bolsonaro", "Michel Temer", "Dilma Rousseff", "Fernando Collor"],
+        "answer": 0,
+        "fact": "A former army captain, Bolsonaro had served for nearly three decades as a federal deputy for Rio de Janeiro.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Brazilian football legend, a three-time World Cup winner, died in December 2022?",
+        "choices": ["Garrincha", "Zico", "Pelé", "Sócrates"],
+        "answer": 2,
+        "fact": "Born Edson Arantes do Nascimento, Pelé won his first World Cup in 1958 at just 17, scoring twice in the final against Sweden.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2024, Brazil held the presidency of which forum of major economies, hosting its leaders' summit in Rio de Janeiro?",
+        "choices": ["G7", "G20", "OPEC", "NATO"],
+        "answer": 1,
+        "fact": "At the November 2024 Rio summit, Brazil launched a Global Alliance Against Hunger and Poverty.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Brazilian city hosted the UN climate conference COP30 in November 2025?",
+        "choices": ["Manaus", "Rio de Janeiro", "São Paulo", "Belém"],
+        "answer": 3,
+        "fact": "Belém, near the mouth of the Amazon, is famous for açaí and its bustling riverside Ver-o-Peso market.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Brazilian state suffered devastating floods in April and May 2024?",
+        "choices": ["Rio Grande do Sul", "Bahia", "Amazonas", "Pernambuco"],
+        "answer": 0,
+        "fact": "Floodwaters closed the international airport in the state capital, Porto Alegre, for about five months.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Brazilian film won the Oscar for Best International Feature in March 2025?",
+        "choices": ["City of God", "Central Station", "I'm Still Here", "Bacurau"],
+        "answer": 2,
+        "fact": "It was Brazil's first win in the category; its star Fernanda Torres had already won a Golden Globe for the role.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Brazilian gymnast won gold in the floor exercise at the Paris 2024 Olympics?",
+        "choices": ["Flávia Saraiva", "Rebeca Andrade", "Daiane dos Santos", "Jade Barbosa"],
+        "answer": 1,
+        "fact": "With six Olympic medals, Andrade became Brazil's most decorated Olympian; Simone Biles and Jordan Chiles bowed to her on the podium.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In May 2024, FIFA chose Brazil to host which tournament, the first time it will be held in South America?",
+        "choices": ["2026 FIFA World Cup", "2028 Summer Olympics", "2027 FIFA Women's World Cup", "2032 Summer Olympics"],
+        "answer": 2,
+        "fact": "Brazil previously hosted the men's World Cup in 1950 and 2014.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which 18-year-old Brazilian won the Next Gen ATP Finals tennis tournament in December 2024?",
+        "choices": ["Thiago Monteiro", "Thiago Seyboth Wild", "Gustavo Kuerten", "João Fonseca"],
+        "answer": 3,
+        "fact": "Brazil's best-known tennis star before him, Gustavo \"Guga\" Kuerten, won the French Open in 1997, 2000 and 2001.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is the official language of Brazil?",
+        "choices": ["Spanish", "Portuguese", "English", "French"],
+        "answer": 1,
+        "fact": "Brazil has more Portuguese speakers than all other Portuguese-speaking countries combined.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which is the world's largest tropical rainforest, mostly located in Brazil?",
+        "choices": ["Amazon rainforest", "Congo rainforest", "Daintree rainforest", "Atlantic Forest"],
+        "answer": 0,
+        "fact": "About 60% of the Amazon rainforest lies within Brazil's borders.",
+        "difficulty": 1
+      },
+      {
+        "q": "Sugarloaf Mountain overlooks the bay of which Brazilian city?",
+        "choices": ["Salvador", "Florianópolis", "Rio de Janeiro", "Fortaleza"],
+        "answer": 2,
+        "fact": "A cable car has carried visitors toward Sugarloaf's summit since 1912, making it one of the oldest in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many men's FIFA World Cups has Brazil won?",
+        "choices": ["3", "4", "6", "5"],
+        "answer": 3,
+        "fact": "Brazil is the only nation to have played in every men's World Cup tournament.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Brazil's largest city by population?",
+        "choices": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+        "answer": 0,
+        "fact": "Brazil has the largest population of Japanese descent outside Japan, centered on São Paulo's Liberdade district.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which black bean and pork stew is often called Brazil's national dish?",
+        "choices": ["Moqueca", "Feijoada", "Churrasco", "Acarajé"],
+        "answer": 1,
+        "fact": "Feijoada is traditionally served with rice, collard greens, orange slices and farofa (toasted manioc flour).",
+        "difficulty": 2
+      },
+      {
+        "q": "Which spectacular waterfalls lie on the border between Brazil and Argentina?",
+        "choices": ["Angel Falls", "Victoria Falls", "Iguazu Falls", "Niagara Falls"],
+        "answer": 2,
+        "fact": "Iguazu is made up of about 275 individual drops, the most dramatic being the U-shaped Devil's Throat.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of Brazil's currency?",
+        "choices": ["Peso", "Cruzeiro", "Escudo", "Real"],
+        "answer": 3,
+        "fact": "The real was introduced in 1994 under the \"Plano Real,\" which ended years of hyperinflation.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which is the world's largest tropical wetland, located mostly in Brazil?",
+        "choices": ["Pantanal", "Everglades", "Okavango Delta", "Sundarbans"],
+        "answer": 0,
+        "fact": "The Pantanal is one of the best places on Earth to see wild jaguars, along with capybaras, caimans and giant otters.",
+        "difficulty": 3
+      },
+      {
+        "q": "The colorful historic Pelourinho district, a UNESCO World Heritage Site, is in which Brazilian city?",
+        "choices": ["Recife", "Salvador", "Ouro Preto", "São Luís"],
+        "answer": 1,
+        "fact": "Founded in 1549, Salvador was Brazil's first colonial capital and is a vibrant center of Afro-Brazilian culture.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

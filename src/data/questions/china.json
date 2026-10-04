@@ -1,0 +1,447 @@
+{
+  "country": "china",
+  "topics": {
+    "history": [
+      {
+        "q": "Which ruler declared himself the first emperor of a unified China in 221 BCE?",
+        "choices": ["Qin Shi Huang", "Liu Bang", "Emperor Wu of Han", "Kublai Khan"],
+        "answer": 0,
+        "fact": "Qin Shi Huang's tomb near Xi'an is guarded by the Terracotta Army, thousands of life-size clay soldiers found by farmers digging a well in 1974.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was the last imperial dynasty to rule China?",
+        "choices": ["Ming", "Tang", "Qing", "Song"],
+        "answer": 2,
+        "fact": "The Qing dynasty ended in 1912 when the six-year-old emperor Puyi abdicated, closing more than 2,000 years of imperial rule.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kublai Khan founded which dynasty to rule China?",
+        "choices": ["Jin", "Yuan", "Liao", "Ming"],
+        "answer": 1,
+        "fact": "Kublai Khan built his capital, Khanbaliq ('City of the Khan'), on the site of modern Beijing; Marco Polo described its splendour under the name Cambaluc.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year was the People's Republic of China founded?",
+        "choices": ["1911", "1937", "1966", "1949"],
+        "answer": 3,
+        "fact": "The People's Republic was proclaimed on 1 October 1949, a date celebrated every year as National Day with a week-long holiday known as Golden Week.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Ming dynasty admiral led seven great 'treasure fleet' voyages across the Indian Ocean?",
+        "choices": ["Zhang Qian", "Xuanzang", "Zheng He", "Yue Fei"],
+        "answer": 2,
+        "fact": "Between 1405 and 1433 Zheng He's fleets sailed as far as the Arabian Peninsula and East Africa, and brought back a giraffe as a gift for the emperor.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which treaty, ending the First Opium War in 1842, ceded Hong Kong Island to Britain?",
+        "choices": ["Treaty of Shimonoseki", "Treaty of Nanking", "Treaty of Tianjin", "Treaty of Versailles"],
+        "answer": 1,
+        "fact": "The Treaty of Nanking also opened five ports, including Shanghai, to British trade, helping transform Shanghai into a global trading hub.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1911 revolution overthrew the Qing dynasty?",
+        "choices": ["Taiping Rebellion", "Boxer Rebellion", "Cultural Revolution", "Xinhai Revolution"],
+        "answer": 3,
+        "fact": "The Xinhai Revolution began with the Wuchang Uprising on 10 October 1911; 'Xinhai' is the name of that year in the traditional 60-year cycle.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who is the only woman to have ruled China as emperor in her own name?",
+        "choices": ["Wu Zetian", "Empress Dowager Cixi", "Empress Lü", "Yang Guifei"],
+        "answer": 0,
+        "fact": "Wu Zetian declared her own Zhou dynasty in 690, interrupting the Tang dynasty, and even invented new Chinese characters, including one for her own name.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Han dynasty envoy's missions to Central Asia in the 2nd century BCE helped open the Silk Road?",
+        "choices": ["Ban Chao", "Zhang Qian", "Sima Qian", "Zheng He"],
+        "answer": 1,
+        "fact": "Sent west by Emperor Wu around 138 BCE, Zhang Qian was captured by the Xiongnu and held for about ten years before completing his journey.",
+        "difficulty": 3
+      },
+      {
+        "q": "Under which short-lived dynasty were existing waterways linked to form the Grand Canal in the early 600s?",
+        "choices": ["Qin", "Han", "Song", "Sui"],
+        "answer": 3,
+        "fact": "The Grand Canal, a UNESCO World Heritage Site since 2014, runs roughly 1,800 km between Beijing and Hangzhou and is among the world's longest artificial waterways.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which explosive mixture was developed by Chinese alchemists, reportedly while seeking an elixir of immortality?",
+        "choices": ["Gunpowder", "Dynamite", "Nitroglycerin", "TNT"],
+        "answer": 0,
+        "fact": "The earliest known written formula for gunpowder appears in the Wujing Zongyao, a Song dynasty military manual compiled in 1044.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Three Gorges Dam, the world's largest power station by installed capacity, spans which river?",
+        "choices": ["Yellow River", "Pearl River", "Yangtze River", "Mekong River"],
+        "answer": 2,
+        "fact": "The Three Gorges Dam has an installed capacity of about 22.5 gigawatts, and its ship lift can raise vessels over 100 metres in one go.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which luxurious fabric originated in ancient China, spun from the cocoons of a moth caterpillar?",
+        "choices": ["Linen", "Silk", "Cotton", "Wool"],
+        "answer": 1,
+        "fact": "Silk was so prized that the trade routes linking China to the Mediterranean were later named the 'Silk Road' by a 19th-century German geographer.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ceramic, so closely tied to the country that English simply calls it 'china', was perfected by Chinese potters?",
+        "choices": ["Terracotta", "Stoneware", "Earthenware", "Porcelain"],
+        "answer": 3,
+        "fact": "Jingdezhen, China's 'porcelain capital', takes its name from the Song emperor's Jingde era (1004-1007), when its kilns supplied the imperial court.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Han dynasty court official is traditionally credited with improving papermaking around 105 CE?",
+        "choices": ["Zhang Heng", "Cai Lun", "Bi Sheng", "Shen Kuo"],
+        "answer": 1,
+        "fact": "Cai Lun's paper used tree bark, hemp, old rags and fishing nets, making a cheap writing surface far lighter than bamboo strips.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who invented movable type printing using fired clay characters in the 1040s?",
+        "choices": ["Cai Lun", "Zhang Heng", "Zu Chongzhi", "Bi Sheng"],
+        "answer": 3,
+        "fact": "We know of Bi Sheng's invention thanks to the scholar Shen Kuo, who described it in his 'Dream Pool Essays', around four centuries before Gutenberg.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became the first Chinese astronaut in space, aboard Shenzhou 5 in 2003?",
+        "choices": ["Yang Liwei", "Zhai Zhigang", "Wang Yaping", "Liu Yang"],
+        "answer": 0,
+        "fact": "Yang Liwei's flight made China the third country to send a person into orbit on its own rocket, after the Soviet Union and the United States.",
+        "difficulty": 2
+      },
+      {
+        "q": "Tu Youyou won the 2015 Nobel Prize in Physiology or Medicine for discovering a treatment for which disease?",
+        "choices": ["Tuberculosis", "Cholera", "Malaria", "Smallpox"],
+        "answer": 2,
+        "fact": "Tu Youyou found the key to extracting artemisinin from sweet wormwood in a 4th-century medical text by the alchemist Ge Hong.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Han dynasty polymath built a seismoscope to detect distant earthquakes in 132 CE?",
+        "choices": ["Zu Chongzhi", "Zhang Heng", "Cai Lun", "Su Song"],
+        "answer": 1,
+        "fact": "Zhang Heng's bronze vessel had eight dragons; a quake would make one drop a ball into a toad's mouth below, hinting at the tremor's direction.",
+        "difficulty": 3
+      },
+      {
+        "q": "The 5th-century mathematician Zu Chongzhi calculated which constant to seven decimal places?",
+        "choices": ["e", "The golden ratio", "Square root of 2", "Pi"],
+        "answer": 3,
+        "fact": "Zu Chongzhi also gave the fraction 355/113 for pi, an approximation so good it was not bettered anywhere for nearly a millennium.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which classic Chinese novel follows the monk Xuanzang on a pilgrimage with Sun Wukong, the Monkey King?",
+        "choices": ["Dream of the Red Chamber", "Journey to the West", "Water Margin", "Romance of the Three Kingdoms"],
+        "answer": 1,
+        "fact": "Journey to the West, usually attributed to Wu Cheng'en in the 16th century, is based on a real monk who walked to India in the 7th century.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which traditional theatre form, famous for its painted faces and acrobatics, is named after China's capital?",
+        "choices": ["Kunqu", "Cantonese opera", "Sichuan opera", "Peking opera"],
+        "answer": 3,
+        "fact": "Peking opera blends singing, speech, mime and martial arts, and was inscribed on UNESCO's list of Intangible Cultural Heritage in 2010.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which two-stringed bowed instrument is sometimes called the 'Chinese violin'?",
+        "choices": ["Erhu", "Pipa", "Guzheng", "Dizi"],
+        "answer": 0,
+        "fact": "On an erhu the bow's hair passes between the two strings, so the bow and instrument are effectively inseparable while being played.",
+        "difficulty": 1
+      },
+      {
+        "q": "Beijing's Forbidden City served as the imperial palace for which two dynasties?",
+        "choices": ["Tang and Song", "Han and Jin", "Ming and Qing", "Song and Yuan"],
+        "answer": 2,
+        "fact": "Built between 1406 and 1420 under the Yongle Emperor, the Forbidden City has housed the Palace Museum since 1925.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Tang dynasty poet is celebrated as the 'Immortal Poet'?",
+        "choices": ["Du Fu", "Li Bai", "Su Shi", "Wang Wei"],
+        "answer": 1,
+        "fact": "A popular legend claims Li Bai drowned after leaning out of a boat to embrace the moon's reflection in the river.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 4th-century master, author of the 'Orchid Pavilion Preface', is revered as the 'Sage of Calligraphy'?",
+        "choices": ["Yan Zhenqing", "Zhao Mengfu", "Su Shi", "Wang Xizhi"],
+        "answer": 3,
+        "fact": "Tang Emperor Taizong adored Wang Xizhi's Orchid Pavilion Preface so much that the original is said to have been buried with him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which film director staged the opening ceremony of the 2008 Beijing Olympics?",
+        "choices": ["Zhang Yimou", "Chen Kaige", "Ang Lee", "Wong Kar-wai"],
+        "answer": 0,
+        "fact": "Zhang Yimou's first film as director, Red Sorghum, won the Golden Bear at the 1988 Berlin Film Festival.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Chinese author won the 2012 Nobel Prize in Literature?",
+        "choices": ["Lu Xun", "Yu Hua", "Mo Yan", "Ba Jin"],
+        "answer": 2,
+        "fact": "The pen name Mo Yan means 'don't speak', a reminder of warnings he received as a child to be careful what he said.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Song dynasty artist painted the famous scroll 'Along the River During the Qingming Festival'?",
+        "choices": ["Fan Kuan", "Zhang Zeduan", "Gu Kaizhi", "Wu Daozi"],
+        "answer": 1,
+        "fact": "The handscroll, over 5 metres long, captures bustling street life in Kaifeng, then the Northern Song capital, with hundreds of tiny figures.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who is credited as the author of the 18th-century novel 'Dream of the Red Chamber'?",
+        "choices": ["Wu Cheng'en", "Luo Guanzhong", "Shi Nai'an", "Cao Xueqin"],
+        "answer": 3,
+        "fact": "Dream of the Red Chamber is so intensively studied that its scholarship has a name of its own: 'Redology' (hongxue).",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "Who proclaimed the founding of the People's Republic of China from Tiananmen in 1949?",
+        "choices": ["Sun Yat-sen", "Deng Xiaoping", "Mao Zedong", "Zhou Enlai"],
+        "answer": 2,
+        "fact": "Tiananmen means 'Gate of Heavenly Peace'; the gate was first built in the 15th century as the entrance to the imperial city.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which leader launched China's 'Reform and Opening Up' policy in 1978?",
+        "choices": ["Deng Xiaoping", "Hua Guofeng", "Jiang Zemin", "Hu Jintao"],
+        "answer": 0,
+        "fact": "In 1980 the fishing town of Shenzhen became one of China's first Special Economic Zones; it is now a metropolis of over 17 million people.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year was Hong Kong transferred from British to Chinese sovereignty?",
+        "choices": ["1984", "1999", "2007", "1997"],
+        "answer": 3,
+        "fact": "The handover took place on 1 July 1997; two years later, in December 1999, Macau was returned to China by Portugal.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of China's national legislature?",
+        "choices": ["State Council", "National People's Congress", "Central Military Commission", "Supreme People's Court"],
+        "answer": 1,
+        "fact": "With nearly 3,000 deputies, the National People's Congress is the largest parliamentary body in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of China's cabinet, the chief administrative body headed by the Premier?",
+        "choices": ["Politburo", "NPC Standing Committee", "State Council", "Chinese People's Political Consultative Conference"],
+        "answer": 2,
+        "fact": "The State Council oversees China's ministries and commissions and meets in the Zhongnanhai compound, next to the Forbidden City.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who served as the first Premier of the People's Republic of China, from 1949 until 1976?",
+        "choices": ["Li Peng", "Zhou Enlai", "Zhu Rongji", "Liu Shaoqi"],
+        "answer": 1,
+        "fact": "Zhou Enlai was also foreign minister from 1949 to 1958 and hosted US President Richard Nixon's landmark visit to China in 1972.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the official status of Hong Kong and Macau within the People's Republic of China?",
+        "choices": ["Autonomous Region", "Municipality", "Special Economic Zone", "Special Administrative Region"],
+        "answer": 3,
+        "fact": "Both Special Administrative Regions issue their own currencies: the Hong Kong dollar and the Macanese pataca.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Xi Jinping become General Secretary of the Chinese Communist Party?",
+        "choices": ["2012", "2008", "2013", "2017"],
+        "answer": 0,
+        "fact": "Xi Jinping became Party General Secretary in November 2012 and was elected the country's President by the National People's Congress in March 2013.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year was the current Constitution of the People's Republic of China adopted?",
+        "choices": ["1954", "1975", "1982", "1978"],
+        "answer": 2,
+        "fact": "China has had four constitutions (1954, 1975, 1978 and 1982); the 1982 version has been amended five times, most recently in 2018.",
+        "difficulty": 3
+      },
+      {
+        "q": "How many members has the Communist Party's Politburo Standing Committee had since 2012?",
+        "choices": ["5", "9", "11", "7"],
+        "answer": 3,
+        "fact": "From 2002 to 2012 the Politburo Standing Committee had nine members; the 18th Party Congress in 2012 reduced it to seven.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Which city hosted the 2022 Winter Olympics, becoming the first to host both Summer and Winter Games?",
+        "choices": ["Shanghai", "Beijing", "Harbin", "Guangzhou"],
+        "answer": 1,
+        "fact": "Beijing's 2022 Games reused 2008 venues: the 'Water Cube' swimming centre was converted into the 'Ice Cube' for curling.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "According to UN estimates, which country overtook China in 2023 as the world's most populous?",
+        "choices": ["India", "United States", "Indonesia", "Pakistan"],
+        "answer": 0,
+        "fact": "China's National Bureau of Statistics reported that the population fell in 2022, the first decline since 1961.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2024, China's Chang'e 6 mission became the first to return samples from where?",
+        "choices": ["Mars", "A comet", "The far side of the Moon", "Mercury"],
+        "answer": 2,
+        "fact": "Chang'e 6 collected its samples in the South Pole-Aitken basin, one of the largest known impact craters in the Solar System.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Hangzhou-based artificial intelligence company released its R1 reasoning model in January 2025?",
+        "choices": ["Baidu", "Tencent", "ByteDance", "DeepSeek"],
+        "answer": 3,
+        "fact": "DeepSeek's release briefly made its app the top free download on Apple's US App Store and sent shockwaves through global tech stocks.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "What was the name of the rover China landed on Mars in May 2021?",
+        "choices": ["Yutu-2", "Zhurong", "Tianhe", "Wentian"],
+        "answer": 1,
+        "fact": "Zhurong, named after a fire god in Chinese mythology, touched down on the plain of Utopia Planitia as part of the Tianwen-1 mission.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Who became Premier of China in March 2023, succeeding Li Keqiang?",
+        "choices": ["Li Qiang", "Wang Yang", "Han Zheng", "Zhao Leji"],
+        "answer": 0,
+        "fact": "Before becoming Premier, Li Qiang served as the Communist Party Secretary of Shanghai, China's largest city.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which city hosted the Asian Games held in 2023, postponed from 2022?",
+        "choices": ["Guangzhou", "Chengdu", "Nanjing", "Hangzhou"],
+        "answer": 3,
+        "fact": "Hangzhou is famed for West Lake, a UNESCO World Heritage Site whose misty scenery has inspired Chinese poets and painters for centuries.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Chinese-built narrow-body airliner made its first commercial passenger flight in May 2023?",
+        "choices": ["ARJ21", "CR929", "COMAC C919", "MA700"],
+        "answer": 2,
+        "fact": "The C919's first commercial flight was operated by China Eastern Airlines, carrying passengers from Shanghai to Beijing.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "What is the name of the core module of China's Tiangong space station, launched in 2021?",
+        "choices": ["Wentian", "Tianhe", "Mengtian", "Tianzhou"],
+        "answer": 1,
+        "fact": "Tiangong means 'Heavenly Palace'; the station was completed in 2022 when the Wentian and Mengtian laboratory modules joined Tianhe.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "How many gold medals did China win at the 2024 Paris Olympics, level with the United States for the most?",
+        "choices": ["32", "38", "48", "40"],
+        "answer": 3,
+        "fact": "At Paris 2024 China's divers won all eight Olympic diving events, the first clean sweep of the sport at a single Games.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
+    "general": [
+      {
+        "q": "Which river is often called the 'cradle of Chinese civilisation' and the 'Mother River'?",
+        "choices": ["Yellow River", "Yangtze River", "Pearl River", "Mekong River"],
+        "answer": 0,
+        "fact": "The Yellow River gets its colour and name from the vast amounts of fine loess silt it carries from China's Loess Plateau.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the main unit of China's currency, the renminbi?",
+        "choices": ["Yen", "Won", "Yuan", "Baht"],
+        "answer": 2,
+        "fact": "Renminbi literally means 'the people's currency'; the yuan is its basic unit, just as the pound is the unit of sterling.",
+        "difficulty": 1
+      },
+      {
+        "q": "In China, Chinese New Year is also known as what?",
+        "choices": ["Lantern Festival", "Spring Festival", "Mid-Autumn Festival", "Dragon Boat Festival"],
+        "answer": 1,
+        "fact": "Spring Festival celebrations traditionally end on the 15th day of the new year with the Lantern Festival, when people solve riddles written on lanterns.",
+        "difficulty": 1
+      },
+      {
+        "q": "Mount Everest sits on the border between China and which country?",
+        "choices": ["India", "Bhutan", "Pakistan", "Nepal"],
+        "answer": 3,
+        "fact": "In 2020 China and Nepal jointly announced a new official height for Everest: 8,848.86 metres.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which province is home to most of the world's wild giant pandas?",
+        "choices": ["Sichuan", "Yunnan", "Guangdong", "Heilongjiang"],
+        "answer": 0,
+        "fact": "Sichuan's Giant Panda Sanctuaries, a UNESCO World Heritage Site since 2006, protect more than 30% of the world's pandas.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many official time zones does China use?",
+        "choices": ["Three", "Four", "One", "Five"],
+        "answer": 2,
+        "fact": "Although China spans about five geographical time zones, the whole country runs on Beijing Time (UTC+8), so dawn in far-western Xinjiang can come after 9 a.m.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city is famous for roast duck served with thin pancakes, spring onion and sweet bean sauce?",
+        "choices": ["Chengdu", "Beijing", "Guangzhou", "Xi'an"],
+        "answer": 1,
+        "fact": "Quanjude, one of Beijing's best-known roast duck restaurants, was founded in 1864 during the Qing dynasty.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the standard spoken Chinese promoted nationwide called in mainland China?",
+        "choices": ["Cantonese", "Hokkien", "Wu", "Putonghua"],
+        "answer": 3,
+        "fact": "Putonghua means 'common speech'. Its Latin-alphabet spelling system, Pinyin, was officially adopted in 1958.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the largest desert lying entirely within China?",
+        "choices": ["Gobi", "Taklamakan", "Kumtag", "Badain Jaran"],
+        "answer": 1,
+        "fact": "The Taklamakan fills the Tarim Basin in Xinjiang; Silk Road caravans skirted its northern and southern edges rather than cross its shifting dunes.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Chinese city is nicknamed the 'Spring City' for its mild climate all year round?",
+        "choices": ["Harbin", "Chongqing", "Wuhan", "Kunming"],
+        "answer": 3,
+        "fact": "Kunming, capital of Yunnan, sits about 1,900 metres above sea level, which keeps it from getting very hot in summer or very cold in winter.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,747 @@
+{
+  "country": "india",
+  "topics": {
+    "history": [
+      {
+        "q": "Which Mauryan emperor embraced Buddhism after the bloody Kalinga War?",
+        "choices": [
+          "Chandragupta Maurya",
+          "Ashoka",
+          "Bindusara",
+          "Harsha"
+        ],
+        "answer": 1,
+        "fact": "His Lion Capital at Sarnath, carved over 2,200 years ago, is now India's national emblem.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did India gain independence from British rule?",
+        "choices": [
+          "1945",
+          "1950",
+          "1947",
+          "1942"
+        ],
+        "answer": 2,
+        "fact": "Nehru marked the moment in his 'Tryst with Destiny' speech, delivered at the stroke of midnight on 14-15 August 1947.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who led the 1930 Salt March to Dandi in protest against the British salt tax?",
+        "choices": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose",
+          "Bal Gangadhar Tilak"
+        ],
+        "answer": 0,
+        "fact": "The march covered about 385 km from Sabarmati Ashram in 24 days; at Dandi, Gandhi picked up a lump of natural salt from the shore.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ruler founded the Mughal Empire after winning the First Battle of Panipat in 1526?",
+        "choices": [
+          "Akbar",
+          "Humayun",
+          "Sher Shah Suri",
+          "Babur"
+        ],
+        "answer": 3,
+        "fact": "Babur wrote a vivid memoir, the Baburnama, in Chagatai Turkic, describing everything from battles to India's fruits.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Harappan site in Gujarat is famous for what is often described as one of the world's earliest known dockyards?",
+        "choices": [
+          "Harappa",
+          "Lothal",
+          "Kalibangan",
+          "Mohenjo-daro"
+        ],
+        "answer": 1,
+        "fact": "Indus Valley cities were remarkably well planned, with grid-like streets and covered drains, more than 4,000 years ago.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Indian Rebellion of 1857 began with a sepoy uprising in which town?",
+        "choices": [
+          "Kanpur",
+          "Lucknow",
+          "Meerut",
+          "Jhansi"
+        ],
+        "answer": 2,
+        "fact": "Often called India's First War of Independence, it led the British Crown to take direct rule from the East India Company in 1858.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 1757 Battle of Plassey gave the British East India Company control over which region?",
+        "choices": [
+          "Bengal",
+          "Punjab",
+          "Mysore",
+          "Hyderabad"
+        ],
+        "answer": 0,
+        "fact": "Robert Clive's victory over Nawab Siraj ud-Daulah was helped by the defection of the Nawab's commander, Mir Jafar.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ancient Buddhist monastic university in Bihar, where the Chinese pilgrim Xuanzang studied in the 7th century, is now a UNESCO World Heritage Site?",
+        "choices": [
+          "Taxila",
+          "Sanchi",
+          "Nalanda",
+          "Ellora"
+        ],
+        "answer": 2,
+        "fact": "Nalanda drew students from across Asia; its excavated ruins include red-brick monasteries, temples and shrines.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which South Indian dynasty, under Rajendra I, sent a naval expedition against Srivijaya in Southeast Asia around 1025 CE?",
+        "choices": [
+          "Pallava",
+          "Chola",
+          "Pandya",
+          "Chera"
+        ],
+        "answer": 1,
+        "fact": "Rajendra I built a new capital, Gangaikonda Cholapuram, meaning 'the city of the Chola who conquered the Ganges'.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Gupta emperor is celebrated in the Allahabad Pillar inscription composed by the poet Harishena?",
+        "choices": [
+          "Kanishka",
+          "Harsha",
+          "Chandragupta Maurya",
+          "Samudragupta"
+        ],
+        "answer": 3,
+        "fact": "Some of his gold coins show him playing a veena, hinting at a ruler who prized music as well as conquest.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "India's first satellite, launched in 1975, was named after which ancient mathematician-astronomer?",
+        "choices": [
+          "Bhaskara",
+          "Aryabhata",
+          "Brahmagupta",
+          "Varahamihira"
+        ],
+        "answer": 1,
+        "fact": "It was launched on a Soviet rocket. Its namesake, born in 476 CE, proposed that the Earth spins on its own axis.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which self-taught mathematician from Tamil Nadu worked with G. H. Hardy at Cambridge?",
+        "choices": [
+          "Srinivasa Ramanujan",
+          "P. C. Mahalanobis",
+          "Harish-Chandra",
+          "C. R. Rao"
+        ],
+        "answer": 0,
+        "fact": "Hardy once called his taxi number, 1729, dull; Ramanujan replied it is the smallest number expressible as a sum of two cubes in two ways.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Indian city is often called the 'Silicon Valley of India'?",
+        "choices": [
+          "Hyderabad",
+          "Pune",
+          "Chennai",
+          "Bengaluru"
+        ],
+        "answer": 3,
+        "fact": "The city is also home to the headquarters of ISRO, India's space agency.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which aerospace scientist, nicknamed the 'Missile Man of India', became the country's President in 2002?",
+        "choices": [
+          "Vikram Sarabhai",
+          "A. P. J. Abdul Kalam",
+          "Homi J. Bhabha",
+          "Satish Dhawan"
+        ],
+        "answer": 1,
+        "fact": "He earlier led the SLV-3 project, India's first satellite launch vehicle, which put the Rohini satellite into orbit in 1980.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 7th-century mathematician wrote the Brahmasphutasiddhanta, setting out early rules for calculating with zero?",
+        "choices": [
+          "Aryabhata",
+          "Bhaskara II",
+          "Brahmagupta",
+          "Madhava"
+        ],
+        "answer": 2,
+        "fact": "Written in 628 CE, it treats zero as a number in its own right and gives rules for negative numbers, which he called 'debts'.",
+        "difficulty": 2
+      },
+      {
+        "q": "C. V. Raman won the 1930 Nobel Prize in Physics for discovering an effect involving the scattering of what?",
+        "choices": [
+          "Sound",
+          "Light",
+          "Electrons",
+          "Neutrons"
+        ],
+        "answer": 1,
+        "fact": "India celebrates National Science Day on 28 February, the date in 1928 when he announced the Raman effect.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who is widely regarded as the father of India's space programme?",
+        "choices": [
+          "Homi J. Bhabha",
+          "Satish Dhawan",
+          "A. P. J. Abdul Kalam",
+          "Vikram Sarabhai"
+        ],
+        "answer": 3,
+        "fact": "The Moon landers of both Chandrayaan-2 and Chandrayaan-3 were named 'Vikram' in his honour.",
+        "difficulty": 2
+      },
+      {
+        "q": "The particle name 'boson' honours which Indian physicist?",
+        "choices": [
+          "Satyendra Nath Bose",
+          "Meghnad Saha",
+          "C. V. Raman",
+          "Homi J. Bhabha"
+        ],
+        "answer": 0,
+        "fact": "Einstein translated Bose's 1924 paper into German and had it published, giving rise to Bose-Einstein statistics.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ancient Indian physician is traditionally credited with a treatise describing early techniques for reconstructing the nose?",
+        "choices": [
+          "Charaka",
+          "Panini",
+          "Sushruta",
+          "Patanjali"
+        ],
+        "answer": 2,
+        "fact": "The Sushruta Samhita, a classic text of Ayurveda, describes surgical instruments and procedures in striking detail.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which scientist invented the crescograph, a device for measuring plant growth?",
+        "choices": [
+          "Prafulla Chandra Ray",
+          "Jagadish Chandra Bose",
+          "Meghnad Saha",
+          "Birbal Sahni"
+        ],
+        "answer": 1,
+        "fact": "He was also a pioneer of radio and microwave research in the 1890s, and founded Kolkata's Bose Institute in 1917.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which Mughal emperor commissioned the Taj Mahal as a tomb for his wife Mumtaz Mahal?",
+        "choices": [
+          "Akbar",
+          "Jahangir",
+          "Shah Jahan",
+          "Aurangzeb"
+        ],
+        "answer": 2,
+        "fact": "Its white marble is inlaid with semi-precious stones in floral patterns, a technique known as pietra dura.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which classical dance form originated in the temples of Tamil Nadu?",
+        "choices": [
+          "Kathak",
+          "Bharatanatyam",
+          "Kathakali",
+          "Odissi"
+        ],
+        "answer": 1,
+        "fact": "It is usually performed to Carnatic music and uses expressive hand gestures called mudras to tell stories.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which sitar virtuoso taught George Harrison of The Beatles and performed at Woodstock in 1969?",
+        "choices": [
+          "Zakir Hussain",
+          "Bismillah Khan",
+          "Hariprasad Chaurasia",
+          "Ravi Shankar"
+        ],
+        "answer": 3,
+        "fact": "He won several Grammy Awards, and his daughters are the sitarist Anoushka Shankar and the singer Norah Jones.",
+        "difficulty": 1
+      },
+      {
+        "q": "What nickname is commonly used for the Hindi-language film industry based in Mumbai?",
+        "choices": [
+          "Bollywood",
+          "Tollywood",
+          "Kollywood",
+          "Nollywood"
+        ],
+        "answer": 0,
+        "fact": "India produces more feature films each year than any other country, in many languages beyond Hindi.",
+        "difficulty": 1
+      },
+      {
+        "q": "For which collection of poems is Rabindranath Tagore best known, central to his 1913 Nobel Prize?",
+        "choices": [
+          "Godaan",
+          "Gitanjali",
+          "Malgudi Days",
+          "Train to Pakistan"
+        ],
+        "answer": 1,
+        "fact": "He was the first non-European Nobel laureate in literature and wrote the national anthems of both India and Bangladesh.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was Satyajit Ray's acclaimed debut feature film, released in 1955?",
+        "choices": [
+          "Mother India",
+          "Pyaasa",
+          "Pather Panchali",
+          "Do Bigha Zamin"
+        ],
+        "answer": 2,
+        "fact": "Ray received an Honorary Academy Award in 1992 for his lifetime of filmmaking.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which cave complex in Maharashtra is renowned for ancient Buddhist murals, some more than 2,000 years old?",
+        "choices": [
+          "Elephanta Caves",
+          "Badami Caves",
+          "Udayagiri Caves",
+          "Ajanta Caves"
+        ],
+        "answer": 3,
+        "fact": "The caves lay largely forgotten until 1819, when a British officer came across them during a tiger hunt.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 19th-century painter from Kerala became famous for depicting Indian mythological scenes with European oil-painting techniques?",
+        "choices": [
+          "Amrita Sher-Gil",
+          "Raja Ravi Varma",
+          "M. F. Husain",
+          "Abanindranath Tagore"
+        ],
+        "answer": 1,
+        "fact": "His lithographic press made affordable prints of his paintings, bringing his images of gods and goddesses into homes across India.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which dynasty built the monolithic Kailasa temple at Ellora in the 8th century?",
+        "choices": [
+          "Rashtrakuta",
+          "Chola",
+          "Hoysala",
+          "Mughal"
+        ],
+        "answer": 0,
+        "fact": "The temple was carved from the top down out of a single basalt cliff, making it one of the largest monolithic structures in the world.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which classical poet wrote the Sanskrit play Abhijnanashakuntalam (The Recognition of Shakuntala)?",
+        "choices": [
+          "Valmiki",
+          "Tulsidas",
+          "Kalidasa",
+          "Kabir"
+        ],
+        "answer": 2,
+        "fact": "William Jones's 1789 English translation enchanted European readers, including the German poet Goethe.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "Who was India's first Prime Minister?",
+        "choices": [
+          "Sardar Vallabhbhai Patel",
+          "Jawaharlal Nehru",
+          "Rajendra Prasad",
+          "Lal Bahadur Shastri"
+        ],
+        "answer": 1,
+        "fact": "Serving from 1947 until his death in 1964, he remains India's longest-serving Prime Minister.",
+        "difficulty": 1
+      },
+      {
+        "q": "On which date does India celebrate Republic Day?",
+        "choices": [
+          "26 January",
+          "15 August",
+          "2 October",
+          "14 November"
+        ],
+        "answer": 0,
+        "fact": "The Constitution took effect on 26 January 1950; it is the longest written national constitution in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of the lower house of India's Parliament?",
+        "choices": [
+          "Rajya Sabha",
+          "Vidhan Parishad",
+          "Lok Sabha",
+          "Gram Sabha"
+        ],
+        "answer": 2,
+        "fact": "Lok Sabha means 'House of the People'. Most members of the upper house, the Rajya Sabha, are elected by state legislatures.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was India's first woman Prime Minister?",
+        "choices": [
+          "Pratibha Patil",
+          "Sarojini Naidu",
+          "Sonia Gandhi",
+          "Indira Gandhi"
+        ],
+        "answer": 3,
+        "fact": "Nehru's daughter, she served as Prime Minister from 1966 to 1977 and again from 1980 to 1984.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who chaired the Drafting Committee of India's Constitution?",
+        "choices": [
+          "B. R. Ambedkar",
+          "Rajendra Prasad",
+          "Sardar Vallabhbhai Patel",
+          "C. Rajagopalachari"
+        ],
+        "answer": 0,
+        "fact": "A jurist, economist and social reformer, Ambedkar was also independent India's first Law Minister.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was the first President of India?",
+        "choices": [
+          "S. Radhakrishnan",
+          "Rajendra Prasad",
+          "Zakir Husain",
+          "V. V. Giri"
+        ],
+        "answer": 1,
+        "fact": "He is the only President to have served two full terms, from 1950 to 1962.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which leader is credited with integrating hundreds of princely states into India after independence?",
+        "choices": [
+          "Jawaharlal Nehru",
+          "B. R. Ambedkar",
+          "Sardar Vallabhbhai Patel",
+          "Maulana Abul Kalam Azad"
+        ],
+        "answer": 2,
+        "fact": "He is honoured by the Statue of Unity in Gujarat; at 182 m it is the world's tallest statue.",
+        "difficulty": 2
+      },
+      {
+        "q": "Since a constitutional amendment passed in 1988, what is the minimum voting age in India?",
+        "choices": [
+          "21",
+          "16",
+          "25",
+          "18"
+        ],
+        "answer": 3,
+        "fact": "The 61st Amendment lowered the voting age from 21 to 18, adding tens of millions of young people to the electoral rolls.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Emergency declared in India in June 1975 ended in which year?",
+        "choices": [
+          "1976",
+          "1977",
+          "1979",
+          "1980"
+        ],
+        "answer": 1,
+        "fact": "The 44th Amendment of 1978 added safeguards that made it harder to declare an emergency in future.",
+        "difficulty": 3
+      },
+      {
+        "q": "On which date did the Constituent Assembly adopt India's Constitution, now marked as Constitution Day?",
+        "choices": [
+          "15 August 1947",
+          "2 October 1948",
+          "26 November 1949",
+          "26 January 1950"
+        ],
+        "answer": 2,
+        "fact": "The original copies, hand-calligraphed in English and Hindi, are kept in helium-filled cases in the Parliament library.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Which Indian mission landed near the Moon's south pole in August 2023?",
+        "choices": [
+          "Chandrayaan-2",
+          "Mangalyaan",
+          "Chandrayaan-3",
+          "Aditya-L1"
+        ],
+        "answer": 2,
+        "fact": "India became the first country to land near the lunar south pole and the fourth to achieve a soft landing on the Moon.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who was sworn in as India's Prime Minister in June 2024 after that year's general election?",
+        "choices": [
+          "Rahul Gandhi",
+          "Narendra Modi",
+          "Amit Shah",
+          "Nitin Gadkari"
+        ],
+        "answer": 1,
+        "fact": "It was Modi's third consecutive term, a feat previously achieved only by Jawaharlal Nehru.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "According to UN estimates, India overtook which country in 2023 to become the world's most populous nation?",
+        "choices": [
+          "United States",
+          "Indonesia",
+          "Pakistan",
+          "China"
+        ],
+        "answer": 3,
+        "fact": "UN figures put India's population at more than 1.42 billion by mid-2023, edging past China's.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which athlete won India's first Olympic gold medal in track and field, in the javelin at the Tokyo Games held in 2021?",
+        "choices": [
+          "Neeraj Chopra",
+          "Abhinav Bindra",
+          "Mirabai Chanu",
+          "Bajrang Punia"
+        ],
+        "answer": 0,
+        "fact": "His winning throw measured 87.58 m, and he added a silver medal at the Paris 2024 Olympics.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "What is the name of India's first space mission dedicated to studying the Sun, which reached its observation point in January 2024?",
+        "choices": [
+          "Gaganyaan",
+          "Aditya-L1",
+          "Astrosat",
+          "Mangalyaan"
+        ],
+        "answer": 1,
+        "fact": "It orbits the Sun-Earth Lagrange point L1, about 1.5 million km from Earth, where it can watch the Sun without interruption.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "At the G20 summit hosted in New Delhi in September 2023, which organization was admitted as a permanent member?",
+        "choices": [
+          "ASEAN",
+          "Arab League",
+          "African Union",
+          "Mercosur"
+        ],
+        "answer": 2,
+        "fact": "The summit was held at Bharat Mandapam, a new convention centre in New Delhi.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which team did India defeat in the final of the 2024 ICC Men's T20 World Cup?",
+        "choices": [
+          "Australia",
+          "England",
+          "Pakistan",
+          "South Africa"
+        ],
+        "answer": 3,
+        "fact": "The final was played in Barbados; it was India's second T20 World Cup title after winning the first tournament in 2007.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Indian player became the youngest undisputed World Chess Champion in December 2024?",
+        "choices": [
+          "R. Praggnanandhaa",
+          "Gukesh Dommaraju",
+          "Viswanathan Anand",
+          "Arjun Erigaisi"
+        ],
+        "answer": 1,
+        "fact": "Aged 18, he defeated China's Ding Liren in Singapore, becoming India's second world champion after Viswanathan Anand.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "The Atal Setu, opened in January 2024 as India's longest sea bridge, serves which metropolitan region?",
+        "choices": [
+          "Mumbai",
+          "Chennai",
+          "Kolkata",
+          "Kochi"
+        ],
+        "answer": 0,
+        "fact": "Also called the Mumbai Trans Harbour Link, the roughly 21.8 km bridge crosses the harbour from Sewri to Navi Mumbai.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2021, which Harappan city in Gujarat was inscribed as a UNESCO World Heritage Site?",
+        "choices": [
+          "Lothal",
+          "Rakhigarhi",
+          "Dholavira",
+          "Kalibangan"
+        ],
+        "answer": 2,
+        "fact": "The same year, Telangana's Ramappa Temple, a 13th-century Kakatiya masterpiece, also joined the World Heritage list.",
+        "difficulty": 3,
+        "asOf": "2021"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is India's national animal?",
+        "choices": [
+          "Asiatic lion",
+          "Indian elephant",
+          "Bengal tiger",
+          "Snow leopard"
+        ],
+        "answer": 2,
+        "fact": "India is home to roughly three-quarters of the world's wild tigers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which sacred river flows past the ghats of Varanasi?",
+        "choices": [
+          "Yamuna",
+          "Ganges",
+          "Godavari",
+          "Brahmaputra"
+        ],
+        "answer": 1,
+        "fact": "Varanasi is often described as one of the world's oldest continuously inhabited cities.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which sport has India won eight Olympic gold medals, including six in a row from 1928 to 1956?",
+        "choices": [
+          "Field hockey",
+          "Cricket",
+          "Wrestling",
+          "Shooting"
+        ],
+        "answer": 0,
+        "fact": "The star of that golden era, Dhyan Chand, is so revered that India's National Sports Day, 29 August, marks his birthday.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which festival, celebrated with oil lamps and fireworks, is known as the 'festival of lights'?",
+        "choices": [
+          "Holi",
+          "Pongal",
+          "Onam",
+          "Diwali"
+        ],
+        "answer": 3,
+        "fact": "Diwali is celebrated by Hindus, Sikhs, Jains and some Buddhists, usually in October or November.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kangchenjunga, on India's border with Nepal, ranks where among the world's highest mountains?",
+        "choices": [
+          "Second highest",
+          "Third highest",
+          "Fifth highest",
+          "Seventh highest"
+        ],
+        "answer": 1,
+        "fact": "Out of respect for local beliefs, many climbers traditionally stop just short of its true summit.",
+        "difficulty": 2
+      },
+      {
+        "q": "Dosa, the South Indian crepe, is traditionally made from a fermented batter of rice and which legume?",
+        "choices": [
+          "Chickpeas",
+          "Kidney beans",
+          "Peanuts",
+          "Black gram (urad dal)"
+        ],
+        "answer": 3,
+        "fact": "Fermenting the batter overnight gives dosa its tangy flavour and light, crisp texture.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which vast mangrove forest, shared with Bangladesh, is home to tigers that swim between islands?",
+        "choices": [
+          "Sundarbans",
+          "Western Ghats",
+          "Rann of Kutch",
+          "Nilgiris"
+        ],
+        "answer": 0,
+        "fact": "Formed in the delta of the Ganges, Brahmaputra and Meghna rivers, it is the largest mangrove forest in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Mawsynram and Cherrapunji, among the wettest places on Earth, are in which Indian state?",
+        "choices": [
+          "Assam",
+          "Meghalaya",
+          "Kerala",
+          "Sikkim"
+        ],
+        "answer": 1,
+        "fact": "Khasi communities there grow 'living root bridges' by guiding the roots of rubber fig trees across streams.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many languages are listed in the Eighth Schedule of India's Constitution?",
+        "choices": [
+          "14",
+          "18",
+          "22",
+          "28"
+        ],
+        "answer": 2,
+        "fact": "The list began with 14 languages in 1950 and has grown through amendments; the most recent additions came in 2003.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Indian state has the longest coastline?",
+        "choices": [
+          "Tamil Nadu",
+          "Andhra Pradesh",
+          "Maharashtra",
+          "Gujarat"
+        ],
+        "answer": 3,
+        "fact": "Inland from Gujarat's long coast lies Gir forest, the last wild home of the Asiatic lion.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

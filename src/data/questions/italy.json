@@ -1,0 +1,747 @@
+{
+  "country": "italy",
+  "topics": {
+    "history": [
+      {
+        "q": "According to tradition, in which year was Rome founded?",
+        "choices": [
+          "509 BCE",
+          "1000 BCE",
+          "753 BCE",
+          "476 BCE"
+        ],
+        "answer": 2,
+        "fact": "Legend says Romulus founded Rome on 21 April 753 BCE, and the city still celebrates that date as its birthday, the Natale di Roma.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which general led the 1860 'Expedition of the Thousand' that helped unify Italy?",
+        "choices": [
+          "Camillo Cavour",
+          "Giuseppe Mazzini",
+          "Carlo Pisacane",
+          "Giuseppe Garibaldi"
+        ],
+        "answer": 3,
+        "fact": "Garibaldi's volunteers, nicknamed the 'Redshirts', sailed from near Genoa in 1860 and went on to conquer Sicily and Naples.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did the eruption of Mount Vesuvius bury Pompeii?",
+        "choices": [
+          "79 CE",
+          "44 BCE",
+          "64 CE",
+          "410 CE"
+        ],
+        "answer": 0,
+        "fact": "Pliny the Younger described the eruption in letters; his uncle, Pliny the Elder, died while leading a rescue mission across the bay.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which banking family dominated Renaissance Florence and patronised artists like Michelangelo?",
+        "choices": [
+          "The Borgia",
+          "The Sforza",
+          "The Medici",
+          "The Este"
+        ],
+        "answer": 2,
+        "fact": "The Medici produced popes Leo X and Clement VII and two queens of France, Catherine and Marie de' Medici.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became Rome's first emperor in 27 BCE?",
+        "choices": [
+          "Augustus",
+          "Julius Caesar",
+          "Tiberius",
+          "Nero"
+        ],
+        "answer": 0,
+        "fact": "The month of August is named after Augustus; Julius Caesar, his great-uncle, was dictator but never emperor.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became the first King of a unified Italy in 1861?",
+        "choices": [
+          "Umberto I",
+          "Charles Albert",
+          "Victor Emmanuel III",
+          "Victor Emmanuel II"
+        ],
+        "answer": 3,
+        "fact": "Rome's enormous white Vittoriano monument, jokingly nicknamed 'the wedding cake' or 'the typewriter', was built in his honour.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Germanic leader deposed Romulus Augustulus, the last Western Roman emperor, in 476 CE?",
+        "choices": [
+          "Alaric",
+          "Odoacer",
+          "Attila",
+          "Theodoric"
+        ],
+        "answer": 1,
+        "fact": "The deposed teenage emperor Romulus Augustulus was not killed but pensioned off to live in a villa near Naples.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Mussolini's Fascists stage the 'March on Rome'?",
+        "choices": [
+          "1915",
+          "1922",
+          "1929",
+          "1936"
+        ],
+        "answer": 1,
+        "fact": "King Victor Emmanuel III invited Mussolini to form a government; Mussolini himself arrived in Rome by overnight train from Milan.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city was the capital of the Kingdom of Italy from 1865 to 1871, before Rome?",
+        "choices": [
+          "Milan",
+          "Naples",
+          "Venice",
+          "Florence"
+        ],
+        "answer": 3,
+        "fact": "Italy's capital moved from Turin to Florence in 1865, then to Rome in 1871 after the city was taken from the Papal States.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did mutinous troops of Emperor Charles V carry out the infamous Sack of Rome?",
+        "choices": [
+          "1527",
+          "1494",
+          "1559",
+          "1600"
+        ],
+        "answer": 0,
+        "fact": "During the sack, Pope Clement VII fled along a fortified passage to Castel Sant'Angelo while the Swiss Guard fought a heroic rearguard.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Guglielmo Marconi is best known for pioneering which technology?",
+        "choices": [
+          "The telephone",
+          "Television",
+          "Long-distance radio (wireless telegraphy)",
+          "Colour photography"
+        ],
+        "answer": 2,
+        "fact": "Marconi shared the 1909 Nobel Prize in Physics, and in 1901 sent a radio signal across the Atlantic from Cornwall to Newfoundland.",
+        "difficulty": 1
+      },
+      {
+        "q": "Alessandro Volta's 'voltaic pile' of 1800 was the first what?",
+        "choices": [
+          "Electric battery",
+          "Electric motor",
+          "Light bulb",
+          "Telegraph"
+        ],
+        "answer": 0,
+        "fact": "The unit of electric potential, the volt, is named in Volta's honour; Napoleon later made him a count.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1610, which scientist discovered four large moons of Jupiter with his telescope?",
+        "choices": [
+          "Nicolaus Copernicus",
+          "Johannes Kepler",
+          "Giovanni Cassini",
+          "Galileo Galilei"
+        ],
+        "answer": 3,
+        "fact": "Galileo named the moons the 'Medicean Stars' to flatter his patrons; today Io, Europa, Ganymede and Callisto are called the Galilean moons.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Renaissance genius filled notebooks with designs for flying machines, written in mirror script?",
+        "choices": [
+          "Michelangelo",
+          "Leonardo da Vinci",
+          "Raphael",
+          "Donatello"
+        ],
+        "answer": 1,
+        "fact": "One of Leonardo's notebooks, the Codex Leicester, was bought by Bill Gates in 1994 for about 30 million dollars.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Italian physicist led the team that achieved the first self-sustaining nuclear chain reaction in 1942?",
+        "choices": [
+          "Ettore Majorana",
+          "Enrico Fermi",
+          "Emilio Segrè",
+          "Edoardo Amaldi"
+        ],
+        "answer": 1,
+        "fact": "Chicago Pile-1 was built under the stands of a university sports field; the element fermium is named after Fermi.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Paduan instrument maker invented the piano around 1700 in Florence?",
+        "choices": [
+          "Antonio Stradivari",
+          "Andrea Amati",
+          "Giuseppe Guarneri",
+          "Bartolomeo Cristofori"
+        ],
+        "answer": 3,
+        "fact": "Cristofori's instrument could play soft and loud, hence 'pianoforte'; his 1720 piano at New York's Met is the oldest surviving one.",
+        "difficulty": 2
+      },
+      {
+        "q": "Evangelista Torricelli invented which instrument in 1643?",
+        "choices": [
+          "Mercury barometer",
+          "Thermometer",
+          "Microscope",
+          "Pendulum clock"
+        ],
+        "answer": 0,
+        "fact": "Torricelli had been Galileo's assistant; a unit of pressure, the torr, is named after him.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which city was the carmaker FIAT founded in 1899?",
+        "choices": [
+          "Milan",
+          "Modena",
+          "Turin",
+          "Bologna"
+        ],
+        "answer": 2,
+        "fact": "FIAT stands for Fabbrica Italiana Automobili Torino; its old Lingotto factory famously had a test track on its roof.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Italian chemist shared the 1963 Nobel Prize in Chemistry for his work on polymers such as polypropylene?",
+        "choices": [
+          "Primo Levi",
+          "Camillo Golgi",
+          "Emilio Segrè",
+          "Giulio Natta"
+        ],
+        "answer": 3,
+        "fact": "Natta's team in Milan made isotactic polypropylene in 1954, a tough plastic now found in everything from car bumpers to food tubs.",
+        "difficulty": 3
+      },
+      {
+        "q": "Rita Levi-Montalcini won the 1986 Nobel Prize in Medicine for discovering what?",
+        "choices": [
+          "Nerve growth factor",
+          "Insulin",
+          "The structure of DNA",
+          "Penicillin"
+        ],
+        "answer": 0,
+        "fact": "Barred from university by Fascist racial laws, she ran experiments on chick embryos in a lab in her bedroom; she lived to 103.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Who painted the ceiling of the Sistine Chapel?",
+        "choices": [
+          "Raphael",
+          "Michelangelo",
+          "Leonardo da Vinci",
+          "Titian"
+        ],
+        "answer": 1,
+        "fact": "Michelangelo painted the ceiling between 1508 and 1512, though he always considered himself first and foremost a sculptor.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who painted 'The Last Supper' on a refectory wall in Milan?",
+        "choices": [
+          "Raphael",
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Titian"
+        ],
+        "answer": 1,
+        "fact": "Leonardo experimented with paint on dry plaster, so it began flaking in his lifetime; sandbags helped it survive a 1943 bombing raid.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who wrote the 'Divine Comedy'?",
+        "choices": [
+          "Petrarch",
+          "Giovanni Boccaccio",
+          "Ludovico Ariosto",
+          "Dante Alighieri"
+        ],
+        "answer": 3,
+        "fact": "Dante simply called it 'Commedia'; the word 'Divina' was added later, popularised by Boccaccio's praise of the poem.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which composer wrote the operas 'Aida' and 'La Traviata'?",
+        "choices": [
+          "Giuseppe Verdi",
+          "Giacomo Puccini",
+          "Gioachino Rossini",
+          "Gaetano Donizetti"
+        ],
+        "answer": 0,
+        "fact": "Aida had its world premiere in Cairo in 1871, at the Khedivial Opera House.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who painted 'The Birth of Venus'?",
+        "choices": [
+          "Titian",
+          "Raphael",
+          "Sandro Botticelli",
+          "Giotto"
+        ],
+        "answer": 2,
+        "fact": "The Birth of Venus hangs in Florence's Uffizi Gallery, close to Botticelli's other great mythological painting, Primavera.",
+        "difficulty": 2
+      },
+      {
+        "q": "The aria 'Nessun dorma' comes from which Puccini opera?",
+        "choices": [
+          "La Bohème",
+          "Tosca",
+          "Madama Butterfly",
+          "Turandot"
+        ],
+        "answer": 3,
+        "fact": "Puccini died before finishing Turandot; at the 1926 premiere, conductor Toscanini stopped the performance where Puccini's music ended.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Venetian composer wrote 'The Four Seasons'?",
+        "choices": [
+          "Antonio Vivaldi",
+          "Claudio Monteverdi",
+          "Arcangelo Corelli",
+          "Domenico Scarlatti"
+        ],
+        "answer": 0,
+        "fact": "Vivaldi, an ordained priest nicknamed 'the Red Priest' for his red hair, taught music at a Venetian orphanage for girls.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which director made the 1960 film 'La Dolce Vita'?",
+        "choices": [
+          "Michelangelo Antonioni",
+          "Roberto Rossellini",
+          "Federico Fellini",
+          "Vittorio De Sica"
+        ],
+        "answer": 2,
+        "fact": "The film's celebrity photographer, Paparazzo, gave the world the word 'paparazzi'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which architect designed the great dome of Florence Cathedral?",
+        "choices": [
+          "Filippo Brunelleschi",
+          "Donato Bramante",
+          "Gian Lorenzo Bernini",
+          "Leon Battista Alberti"
+        ],
+        "answer": 0,
+        "fact": "Built between 1420 and 1436 without a wooden support frame, it remains the largest brick dome ever constructed.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Baroque painter, famed for dramatic light and shadow, painted 'The Calling of Saint Matthew' in Rome?",
+        "choices": [
+          "Tintoretto",
+          "Annibale Carracci",
+          "Titian",
+          "Caravaggio"
+        ],
+        "answer": 3,
+        "fact": "Caravaggio's life was as dramatic as his art: he fled Rome in 1606 after killing a man in a brawl.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "How many consuls jointly led the Roman Republic each year?",
+        "choices": [
+          "One",
+          "Three",
+          "Four",
+          "Two"
+        ],
+        "answer": 3,
+        "fact": "Consuls served one-year terms, and Romans identified each year by naming the two consuls in office.",
+        "difficulty": 1
+      },
+      {
+        "q": "What title did Benito Mussolini adopt as leader of Fascist Italy?",
+        "choices": [
+          "Il Duce",
+          "Il Capo",
+          "Il Principe",
+          "Il Generale"
+        ],
+        "answer": 0,
+        "fact": "Mussolini was voted down by his own Fascist Grand Council in July 1943 and then arrested on the king's orders.",
+        "difficulty": 1
+      },
+      {
+        "q": "The 1957 treaty that created the European Economic Community was signed in which city?",
+        "choices": [
+          "Paris",
+          "Brussels",
+          "Rome",
+          "Milan"
+        ],
+        "answer": 2,
+        "fact": "Six countries signed the Treaty of Rome on 25 March 1957, in a palace on the city's Capitoline Hill.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Florentine diplomat wrote 'The Prince', a classic of political theory?",
+        "choices": [
+          "Niccolò Machiavelli",
+          "Francesco Guicciardini",
+          "Baldassare Castiglione",
+          "Girolamo Savonarola"
+        ],
+        "answer": 0,
+        "fact": "Machiavelli wrote The Prince in 1513 after being forced out of office in Florence; it was only published in 1532, after his death.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did Italians vote in a referendum to replace the monarchy with a republic?",
+        "choices": [
+          "1919",
+          "1945",
+          "1948",
+          "1946"
+        ],
+        "answer": 3,
+        "fact": "King Umberto II reigned for only about a month, earning the nickname 'the May King', before leaving for exile in Portugal.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the lower house of Italy's Parliament called?",
+        "choices": [
+          "Senate of the Republic",
+          "Chamber of Deputies",
+          "Congress of Deputies",
+          "Assembly of the Republic"
+        ],
+        "answer": 1,
+        "fact": "The Chamber of Deputies meets in Palazzo Montecitorio, while the Senate sits in nearby Palazzo Madama.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Roman palace is the official residence of the President of Italy?",
+        "choices": [
+          "Palazzo Chigi",
+          "Quirinal Palace",
+          "Palazzo Montecitorio",
+          "Palazzo Madama"
+        ],
+        "answer": 1,
+        "fact": "The Quirinal was built as a summer residence for popes, then housed Italy's kings before becoming the presidents' home.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1929 agreement established Vatican City as an independent state?",
+        "choices": [
+          "The Treaty of Rome",
+          "The Treaty of Campo Formio",
+          "The Treaty of Versailles",
+          "The Lateran Treaty"
+        ],
+        "answer": 3,
+        "fact": "Covering about 44 hectares, Vatican City is the smallest independent state in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "On what date did the Constitution of the Italian Republic come into force?",
+        "choices": [
+          "1 January 1948",
+          "2 June 1946",
+          "25 April 1945",
+          "17 March 1861"
+        ],
+        "answer": 0,
+        "fact": "One of the constitution's final provisions explicitly forbids re-forming the dissolved Fascist party in any form.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which former Prime Minister was kidnapped and killed by the Red Brigades in 1978?",
+        "choices": [
+          "Giulio Andreotti",
+          "Bettino Craxi",
+          "Aldo Moro",
+          "Alcide De Gasperi"
+        ],
+        "answer": 2,
+        "fact": "Moro, five times Prime Minister, was seized in Rome in March 1978; his body was found in a car on Via Caetani that May.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Who became Italy's first female Prime Minister in October 2022?",
+        "choices": [
+          "Elly Schlein",
+          "Mara Carfagna",
+          "Maria Elena Boschi",
+          "Giorgia Meloni"
+        ],
+        "answer": 3,
+        "fact": "Meloni leads Brothers of Italy, a party she co-founded in 2012 that topped the September 2022 general election.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which team did Italy beat in the final of UEFA Euro 2020, played in 2021?",
+        "choices": [
+          "England",
+          "Spain",
+          "Denmark",
+          "Germany"
+        ],
+        "answer": 0,
+        "fact": "Italy won on penalties at Wembley; goalkeeper Gianluigi Donnarumma was named player of the tournament.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which former European Central Bank president became Italy's Prime Minister in February 2021?",
+        "choices": [
+          "Giuseppe Conte",
+          "Paolo Gentiloni",
+          "Mario Draghi",
+          "Enrico Letta"
+        ],
+        "answer": 2,
+        "fact": "As ECB president in 2012, Draghi calmed markets by pledging to do 'whatever it takes' to preserve the euro.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Italian tennis player won the 2024 Australian Open men's singles title?",
+        "choices": [
+          "Matteo Berrettini",
+          "Lorenzo Musetti",
+          "Fabio Fognini",
+          "Jannik Sinner"
+        ],
+        "answer": 3,
+        "fact": "Raised in German-speaking South Tyrol, Sinner was a champion junior skier; in June 2024 he became the first Italian to top the ATP singles rankings.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Italian rock band won the Eurovision Song Contest in 2021?",
+        "choices": [
+          "Måneskin",
+          "Il Volo",
+          "Negramaro",
+          "Pinguini Tattici Nucleari"
+        ],
+        "answer": 0,
+        "fact": "Måneskin, formed in Rome, won with 'Zitti e buoni'; the band's name means 'moonlight' in Danish.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Who was re-elected as President of Italy in January 2022?",
+        "choices": [
+          "Giorgio Napolitano",
+          "Romano Prodi",
+          "Sergio Mattarella",
+          "Silvio Berlusconi"
+        ],
+        "answer": 2,
+        "fact": "Mattarella became only the second Italian president to win a second term, after Giorgio Napolitano in 2013.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which northern region was the epicentre of Italy's first COVID-19 wave in early 2020?",
+        "choices": [
+          "Lombardy",
+          "Sicily",
+          "Sardinia",
+          "Campania"
+        ],
+        "answer": 0,
+        "fact": "The Lombard town of Codogno recorded Italy's first known locally transmitted COVID-19 case in February 2020.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which architect designed Genoa's San Giorgio Bridge, opened in 2020 to replace the collapsed Morandi Bridge?",
+        "choices": [
+          "Santiago Calatrava",
+          "Zaha Hadid",
+          "Massimiliano Fuksas",
+          "Renzo Piano"
+        ],
+        "answer": 3,
+        "fact": "Renzo Piano was born in Genoa and donated his design for the new bridge to his home city.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "Italy hosted the June 2024 G7 leaders' summit in which southern region?",
+        "choices": [
+          "Sicily",
+          "Apulia (Puglia)",
+          "Calabria",
+          "Campania"
+        ],
+        "answer": 1,
+        "fact": "The summit at Borgo Egnazia included Pope Francis, the first pope to take part in a G7 summit, who spoke about artificial intelligence.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, Italy won tennis's Davis Cup for the first time since which year?",
+        "choices": [
+          "1956",
+          "1976",
+          "1988",
+          "2006"
+        ],
+        "answer": 1,
+        "fact": "Italy beat Australia in the 2023 final in Málaga, with Jannik Sinner winning his key matches.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
+    "general": [
+      {
+        "q": "Which Italian city is built on more than 100 small islands in a lagoon?",
+        "choices": [
+          "Genoa",
+          "Trieste",
+          "Venice",
+          "Bari"
+        ],
+        "answer": 2,
+        "fact": "Venice spreads across 118 small islands linked by more than 400 bridges.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city is the traditional home of pizza?",
+        "choices": [
+          "Rome",
+          "Palermo",
+          "Bologna",
+          "Naples"
+        ],
+        "answer": 3,
+        "fact": "In 2017, UNESCO added the art of the Neapolitan pizzaiuolo to its list of Intangible Cultural Heritage.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which city does the famous Leaning Tower stand?",
+        "choices": [
+          "Pisa",
+          "Siena",
+          "Lucca",
+          "Verona"
+        ],
+        "answer": 0,
+        "fact": "The bell tower began leaning within a few years of building work starting in 1173, due to soft ground; it took about two centuries to finish.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which active volcano towers over eastern Sicily?",
+        "choices": [
+          "Mount Vesuvius",
+          "Mount Teide",
+          "Mount Etna",
+          "Mount Hekla"
+        ],
+        "answer": 2,
+        "fact": "Etna is one of the world's most active volcanoes and was named a UNESCO World Heritage Site in 2013.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the longest river in Italy?",
+        "choices": [
+          "Po",
+          "Tiber",
+          "Arno",
+          "Adige"
+        ],
+        "answer": 0,
+        "fact": "The Po flows about 650 km from Monte Viso in the Alps to the Adriatic Sea, crossing Italy's most productive farmland.",
+        "difficulty": 2
+      },
+      {
+        "q": "Besides Vatican City, which independent country is completely surrounded by Italy?",
+        "choices": [
+          "Monaco",
+          "Andorra",
+          "Liechtenstein",
+          "San Marino"
+        ],
+        "answer": 3,
+        "fact": "San Marino claims to be the world's oldest surviving republic, with a traditional founding date of 301 CE.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the largest island in the Mediterranean Sea?",
+        "choices": [
+          "Sardinia",
+          "Sicily",
+          "Cyprus",
+          "Corsica"
+        ],
+        "answer": 1,
+        "fact": "Sicily has been ruled by Greeks, Romans, Arabs, Normans and Spaniards, all of whom left traces in its food and architecture.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many times has Italy's men's team won the FIFA World Cup?",
+        "choices": [
+          "2",
+          "4",
+          "3",
+          "5"
+        ],
+        "answer": 1,
+        "fact": "Italy won in 1934, 1938, 1982 and 2006; the 2006 final against France in Berlin was decided on penalties.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Italian region is home to Parmigiano Reggiano and traditional balsamic vinegar of Modena?",
+        "choices": [
+          "Tuscany",
+          "Piedmont",
+          "Veneto",
+          "Emilia-Romagna"
+        ],
+        "answer": 3,
+        "fact": "Emilia-Romagna is also motor country: Ferrari, Lamborghini and Ducati are all based there.",
+        "difficulty": 3
+      },
+      {
+        "q": "The five Cinque Terre villages lie on the coast of which region?",
+        "choices": [
+          "Liguria",
+          "Tuscany",
+          "Campania",
+          "Calabria"
+        ],
+        "answer": 0,
+        "fact": "Of the five villages, only Corniglia does not sit directly on the sea; it perches on a clifftop instead.",
+        "difficulty": 3
+      }
+    ]
+  }
+}
