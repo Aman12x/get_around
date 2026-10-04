@@ -1,0 +1,182 @@
+{
+  "country": "kenya",
+  "topics": {
+    "history": [
+      {
+        "q": "From which country did Kenya gain independence in December 1963?",
+        "choices": ["Britain", "France", "Germany", "Portugal"],
+        "answer": 0,
+        "fact": "Independence came on 12 December 1963, now celebrated every year as Jamhuri Day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who led Kenya to independence and became its first president?",
+        "choices": ["Daniel arap Moi", "Tom Mboya", "Oginga Odinga", "Jomo Kenyatta"],
+        "answer": 3,
+        "fact": "Kenyatta was prime minister at independence and served as president from 1964 until his death in 1978.",
+        "difficulty": 1
+      },
+      {
+        "q": "What name is given to the 1950s armed uprising against British colonial rule in Kenya?",
+        "choices": ["Maji Maji", "Chimurenga", "Mau Mau", "Herero"],
+        "answer": 2,
+        "fact": "Its fighters called their movement the Kenya Land and Freedom Army; Britain declared a state of emergency in 1952.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Portuguese explorer stopped at Malindi in 1498 and found a pilot to guide him to India?",
+        "choices": ["Bartolomeu Dias", "Vasco da Gama", "Ferdinand Magellan", "Pedro Álvares Cabral"],
+        "answer": 1,
+        "fact": "A stone pillar he erected on the shore at Malindi still stands today.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which European power built Fort Jesus in Mombasa in the 1590s?",
+        "choices": ["Britain", "Portugal", "Netherlands", "Spain"],
+        "answer": 1,
+        "fact": "The fort was designed by Italian architect Giovanni Battista Cairati and is now a UNESCO World Heritage Site.",
+        "difficulty": 1
+      },
+      {
+        "q": "What nickname was given to the nearly complete 1.5-million-year-old skeleton found near Lake Turkana in 1984?",
+        "choices": ["Turkana Boy", "Lucy", "Ardi", "Taung Child"],
+        "answer": 0,
+        "fact": "Spotted by fossil hunter Kamoya Kimeu, he is one of the most complete early human skeletons ever found.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which family of fossil hunters made many celebrated discoveries of early humans in Kenya?",
+        "choices": ["The Darwins", "The Huxleys", "The Attenboroughs", "The Leakeys"],
+        "answer": 3,
+        "fact": "Louis, Mary, their son Richard, Richard's wife Meave and daughter Louise all worked on human origins.",
+        "difficulty": 1
+      },
+      {
+        "q": "Mombasa, Malindi and Lamu grew rich as city-states of which Indian Ocean coastal culture?",
+        "choices": ["Zulu", "Berber", "Swahili", "Ashanti"],
+        "answer": 2,
+        "fact": "The Swahili language blends a Bantu grammar with many Arabic, Persian and later Portuguese and English words.",
+        "difficulty": 1
+      },
+      {
+        "q": "Nairobi was founded in 1899 as a depot on which railway?",
+        "choices": ["Cape to Cairo Railway", "Tazara Railway", "Uganda Railway", "Benguela Railway"],
+        "answer": 2,
+        "fact": "Its name comes from the Maasai phrase 'Enkare Nyrobi', meaning 'cool water'.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1898, two man-eating lions killed railway workers at which Kenyan river crossing?",
+        "choices": ["Naivasha", "Tsavo", "Athi", "Mara"],
+        "answer": 1,
+        "fact": "Engineer John Henry Patterson shot the lions; their skins and skulls are now displayed at the Field Museum in Chicago.",
+        "difficulty": 2
+      },
+      {
+        "q": "Kenya became a republic in which year, one year after independence?",
+        "choices": ["1964", "1963", "1966", "1970"],
+        "answer": 0,
+        "fact": "On 12 December 1964 the British monarch ceased to be head of state, and Jomo Kenyatta became president.",
+        "difficulty": 2
+      },
+      {
+        "q": "Until 1963, the narrow coastal strip of Kenya officially belonged to which ruler, though Britain administered it?",
+        "choices": ["The Sultan of Oman", "The Sultan of Witu", "The Sultan of Mogadishu", "The Sultan of Zanzibar"],
+        "answer": 3,
+        "fact": "The ten-mile-wide strip, including Mombasa, was transferred to Kenya at independence.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Mau Mau leader, captured in 1956, is honoured by a statue in central Nairobi?",
+        "choices": ["Tom Mboya", "Bildad Kaggia", "Paul Ngei", "Dedan Kimathi"],
+        "answer": 3,
+        "fact": "His bronze statue, unveiled in 2007, shows him holding a rifle on the street that bears his name.",
+        "difficulty": 2
+      },
+      {
+        "q": "Kenya's independence constitution was negotiated at conferences held in which London building?",
+        "choices": ["Chatham House", "Marlborough House", "Lancaster House", "Westminster Hall"],
+        "answer": 2,
+        "fact": "Conferences there in 1960, 1962 and 1963 paved the way for majority rule and independence.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which chartered company administered British interests in Kenya from 1888 before the protectorate was declared?",
+        "choices": ["Royal Niger Company", "Imperial British East Africa Company", "British South Africa Company", "East India Company"],
+        "answer": 1,
+        "fact": "The company struggled financially, and Britain took direct control as the East Africa Protectorate in 1895.",
+        "difficulty": 2
+      },
+      {
+        "q": "When the East Africa Protectorate became a colony in 1920, what was it named after?",
+        "choices": ["Mount Kenya", "A British governor", "Lake Victoria", "A coastal town"],
+        "answer": 0,
+        "fact": "Mount Kenya, at 5,199 metres, is Africa's second-highest mountain.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 'airlift' that sent hundreds of Kenyan students to US universities from 1959 was organised chiefly by which politician?",
+        "choices": ["Tom Mboya", "Jomo Kenyatta", "Ronald Ngala", "Daniel arap Moi"],
+        "answer": 0,
+        "fact": "Future Nobel Peace laureate Wangari Maathai was among the students who went to study in the US.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city was the capital of the British East Africa Protectorate before Nairobi?",
+        "choices": ["Kisumu", "Lamu", "Malindi", "Mombasa"],
+        "answer": 3,
+        "fact": "As the colony's main port and the starting point of the railway, Mombasa was the natural first seat of government.",
+        "difficulty": 2
+      },
+      {
+        "q": "Jomo Kenyatta and five other nationalist leaders were tried in 1952-53 in which remote town?",
+        "choices": ["Lodwar", "Marsabit", "Kapenguria", "Garissa"],
+        "answer": 2,
+        "fact": "The 'Kapenguria Six' were convicted and imprisoned; the trial is now widely seen as politically motivated.",
+        "difficulty": 3
+      },
+      {
+        "q": "Thimlich Ohinga, a UNESCO site near Lake Victoria, is famous for what?",
+        "choices": ["Rock-cut churches", "Dry-stone walled enclosures built without mortar", "Painted royal tombs", "A ruined Portuguese fort"],
+        "answer": 1,
+        "fact": "The enclosures, probably first built in the 16th century, sheltered communities and their livestock.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which power captured Fort Jesus in 1698 after a siege lasting nearly three years?",
+        "choices": ["Britain", "Oman", "Ottoman Empire", "Netherlands"],
+        "answer": 1,
+        "fact": "The fall of Fort Jesus ended Portuguese dominance on the coast north of Mozambique.",
+        "difficulty": 3
+      },
+      {
+        "q": "In the early 1400s, envoys from Malindi presented a giraffe to the court of which empire?",
+        "choices": ["Ming China", "Mughal India", "Ottoman Turkey", "Safavid Persia"],
+        "answer": 0,
+        "fact": "Courtiers hailed the giraffe as a qilin, a mythical creature whose appearance was a sign of good fortune.",
+        "difficulty": 3
+      },
+      {
+        "q": "The ruins of Gedi, a Swahili town abandoned in the 1600s, lie near which coastal town?",
+        "choices": ["Lamu", "Kisumu", "Garissa", "Malindi"],
+        "answer": 3,
+        "fact": "Gedi's coral-stone palace, mosques and houses are hidden in a coastal forest close to Watamu.",
+        "difficulty": 3
+      },
+      {
+        "q": "Critics nicknamed the costly Uganda Railway what?",
+        "choices": ["The Iron Snake", "The Ghost Train", "The Lunatic Express", "The Golden Line"],
+        "answer": 2,
+        "fact": "Built from 1896 to 1901 largely by labourers from British India, it ran from Mombasa to Lake Victoria.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Kenyan paleoanthropologist later headed the Kenya Wildlife Service and set fire to a huge stockpile of ivory in 1989?",
+        "choices": ["Louis Leakey", "Kamoya Kimeu", "Richard Leakey", "Bethwel Ogot"],
+        "answer": 2,
+        "fact": "The televised ivory burn helped build global support for the international ban on the ivory trade.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

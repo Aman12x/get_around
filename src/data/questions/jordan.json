@@ -354,6 +354,739 @@
         "fact": "'Meissner Pasha' built the line largely with Ottoman soldiers as labour; work began in 1900 and the railhead reached Medina in 1908.",
         "difficulty": 3
       }
+    ],
+    "art": [
+      {
+        "q": "Which carved façade greets visitors at the end of Petra's narrow Siq gorge?",
+        "choices": ["The Treasury (Al-Khazneh)", "The Monastery (Ad Deir)", "The Urn Tomb", "The Great Temple"],
+        "answer": 0,
+        "fact": "Legend said pirates' gold was hidden in the stone urn at its top, and bullet marks from hopeful treasure-seekers still scar it.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which 1989 film does Petra's Treasury hide the Holy Grail?",
+        "choices": ["Raiders of the Lost Ark", "Indiana Jones and the Last Crusade", "The Mummy Returns", "Prince of Persia"],
+        "answer": 1,
+        "fact": "In the film the doorway leads to a vast Grail temple; in reality it opens into a single plain rock-cut chamber.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which 2015 film starring Matt Damon did Jordan's Wadi Rum stand in for Mars?",
+        "choices": ["Interstellar", "Gravity", "The Martian", "Arrival"],
+        "answer": 2,
+        "fact": "Wadi Rum's red sand and towering sandstone peaks have doubled as alien worlds in many films, earning it the nickname 'Valley of the Moon'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Downtown Amman's great hillside theatre dates from which era?",
+        "choices": ["Ottoman", "Umayyad", "Crusader", "Roman"],
+        "answer": 3,
+        "fact": "Built in the 2nd century CE, probably under Emperor Antoninus Pius, it is still used for concerts and festivals.",
+        "difficulty": 1
+      },
+      {
+        "q": "Craftspeople in Petra and Aqaba make pictures of camels and deserts by layering what inside glass bottles?",
+        "choices": ["Coloured sand", "Dried flowers", "Seashells", "Molten glass"],
+        "answer": 0,
+        "fact": "Using thin funnels and sticks, artists build up the designs grain by grain from the region's naturally coloured sands.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which pear-shaped, fretless lute is central to classical Arabic music in Jordan?",
+        "choices": ["Sitar", "Oud", "Bouzouki", "Balalaika"],
+        "answer": 1,
+        "fact": "The oud's Arabic name, al-'ud, meaning 'the wood', is the source of the European word 'lute'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which line dance with rhythmic stamping is a highlight of Jordanian weddings?",
+        "choices": ["Tango", "Flamenco", "Dabke", "Sirtaki"],
+        "answer": 2,
+        "fact": "Dancers link arms or shoulders while the leader at the head of the line often twirls a handkerchief or string of beads.",
+        "difficulty": 1
+      },
+      {
+        "q": "During 'Petra by Night', the Siq and the Treasury are lit by what?",
+        "choices": ["Laser beams", "Floodlights", "Fireworks", "Candles"],
+        "answer": 3,
+        "fact": "Around 1,500 candles in paper bags line the route, while Bedouin music echoes off the Treasury's façade.",
+        "difficulty": 1
+      },
+      {
+        "q": "Traditional Bedouin tents, called 'bayt al-sha'r' ('house of hair'), are woven mainly from what?",
+        "choices": ["Goat hair", "Cotton", "Silk", "Camel leather"],
+        "answer": 0,
+        "fact": "The black cloth tightens in the rain to become almost waterproof, while in the heat its loose weave lets breezes through.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the famous 6th-century Madaba Map?",
+        "choices": ["A wall of tiles in a mosque", "A floor mosaic map in a church", "A painted parchment scroll", "A carved stone relief"],
+        "answer": 1,
+        "fact": "Found in St George's Church, it is the oldest surviving original map of the Holy Land and shows Jerusalem in remarkable detail.",
+        "difficulty": 2
+      },
+      {
+        "q": "Since 1981, which ancient Jordanian city has hosted a summer festival of culture and arts among its ruins?",
+        "choices": ["Petra", "Madaba", "Jerash", "Umm Qais"],
+        "answer": 2,
+        "fact": "Singers, dancers and poets perform in Jerash's Roman theatres and Oval Plaza, bringing the ancient stages back to life.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which giant Petra monument is reached by climbing roughly 800 rock-cut steps?",
+        "choices": ["The Treasury", "The Royal Tombs", "The Great Temple", "The Monastery (Ad Deir)"],
+        "answer": 3,
+        "fact": "Ad Deir's façade is about 47 metres wide; its name comes from crosses carved inside when it was used as a chapel in Byzantine times.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Jordanian film, set in the desert during the First World War, was nominated for the Best Foreign Language Film Oscar in 2016?",
+        "choices": ["Theeb", "Capernaum", "Wadjda", "Omar"],
+        "answer": 0,
+        "fact": "Directed by Naji Abu Nowar, 'Theeb' ('Wolf') cast local Bedouin non-actors and was shot in the deserts of southern Jordan.",
+        "difficulty": 2
+      },
+      {
+        "q": "Jerash's monumental southern arch was built to honour the visit of which Roman emperor in 129 CE?",
+        "choices": ["Trajan", "Hadrian", "Marcus Aurelius", "Augustus"],
+        "answer": 1,
+        "fact": "The city planned to grow out to meet the arch, but the expansion never happened, so it still stands apart from the old walls.",
+        "difficulty": 2
+      },
+      {
+        "q": "The rababa, played by Bedouin poets in Jordan, is what kind of instrument?",
+        "choices": ["A goblet drum", "A reed flute", "A one-stringed bowed fiddle", "A hammered dulcimer"],
+        "answer": 2,
+        "fact": "Its single horsehair string accompanies sung poetry around the coffee hearth of a Bedouin tent.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Amman mosque, completed in 1989, is known for its great blue mosaic dome?",
+        "choices": ["Grand Husseini Mosque", "Al-Aqsa Mosque", "King Hussein Mosque", "King Abdullah I Mosque"],
+        "answer": 3,
+        "fact": "King Hussein built it in memory of his grandfather; the dome is ringed with Qur'anic verses.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which English poet described Petra as 'a rose-red city half as old as time'?",
+        "choices": ["John William Burgon", "Lord Byron", "Percy Bysshe Shelley", "Alfred Tennyson"],
+        "answer": 0,
+        "fact": "Burgon won Oxford's Newdigate Prize for the poem in 1845, even though he had never actually seen Petra.",
+        "difficulty": 2
+      },
+      {
+        "q": "Wadi Rum stood in for the desert moon Jedha in which 2016 Star Wars film?",
+        "choices": ["The Force Awakens", "Rogue One", "The Phantom Menace", "Solo"],
+        "answer": 1,
+        "fact": "Wadi Rum returned to the saga in 'The Rise of Skywalker' (2019), this time as the desert planet Pasaana.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Umayyad fresco known as the 'Painting of the Six Kings' survives in which desert castle?",
+        "choices": ["Qasr Kharana", "Qasr al-Hallabat", "Qusayr Amra", "Qasr Azraq"],
+        "answer": 2,
+        "fact": "The fresco shows rulers, probably including Byzantine, Persian and Visigothic kings, seemingly paying homage to the caliph.",
+        "difficulty": 3
+      },
+      {
+        "q": "The carved façade of Qasr Mshatta, an Umayyad palace near Amman, is now displayed in which city?",
+        "choices": ["Istanbul", "London", "Paris", "Berlin"],
+        "answer": 3,
+        "fact": "Ottoman Sultan Abdul Hamid II gave the façade to Kaiser Wilhelm II in 1903; it now stands in Berlin's Pergamon Museum.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Nabataeans often represented their chief god, Dushara, as what?",
+        "choices": ["A plain block of stone", "A winged lion", "A bearded giant", "A golden bull"],
+        "answer": 0,
+        "fact": "These sacred stones, called betyls, are carved in niches all over Petra, a few with stylised eyes and a nose.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which poet, known by the pen name 'Arar', is celebrated as Jordan's national poet?",
+        "choices": ["Nizar Qabbani", "Mustafa Wahbi Al-Tal", "Mahmoud Darwish", "Ahmed Shawqi"],
+        "answer": 1,
+        "fact": "Born in Irbid in 1899, Arar wrote witty verse championing ordinary people; his son Wasfi al-Tal later became prime minister.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Amman-born novelist wrote the 'Cities of Salt' quintet about the coming of oil to Arabia?",
+        "choices": ["Naguib Mahfouz", "Tayeb Salih", "Abdul Rahman Munif", "Ghassan Kanafani"],
+        "answer": 2,
+        "fact": "Munif, born in 1933 to a Saudi father and an Iraqi mother, was also a petroleum economist, giving his novels an insider's eye.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which royal painter and art historian founded the society that opened the Jordan National Gallery of Fine Arts in 1980?",
+        "choices": ["Princess Basma bint Talal", "Queen Noor", "Princess Alia bint Hussein", "Princess Wijdan Ali"],
+        "answer": 3,
+        "fact": "Princess Wijdan is a pioneer of abstract Arabic calligraphic art; the gallery specialises in modern art from the developing world.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which UNESCO-listed site south of Madaba has an 8th-century church mosaic depicting cities of the Holy Land?",
+        "choices": ["Umm ar-Rasas", "Umm Qais", "Pella", "Quweilbeh"],
+        "answer": 0,
+        "fact": "The floor of the Church of St Stephen at Umm ar-Rasas, ancient Kastron Mefa'a, was laid under early Islamic rule.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "Who succeeded King Hussein on the Jordanian throne in 1999?",
+        "choices": ["Abdullah II", "Hassan bin Talal", "Talal", "Faisal bin Hussein"],
+        "answer": 0,
+        "fact": "Abdullah II, born in 1962, is King Hussein's eldest son; he served as an army officer and special forces commander before becoming king.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city is Jordan's capital and seat of government?",
+        "choices": ["Irbid", "Amman", "Zarqa", "Aqaba"],
+        "answer": 1,
+        "fact": "Amman began as a small village refounded in the 1870s; today it is home to around four million people.",
+        "difficulty": 1
+      },
+      {
+        "q": "What form of government does Jordan have?",
+        "choices": ["Absolute monarchy", "Federal republic", "Constitutional monarchy", "Theocracy"],
+        "answer": 2,
+        "fact": "The king is head of state and appoints the prime minister, while a two-chamber National Assembly passes laws.",
+        "difficulty": 1
+      },
+      {
+        "q": "Jordan's parliament has two chambers: the elected House of Representatives and which appointed chamber?",
+        "choices": ["Federal Council", "Grand National Assembly", "State Duma", "Senate"],
+        "answer": 3,
+        "fact": "Senators are appointed by the king, and the constitution says the Senate may be no more than half the size of the House.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which queen, married to King Abdullah II, is known worldwide for her advocacy of education?",
+        "choices": ["Queen Rania", "Queen Noor", "Queen Alia", "Queen Zein"],
+        "answer": 0,
+        "fact": "Rania Al-Yassin was born in Kuwait in 1970, studied business in Cairo and became queen when Abdullah II took the throne in 1999.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which American-born queen was married to King Hussein from 1978 until his death?",
+        "choices": ["Queen Rania", "Queen Noor", "Queen Dina", "Queen Alia"],
+        "answer": 1,
+        "fact": "Born Lisa Halaby, she was in Princeton University's first co-educational class, graduating in architecture and urban planning.",
+        "difficulty": 1
+      },
+      {
+        "q": "Jordan, then Transjordan, was a founding member of which organisation in 1945?",
+        "choices": ["OPEC", "Gulf Cooperation Council", "Arab League", "African Union"],
+        "answer": 2,
+        "fact": "The Arab League was founded in Cairo in March 1945 by Egypt, Iraq, Lebanon, Saudi Arabia, Syria and Transjordan, with Yemen joining soon after.",
+        "difficulty": 1
+      },
+      {
+        "q": "Under Jordan's constitution, who appoints the prime minister?",
+        "choices": ["The House of Representatives", "The Senate", "The Constitutional Court", "The king"],
+        "answer": 3,
+        "fact": "The prime minister and cabinet are responsible to the House of Representatives, which can bring down a government with a vote of no confidence.",
+        "difficulty": 1
+      },
+      {
+        "q": "What title did Abdullah I hold as ruler of Transjordan from 1921 until 1946?",
+        "choices": ["Emir", "Sultan", "Shah", "Khedive"],
+        "answer": 0,
+        "fact": "Abdullah took the title of king at independence in 1946, and the country became the Hashemite Kingdom of Jordan in 1949.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was named Crown Prince of Jordan in July 2009?",
+        "choices": ["Hashem bin Abdullah", "Hussein bin Abdullah", "Ali bin Hussein", "Ghazi bin Muhammad"],
+        "answer": 1,
+        "fact": "Born in 1994, Crown Prince Hussein is the eldest son of King Abdullah II and Queen Rania and studied history at Georgetown University.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Jordan and Israel sign their peace treaty at the Wadi Araba crossing?",
+        "choices": ["1979", "1967", "1994", "2000"],
+        "answer": 2,
+        "fact": "Signed on 26 October 1994, it made Jordan the second Arab state, after Egypt, to sign a peace treaty with Israel.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which king reigned for only about a year (1951-1952) yet gave Jordan the constitution still in force?",
+        "choices": ["Abdullah I", "Hussein", "Faisal I", "Talal"],
+        "answer": 3,
+        "fact": "Talal's 1952 constitution made the cabinet answerable to parliament; he abdicated for health reasons and lived in Istanbul until 1972.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year was Jordan admitted to the United Nations?",
+        "choices": ["1955", "1946", "1948", "1967"],
+        "answer": 0,
+        "fact": "Jordan first applied in 1946 but was admitted only in December 1955, in a package deal that let 16 countries join at once.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which city was King Abdullah I assassinated in July 1951?",
+        "choices": ["Amman", "Jerusalem", "Damascus", "Baghdad"],
+        "answer": 1,
+        "fact": "He was shot at the Al-Aqsa Mosque; his teenage grandson Hussein was beside him, and a medal on Hussein's uniform is said to have deflected a bullet.",
+        "difficulty": 2
+      },
+      {
+        "q": "The seven points of the white star on Jordan's flag are said to stand for what?",
+        "choices": ["Seven founding tribes", "Seven governorates", "The seven verses of the Qur'an's opening sura", "Seven Hashemite kings"],
+        "answer": 2,
+        "fact": "The star sits in a red triangle; the black, white and green stripes recall the Abbasid, Umayyad and Fatimid caliphates.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many governorates is Jordan divided into?",
+        "choices": ["6", "8", "10", "12"],
+        "answer": 3,
+        "fact": "Amman Governorate alone holds around two-fifths of the population; the largest by area is Ma'an, in the south.",
+        "difficulty": 2
+      },
+      {
+        "q": "Jordan's army still carries which name, inherited from the Arab Legion?",
+        "choices": ["The Arab Army", "The Desert Patrol", "The Hashemite Guard", "The Royal Legion"],
+        "answer": 0,
+        "fact": "The Arab Legion was set up under British officers in the early 1920s and was fully placed under Jordanian command in 1956.",
+        "difficulty": 2
+      },
+      {
+        "q": "King Abdullah II's mother, Princess Muna al-Hussein, was born in which country?",
+        "choices": ["United States", "United Kingdom", "France", "Lebanon"],
+        "answer": 1,
+        "fact": "Born Antoinette Gardiner in England, she married King Hussein in 1961; a Jordanian nursing college bears her name.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1958 Jordan briefly united with which other Hashemite kingdom in the 'Arab Federation'?",
+        "choices": ["Saudi Arabia", "Syria", "Iraq", "Egypt"],
+        "answer": 2,
+        "fact": "Formed in February 1958 between the two Hashemite kingdoms, the federation ended within months when Iraq's monarchy was overthrown that July.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did Jordanian women gain the right to vote and stand in national elections?",
+        "choices": ["1952", "1989", "1999", "1974"],
+        "answer": 3,
+        "fact": "Because no general election was held between 1967 and 1989, women first voted in a nationwide parliamentary election in 1989.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who in 1993 became the first woman elected to Jordan's House of Representatives?",
+        "choices": ["Toujan Faisal", "Rania al-Yassin", "Rima Khalaf", "Inaam al-Mufti"],
+        "answer": 0,
+        "fact": "Toujan Faisal, a former television presenter, won one of the seats reserved for Circassian and Chechen candidates in Amman.",
+        "difficulty": 3
+      },
+      {
+        "q": "Jordan's appointed Senate is known in Arabic as Majlis al-A'yan. What does this mean?",
+        "choices": ["Council of Ministers", "Council of Notables", "Council of Elders", "Council of Deputies"],
+        "answer": 1,
+        "fact": "The elected lower house is the Majlis al-Nuwwab, and together the two chambers form the National Assembly, Majlis al-Umma.",
+        "difficulty": 3
+      },
+      {
+        "q": "Jordan's Constitutional Court was established in which year, following constitutional amendments in 2011?",
+        "choices": ["1952", "1989", "2012", "1999"],
+        "answer": 2,
+        "fact": "The court rules on whether laws and regulations comply with the constitution, a role previously left to other bodies.",
+        "difficulty": 3
+      },
+      {
+        "q": "Prince Hassan bin Talal served as Jordan's crown prince from 1965 until which year?",
+        "choices": ["1978", "1989", "1994", "1999"],
+        "answer": 3,
+        "fact": "Weeks before his death in February 1999, King Hussein named his eldest son Abdullah as crown prince in Hassan's place.",
+        "difficulty": 3
+      },
+      {
+        "q": "Transjordan's first constitutional document, issued in 1928 under the British mandate, was known as what?",
+        "choices": ["The Organic Law", "The National Charter", "The Basic Statute of Ma'an", "The Mandate Charter"],
+        "answer": 0,
+        "fact": "The Organic Law created a Legislative Council and was replaced in 1947 by a constitution for the newly independent kingdom.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "In June 2025, Jordan's men's football team qualified for its first ever FIFA World Cup. Which edition?",
+        "choices": ["2026", "2030", "2022", "2034"],
+        "answer": 0,
+        "fact": "Jordan sealed its place with a 3-0 away win over Oman on 5 June 2025, setting off celebrations across the kingdom.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Jordan reached its first AFC Asian Cup final in February 2024. Which host nation beat them in it?",
+        "choices": ["Japan", "Qatar", "South Korea", "Saudi Arabia"],
+        "answer": 1,
+        "fact": "On the way, Jordan stunned South Korea 2-0 in the semi-final; Qatar won the final 3-1 at Lusail Stadium.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In June 2023, Crown Prince Hussein married Rajwa Al Saif, an architect from which country?",
+        "choices": ["Kuwait", "United Arab Emirates", "Saudi Arabia", "Oman"],
+        "answer": 2,
+        "fact": "Rajwa studied architecture in the United States and became Princess Rajwa Al Hussein on her marriage.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021 Jordan celebrated the centenary of which event?",
+        "choices": ["Its independence from Britain", "The Arab Revolt", "Its first constitution", "The founding of the Emirate of Transjordan"],
+        "answer": 3,
+        "fact": "Abdullah I established the emirate in Amman in April 1921, laying the foundations of today's Hashemite Kingdom.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2022, which Jordanian national dish was added to UNESCO's Intangible Cultural Heritage list?",
+        "choices": ["Mansaf", "Maqluba", "Falafel", "Knafeh"],
+        "answer": 0,
+        "fact": "Mansaf is lamb cooked in a sauce of fermented dried yogurt called jameed, served on rice from a shared platter at weddings and feasts.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which 2021 film by Denis Villeneuve used Wadi Rum for scenes on the desert planet Arrakis?",
+        "choices": ["Avatar: The Way of Water", "Dune", "Tenet", "The Batman"],
+        "answer": 1,
+        "fact": "Its sequel, 'Dune: Part Two' (2024), also returned to Jordan's deserts for filming.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2024 Jordan marked King Abdullah II's Silver Jubilee. How many years had he been on the throne?",
+        "choices": ["10", "20", "25", "50"],
+        "answer": 2,
+        "fact": "He became king on 7 February 1999, on the death of his father, King Hussein.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "At the Paris 2024 Olympics, Saleh Elsharabaty won silver for Jordan in which sport?",
+        "choices": ["Boxing", "Judo", "Wrestling", "Taekwondo"],
+        "answer": 3,
+        "fact": "It was his second Olympic silver after Tokyo 2020; Jordan's first Olympic gold, at Rio 2016, also came in taekwondo.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2024, archaeologists announced a tomb holding a dozen skeletons beneath which Petra monument?",
+        "choices": ["The Treasury", "The Monastery", "The Great Temple", "The Royal Tombs"],
+        "answer": 0,
+        "fact": "The hidden chambers lie under the plaza in front of the Treasury and also held bronze, iron and pottery artefacts.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In August 2024, Crown Prince Hussein and Princess Rajwa welcomed their first child. What is her name?",
+        "choices": ["Salma", "Iman", "Rania", "Haya"],
+        "answer": 1,
+        "fact": "Princess Iman bint Hussein shares her name with her aunt, King Abdullah II's elder daughter.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Jordanian hill town, known for its golden limestone Ottoman-era houses, joined UNESCO's World Heritage List in 2021?",
+        "choices": ["Madaba", "Karak", "As-Salt", "Irbid"],
+        "answer": 2,
+        "fact": "Inscribed as 'the Place of Tolerance and Urban Hospitality', As-Salt flourished as a merchant hub in the late Ottoman period.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Jordan's parliamentary election of September 2024 was the first in which a large share of seats was filled through what?",
+        "choices": ["Online voting", "Ranked-choice ballots", "Compulsory voting", "Nationwide party lists"],
+        "answer": 3,
+        "fact": "Under the 2022 election law, 41 of the 138 House seats went to national party lists, a share set to grow in later elections.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Whom did King Abdullah II appoint as prime minister in September 2024?",
+        "choices": ["Jafar Hassan", "Bisher Al-Khasawneh", "Omar Razzaz", "Hani Mulki"],
+        "answer": 0,
+        "fact": "Jafar Hassan, an economist who had headed the king's office, succeeded Bisher Al-Khasawneh.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2021 Amman began operating what kind of public transport system, running in dedicated lanes?",
+        "choices": ["Metro", "Bus rapid transit", "Tram", "Cable car"],
+        "answer": 1,
+        "fact": "Amman's BRT buses use their own lanes along busy corridors, a new way to beat traffic in the hilly, car-dependent capital.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2021, UNESCO inscribed which art on its intangible heritage list in a joint file from 16 Arab states, including Jordan?",
+        "choices": ["Mosaic making", "Glassblowing", "Arabic calligraphy", "Sand-bottle art"],
+        "answer": 2,
+        "fact": "The listing celebrates the knowledge and skills of writing Arabic script in flowing, artistic forms.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2019, which supernatural teen drama filmed in Petra and Amman became Netflix's first Arabic-language original series?",
+        "choices": ["Paranormal", "Elite", "Messiah", "Jinn"],
+        "answer": 3,
+        "fact": "The series follows Jordanian high-school students whose school trip to Petra unleashes a jinn.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "At the Tokyo Olympics in 2021, Jordan's Abdel Rahman Almasatfa won bronze in which sport, then making its Olympic debut?",
+        "choices": ["Karate", "Skateboarding", "Surfing", "Sport climbing"],
+        "answer": 0,
+        "fact": "He took bronze in the men's 67 kg kumite; Jordan also won a silver in taekwondo at the same Games.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Petra welcomed more than how many visitors in 2019, a record year for the site?",
+        "choices": ["Half a million", "One million", "Two million", "Five million"],
+        "answer": 1,
+        "fact": "Most visitors enter through the Siq, a winding gorge about 1.2 km long with walls up to 80 metres high.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Who was appointed Jordan's prime minister in October 2020?",
+        "choices": ["Omar Razzaz", "Hani Mulki", "Bisher Al-Khasawneh", "Abdullah Ensour"],
+        "answer": 2,
+        "fact": "A career diplomat, Al-Khasawneh had served as an ambassador abroad and as an adviser at the Royal Hashemite Court.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which Moroccan coach led Jordan to the AFC Asian Cup final in 2024?",
+        "choices": ["Walid Regragui", "Hervé Renard", "Vahid Halilhodžić", "Hussein Ammouta"],
+        "answer": 3,
+        "fact": "Ammouta had won the CAF Champions League with Wydad Casablanca before taking the Jordan job in 2023.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2019 SESAME, the synchrotron near Allan, became the world's first accelerator facility powered by what?",
+        "choices": ["Solar energy", "Nuclear fusion", "Geothermal steam", "Hydrogen fuel cells"],
+        "answer": 0,
+        "fact": "A dedicated solar power plant supplies its electricity, easing the energy bills of a lab shared by eight Middle Eastern members.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which 2021 Netflix drama, set at an elite girls' school in Amman, was created by Tima Shomali?",
+        "choices": ["Jinn", "AlRawabi School for Girls", "Paranormal", "Elite"],
+        "answer": 1,
+        "fact": "The series follows a bullied student's plan for revenge and was made with a largely female cast and crew.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which northern Jordanian city was named Arab Capital of Culture for 2022?",
+        "choices": ["Zarqa", "Aqaba", "Irbid", "Madaba"],
+        "answer": 2,
+        "fact": "Irbid, home to Yarmouk University, hosted a year of exhibitions, concerts and literary events.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which dark basalt town near the Syrian border was added to the UNESCO World Heritage List in 2024?",
+        "choices": ["Umm Qais", "Pella", "Qasr Azraq", "Umm el-Jimal"],
+        "answer": 3,
+        "fact": "Umm el-Jimal's black basalt houses, churches and reservoirs span Roman, Byzantine and early Islamic times.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "At which Amman palace did Crown Prince Hussein and Rajwa Al Saif marry in June 2023?",
+        "choices": ["Zahran Palace", "Raghadan Palace", "Basman Palace", "Al-Nadwa Palace"],
+        "answer": 0,
+        "fact": "After the ceremony, a motorcade carried the couple through Amman's streets to their wedding reception.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
+    "general": [
+      {
+        "q": "The Dead Sea shore is the lowest point on dry land on Earth. Roughly how far below sea level does it lie?",
+        "choices": ["About 430 metres", "About 50 metres", "About 1,500 metres", "About 4,000 metres"],
+        "answer": 0,
+        "fact": "Its level is falling by around a metre a year, as water from the Jordan River is diverted for farms and cities.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Jordan's currency?",
+        "choices": ["Riyal", "Dinar", "Dirham", "Pound"],
+        "answer": 1,
+        "fact": "The Jordanian dinar is divided into 1,000 fils and has been pegged to the US dollar since 1995.",
+        "difficulty": 1
+      },
+      {
+        "q": "Jordan's only stretch of coastline, at Aqaba, lies on which sea?",
+        "choices": ["Mediterranean Sea", "Persian Gulf", "Red Sea", "Caspian Sea"],
+        "answer": 2,
+        "fact": "Jordan's coast is only about 26 km long, but its coral reefs make Aqaba a favourite with divers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which blend of wild thyme, sumac and sesame do Jordanians enjoy with bread and olive oil?",
+        "choices": ["Harissa", "Garam masala", "Ras el hanout", "Za'atar"],
+        "answer": 3,
+        "fact": "Warm bread dipped first in olive oil and then in za'atar is a breakfast staple across Jordan and the Levant.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Jordan's official language?",
+        "choices": ["Arabic", "Persian", "Turkish", "Hebrew"],
+        "answer": 0,
+        "fact": "Most Jordanians speak a Levantine dialect of Arabic, Bedouin communities keep distinctive dialects of their own, and English is widely taught.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which UNESCO-listed desert in southern Jordan is famed for red sands, sandstone mountains and Bedouin camps?",
+        "choices": ["Wadi Mujib", "Wadi Rum", "Wadi Araba", "Wadi Musa"],
+        "answer": 1,
+        "fact": "Wadi Rum also holds thousands of ancient rock carvings and inscriptions, part of why it became a World Heritage Site in 2011.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Jordanian site was voted one of the New Seven Wonders of the World in 2007?",
+        "choices": ["Jerash", "Wadi Rum", "Petra", "Amman Citadel"],
+        "answer": 2,
+        "fact": "Petra shares the title with Machu Picchu, the Colosseum, the Taj Mahal, the Great Wall, Chichén Itzá and Christ the Redeemer.",
+        "difficulty": 1
+      },
+      {
+        "q": "From which mountain near Madaba is Moses said to have viewed the Promised Land?",
+        "choices": ["Mount Sinai", "Mount Ararat", "Mount Hermon", "Mount Nebo"],
+        "answer": 3,
+        "fact": "On clear days the summit looks out over the Dead Sea and Jordan Valley; Pope John Paul II visited in 2000.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the red-and-white chequered headscarf widely worn by Jordanian men called?",
+        "choices": ["Shemagh", "Fez", "Turban", "Tagelmust"],
+        "answer": 0,
+        "fact": "Worn by soldiers and the famous Desert Patrol, the red-and-white shemagh has become a symbol of Jordan.",
+        "difficulty": 1
+      },
+      {
+        "q": "Al-Maghtas, 'Bethany Beyond the Jordan', is revered as the site of which event?",
+        "choices": ["The Transfiguration", "The baptism of Jesus", "The Last Supper", "The Sermon on the Mount"],
+        "answer": 1,
+        "fact": "UNESCO listed the site in 2015; archaeologists have found Roman and Byzantine churches, baptismal pools and hermit caves there.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which of these countries does NOT share a border with Jordan?",
+        "choices": ["Iraq", "Saudi Arabia", "Lebanon", "Syria"],
+        "answer": 2,
+        "fact": "Jordan's longest land border is with Saudi Arabia, running along its south and east.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which nature reserve, stretching from mountain heights down to the Wadi Araba desert, is Jordan's largest?",
+        "choices": ["Ajloun Forest Reserve", "Shaumari Reserve", "Azraq Wetland Reserve", "Dana Biosphere Reserve"],
+        "answer": 3,
+        "fact": "Dana spans four bio-geographical zones, and the restored stone village of Dana on its rim welcomes hikers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which reserve, whose river canyon drains into the Dead Sea, is known as the lowest nature reserve on Earth?",
+        "choices": ["Wadi Mujib", "Wadi Rum", "Dibeen Forest", "Shaumari"],
+        "answer": 0,
+        "fact": "Hikers wade and swim up the Mujib's sandstone gorge, while Nubian ibex pick their way along the cliffs above.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Jordan's national flower?",
+        "choices": ["Desert rose", "Black iris", "White jasmine", "Red poppy"],
+        "answer": 1,
+        "fact": "The black iris blooms briefly in spring; its deep purple petals look almost black.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Nabataean script used at Petra evolved into which modern alphabet?",
+        "choices": ["Hebrew", "Syriac", "Arabic", "Ge'ez"],
+        "answer": 2,
+        "fact": "Inscriptions from Jordan and the wider region show Nabataean letters gradually turning into early Arabic script.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which dish of rice, vegetables and meat is named for being flipped upside down onto a platter before serving?",
+        "choices": ["Mansaf", "Musakhan", "Mujaddara", "Maqluba"],
+        "answer": 3,
+        "fact": "'Maqluba' means 'upside down' in Arabic; cooks turn the pot over at the table, hoping the layered rice holds its shape.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ancient route through the highlands links Madaba, Karak, Shobak and Petra?",
+        "choices": ["King's Highway", "Silk Road", "Via Egnatia", "Desert Highway"],
+        "answer": 0,
+        "fact": "Mentioned in the Book of Numbers, it was later used by Nabataean caravans and by pilgrims heading to Mecca.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which is Jordan's oldest university, founded in Amman in 1962?",
+        "choices": ["Yarmouk University", "University of Jordan", "Mutah University", "Hashemite University"],
+        "answer": 1,
+        "fact": "It began with a single faculty of arts and now teaches tens of thousands of students.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Jordan Rally, with stages near the Dead Sea, was a round of which series in 2008 and 2010-2011?",
+        "choices": ["Dakar Rally", "Rallye Monte-Carlo", "World Rally Championship", "Rallye des Pharaons"],
+        "answer": 2,
+        "fact": "Its service park sat on the Dead Sea shore, making it the lowest-lying event in world motorsport.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which peak near the Saudi border is Jordan's highest mountain, at about 1,850 metres?",
+        "choices": ["Jabal Rum", "Jabal Shayban", "Jabal Mubrak", "Jabal Umm al-Dami"],
+        "answer": 3,
+        "fact": "Nearby Jabal Rum, at about 1,734 metres, was long thought to be the highest; from Umm al-Dami you can glimpse the Red Sea.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which small rose-pink bird is Jordan's national bird?",
+        "choices": ["Sinai rosefinch", "Golden eagle", "Hoopoe", "Houbara bustard"],
+        "answer": 0,
+        "fact": "The male's rosy plumage echoes the colour of Petra's sandstone, where it is often spotted.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Dead Sea lies on a fault where which two tectonic plates slide past each other?",
+        "choices": ["Eurasian and Indian", "Arabian and African", "Pacific and Philippine", "African and Somali"],
+        "answer": 1,
+        "fact": "This Dead Sea Transform runs from the Red Sea to Turkey; movement along it has shifted the land by about 105 km over millions of years.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which cargo ship was deliberately sunk off Aqaba in 1985 to become a famous dive site?",
+        "choices": ["Zenobia", "Lady Luck", "Cedar Pride", "Thistlegorm"],
+        "answer": 2,
+        "fact": "The fire-damaged Lebanese freighter was scuttled at the initiative of Prince Abdullah, now King Abdullah II, a keen diver.",
+        "difficulty": 3
+      },
+      {
+        "q": "Shobak Castle, built by King Baldwin I of Jerusalem in 1115, was originally called what?",
+        "choices": ["Krak des Chevaliers", "Belvoir", "Kerak", "Montréal"],
+        "answer": 3,
+        "fact": "Its Latin name, Mons Regalis, means 'Royal Mountain'; it fell to Saladin in 1189 after a long siege.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which basalt fortress in the eastern desert did T. E. Lawrence use as his base in the winter of 1917-18?",
+        "choices": ["Qasr Azraq", "Qasr Kharana", "Shobak Castle", "Ajloun Castle"],
+        "answer": 0,
+        "fact": "Lawrence lodged in a room above the gatehouse; the fort stands by the Azraq oasis, long a key stop on desert caravan routes.",
+        "difficulty": 3
+      }
     ]
   }
 }

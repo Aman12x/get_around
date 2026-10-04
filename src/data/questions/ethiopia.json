@@ -531,6 +531,562 @@
         "fact": "Her vast canvases layer architectural drawings, maps and gestural marks; she received a MacArthur 'genius' grant in 2005.",
         "difficulty": 3
       }
+    ],
+    "politics": [
+      {
+        "q": "Which pan-African organisation has its headquarters in Addis Ababa?",
+        "choices": ["ECOWAS", "Southern African Development Community", "Arab League", "African Union"],
+        "answer": 3,
+        "fact": "The African Union replaced the Organisation of African Unity in 2002; its headquarters complex in Addis Ababa opened in 2012.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became prime minister of Ethiopia in April 2018?",
+        "choices": ["Hailemariam Desalegn", "Meles Zenawi", "Abiy Ahmed", "Demeke Mekonnen"],
+        "answer": 2,
+        "fact": "Abiy Ahmed took office on 2 April 2018, chosen by the then-ruling coalition after his predecessor resigned.",
+        "difficulty": 1
+      },
+      {
+        "q": "Under its 1995 constitution, what type of state is Ethiopia?",
+        "choices": ["Absolute monarchy", "Federal parliamentary republic", "Presidential republic", "Unitary one-party state"],
+        "answer": 1,
+        "fact": "The constitution renamed the country the Federal Democratic Republic of Ethiopia, made up of regional states and chartered cities.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which country formally became independent from Ethiopia in 1993 after a referendum?",
+        "choices": ["Eritrea", "Djibouti", "Somalia", "South Sudan"],
+        "answer": 0,
+        "fact": "Eritreans voted overwhelmingly for independence in April 1993, leaving Ethiopia without a coastline.",
+        "difficulty": 1
+      },
+      {
+        "q": "In Ethiopia's parliamentary system, who holds most executive power?",
+        "choices": ["The prime minister", "The president", "The chief justice", "The speaker of parliament"],
+        "answer": 0,
+        "fact": "The president, elected by parliament for a six-year term, plays a largely ceremonial role.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1945, Ethiopia was among the founding members of which organisation?",
+        "choices": ["European Union", "Commonwealth of Nations", "NATO", "United Nations"],
+        "answer": 3,
+        "fact": "Ethiopia was one of the 51 original member states that signed the UN Charter, having been a victim of aggression in the 1930s.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2018, Sahle-Work Zewde became Ethiopia's first woman to hold which office?",
+        "choices": ["Prime minister", "Chief justice", "President", "Foreign minister"],
+        "answer": 2,
+        "fact": "A veteran diplomat, she had previously headed the United Nations Office at Nairobi.",
+        "difficulty": 1
+      },
+      {
+        "q": "What did the Ethiopian imperial title 'Negusa Nagast' mean?",
+        "choices": ["Lion of Judah", "King of Kings", "Father of the Nation", "Light of the World"],
+        "answer": 1,
+        "fact": "Emperors used the title to signal their authority over regional kings and nobles across the empire.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which emperor gave Ethiopia its first written constitution in 1931?",
+        "choices": ["Menelik II", "Haile Selassie", "Tewodros II", "Yohannes IV"],
+        "answer": 1,
+        "fact": "The 1931 constitution created a two-chamber parliament, though its members were appointed or chosen by the nobility.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which organisation was founded in Addis Ababa on 25 May 1963?",
+        "choices": ["Organisation of African Unity", "African Development Bank", "Non-Aligned Movement", "East African Community"],
+        "answer": 0,
+        "fact": "The founding date is still celebrated across the continent as Africa Day.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who led Ethiopia's Derg military government from 1977 until 1991?",
+        "choices": ["Aman Andom", "Tafari Benti", "Meles Zenawi", "Mengistu Haile Mariam"],
+        "answer": 3,
+        "fact": "Mengistu also served as president of the People's Democratic Republic of Ethiopia from 1987.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who served as Ethiopia's prime minister from 1995 until his death in 2012?",
+        "choices": ["Tamrat Layne", "Abiy Ahmed", "Meles Zenawi", "Hailemariam Desalegn"],
+        "answer": 2,
+        "fact": "Meles had led the transitional government from 1991 before becoming prime minister under the new constitution.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who succeeded Meles Zenawi as Ethiopia's prime minister in 2012?",
+        "choices": ["Abiy Ahmed", "Girma Wolde-Giorgis", "Hailemariam Desalegn", "Seyoum Mesfin"],
+        "answer": 2,
+        "fact": "Hailemariam, previously deputy prime minister and foreign minister, served until he announced his resignation in February 2018.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of the lower, directly elected house of Ethiopia's parliament?",
+        "choices": ["House of Federation", "House of Peoples' Representatives", "National Assembly", "Chamber of Deputies"],
+        "answer": 1,
+        "fact": "Its members serve five-year terms, and the house elects the prime minister from among its ranks.",
+        "difficulty": 2
+      },
+      {
+        "q": "Under a 1950 UN resolution, how was Eritrea joined to Ethiopia in 1952?",
+        "choices": ["As an autonomous unit in a federation", "As a UN trust territory", "As an Italian colony", "As a British protectorate"],
+        "answer": 0,
+        "fact": "Haile Selassie dissolved the federation in 1962, making Eritrea a province of Ethiopia.",
+        "difficulty": 2
+      },
+      {
+        "q": "Besides Addis Ababa, which Ethiopian city is administered as a chartered city rather than within a regional state?",
+        "choices": ["Gondar", "Hawassa", "Mekelle", "Dire Dawa"],
+        "answer": 3,
+        "fact": "Dire Dawa grew up around a station on the railway from Djibouti in the early 20th century.",
+        "difficulty": 2
+      },
+      {
+        "q": "After his government fell in 1991, Mengistu Haile Mariam went into exile in which country?",
+        "choices": ["Kenya", "Soviet Union", "Cuba", "Zimbabwe"],
+        "answer": 3,
+        "fact": "He fled in May 1991 as rebel forces closed in on Addis Ababa and settled in Harare.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ethiopia's Kagnew Battalions fought under the United Nations Command in which war?",
+        "choices": ["Vietnam War", "Gulf War", "Korean War", "Suez Crisis"],
+        "answer": 2,
+        "fact": "Haile Selassie sent the battalions in rotation from 1951; Ethiopia and South Africa were the only African nations to send forces.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which chamber of Ethiopia's parliament has the power to interpret the constitution?",
+        "choices": ["House of Peoples' Representatives", "House of Federation", "Federal Supreme Court", "Council of Ministers"],
+        "answer": 1,
+        "fact": "Rather than a constitutional court, Ethiopia gives this role to the upper house, advised by a council of legal experts.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year was Ethiopia admitted to the League of Nations?",
+        "choices": ["1923", "1919", "1935", "1945"],
+        "answer": 0,
+        "fact": "As a condition of membership, Ethiopia pledged to work towards abolishing slavery.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became Ethiopia's first president under the 1995 constitution?",
+        "choices": ["Negasso Gidada", "Girma Wolde-Giorgis", "Mulatu Teshome", "Sahle-Work Zewde"],
+        "answer": 0,
+        "fact": "Negasso served from 1995 to 2001 and later became an independent member of parliament.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who served as Ethiopia's president from 2001 to 2013?",
+        "choices": ["Negasso Gidada", "Mulatu Teshome", "Taye Atske Selassie", "Girma Wolde-Giorgis"],
+        "answer": 3,
+        "fact": "He had first sat in parliament during Haile Selassie's reign, decades before becoming head of state.",
+        "difficulty": 3
+      },
+      {
+        "q": "An attempted coup against Haile Selassie in December 1960 took place while he was visiting which country?",
+        "choices": ["United States", "Soviet Union", "Brazil", "India"],
+        "answer": 2,
+        "fact": "Loyal army units crushed the attempt within days, and the emperor returned to Addis Ababa.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which grandson of Menelik II ruled as uncrowned emperor until he was deposed in 1916?",
+        "choices": ["Ras Makonnen", "Lij Iyasu", "Ras Tafari", "Ras Mikael"],
+        "answer": 1,
+        "fact": "Lij Iyasu was designated heir in 1909 but never crowned; Zewditu became empress after his removal.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did Haile Selassie proclaim a revised constitution that introduced an elected lower chamber?",
+        "choices": ["1931", "1955", "1941", "1974"],
+        "answer": 1,
+        "fact": "The first elections for the Chamber of Deputies under universal adult suffrage followed in 1957.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Which Ethiopian leader was awarded the Nobel Peace Prize in October 2019?",
+        "choices": ["Abiy Ahmed", "Sahle-Work Zewde", "Hailemariam Desalegn", "Taye Atske Selassie"],
+        "answer": 0,
+        "fact": "The Nobel Committee cited in particular his initiative to resolve the long border dispute with neighbouring Eritrea.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which major project did Ethiopia officially inaugurate in September 2025?",
+        "choices": ["Gilgel Gibe III Dam", "Tekezé Dam", "Addis Ababa–Djibouti Railway", "Grand Ethiopian Renaissance Dam"],
+        "answer": 3,
+        "fact": "Built on the Blue Nile near the border with Sudan, the dam has a planned capacity of over 5,000 megawatts.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In July 2019, Ethiopia reported that volunteers had planted roughly how many tree seedlings in a single day?",
+        "choices": ["3.5 million", "35 million", "350 million", "3.5 billion"],
+        "answer": 2,
+        "fact": "The mass planting was part of the national Green Legacy Initiative to restore forests and fight land degradation.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which group of major emerging economies did Ethiopia join as a full member on 1 January 2024?",
+        "choices": ["G20", "BRICS", "OPEC", "The Commonwealth"],
+        "answer": 1,
+        "fact": "Ethiopia joined alongside Egypt, Iran and the United Arab Emirates in the bloc's first big expansion since South Africa joined in 2010.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Ethiopian runner won the men's marathon at the Paris 2024 Olympics?",
+        "choices": ["Kenenisa Bekele", "Tamirat Tola", "Sisay Lemma", "Deresa Geleta"],
+        "answer": 1,
+        "fact": "A late call-up to the team, he won in an Olympic record of 2:06:26.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In July 2024, Ethiopia's central bank let which currency's exchange rate be set by the market?",
+        "choices": ["Birr", "Shilling", "Nakfa", "Naira"],
+        "answer": 0,
+        "fact": "The move ended years of a tightly controlled official exchange rate, as part of a wider economic reform programme.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "The March 2019 crash of Ethiopian Airlines Flight 302 led to the worldwide grounding of which aircraft model?",
+        "choices": ["Airbus A320neo", "Boeing 787 Dreamliner", "Airbus A350", "Boeing 737 MAX"],
+        "answer": 3,
+        "fact": "Regulators around the world grounded the type for about 20 months while its flight-control software was redesigned.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which city hosted the second Africa Climate Summit in September 2025?",
+        "choices": ["Nairobi", "Kigali", "Addis Ababa", "Cairo"],
+        "answer": 2,
+        "fact": "The first Africa Climate Summit had been held in Nairobi, Kenya, in September 2023.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In early 2024, Ethiopia announced a ban on importing which kind of private car?",
+        "choices": ["Electric cars", "Right-hand-drive cars", "Petrol and diesel cars", "Hybrid cars"],
+        "answer": 2,
+        "fact": "Ethiopia, which generates most of its power from hydroelectric dams, aims to cut costly fuel imports.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who was elected president of Ethiopia by parliament in October 2024?",
+        "choices": ["Sahle-Work Zewde", "Taye Atske Selassie", "Demeke Mekonnen", "Mulatu Teshome"],
+        "answer": 1,
+        "fact": "A career diplomat, he had previously served as Ethiopia's ambassador to the UN and as foreign minister.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which party won Ethiopia's general election held in June 2021?",
+        "choices": ["Prosperity Party", "EPRDF", "Ezema", "Enat Party"],
+        "answer": 0,
+        "fact": "The party had been formed in December 2019 by merging most members of the former ruling EPRDF coalition.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In which city did Tigst Assefa set a women's marathon world record in September 2023?",
+        "choices": ["Chicago", "London", "Valencia", "Berlin"],
+        "answer": 3,
+        "fact": "She ran 2:11:53, taking more than two minutes off the previous record.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Ethiopian won the men's 10,000 m at the Tokyo Olympics, held in 2021?",
+        "choices": ["Yomif Kejelcha", "Berihu Aregawi", "Hagos Gebrhiwet", "Selemon Barega"],
+        "answer": 3,
+        "fact": "Barega outsprinted Uganda's Joshua Cheptegei to claim Ethiopia's first gold of the Games.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In October 2022, which company launched mobile services in Ethiopia, ending Ethio Telecom's monopoly?",
+        "choices": ["MTN", "Airtel", "Safaricom", "Orange"],
+        "answer": 2,
+        "fact": "The Kenyan operator led an international consortium that won Ethiopia's first private telecom licence in 2021.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "What is the name of the mobile money service Ethio Telecom launched in May 2021?",
+        "choices": ["M-Pesa", "telebirr", "MoMo", "EcoCash"],
+        "answer": 1,
+        "fact": "The name combines 'tele' with the birr, Ethiopia's currency; it gained millions of users within its first year.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "What did Ethiopia launch in Addis Ababa in January 2025?",
+        "choices": ["The Ethiopian Securities Exchange", "A national space launch site", "A nuclear power plant", "A Formula 1 circuit"],
+        "answer": 0,
+        "fact": "It was Ethiopia's first stock exchange in about five decades, after an earlier share market was closed in the 1970s.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Unity Park, opened in Addis Ababa in October 2019, lies in the grounds of which historic site?",
+        "choices": ["Menelik II's palace", "Africa Hall", "Holy Trinity Cathedral", "Meskel Square"],
+        "answer": 0,
+        "fact": "Visitors can tour former royal halls and banqueting rooms, as well as gardens and a zoo.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In August 2025, the original 'Lucy' fossil went on display outside Ethiopia in which European capital?",
+        "choices": ["Paris", "London", "Rome", "Prague"],
+        "answer": 3,
+        "fact": "It was Lucy's first trip abroad since a six-year tour of the United States ended in 2013.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In October 2021, Letesenbet Gidey became the first woman to run a half marathon in under how long?",
+        "choices": ["60 minutes", "65 minutes", "63 minutes", "70 minutes"],
+        "answer": 2,
+        "fact": "She clocked 1:02:52 in Valencia, a city where she had also set a 5,000 m world record the year before.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Ethiopian broke the men's half marathon world record in Valencia in October 2024?",
+        "choices": ["Selemon Barega", "Yomif Kejelcha", "Tamirat Tola", "Berihu Aregawi"],
+        "answer": 1,
+        "fact": "His 57:30 took one second off Jacob Kiplimo's record; Kiplimo lowered it again in early 2025.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, which Ethiopian national park was added to the UNESCO World Heritage List?",
+        "choices": ["Simien Mountains", "Bale Mountains", "Awash", "Nechisar"],
+        "answer": 1,
+        "fact": "The park's high Sanetti Plateau is home to the largest population of the endangered Ethiopian wolf.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "At which distance did Gudaf Tsegay set a world record in Eugene in September 2023?",
+        "choices": ["5,000 m", "1,500 m", "10,000 m", "Mile"],
+        "answer": 0,
+        "fact": "Her 14:00.21 cut about five seconds off the record Kenya's Faith Kipyegon had set just three months earlier.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who won the women's marathon at the 2022 World Athletics Championships in Eugene?",
+        "choices": ["Tigst Assefa", "Worknesh Degefa", "Letesenbet Gidey", "Gotytom Gebreslase"],
+        "answer": 3,
+        "fact": "Her winning time of 2:18:11 set a new championship record.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In which year did the Grand Ethiopian Renaissance Dam first generate electricity?",
+        "choices": ["2019", "2020", "2022", "2024"],
+        "answer": 2,
+        "fact": "The first turbine was switched on in February 2022, more than a decade after construction began in 2011.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In June 2023, Lamecha Girma set a world record in which event at a meeting in Paris?",
+        "choices": ["5,000 m", "10,000 m", "3,000 m steeplechase", "Marathon"],
+        "answer": 2,
+        "fact": "His 7:52.11 broke a steeplechase record that had stood since 2004.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is the capital of Ethiopia?",
+        "choices": ["Nairobi", "Addis Ababa", "Asmara", "Khartoum"],
+        "answer": 1,
+        "fact": "At about 2,350 metres above sea level, Addis Ababa is one of the highest capital cities in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "Injera, Ethiopia's spongy sourdough flatbread, is traditionally made from which grain?",
+        "choices": ["Teff", "Rice", "Maize", "Barley"],
+        "answer": 0,
+        "fact": "Teff is one of the world's smallest grains and is naturally gluten-free; injera doubles as plate and cutlery.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Ethiopian lake is the source of the Blue Nile?",
+        "choices": ["Lake Abaya", "Lake Ziway", "Lake Turkana", "Lake Tana"],
+        "answer": 3,
+        "fact": "Lake Tana, Ethiopia's largest lake, is dotted with islands holding centuries-old monasteries.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Ethiopian runner won Olympic 10,000 m gold in both 1996 and 2000?",
+        "choices": ["Kenenisa Bekele", "Abebe Bikila", "Haile Gebrselassie", "Miruts Yifter"],
+        "answer": 2,
+        "fact": "Haile also set a marathon world record of 2:03:59 in Berlin in 2008.",
+        "difficulty": 1
+      },
+      {
+        "q": "Abebe Bikila famously won the 1960 Olympic marathon in Rome how?",
+        "choices": ["Running backwards for the last mile", "After stopping to help a rival", "Running barefoot", "Despite a broken arm"],
+        "answer": 2,
+        "fact": "He won again in Tokyo in 1964, this time wearing shoes, becoming the first person to retain the Olympic marathon title.",
+        "difficulty": 1
+      },
+      {
+        "q": "Ethiopia is Africa's second most populous country after which nation?",
+        "choices": ["Egypt", "Nigeria", "DR Congo", "South Africa"],
+        "answer": 1,
+        "fact": "Ethiopia is also the world's most populous landlocked country.",
+        "difficulty": 1
+      },
+      {
+        "q": "Berbere, essential to Ethiopian cooking, is what?",
+        "choices": ["A spicy chilli-based spice blend", "A fermented honey wine", "A spiced clarified butter", "A thin chickpea stew"],
+        "answer": 0,
+        "fact": "Berbere typically combines dried chillies with spices such as fenugreek, coriander and cardamom; it gives wat stews their deep red colour.",
+        "difficulty": 1
+      },
+      {
+        "q": "Ethiopia's high central plateau is often nicknamed the 'Roof of' what?",
+        "choices": ["the World", "Arabia", "the Nile", "Africa"],
+        "answer": 3,
+        "fact": "The highlands rise above 4,000 metres in places and feed the Blue Nile and many other rivers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which walled city in eastern Ethiopia is famous for its 'hyena men', who feed wild hyenas at night?",
+        "choices": ["Gondar", "Aksum", "Bahir Dar", "Harar"],
+        "answer": 3,
+        "fact": "The hyena men call the animals by name and sometimes feed them meat from a stick held in their mouths.",
+        "difficulty": 1
+      },
+      {
+        "q": "Amharic is written in which script?",
+        "choices": ["Arabic", "Latin", "Ge'ez", "Tifinagh"],
+        "answer": 2,
+        "fact": "The Ge'ez script is an abugida: each character stands for a consonant combined with a vowel.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which hydrothermal field in the Danakil Depression is famous for its yellow, green and orange mineral pools?",
+        "choices": ["Erta Ale", "Dallol", "Sof Omar", "Wenchi"],
+        "answer": 1,
+        "fact": "Dallol has recorded one of the highest average annual temperatures of any inhabited place on Earth.",
+        "difficulty": 2
+      },
+      {
+        "q": "In the traditional Ethiopian coffee ceremony, coffee is brewed in a long-necked clay pot called what?",
+        "choices": ["Jebena", "Mesob", "Injera", "Krar"],
+        "answer": 0,
+        "fact": "Guests traditionally drink three rounds, called abol, tona and baraka.",
+        "difficulty": 2
+      },
+      {
+        "q": "Enkutatash, the Ethiopian New Year, falls in which Gregorian month?",
+        "choices": ["September", "January", "April", "July"],
+        "answer": 0,
+        "fact": "It usually falls on 11 September, at the end of the rainy season, when yellow meskel daisies bloom.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the highest mountain in Ethiopia?",
+        "choices": ["Mount Batu", "Mount Entoto", "Mount Zuqualla", "Ras Dashen"],
+        "answer": 3,
+        "fact": "Rising to about 4,550 metres in the Simien Mountains, it is one of Africa's highest peaks.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which grass-eating primate, found only in the Ethiopian Highlands, has a bright red patch on its chest?",
+        "choices": ["Mandrill", "Chimpanzee", "Gelada", "Golden snub-nosed monkey"],
+        "answer": 2,
+        "fact": "Geladas spend nights on cliff ledges and gather in herds of hundreds to graze on the high plateaus.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Ethiopian became the first Black African woman to win Olympic gold, in the 10,000 m in 1992?",
+        "choices": ["Tirunesh Dibaba", "Derartu Tulu", "Meseret Defar", "Fatuma Roba"],
+        "answer": 1,
+        "fact": "After her Barcelona win, she ran a victory lap hand in hand with South Africa's Elana Meyer, who took silver.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1962, Ethiopia won which football tournament on home soil?",
+        "choices": ["CECAFA Cup", "Africa Cup of Nations", "All-Africa Games", "FIFA World Cup qualifiers"],
+        "answer": 1,
+        "fact": "Ethiopia beat the United Arab Republic (Egypt) 4-2 after extra time in the final in Addis Ababa.",
+        "difficulty": 2
+      },
+      {
+        "q": "In traditional Ethiopian timekeeping, when does the 12-hour daytime count begin?",
+        "choices": ["At dawn (about 6 a.m.)", "At midnight", "At noon", "At sunset"],
+        "answer": 0,
+        "fact": "So '1 o'clock' in Ethiopian time is 7 a.m., a common source of confusion for visitors making appointments.",
+        "difficulty": 2
+      },
+      {
+        "q": "Doro wat, a festive Ethiopian stew, is made with which main ingredient?",
+        "choices": ["Lamb", "Lentils", "Beef", "Chicken"],
+        "answer": 3,
+        "fact": "It is slow-cooked with onions, berbere and spiced butter and usually served with hard-boiled eggs.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the local name for the Blue Nile Falls, meaning 'great smoke'?",
+        "choices": ["Mosi-oa-Tunya", "Sof Omar", "Tis Abay", "Awash Falls"],
+        "answer": 2,
+        "fact": "The falls' flow has been greatly reduced since a hydroelectric station was built upstream.",
+        "difficulty": 3
+      },
+      {
+        "q": "Sof Omar, in south-eastern Ethiopia, is one of Africa's longest what?",
+        "choices": ["Waterfalls", "Rock-hewn churches", "Cave systems", "Salt flats"],
+        "answer": 2,
+        "fact": "The Weyib River carved its passages, pillars and domed chambers through limestone.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Ethiopian, nicknamed 'Yifter the Shifter', won the 5,000 m and 10,000 m at the 1980 Moscow Olympics?",
+        "choices": ["Mamo Wolde", "Miruts Yifter", "Haile Gebrselassie", "Kenenisa Bekele"],
+        "answer": 1,
+        "fact": "His nickname came from his devastating change of pace on the final lap.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Ethiopian runner won the Olympic marathon at Mexico City in 1968?",
+        "choices": ["Mamo Wolde", "Abebe Bikila", "Miruts Yifter", "Gezahegne Abera"],
+        "answer": 0,
+        "fact": "Mamo also took silver in the 10,000 m at the same Games.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is 'gursha' in Ethiopian dining culture?",
+        "choices": ["A toast made with honey wine", "A spice-roasting ritual", "A prayer before eating", "Hand-feeding a mouthful to a companion"],
+        "answer": 3,
+        "fact": "The bigger the gursha you offer, the stronger the bond of friendship or affection it shows.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which wild goat is found only in Ethiopia's Simien Mountains?",
+        "choices": ["Nubian ibex", "Markhor", "Alpine ibex", "Walia ibex"],
+        "answer": 3,
+        "fact": "Ethiopia's national football team is nicknamed the Walias after this rare, cliff-climbing goat.",
+        "difficulty": 3
+      }
     ]
   }
 }

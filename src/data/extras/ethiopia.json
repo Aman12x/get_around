@@ -1,0 +1,39 @@
+{
+  "country": "ethiopia",
+  "timeline": [
+    { "event": "Lucy, an early human ancestor, lives in the Afar region", "year": -3200000, "label": "c. 3.2 million years ago", "approx": true, "difficulty": 1 },
+    { "event": "The kingdom of D'mt flourishes in the northern highlands", "year": -800, "label": "c. 800 BCE", "approx": true, "difficulty": 3 },
+    { "event": "The Kingdom of Aksum rises as a Red Sea trading power", "year": 100, "label": "c. 100 CE", "approx": true, "difficulty": 2 },
+    { "event": "King Ezana of Aksum adopts Christianity", "year": 330, "label": "c. 330", "approx": true, "difficulty": 2 },
+    { "event": "Aksumite king Kaleb leads an expedition across the Red Sea to Yemen", "year": 525, "label": "c. 525", "approx": true, "difficulty": 3 },
+    { "event": "The rock-hewn churches of Lalibela are carved", "year": 1200, "label": "c. 1200", "approx": true, "difficulty": 1 },
+    { "event": "Yekuno Amlak founds the Solomonic dynasty", "year": 1270, "label": "1270", "difficulty": 2 },
+    { "event": "Imam Ahmad is defeated and killed at the Battle of Wayna Daga", "year": 1543, "label": "1543", "difficulty": 3 },
+    { "event": "Emperor Fasilides makes Gondar the royal capital", "year": 1636, "label": "1636", "difficulty": 2 },
+    { "event": "Tewodros II is crowned, ending the Era of the Princes", "year": 1855, "label": "1855", "difficulty": 2 },
+    { "event": "Menelik II and Empress Taytu found Addis Ababa", "year": 1886, "label": "1886", "difficulty": 1 },
+    { "event": "Ethiopia defeats Italy at the Battle of Adwa", "year": 1896, "label": "1896", "difficulty": 1 },
+    { "event": "Ras Tafari is crowned Emperor Haile Selassie", "year": 1930, "label": "1930", "difficulty": 1 },
+    { "event": "Fascist Italy invades Ethiopia", "year": 1935, "label": "1935", "difficulty": 1 },
+    { "event": "Haile Selassie returns to Addis Ababa as Italian rule collapses", "year": 1941, "label": "1941", "difficulty": 2 },
+    { "event": "Abebe Bikila wins the Olympic marathon in Rome running barefoot", "year": 1960, "label": "1960", "difficulty": 1 },
+    { "event": "The Organisation of African Unity is founded in Addis Ababa", "year": 1963, "label": "1963", "difficulty": 2 },
+    { "event": "The Derg deposes Emperor Haile Selassie", "year": 1974, "label": "1974", "difficulty": 1 },
+    { "event": "Eritrea becomes independent from Ethiopia", "year": 1993, "label": "1993", "difficulty": 2 },
+    { "event": "The African Union, headquartered in Addis Ababa, replaces the OAU", "year": 2002, "label": "2002", "difficulty": 3 }
+  ],
+  "places": [
+    { "name": "Addis Ababa", "kind": "city", "lat": 9.03, "lon": 38.74, "clue": "Founded in 1886, Ethiopia's capital hosts the African Union and sits about 2,350 m above sea level.", "difficulty": 1 },
+    { "name": "Rock-Hewn Churches of Lalibela", "kind": "landmark", "lat": 12.03, "lon": 39.04, "clue": "Eleven medieval churches carved down into solid rock, including the cross-shaped Bete Giyorgis.", "difficulty": 1 },
+    { "name": "Aksum", "kind": "historic", "lat": 14.13, "lon": 38.72, "clue": "Capital of an ancient trading kingdom, famous for its towering carved granite stelae.", "difficulty": 1 },
+    { "name": "Lake Tana", "kind": "nature", "lat": 12.0, "lon": 37.3, "clue": "Ethiopia's largest lake and the source of the Blue Nile, with island monasteries.", "difficulty": 1 },
+    { "name": "Simien Mountains National Park", "kind": "nature", "lat": 13.2, "lon": 38.05, "clue": "Jagged peaks and cliffs home to geladas and the rare Walia ibex.", "difficulty": 1 },
+    { "name": "Gondar", "kind": "historic", "lat": 12.61, "lon": 37.47, "clue": "Royal capital founded by Emperor Fasilides, whose castle compound Fasil Ghebbi still stands.", "difficulty": 2 },
+    { "name": "Harar", "kind": "city", "lat": 9.31, "lon": 42.12, "clue": "A walled eastern city of narrow alleys, famous for its 'hyena men'.", "difficulty": 2 },
+    { "name": "Dallol", "kind": "nature", "lat": 14.24, "lon": 40.3, "clue": "Hydrothermal field in the Danakil Depression with vivid yellow, green and orange mineral pools.", "difficulty": 2 },
+    { "name": "Bale Mountains National Park", "kind": "nature", "lat": 6.9, "lon": 39.8, "clue": "High Afro-alpine plateau that shelters the largest population of the Ethiopian wolf.", "difficulty": 2 },
+    { "name": "Erta Ale", "kind": "nature", "lat": 13.6, "lon": 40.67, "clue": "A shield volcano in the Afar lowlands known for its long-lived lava lake.", "difficulty": 3 },
+    { "name": "Sof Omar Caves", "kind": "nature", "lat": 6.9, "lon": 40.85, "clue": "One of Africa's longest cave systems, carved through limestone by the Weyib River.", "difficulty": 3 },
+    { "name": "Konso", "kind": "historic", "lat": 5.3, "lon": 37.45, "clue": "UNESCO-listed landscape of stone terraces, walled hilltop towns and carved wooden grave markers.", "difficulty": 3 }
+  ]
+}
