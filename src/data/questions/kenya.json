@@ -171,10 +171,920 @@
         "difficulty": 3
       },
       {
-        "q": "Which Kenyan paleoanthropologist later headed the Kenya Wildlife Service and set fire to a huge stockpile of ivory in 1989?",
+        "q": "Which Kenyan paleoanthropologist became head of Kenya's wildlife service in 1989, the year a huge stockpile of seized ivory was publicly burned?",
         "choices": ["Louis Leakey", "Kamoya Kimeu", "Richard Leakey", "Bethwel Ogot"],
         "answer": 2,
         "fact": "The televised ivory burn helped build global support for the international ban on the ivory trade.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which pioneering mobile money service was launched in Kenya in 2007?",
+        "choices": ["PayPal", "M-Pesa", "Alipay", "Venmo"],
+        "answer": 1,
+        "fact": "Launched by Safaricom, it let people send money by text message, even from basic phones without internet access.",
+        "difficulty": 1
+      },
+      {
+        "q": "In Swahili, what does the 'Pesa' in M-Pesa mean?",
+        "choices": ["Money", "Phone", "Fast", "Send"],
+        "answer": 0,
+        "fact": "The 'M' stands for mobile, so the name simply means 'mobile money'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kenya generates much of its electricity from which renewable source tapped beneath the Rift Valley?",
+        "choices": ["Tidal", "Nuclear", "Biomass", "Geothermal"],
+        "answer": 3,
+        "fact": "Kenya is Africa's leading producer of geothermal power, drawing on volcanic heat beneath the Great Rift Valley.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Mombasa–Nairobi Standard Gauge Railway, opened in 2017, was financed and built with help from which country?",
+        "choices": ["Japan", "Germany", "China", "India"],
+        "answer": 2,
+        "fact": "It was the largest infrastructure project in Kenya since independence.",
+        "difficulty": 1
+      },
+      {
+        "q": "Nairobi's thriving technology and start-up scene is often nicknamed what?",
+        "choices": ["Silicon Desert", "Silicon Lagoon", "Silicon Savannah", "Silicon Delta"],
+        "answer": 2,
+        "fact": "International tech firms have opened African offices in Nairobi, drawn by its strong mobile and start-up culture.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kenya is one of the world's leading exporters of which crop?",
+        "choices": ["Cocoa", "Tea", "Rice", "Rubber"],
+        "answer": 1,
+        "fact": "Kenya is the world's largest exporter of black tea, much of it sold at the Mombasa tea auction.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Kenyan city is East Africa's busiest seaport?",
+        "choices": ["Mombasa", "Kisumu", "Lamu", "Malindi"],
+        "answer": 0,
+        "fact": "Mombasa's Kilindini Harbour also handles much of the trade of landlocked Uganda, Rwanda and South Sudan.",
+        "difficulty": 1
+      },
+      {
+        "q": "Nairobi's main international airport is named after whom?",
+        "choices": ["Daniel arap Moi", "Tom Mboya", "Dedan Kimathi", "Jomo Kenyatta"],
+        "answer": 3,
+        "fact": "Jomo Kenyatta International Airport is the main hub of Kenya Airways and one of Africa's busiest airports.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kenya's fossil-rich Lake Turkana basin is especially important for the study of what?",
+        "choices": ["Dinosaur extinction", "Ice-age glaciers", "Coral reefs", "Human evolution"],
+        "answer": 3,
+        "fact": "Its sediments have yielded fossils of several early human species spanning millions of years.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of the passenger train service on Kenya's Mombasa–Nairobi Standard Gauge Railway?",
+        "choices": ["Lunatic Express", "Savannah Express", "Madaraka Express", "Jambo Express"],
+        "answer": 2,
+        "fact": "Madaraka means 'self-rule'; the service launched on 31 May 2017, on the eve of Madaraka Day.",
+        "difficulty": 2
+      },
+      {
+        "q": "When inaugurated in 2019, the Lake Turkana Wind Power project was Africa's largest what?",
+        "choices": ["Solar farm", "Wind farm", "Hydroelectric dam", "Oil refinery"],
+        "answer": 1,
+        "fact": "Its 365 turbines take advantage of strong, steady winds funnelled between two mountain ranges.",
+        "difficulty": 2
+      },
+      {
+        "q": "Many of Kenya's export flower farms are clustered around which Rift Valley lake?",
+        "choices": ["Lake Naivasha", "Lake Victoria", "Lake Turkana", "Lake Magadi"],
+        "answer": 0,
+        "fact": "Roses cut in Kenya in the morning can be on sale in European cities within days.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which country operates the Broglio Space Centre off Kenya's coast near Malindi?",
+        "choices": ["Italy", "United States", "France", "Russia"],
+        "answer": 0,
+        "fact": "Its sea platforms near the equator gave rockets an extra boost from Earth's rotation.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ushahidi, the Kenyan crowdsourced mapping platform created in 2008, takes its name from a Swahili word meaning what?",
+        "choices": ["Freedom", "Unity", "Map", "Testimony"],
+        "answer": 3,
+        "fact": "It was created to map citizen reports of violence after the 2007 election and has since been used in disasters worldwide.",
+        "difficulty": 2
+      },
+      {
+        "q": "M-Kopa, founded in Kenya in 2011, became known for selling what on a pay-as-you-go basis?",
+        "choices": ["Bicycles", "Water pumps", "Solar home systems", "School textbooks"],
+        "answer": 2,
+        "fact": "Customers pay small daily instalments via mobile money; 'kopa' means 'to borrow' in Swahili.",
+        "difficulty": 2
+      },
+      {
+        "q": "Kenya's Olkaria geothermal power plants lie in and around which national park?",
+        "choices": ["Amboseli", "Hell's Gate", "Tsavo East", "Lake Nakuru"],
+        "answer": 1,
+        "fact": "Steam vents and towering cliffs give the park its name; visitors can cycle among zebras and giraffes.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which slogan is used by Kenya's national carrier, Kenya Airways?",
+        "choices": ["The Spirit of Africa", "The Pride of Africa", "The Wings of Africa", "Africa's Favourite Airline"],
+        "answer": 1,
+        "fact": "Kenya Airways was founded in 1977 after the collapse of the shared East African Airways.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Kenyan town is the centre of the country's main tea-growing region?",
+        "choices": ["Kericho", "Garissa", "Lodwar", "Malindi"],
+        "answer": 0,
+        "fact": "Rolling tea estates surround the town, whose high altitude and regular rainfall are ideal for tea.",
+        "difficulty": 2
+      },
+      {
+        "q": "NASA's first X-ray astronomy satellite, launched from off Kenya's coast in 1970, was given what Swahili name?",
+        "choices": ["Harambee", "Amani", "Jambo", "Uhuru"],
+        "answer": 3,
+        "fact": "Uhuru, meaning 'freedom', was launched on 12 December 1970, the seventh anniversary of Kenya's independence.",
+        "difficulty": 3
+      },
+      {
+        "q": "What did researchers announce finding at Lomekwi, near Lake Turkana, in 2015?",
+        "choices": ["The oldest known cave paintings", "The oldest known pottery", "The oldest known stone tools", "The oldest known boats"],
+        "answer": 2,
+        "fact": "The tools are about 3.3 million years old, older than the earliest known members of the genus Homo.",
+        "difficulty": 3
+      },
+      {
+        "q": "SL28 and SL34, prized Kenyan coffee varieties, were developed in the 1930s by which institution?",
+        "choices": ["Kew Gardens", "Rothamsted Research", "Scott Agricultural Laboratories", "The Coffee Board of India"],
+        "answer": 2,
+        "fact": "SL28 was selected for drought resistance and is now celebrated by roasters for its intense, fruity flavour.",
+        "difficulty": 3
+      },
+      {
+        "q": "Kenyan entomologist Thomas Odhiambo founded which Nairobi research centre in 1970?",
+        "choices": ["Kenya Medical Research Institute", "International Centre of Insect Physiology and Ecology", "International Livestock Research Institute", "World Agroforestry Centre"],
+        "answer": 1,
+        "fact": "ICIPE studies insects to fight crop pests and diseases such as malaria in environmentally friendly ways.",
+        "difficulty": 3
+      },
+      {
+        "q": "Kenya's Lake Magadi has long been mined for which mineral?",
+        "choices": ["Soda ash", "Gold", "Copper", "Diamonds"],
+        "answer": 0,
+        "fact": "The shallow alkaline lake's trona crust is used to make soda ash for glass and detergents.",
+        "difficulty": 3
+      },
+      {
+        "q": "Kenya's first satellite, the cubesat 1KUNS-PF, was built by which institution and deployed in 2018?",
+        "choices": ["Kenyatta University", "Strathmore University", "Moi University", "University of Nairobi"],
+        "answer": 3,
+        "fact": "The tiny satellite was deployed into orbit from the International Space Station.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is Konza Technopolis?",
+        "choices": ["A mobile phone factory in Mombasa", "A satellite ground station", "A geothermal research lab", "A planned smart city and tech hub south-east of Nairobi"],
+        "answer": 3,
+        "fact": "Billed as Kenya's future 'Silicon Savannah' city, it is being developed along the Nairobi–Mombasa highway.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which Danish author wrote 'Out of Africa' about her years on a coffee farm near Nairobi?",
+        "choices": ["Beryl Markham", "Doris Lessing", "Karen Blixen", "Elspeth Huxley"],
+        "answer": 2,
+        "fact": "The 1985 film adaptation starring Meryl Streep and Robert Redford won seven Oscars, including Best Picture.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Kenyan author wrote the novels 'Weep Not, Child' and 'Petals of Blood'?",
+        "choices": ["Chinua Achebe", "Ngũgĩ wa Thiong'o", "Wole Soyinka", "Binyavanga Wainaina"],
+        "answer": 1,
+        "fact": "'Weep Not, Child' (1964) is often described as the first English-language novel published by an East African author.",
+        "difficulty": 1
+      },
+      {
+        "q": "The phrase 'Hakuna Matata', made famous by Disney's 'The Lion King', comes from which language?",
+        "choices": ["Swahili", "Zulu", "Amharic", "Yoruba"],
+        "answer": 0,
+        "fact": "It means 'no worries' and was a popular phrase on the Kenyan coast long before the 1994 film.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Kenyan community is famous for colourful beadwork and the 'adumu' jumping dance?",
+        "choices": ["Swahili", "Turkana", "Kikuyu", "Maasai"],
+        "answer": 3,
+        "fact": "In the adumu, young warriors take turns leaping straight up from a standing position, as high as they can.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which actress, raised in Kenya, won an Academy Award for her role in '12 Years a Slave'?",
+        "choices": ["Viola Davis", "Thandiwe Newton", "Danai Gurira", "Lupita Nyong'o"],
+        "answer": 3,
+        "fact": "She won Best Supporting Actress in 2014, becoming the first Kenyan to win an Oscar.",
+        "difficulty": 1
+      },
+      {
+        "q": "Lamu Old Town, a UNESCO World Heritage Site, is famous for intricately carved what?",
+        "choices": ["Ivory thrones", "Stone lions", "Wooden doors", "Glass windows"],
+        "answer": 2,
+        "fact": "Lamu is considered the oldest and best-preserved Swahili town in East Africa, with no cars in its narrow streets.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Kenyan Afro-pop band, formed in Nairobi in 2005, is known for hits such as 'Suzanna' and 'Sura Yako'?",
+        "choices": ["Them Mushrooms", "Sauti Sol", "Camp Mulla", "Elani"],
+        "answer": 1,
+        "fact": "The group sings in a mix of Swahili and English, blending Afro-pop, soul and Kenyan benga.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Nairobi landmark has a cylindrical tower and a cone-shaped hall inspired by a traditional hut?",
+        "choices": ["Kenyatta International Convention Centre", "Times Tower", "Nairobi National Museum", "Parliament Buildings"],
+        "answer": 0,
+        "fact": "Completed in 1973, the KICC was designed by Norwegian architect Karl Henrik Nøstvik and has a helipad on its roof.",
+        "difficulty": 1
+      },
+      {
+        "q": "The town of Kisii in western Kenya is famous for carvings made from what material?",
+        "choices": ["Soapstone", "Ebony", "Ivory", "Jade"],
+        "answer": 0,
+        "fact": "The soft stone is quarried at nearby Tabaka and carved into bowls, animals and abstract figures.",
+        "difficulty": 1
+      },
+      {
+        "q": "A kanga, the colourful printed cloth worn on Kenya's coast, traditionally carries what along its border?",
+        "choices": ["The owner's name", "A map of the coast", "A calendar", "A Swahili proverb or saying"],
+        "answer": 3,
+        "fact": "Women sometimes choose a kanga for its message, using the saying to communicate indirectly with others.",
+        "difficulty": 2
+      },
+      {
+        "q": "Benga, a Kenyan popular music style that emerged in the 1960s, is driven mainly by which instrument?",
+        "choices": ["Accordion", "Saxophone", "Electric guitar", "Piano"],
+        "answer": 2,
+        "fact": "Its fast, finger-picked guitar lines echo traditional string instruments; D.O. Misiani was hailed as one of its kings.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 2005 film based on a John le Carré novel was shot partly in Nairobi's Kibera and near Lake Turkana?",
+        "choices": ["The Tailor of Panama", "The Constant Gardener", "Tinker Tailor Soldier Spy", "Blood Diamond"],
+        "answer": 1,
+        "fact": "Rachel Weisz won the Academy Award for Best Supporting Actress for her role in the film.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ngũgĩ wa Thiong'o's 1986 essay collection arguing for writing in African languages is called what?",
+        "choices": ["Things Fall Apart", "Decolonising the Mind", "Black Skin, White Masks", "The Wretched of the Earth"],
+        "answer": 1,
+        "fact": "After it, Ngũgĩ wrote his fiction mainly in Gikuyu, often translating it into English himself.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which sung-poetry music genre, with Arabic and Indian influences, is popular on Kenya's Swahili coast?",
+        "choices": ["Taarab", "Benga", "Kwaito", "Highlife"],
+        "answer": 0,
+        "fact": "Taarab orchestras may combine the oud, violins and qanun with Swahili lyrics full of wordplay.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is a kiondo, a well-known Kenyan handicraft?",
+        "choices": ["A carved walking stick", "A beaded collar", "A clay cooking pot", "A woven sisal handbag"],
+        "answer": 3,
+        "fact": "Kiondos are woven by hand from sisal fibres, often with leather straps and brightly dyed patterns.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Nairobi street-music genre, sung largely in Sheng slang, exploded in popularity in the late 2010s?",
+        "choices": ["Amapiano", "Bongo Flava", "Gengetone", "Afrobeats"],
+        "answer": 2,
+        "fact": "Sheng mixes Swahili, English and other Kenyan languages and is the everyday slang of Nairobi's youth.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Kenyan band recorded the 1982 tourist-favourite hit 'Jambo Bwana'?",
+        "choices": ["Sauti Sol", "Les Wanyika", "Them Mushrooms", "Orchestra Super Mazembe"],
+        "answer": 2,
+        "fact": "The song's chorus of 'Hakuna matata' became a staple at hotels along the Kenyan coast.",
+        "difficulty": 2
+      },
+      {
+        "q": "The melody of Kenya's national anthem, 'Ee Mungu Nguvu Yetu', is based on what?",
+        "choices": ["A British military march", "A traditional lullaby", "A church hymn from Germany", "A Swahili wedding song"],
+        "answer": 1,
+        "fact": "A commission adapted the tune from a lullaby of the Pokomo people for Kenya's independence in 1963.",
+        "difficulty": 2
+      },
+      {
+        "q": "Wanuri Kahiu's 'Rafiki' (2018) was the first Kenyan feature film selected for which festival?",
+        "choices": ["Cannes", "Venice", "Sundance", "Berlin"],
+        "answer": 0,
+        "fact": "The film premiered in the festival's Un Certain Regard section.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Kenyan writer's satirical essay 'How to Write About Africa' became one of Granta magazine's most-shared pieces?",
+        "choices": ["Ngũgĩ wa Thiong'o", "Meja Mwangi", "Yvonne Adhiambo Owuor", "Binyavanga Wainaina"],
+        "answer": 3,
+        "fact": "Wainaina, who won the Caine Prize in 2002, also founded the literary magazine Kwani?",
+        "difficulty": 3
+      },
+      {
+        "q": "Which novel by Margaret Ogola follows four generations of Kenyan women?",
+        "choices": ["Coming to Birth", "Dust", "Petals of Blood", "The River and the Source"],
+        "answer": 3,
+        "fact": "The 1994 novel won the Commonwealth Writers' Prize for best first book in the Africa region.",
+        "difficulty": 3
+      },
+      {
+        "q": "The 'Utendi wa Tambuka', one of the oldest known Swahili manuscripts, is what kind of work?",
+        "choices": ["A legal code", "A trading ledger", "An epic poem", "A cookbook"],
+        "answer": 2,
+        "fact": "Composed in the 1720s on the island of Pate, it tells of a battle fought by the early Muslim community.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 2019, Kenyan-born artist Wangechi Mutu's bronze figures filled the facade niches of which museum?",
+        "choices": ["Tate Modern", "Metropolitan Museum of Art", "Louvre", "Museum of Modern Art"],
+        "answer": 1,
+        "fact": "Her four seated women, 'The NewOnes, will free Us', were the first sculptures commissioned for the Met's facade.",
+        "difficulty": 3
+      },
+      {
+        "q": "Isukuti, a fast drum-led dance from western Kenya, was added to which UNESCO list in 2014?",
+        "choices": ["Intangible heritage in need of urgent safeguarding", "World Heritage in Danger", "Memory of the World Register", "Creative Cities Network"],
+        "answer": 0,
+        "fact": "Isukuti is named after its long drums and is performed at births, weddings, funerals and festivals.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 2012 film became Kenya's first official submission for the foreign-language Oscar?",
+        "choices": ["Nairobi Half Life", "Rafiki", "Kibera Kid", "Supa Modo"],
+        "answer": 0,
+        "fact": "Directed by Tosh Gitonga, it follows a young aspiring actor who moves from the countryside to Nairobi.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "Who served as Kenya's second president, from 1978 to 2002?",
+        "choices": ["Mwai Kibaki", "Jomo Kenyatta", "Uhuru Kenyatta", "Daniel arap Moi"],
+        "answer": 3,
+        "fact": "A former teacher, Moi was nicknamed 'Nyayo', Swahili for 'footsteps', after his pledge to follow in Kenyatta's.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Kenyan president was the son of the country's first president?",
+        "choices": ["Mwai Kibaki", "William Ruto", "Uhuru Kenyatta", "Daniel arap Moi"],
+        "answer": 2,
+        "fact": "Uhuru, whose name means 'freedom' in Swahili, served as president from 2013 to 2022.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2004, which Kenyan environmentalist became the first African woman to win the Nobel Peace Prize?",
+        "choices": ["Martha Karua", "Wangari Maathai", "Charity Ngilu", "Grace Ogot"],
+        "answer": 1,
+        "fact": "Her Green Belt Movement, founded in 1977, mobilised women to plant tens of millions of trees.",
+        "difficulty": 1
+      },
+      {
+        "q": "Under Kenya's 2010 constitution, parliament consists of the National Assembly and which other house?",
+        "choices": ["The Senate", "The House of Lords", "The House of Federation", "The Council of Elders"],
+        "answer": 0,
+        "fact": "Each of Kenya's counties elects one senator, and the Senate protects the interests of the counties.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Kenya's national motto, meaning 'let us all pull together'?",
+        "choices": ["Harambee", "Uhuru", "Jambo", "Hakuna Matata"],
+        "answer": 0,
+        "fact": "Harambee also names a tradition of community fundraising, used to build schools, clinics and water projects.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which animals hold the shield on Kenya's coat of arms?",
+        "choices": ["Elephants", "Leopards", "Zebras", "Lions"],
+        "answer": 3,
+        "fact": "The lions stand on a green mountain representing Mount Kenya, decorated with crops such as coffee, tea and maize.",
+        "difficulty": 1
+      },
+      {
+        "q": "What kind of government does Kenya have under its 2010 constitution?",
+        "choices": ["Parliamentary republic", "Constitutional monarchy", "Presidential republic", "One-party state"],
+        "answer": 2,
+        "fact": "The president is both head of state and head of government and may serve at most two five-year terms.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which United Nations agency has its global headquarters in Nairobi?",
+        "choices": ["UNESCO", "UN Environment Programme", "World Health Organization", "UNICEF"],
+        "answer": 1,
+        "fact": "Nairobi is home to one of the UN's four major headquarters and the only one in the Global South.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who succeeded Daniel arap Moi as Kenya's president in 2002?",
+        "choices": ["Raila Odinga", "Mwai Kibaki", "Uhuru Kenyatta", "Kalonzo Musyoka"],
+        "answer": 1,
+        "fact": "An economist trained at the London School of Economics, Kibaki served two terms until 2013.",
+        "difficulty": 1
+      },
+      {
+        "q": "Into how many counties is Kenya divided under its 2010 constitution?",
+        "choices": ["47", "8", "26", "54"],
+        "answer": 0,
+        "fact": "The counties, each with an elected governor and assembly, replaced Kenya's eight provinces after the 2013 elections.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Kenyans approve their current constitution in a referendum?",
+        "choices": ["2005", "2002", "2013", "2010"],
+        "answer": 3,
+        "fact": "The constitution was promulgated on 27 August 2010 in a ceremony at Uhuru Park in Nairobi.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which party governed Kenya continuously from independence until 2002?",
+        "choices": ["ODM", "Jubilee Party", "KANU", "NARC"],
+        "answer": 2,
+        "fact": "The Kenya African National Union was founded in 1960; Kenya was legally a one-party state from 1982 to 1991.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Kenya restore multi-party politics by repealing the one-party clause of its constitution?",
+        "choices": ["1982", "2002", "1991", "1978"],
+        "answer": 2,
+        "fact": "The first multi-party general election in decades followed in December 1992.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was Kenya's first vice-president, appointed in 1964?",
+        "choices": ["Daniel arap Moi", "Jaramogi Oginga Odinga", "Joseph Murumbi", "Tom Mboya"],
+        "answer": 1,
+        "fact": "He resigned in 1966 and went on to found an opposition party, the Kenya People's Union.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who served as Kenya's prime minister from 2008 to 2013?",
+        "choices": ["Raila Odinga", "Mwai Kibaki", "Musalia Mudavadi", "Kalonzo Musyoka"],
+        "answer": 0,
+        "fact": "The post was created by a 2008 power-sharing agreement and abolished under the 2010 constitution.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was Kenya's first deputy president under the 2010 constitution?",
+        "choices": ["Kalonzo Musyoka", "Rigathi Gachagua", "Musalia Mudavadi", "William Ruto"],
+        "answer": 3,
+        "fact": "The office of deputy president replaced the vice-presidency and was first filled after the 2013 election.",
+        "difficulty": 2
+      },
+      {
+        "q": "Kenya is a founding member of which regional bloc, headquartered in Arusha, Tanzania?",
+        "choices": ["ECOWAS", "Southern African Development Community", "Arab Maghreb Union", "East African Community"],
+        "answer": 3,
+        "fact": "First founded in 1967, the bloc collapsed in 1977 and was revived in 2000 by Kenya, Uganda and Tanzania.",
+        "difficulty": 2
+      },
+      {
+        "q": "What does the shield at the centre of Kenya's flag represent?",
+        "choices": ["A Swahili ship's sail", "A coffee leaf", "A traditional Maasai shield", "The sun over Mount Kenya"],
+        "answer": 2,
+        "fact": "Black stands for the people, red for the blood shed for independence, green for the land and white for peace.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 2017, Kenya's Supreme Court became the first in Africa to do what?",
+        "choices": ["Abolish the death penalty", "Annul a presidential election result", "Remove a sitting president", "Approve a new constitution"],
+        "answer": 1,
+        "fact": "The September 2017 ruling ordered a fresh presidential election, held the following month.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the title of Jomo Kenyatta's 1938 anthropological study of his own people?",
+        "choices": ["Facing Mount Kenya", "Weep Not, Child", "Not Yet Uhuru", "Suffering Without Bitterness"],
+        "answer": 0,
+        "fact": "Kenyatta wrote it after studying anthropology at the London School of Economics under Bronisław Malinowski.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the name of the system of regional governments in Kenya's independence constitution?",
+        "choices": ["Majimbo", "Harambee", "Nyayo", "Ujamaa"],
+        "answer": 0,
+        "fact": "The regional assemblies were soon weakened and abolished as power was centralised in the 1960s.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became the first African appointed to Kenya's colonial Legislative Council, in 1944?",
+        "choices": ["Tom Mboya", "Jomo Kenyatta", "Ronald Ngala", "Eliud Mathu"],
+        "answer": 3,
+        "fact": "Mathu, an Oxford-educated teacher, was nominated to the council by the colonial governor.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became the first woman elected to Kenya's parliament, in 1969?",
+        "choices": ["Wangari Maathai", "Phoebe Asiyo", "Grace Onyango", "Julia Ojiambo"],
+        "answer": 2,
+        "fact": "She had already made history in 1965 as Kisumu's mayor, the first woman to lead a Kenyan town.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became Kenya's first chief justice under the 2010 constitution, taking office in 2011?",
+        "choices": ["David Maraga", "Willy Mutunga", "Martha Koome", "Evan Gicheru"],
+        "answer": 1,
+        "fact": "Mutunga was chosen through public interviews, a first for the office.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Kenyan independence leader and trade unionist was assassinated in Nairobi in July 1969?",
+        "choices": ["Pio Gama Pinto", "Tom Mboya", "J. M. Kariuki", "Robert Ouko"],
+        "answer": 1,
+        "fact": "Mboya was only 38 years old; a major street in central Nairobi, Tom Mboya Street, now bears his name.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "In October 2019, Eliud Kipchoge became the first person to run a marathon distance in under two hours, in which city?",
+        "choices": ["Vienna", "Berlin", "London", "Monza"],
+        "answer": 0,
+        "fact": "He ran 1:59:40 with rotating pacers and a pace car, so the run was not eligible as an official world record.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Who won Kenya's presidential election held in August 2022?",
+        "choices": ["Raila Odinga", "Uhuru Kenyatta", "Musalia Mudavadi", "William Ruto"],
+        "answer": 3,
+        "fact": "Ruto was sworn in on 13 September 2022 as Kenya's fifth president.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In October 2023, Kelvin Kiptum set a men's marathon world record in which city?",
+        "choices": ["Berlin", "London", "Chicago", "Boston"],
+        "answer": 2,
+        "fact": "He ran 2:00:35 in only his third marathon. Kiptum died in a road accident in February 2024, aged 24.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "At the Paris 2024 Olympics, Faith Kipyegon won her third straight Olympic title in which event?",
+        "choices": ["800 m", "1,500 m", "5,000 m", "Marathon"],
+        "answer": 1,
+        "fact": "She had also won the 1,500 m at Rio 2016 and at Tokyo 2020, becoming the first woman to win the event three times.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which city hosted the first Africa Climate Summit in September 2023?",
+        "choices": ["Addis Ababa", "Nairobi", "Kigali", "Johannesburg"],
+        "answer": 1,
+        "fact": "Leaders adopted the Nairobi Declaration, calling for more climate finance and a global carbon tax regime.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "On 13 November 2023, Kenya held a special public holiday dedicated to which activity?",
+        "choices": ["Planting trees", "Cleaning beaches", "Registering voters", "Counting wildlife"],
+        "answer": 0,
+        "fact": "Citizens were urged to plant 100 million seedlings in a single day as part of a national greening drive.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In early 2020, Kenya suffered its worst outbreak in 70 years of which pest?",
+        "choices": ["Fall armyworms", "Tsetse flies", "Red-billed queleas", "Desert locusts"],
+        "answer": 3,
+        "fact": "Some swarms were reported to cover areas larger than a big city, devouring crops and pasture.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In September 2023, Kenya, Uganda and Tanzania were chosen to co-host which tournament in 2027?",
+        "choices": ["FIFA Club World Cup", "Rugby World Cup", "Africa Cup of Nations", "Commonwealth Games"],
+        "answer": 2,
+        "fact": "The joint 'Pamoja' bid made it the first edition of the tournament to be shared by three host nations.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which celebrated Kenyan novelist died in May 2025, aged 87?",
+        "choices": ["Meja Mwangi", "Binyavanga Wainaina", "Ngũgĩ wa Thiong'o", "Grace Ogot"],
+        "answer": 2,
+        "fact": "Author of 'Weep Not, Child' and 'Petals of Blood', he was long tipped as a contender for the Nobel Prize in Literature.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "The Tokyo 2020 Olympic marathons, held in August 2021, were moved to which cooler Japanese city?",
+        "choices": ["Osaka", "Sapporo", "Kyoto", "Fukuoka"],
+        "answer": 1,
+        "fact": "Kenya won both: Eliud Kipchoge retained his title and Peres Jepchirchir took the women's race.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Kenya's first operational Earth-observation satellite, Taifa-1, was launched in April 2023 on whose rocket?",
+        "choices": ["SpaceX", "Arianespace", "Roscosmos", "ISRO"],
+        "answer": 0,
+        "fact": "The satellite was built by Kenyan engineers with a Bulgarian partner to monitor farming and the environment.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, Martha Koome became the first woman to hold which Kenyan office?",
+        "choices": ["Speaker of the Senate", "Deputy President", "Attorney General", "Chief Justice"],
+        "answer": 3,
+        "fact": "As Chief Justice she also presides over Kenya's Supreme Court.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In June 2024, Kenyan police officers arrived to lead a UN-backed multinational security support mission in which country?",
+        "choices": ["Somalia", "South Sudan", "Democratic Republic of the Congo", "Haiti"],
+        "answer": 3,
+        "fact": "The mission was authorised by the UN Security Council in October 2023 to help Haiti's national police.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "From January 2024, what did Kenya introduce in place of visas for most visitors?",
+        "choices": ["Visa-free entry with no paperwork", "A tourist tax paid on arrival", "An Electronic Travel Authorisation", "A lottery for entry permits"],
+        "answer": 2,
+        "fact": "Travellers apply online before their trip; the change was promoted as making Kenya open to visitors from everywhere.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2021, which legendary motorsport event returned to the World Rally Championship after a 19-year absence?",
+        "choices": ["Dakar Rally", "Safari Rally", "Rally of the Pharaohs", "Monte Carlo Rally"],
+        "answer": 1,
+        "fact": "Based around Lake Naivasha, the 2021 event was won by France's Sébastien Ogier.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "What is the Nairobi Expressway, opened in 2022?",
+        "choices": ["An elevated toll road", "A high-speed railway", "A cable car line", "A bus rapid transit tunnel"],
+        "answer": 0,
+        "fact": "The roughly 27 km road links Jomo Kenyatta International Airport with Westlands, cutting journeys through city traffic.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2022, sprinter Ferdinand Omanyala won Commonwealth Games gold in which event?",
+        "choices": ["100 m", "200 m", "400 m", "110 m hurdles"],
+        "answer": 0,
+        "fact": "Kenya is famed for distance runners, making Omanyala's sprint gold in Birmingham especially celebrated at home.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "At Paris 2024, Beatrice Chebet won the 5,000 m and which other Olympic title?",
+        "choices": ["1,500 m", "3,000 m steeplechase", "Marathon", "10,000 m"],
+        "answer": 3,
+        "fact": "She became the first Kenyan woman to win the Olympic 10,000 m title.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who won the men's 800 m at the Paris 2024 Olympics?",
+        "choices": ["Emmanuel Korir", "Wycliffe Kinyamal", "Emmanuel Wanyonyi", "Ferguson Rotich"],
+        "answer": 2,
+        "fact": "He won in 1:41.19, holding off Canada's Marco Arop by just one hundredth of a second.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In May 2024, Beatrice Chebet became the first woman to run 10,000 m in under how many minutes?",
+        "choices": ["28", "29", "30", "31"],
+        "answer": 1,
+        "fact": "She clocked 28:54.14 at the Prefontaine Classic in Eugene, Oregon.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Besides the 1,500 m and 5,000 m, in which event did Faith Kipyegon set a world record in summer 2023?",
+        "choices": ["800 m", "Mile", "3,000 m", "10,000 m"],
+        "answer": 1,
+        "fact": "She ran 4:07.64 in Monaco, completing a remarkable run of three world records in about seven weeks.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In September 2023, Eliud Kipchoge won the Berlin Marathon for a record how many times?",
+        "choices": ["Fifth", "Third", "Fourth", "Sixth"],
+        "answer": 0,
+        "fact": "Berlin was also where he set marathon world records in 2018 and 2022.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Kenya's 2019 national census counted roughly how many people?",
+        "choices": ["27.6 million", "67.6 million", "87.6 million", "47.6 million"],
+        "answer": 3,
+        "fact": "The census was the first in Kenya to be carried out using digital tablets for data collection.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "In 2022, Kenya's government set a goal of growing how many trees by 2032?",
+        "choices": ["15 million", "150 million", "15 billion", "1.5 trillion"],
+        "answer": 2,
+        "fact": "The campaign aims to restore about 10 million hectares of degraded land and raise tree cover to 30 per cent.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Kenyan won the men's 800 m at the Tokyo Olympics, held in 2021?",
+        "choices": ["David Rudisha", "Emmanuel Wanyonyi", "Emmanuel Korir", "Timothy Cheruiyot"],
+        "answer": 2,
+        "fact": "Compatriot Ferguson Rotich took silver, giving Kenya a one-two finish.",
+        "difficulty": 3,
+        "asOf": "2021"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is the capital of Kenya?",
+        "choices": ["Mombasa", "Nairobi", "Kampala", "Dodoma"],
+        "answer": 1,
+        "fact": "Nicknamed the 'Green City in the Sun', Nairobi sits at about 1,800 metres above sea level.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Kenyan reserve hosts the Great Migration of wildebeest each year?",
+        "choices": ["Maasai Mara", "Amboseli", "Tsavo East", "Samburu"],
+        "answer": 0,
+        "fact": "Vast herds of wildebeest and zebras cross the crocodile-filled Mara River from Tanzania's Serengeti, usually from July to October.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the highest mountain in Kenya?",
+        "choices": ["Mount Kilimanjaro", "Mount Elgon", "Mount Longonot", "Mount Kenya"],
+        "answer": 3,
+        "fact": "At 5,199 metres, Mount Kenya is Africa's second-highest mountain, after Kilimanjaro in neighbouring Tanzania.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kenya's Amboseli National Park is famous for views of elephants beneath which mountain, just across the border in Tanzania?",
+        "choices": ["Mount Kenya", "Mount Meru", "Kilimanjaro", "Mount Elgon"],
+        "answer": 2,
+        "fact": "Amboseli is renowned for its large, closely studied elephant herds, including famous big-tusked bulls.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which line of latitude runs through Kenya, with roadside signs marking it near Nanyuki?",
+        "choices": ["The Tropic of Cancer", "The Tropic of Capricorn", "The Equator", "The Prime Meridian"],
+        "answer": 2,
+        "fact": "Guides at the line sometimes demonstrate water swirling different ways on either side, a popular but unscientific trick.",
+        "difficulty": 1
+      },
+      {
+        "q": "Besides English, which is Kenya's other official language?",
+        "choices": ["Arabic", "Swahili", "French", "Amharic"],
+        "answer": 1,
+        "fact": "Kiswahili is also Kenya's national language and a lingua franca across much of East Africa.",
+        "difficulty": 1
+      },
+      {
+        "q": "Ugali, Kenya's staple food, is a stiff porridge usually made from what?",
+        "choices": ["Maize flour", "Cassava leaves", "Rice", "Teff"],
+        "answer": 0,
+        "fact": "Ugali is eaten with the fingers, rolled into a ball and used to scoop up stews and greens.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kenya shares Africa's largest lake with Uganda and Tanzania. Which lake is it?",
+        "choices": ["Lake Tanganyika", "Lake Malawi", "Lake Turkana", "Lake Victoria"],
+        "answer": 3,
+        "fact": "It is the largest tropical lake in the world and the main reservoir feeding the White Nile.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are Kenya's colourful, privately run minibus taxis called?",
+        "choices": ["Tuk-tuks", "Jeepneys", "Dala dalas", "Matatus"],
+        "answer": 3,
+        "fact": "Many matatus are decorated with bold graffiti-style art and play loud music to attract passengers.",
+        "difficulty": 1
+      },
+      {
+        "q": "What makes Nairobi National Park unusual among Africa's parks?",
+        "choices": ["It is on an island", "It is entirely underground", "It lies within a capital city", "It is above the snow line"],
+        "answer": 2,
+        "fact": "Founded in 1946 as Kenya's first national park, it lets visitors see lions and rhinos with skyscrapers in the background.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Rift Valley lake is famous for its huge flocks of pink flamingos?",
+        "choices": ["Lake Victoria", "Lake Nakuru", "Lake Naivasha", "Lake Chala"],
+        "answer": 1,
+        "fact": "Flamingos gather to feed on algae that thrive in the lake's warm, alkaline waters.",
+        "difficulty": 2
+      },
+      {
+        "q": "Lake Turkana, in northern Kenya, is the world's largest what?",
+        "choices": ["Permanent desert lake", "Freshwater lake", "Crater lake", "Glacial lake"],
+        "answer": 0,
+        "fact": "Its striking blue-green colour earned it the nickname 'the Jade Sea'.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which event did Kenyan men win every Olympic title they contested from 1968 to 2016?",
+        "choices": ["3,000 m steeplechase", "Marathon", "10,000 m", "800 m"],
+        "answer": 0,
+        "fact": "Kenya boycotted the 1976 and 1980 Games, but otherwise won steeplechase gold at every Olympics from 1968 to 2016.",
+        "difficulty": 2
+      },
+      {
+        "q": "Kip Keino won which event at the 1968 Mexico City Olympics, launching Kenya's running fame?",
+        "choices": ["Marathon", "100 m", "Long jump", "1,500 m"],
+        "answer": 3,
+        "fact": "Keino won the 3,000 m steeplechase as well four years later in Munich.",
+        "difficulty": 2
+      },
+      {
+        "q": "At the London 2012 Olympics, David Rudisha set a world record in which event?",
+        "choices": ["1,500 m", "400 m", "800 m", "5,000 m"],
+        "answer": 2,
+        "fact": "His 1:40.91 made him the first person to run the distance in under 1 minute 41 seconds.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which high-altitude Rift Valley town is nicknamed the 'Home of Champions' for its many elite runners?",
+        "choices": ["Nanyuki", "Iten", "Lodwar", "Voi"],
+        "answer": 1,
+        "fact": "At about 2,400 metres, Iten attracts distance runners from around the world to train in its thin air.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is Kenya's longest river?",
+        "choices": ["Athi River", "Tana River", "Mara River", "Ewaso Ng'iro"],
+        "answer": 1,
+        "fact": "The Tana flows from the central highlands to the Indian Ocean, feeding several hydroelectric dams along the way.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the nickname of Kenya's national football team?",
+        "choices": ["Harambee Stars", "Super Eagles", "Black Stars", "Taifa Stars"],
+        "answer": 0,
+        "fact": "The name comes from the national motto 'Harambee', meaning 'let us all pull together'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Kenyan city is the country's main port on Lake Victoria?",
+        "choices": ["Nakuru", "Eldoret", "Malindi", "Kisumu"],
+        "answer": 3,
+        "fact": "Kisumu grew up as the western terminus of the Uganda Railway, opened in 1901.",
+        "difficulty": 2
+      },
+      {
+        "q": "Kakamega Forest in western Kenya is the country's last remnant of which type of forest?",
+        "choices": ["Mangrove forest", "Bamboo forest", "Guineo-Congolian rainforest", "Coastal dry forest"],
+        "answer": 2,
+        "fact": "It once formed the eastern edge of a rainforest belt stretching across central Africa, and it hosts hundreds of bird species.",
+        "difficulty": 3
+      },
+      {
+        "q": "Why do elephants on Mount Elgon venture deep into Kitum Cave?",
+        "choices": ["To shelter from lions", "To give birth", "To mine salt from the cave walls", "To drink from an underground lake"],
+        "answer": 2,
+        "fact": "Using their tusks, elephants scrape mineral-rich rock from the cave walls, gradually enlarging it over generations.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Kenyan lake is known for hot springs and geysers along its shores?",
+        "choices": ["Lake Victoria", "Lake Bogoria", "Lake Chala", "Lake Jipe"],
+        "answer": 1,
+        "fact": "Boiling water and steam burst from the shoreline, while flocks of flamingos feed in the shallows.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of Mount Kenya's highest peak?",
+        "choices": ["Batian", "Nelion", "Lenana", "Uhuru Peak"],
+        "answer": 0,
+        "fact": "Batian (5,199 m) and nearby Nelion are named after 19th-century Maasai spiritual leaders.",
+        "difficulty": 3
+      },
+      {
+        "q": "Sudan, the world's last male northern white rhino, died in 2018 at which Kenyan conservancy?",
+        "choices": ["Lewa", "Mara North", "Tsavo West", "Ol Pejeta"],
+        "answer": 3,
+        "fact": "Only two northern white rhinos, both female, remained after his death, so scientists turned to assisted reproduction to save the subspecies.",
+        "difficulty": 3
+      },
+      {
+        "q": "Sukuma wiki, a popular Kenyan dish of sautéed greens, has a name that means what in Swahili?",
+        "choices": ["Sunday feast", "Green gold", "Grandmother's pot", "Push the week"],
+        "answer": 3,
+        "fact": "The cheap, filling greens help families stretch their budget until the end of the week.",
         "difficulty": 3
       }
     ]

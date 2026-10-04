@@ -1,0 +1,39 @@
+{
+  "country": "kenya",
+  "timeline": [
+    { "event": "Early humans make the oldest known stone tools at Lomekwi", "year": -3300000, "label": "c. 3.3 million years ago", "approx": true, "difficulty": 3 },
+    { "event": "Turkana Boy, an early human, lives near Lake Turkana", "year": -1500000, "label": "c. 1.5 million years ago", "approx": true, "difficulty": 1 },
+    { "event": "The Swahili trading town of Gedi is founded on the coast", "year": 1100, "label": "c. 1100", "approx": true, "difficulty": 3 },
+    { "event": "Vasco da Gama reaches Malindi on his way to India", "year": 1498, "label": "1498", "difficulty": 1 },
+    { "event": "The Portuguese begin building Fort Jesus in Mombasa", "year": 1593, "label": "1593", "difficulty": 1 },
+    { "event": "Omani forces capture Fort Jesus after a long siege", "year": 1698, "label": "1698", "difficulty": 2 },
+    { "event": "The Imperial British East Africa Company receives its royal charter", "year": 1888, "label": "1888", "difficulty": 3 },
+    { "event": "Britain declares the East Africa Protectorate", "year": 1895, "label": "1895", "difficulty": 2 },
+    { "event": "Nairobi is founded as a depot on the Uganda Railway", "year": 1899, "label": "1899", "difficulty": 1 },
+    { "event": "The protectorate becomes the Colony of Kenya", "year": 1920, "label": "1920", "difficulty": 2 },
+    { "event": "Eliud Mathu becomes the first African on the Legislative Council", "year": 1944, "label": "1944", "difficulty": 3 },
+    { "event": "Britain declares a state of emergency as the Mau Mau uprising grows", "year": 1952, "label": "1952", "difficulty": 1 },
+    { "event": "Kenya gains independence from Britain", "year": 1963, "label": "1963", "difficulty": 1 },
+    { "event": "Kenya becomes a republic with Jomo Kenyatta as president", "year": 1964, "label": "1964", "difficulty": 2 },
+    { "event": "Kip Keino wins Olympic gold in the metric mile in Mexico City", "year": 1968, "label": "1968", "difficulty": 2 },
+    { "event": "Daniel arap Moi becomes Kenya's second president", "year": 1978, "label": "1978", "difficulty": 1 },
+    { "event": "Kenya restores multi-party politics", "year": 1991, "label": "1991", "difficulty": 2 },
+    { "event": "Wangari Maathai wins the Nobel Peace Prize", "year": 2004, "label": "2004", "difficulty": 1 },
+    { "event": "Safaricom launches the M-Pesa mobile money service", "year": 2007, "label": "2007", "difficulty": 2 },
+    { "event": "Kenyans approve a new constitution in a referendum", "year": 2010, "label": "2010", "difficulty": 2 }
+  ],
+  "places": [
+    { "name": "Nairobi", "kind": "city", "lat": -1.29, "lon": 36.82, "clue": "Kenya's capital began as a railway depot in 1899 and has a national park within its city limits.", "difficulty": 1 },
+    { "name": "Fort Jesus, Mombasa", "kind": "landmark", "lat": -4.06, "lon": 39.68, "clue": "A Portuguese fort of the 1590s guarding the harbour of Kenya's great port city.", "difficulty": 1 },
+    { "name": "Maasai Mara National Reserve", "kind": "nature", "lat": -1.49, "lon": 35.14, "clue": "Stage for the Great Migration, when wildebeest herds cross the Mara River.", "difficulty": 1 },
+    { "name": "Mount Kenya", "kind": "nature", "lat": -0.15, "lon": 37.31, "clue": "Africa's second-highest mountain, which gave the country its name.", "difficulty": 1 },
+    { "name": "Amboseli National Park", "kind": "nature", "lat": -2.65, "lon": 37.26, "clue": "Famous for elephant herds with Tanzania's Kilimanjaro rising just across the border.", "difficulty": 1 },
+    { "name": "Lamu Old Town", "kind": "historic", "lat": -2.27, "lon": 40.9, "clue": "A car-free Swahili island town of carved wooden doors, travelled by donkey and dhow.", "difficulty": 2 },
+    { "name": "Lake Nakuru", "kind": "nature", "lat": -0.36, "lon": 36.09, "clue": "Rift Valley soda lake famed for flamingos and a rhino sanctuary.", "difficulty": 2 },
+    { "name": "Kisumu", "kind": "city", "lat": -0.09, "lon": 34.77, "clue": "Kenya's main port on Lake Victoria, once the end of the Uganda Railway.", "difficulty": 2 },
+    { "name": "Tsavo East National Park", "kind": "nature", "lat": -2.9, "lon": 38.75, "clue": "One of Kenya's largest parks, known for elephants dusted red by its soil.", "difficulty": 2 },
+    { "name": "Lake Turkana", "kind": "nature", "lat": 3.0, "lon": 36.1, "clue": "The world's largest permanent desert lake, nicknamed the Jade Sea.", "difficulty": 3 },
+    { "name": "Gedi Ruins", "kind": "historic", "lat": -3.31, "lon": 40.02, "clue": "Coral-stone ruins of a Swahili town abandoned in the 1600s, hidden in coastal forest.", "difficulty": 3 },
+    { "name": "Thimlich Ohinga", "kind": "historic", "lat": -0.89, "lon": 34.33, "clue": "UNESCO-listed dry-stone enclosures built without mortar near Lake Victoria.", "difficulty": 3 }
+  ]
+}
