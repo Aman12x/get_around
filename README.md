@@ -2,7 +2,7 @@
 
 **A journey through the history of the world.** Pick a route, fly to a nation, choose a subject (History, Technology, Art & Culture, Politics, Current Affairs or General Knowledge), and score **90%** to earn that nation's passport stamp and unlock your next flight.
 
-The UI is the main draw. A stylised 3D globe shows animated flight paths and a plane that flies each leg. Every nation is a floating low-poly island with its own landmark: the Pyramids, the Parthenon, the Colosseum, the Eiffel Tower, Big Ben, the Taj Mahal, a pagoda and the Great Wall, Mount Fuji, the Statue of Liberty, Chichén Itzá, and Christ the Redeemer.
+The UI is the main draw. A stylised 3D globe shows animated flight paths and a plane that flies each leg. Each of the 26 nations is a floating low-poly island with its own landmark, from the Pyramids, the Parthenon and the Taj Mahal to Petra, Lalibela, a Norwegian stave church and the Sydney Opera House.
 
 ## Quick start
 
@@ -25,10 +25,18 @@ The app deploys as one Railway service (Fastify serves the game and `/api`) plus
 1. **Check in.** Enter a traveler name and pick the subjects you like. The departures board then recommends routes that match.
 2. **Departures board.** Choose a curated route, or pick **Open Skies** to start in any country and choose every next stop yourself.
 3. **Fly.** A boarding pass appears, the plane flies a great-circle arc across the globe, and the screen opens on the country's diorama.
-4. **Quiz.** Each quiz is 10 questions, ordered from easy to hard. You may miss **one**; the 🎟️ counter shows how many misses you have left. A postcard fact appears after every answer.
-5. **Stamp.** Score 9/10 or better to earn the stamp and unlock the next flight. Every country has six stamps, one per subject, and they all collect in your **passport** (🛂).
+4. **Pick a level.** Every subject has three levels: **Explorer** (mostly easy), **Voyager** (mixed) and **Legend** (mostly hard). Each level unlocks after you pass the one before it.
+5. **Quiz.** Ten items, ordered easy to hard. Besides multiple choice there are:
+   - **Timelines** (History): put events in order, oldest first.
+   - **Map pins** (General Knowledge): tap where a city or landmark is.
+   - **Quick calls**: true or false, at Explorer and Voyager.
+   - **Spot the landmark**: pick the country's island out of four.
 
-Progress is saved in `localStorage`.
+   You may miss **one**; the 🎟️ counter shows how many misses you have left. A postcard fact appears after every answer.
+6. **Stamp.** Score 9/10 or better to earn a **bronze, silver or gold** stamp, depending on the level, and unlock the next flight. With 26 countries × 6 subjects, the **passport** (🛂) holds 156 stamps, plus 14 achievement badges.
+7. **Air miles.** Correct answers, streaks, new stamps, achievements and every flight earn miles (✈). Spend them on lifelines (50:50, *Ask a local*) or in **the Hangar** on plane liveries and passport covers.
+
+Retries favour questions you haven't seen recently. Progress is saved in `localStorage`.
 
 | Route | Stops | Built around |
 | --- | --- | --- |
@@ -37,8 +45,12 @@ Progress is saved in `localStorage`.
 | The Inventors’ Trail | 🇬🇧 🇺🇸 🇯🇵 🇨🇳 🇮🇳 | Technology, Current Affairs |
 | The Silk Road | 🇨🇳 🇮🇳 🇪🇬 🇬🇷 🇮🇹 | History, General, Art |
 | New World Odyssey | 🇲🇽 🇺🇸 🇧🇷 | General, Art, Current Affairs |
-| The Grand Tour | all 11 | everything |
-| Open Skies | any order | your choice |
+| The Grand Tour | the original 11, eastbound | everything |
+| Out of Africa | 🇲🇦 🇳🇬 🇪🇹 🇰🇪 🇿🇦 | History, General, Art |
+| Crossroads of Empires | 🇹🇷 🇯🇴 🇮🇷 🇦🇪 | History, Art, Politics |
+| Northern Lights | 🇩🇰 🇸🇪 🇳🇴 🇮🇸 | Technology, Art, General |
+| Under the Southern Cross | 🇿🇦 🇦🇺 🇳🇿 🇧🇷 | General, Current Affairs, History |
+| Open Skies | any of the 26, any order | your choice |
 
 ## Project layout
 
@@ -78,13 +90,18 @@ docs/ROADMAP.md         # phased plan and Railway checklist
 
 ## Adding content
 
-**More questions.** Append to `src/data/questions/<country>.json`; the format is in [`SCHEMA.md`](src/data/questions/SCHEMA.md). A quiz draws 10 questions at random from a topic's pool, so a bigger pool means more variety on retries. Every current-affairs question must have an `asOf` year, which the quiz shows to the player. Run `npm run validate:content`.
+**More questions.** Append to `src/data/questions/<country>.json`; the format is in [`SCHEMA.md`](src/data/questions/SCHEMA.md). Each subject needs at least 25 questions (9 easy, 9 medium, 7 hard) so every level has enough to draw from; more means more variety on retries. Every current-affairs question must have an `asOf` year, which the quiz shows to the player.
+
+**Timelines and map places** live in `src/data/extras/<country>.json` (format in [`SCHEMA.md`](src/data/extras/SCHEMA.md)). The validator checks that every place lies inside the country's borders.
+
+Run `npm run validate:content` after any content change; `npm test` runs it too.
 
 **A new country:**
-1. Add it to `COUNTRIES` in `src/data/countries.ts`. The `iso` field is the ISO 3166-1 numeric code, which is the id world-atlas uses.
-2. Add a landmark builder in `src/three/landmarks.ts`.
-3. Add `src/data/questions/<id>.json`.
-4. Add it to one or more routes in `src/data/routes.ts`.
+1. Add it to `COUNTRIES` in `src/data/countries.ts`. The `iso` field is the ISO 3166-1 numeric code, which is the id world-atlas uses; `mapView` frames the map round.
+2. Run `npm run bake:globe` to repaint the globe with it, and commit the result.
+3. Add a landmark builder in `src/three/landmarks.ts` or `landmarksWorld.ts`.
+4. Add `src/data/questions/<id>.json` and `src/data/extras/<id>.json`.
+5. Add it to one or more routes in `src/data/routes.ts`. Don't reorder the stops of an existing route; that would scramble players' saved journeys.
 
 **Swapping in hand-made 3D models.** Each landmark builder returns a `THREE.Group` that sits on the island top (y = 0) and fits within a radius of about 4.5. To use a real model, load a glTF with `GLTFLoader` and return the loaded scene from that builder; the rest of the game won't need to change.
 
@@ -94,7 +111,7 @@ See [`docs/ROADMAP.md`](docs/ROADMAP.md). In short:
 
 1. **Railway-ready** (done): Fastify server, Postgres plumbing, Docker, health checks, faster loading.
 2. **Accounts and cloud save**: guest play, with optional Google or email-link sign-in.
-3. **Levels and content**: Explorer, Voyager and Legend levels, bigger question pools, new routes, question reporting.
+3. **Levels and content** (mostly done): three levels, 25+ questions per subject, new round types, rewards, 26 countries. Question reporting and stats are next.
 4. **Server-checked quizzes and leaderboards**, plus friend challenges.
 5. **Polish**: hand-made 3D landmarks, music, accessibility.
 

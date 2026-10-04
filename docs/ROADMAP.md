@@ -54,17 +54,22 @@ How it scales: the server keeps no state between requests, so you can add Railwa
 - [ ] Rate limiting on the auth and save routes (`@fastify/rate-limit`).
 - [ ] New Railway variables: `BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `RESEND_API_KEY`, `EMAIL_FROM`.
 
-## Phase 3: Levels and content
+## Phase 3: Levels and content (mostly done)
 
-- [ ] Levels per country: Explorer (easy), Voyager (mixed) and Legend (hard), using the `difficulty` field. They earn bronze, silver and gold stamps, and scores become keyed by (user, country, topic, level).
-- [ ] Grow each topic to 25 or more questions, and avoid questions the player saw recently.
-- [ ] New routes:
-  - [ ] Africa: Morocco, Nigeria, Ethiopia, Kenya and South Africa.
-  - [ ] The Middle East, the Nordics and Oceania.
-  - [ ] Each new country needs a landmark builder, a question bank and a place on a route.
+- [x] Levels per country and subject: Explorer (easy), Voyager (mixed) and Legend (hard), earning bronze, silver and gold stamps. Saves migrate automatically.
+- [x] Every subject has 25 questions (9 easy, 9 medium, 7 hard), and retries favour questions not seen recently.
+- [x] New round types: timelines, map pins, true/false quick calls and spot-the-landmark, with 20 timeline events and 12 map places per country.
+- [x] Rewards: air miles, streaks, lifelines (50:50, Ask a local), the Hangar (plane liveries, passport covers), 14 achievements and first-time tips.
+- [x] New routes and countries, 26 in total, each with a 3D landmark, a question bank and timeline/map content:
+  - [x] Out of Africa: Morocco, Nigeria, Ethiopia, Kenya and South Africa.
+  - [x] Crossroads of Empires: Turkey, Jordan, Iran and the UAE.
+  - [x] Northern Lights: Denmark, Sweden, Norway and Iceland.
+  - [x] Under the Southern Cross: South Africa, Australia, New Zealand and Brazil.
 - [ ] A "Report question" button that writes to a `question_reports` table, plus an admin review page.
 - [ ] Review dates for Current Affairs questions so stale ones show up.
 - [ ] Per-question answer stats (an `events` table) to find confusing or too-hard questions.
+
+When Phase 2 adds accounts, the save's `rewards` section, the per-level scores and the recently-seen list move to the server together with journeys.
 
 ## Phase 4: Server-checked quizzes and leaderboards (together)
 
