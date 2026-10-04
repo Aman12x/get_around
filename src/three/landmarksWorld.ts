@@ -592,34 +592,35 @@ function iceland(): THREE.Group {
 
 function australia(): THREE.Group {
   const g = new THREE.Group();
-  g.add(box(3.4, 0.4, 2.0, '#e7c9a0', -0.4, 0, -0.6));
+  g.add(box(3.8, 0.4, 2.4, '#e7c9a0', -0.9, 0, -0.9));
   // Opera House sails: half-domes tilted like shells, in two rows.
   const shell = (x: number, z: number, s: number, ry: number) => {
     const m = mesh(new THREE.SphereGeometry(1, 16, 8, 0, Math.PI, 0, Math.PI / 2), mat('#f8fafc', { roughness: 0.35 }));
-    m.scale.set(0.55 * s, 1.5 * s, 0.9 * s);
+    m.scale.set(0.75 * s, 2.0 * s, 1.2 * s);
     m.position.set(x, 0.4, z);
     m.rotation.set(0, ry, -0.35);
     return m;
   };
   [
-    [-1.6, -0.9, 0.7],
-    [-0.9, -0.9, 0.95],
-    [-0.1, -0.9, 1.15],
-    [-1.4, -0.1, 0.55],
-    [-0.8, -0.1, 0.75],
-    [-0.15, -0.1, 0.9],
+    [-2.2, -1.3, 0.7],
+    [-1.3, -1.3, 0.95],
+    [-0.3, -1.3, 1.15],
+    [-2.0, -0.3, 0.55],
+    [-1.2, -0.3, 0.75],
+    [-0.4, -0.3, 0.9],
   ].forEach(([x, z, s]) => g.add(shell(x, z, s, Math.PI / 2)));
   // Harbour Bridge arch over the water.
   const steel = '#64748b';
   g.add(water(9, 1.2, 0, 1.6, '#0ea5e9'));
-  const arch = mesh(new THREE.TorusGeometry(2.3, 0.09, 6, 24, Math.PI), mat(steel), 1.0, 0, 1.6);
+  const bx = 2.6;
+  const arch = mesh(new THREE.TorusGeometry(2.0, 0.09, 6, 24, Math.PI), mat(steel), bx, 0, 1.6);
   arch.rotation.y = Math.PI / 2;
-  g.add(arch, box(0.5, 0.12, 5.2, steel, 1.0, 0.7, 1.6));
-  for (const z of [-0.9, 4.1]) g.add(box(0.6, 1.4, 0.6, '#a8a29e', 1.0, 0, z));
+  g.add(arch, box(0.5, 0.12, 4.6, steel, bx, 0.7, 1.6));
+  for (const z of [-0.6, 3.8]) g.add(box(0.6, 1.4, 0.6, '#a8a29e', bx, 0, z));
   for (const [x, z] of [
-    [3.2, -1.6],
-    [-3.2, 0.6],
-    [2.9, -0.2],
+    [1.0, -2.4],
+    [-3.3, 0.8],
+    [0.6, -1.4],
   ]) {
     g.add(place(roundTree('#84cc16', '#e7e5e4', 1.0), x, 0, z));
   }

@@ -106,6 +106,17 @@ button:disabled {
   display: none;
 }
 
+/* Collapsed to just the flag when space is tight; full name on hover/focus via title. */
+.globe-label.mini {
+  padding: 4px 6px;
+  gap: 2px;
+}
+
+.globe-label.mini .name,
+.globe-label.mini .badge {
+  display: none;
+}
+
 .globe-label .flag {
   font-size: 18px;
   line-height: 1;

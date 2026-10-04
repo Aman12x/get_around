@@ -247,6 +247,8 @@ export class GlobeView {
     const label = document.createElement('button');
     label.className = 'globe-label';
     label.innerHTML = `<span class="flag">${c.flag}</span><span class="name">${c.name}</span><span class="badge"></span>`;
+    label.title = c.name;
+    label.setAttribute('aria-label', c.name);
     label.addEventListener('click', () => this.onSelect(id));
     this.labelLayer.appendChild(label);
 
@@ -462,10 +464,17 @@ export class GlobeView {
     if (this.visible) this.positionLabels();
   }
 
+  /**
+   * Place country labels without overlaps. Higher-priority labels (next stop, current
+   * location) claim space first; a label that would collide shrinks to its flag, then
+   * tries sitting below its pin, and only hides as a last resort.
+   */
   private positionLabels(): void {
     const w = this.dom.clientWidth;
     const h = this.dom.clientHeight;
     const camDir = this.camera.position.clone().normalize();
+    const rank: Record<StopStatus, number> = { next: 0, current: 1, cleared: 2, locked: 3 };
+    const visible: Array<{ m: Marker; x: number; y: number; facing: number }> = [];
     for (const m of this.markers.values()) {
       if (!m.group.visible) continue;
       const facing = m.normal.dot(camDir);
@@ -475,12 +484,48 @@ export class GlobeView {
         continue;
       }
       this.tmp.copy(m.normal).multiplyScalar(R + 0.09).project(this.camera);
-      const x = (this.tmp.x * 0.5 + 0.5) * w;
-      const y = (-this.tmp.y * 0.5 + 0.5) * h;
-      m.label.style.transform = `translate(-50%, -100%) translate(${x}px, ${y}px)`;
-      m.label.style.opacity = String(Math.min(1, (facing - 0.2) * 4));
-      m.label.style.pointerEvents = 'auto';
-      m.label.style.zIndex = String(Math.round(facing * 100));
+      visible.push({ m, x: (this.tmp.x * 0.5 + 0.5) * w, y: (-this.tmp.y * 0.5 + 0.5) * h, facing });
+    }
+    visible.sort((a, b) => rank[a.m.status] - rank[b.m.status] || b.facing - a.facing);
+
+    const placed: Array<[number, number, number, number]> = [];
+    const hits = (r: [number, number, number, number]) =>
+      placed.some((p) => r[0] < p[2] && r[2] > p[0] && r[1] < p[3] && r[3] > p[1]);
+    for (const { m, x, y, facing } of visible) {
+      const label = m.label;
+      if (!label.dataset.fw) {
+        label.classList.remove('mini');
+        label.dataset.fw = String(label.offsetWidth || 120);
+        label.dataset.fh = String(label.offsetHeight || 30);
+      }
+      const fw = Number(label.dataset.fw);
+      const fh = Number(label.dataset.fh);
+      const mw = 40;
+      const pad = 3;
+      // Candidates: full label above the pin, flag-only above, flag-only below.
+      // Offsets are from the pin to the label's top-left corner.
+      const options: Array<{ mini: boolean; dx: number; dy: number; rect: [number, number, number, number] }> = [];
+      const add = (mini: boolean, dx: number, dy: number) => {
+        const lw = mini ? mw : fw;
+        options.push({ mini, dx, dy, rect: [x + dx - pad, y + dy - pad, x + dx + lw + pad, y + dy + fh + pad] });
+      };
+      add(false, -fw / 2, -fh); // full, above
+      add(true, -mw / 2, -fh); // flag, above
+      add(true, -mw / 2, 14); // flag, below
+      add(true, -mw - 12, -fh / 2); // flag, left
+      add(true, 12, -fh / 2); // flag, right
+      const choice = options.find((o) => !hits(o.rect));
+      if (!choice) {
+        label.style.opacity = '0';
+        label.style.pointerEvents = 'none';
+        continue;
+      }
+      placed.push(choice.rect);
+      label.classList.toggle('mini', choice.mini);
+      label.style.transform = `translate(${x + choice.dx}px, ${y + choice.dy}px)`;
+      label.style.opacity = String(Math.min(1, (facing - 0.2) * 4));
+      label.style.pointerEvents = 'auto';
+      label.style.zIndex = String(10 - rank[m.status]);
     }
   }
 }
