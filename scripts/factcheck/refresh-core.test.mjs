@@ -38,6 +38,7 @@ describe('screenProposals', () => {
         { index: 2, kind: 'fresh', reason: '', sources: [], question: q('Second fresh?', 3) },
         { index: 0, kind: 'outdated', reason: '', sources: [], question: q('Two same choices?', 1, { choices: ['A', 'a', 'B', 'C'] }) },
         { index: 0, kind: 'outdated', reason: '', sources: [], question: q('Long fact?', 1, { fact: 'x'.repeat(241) }) },
+        { index: 0, kind: 'rewrite', reason: '', sources: [], question: q('Bad kind?') },
       ],
       opts,
     );
@@ -50,6 +51,7 @@ describe('screenProposals', () => {
       'too many fresh questions',
       'duplicate choices',
       'fact missing or over 240 characters',
+      'unknown kind "rewrite"',
     ]);
   });
 });

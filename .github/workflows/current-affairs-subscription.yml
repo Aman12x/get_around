@@ -1,0 +1,122 @@
+name: Current affairs refresh
+
+# Twice a month (the 1st and 15th, 06:17 UTC), Claude Code (Sonnet 5.5, on your Claude
+# subscription) reviews every country's Current Affairs questions against the news: it
+# rewrites ones that are no longer true and proposes a couple of fresh ones. The proposals
+# are screened by scripts/factcheck/subscription.mjs, fact-checked by a second, separate
+# Claude Code session, and opened as a pull request for a human to review.
+#
+# Needs:
+#   - repository secret CLAUDE_CODE_OAUTH_TOKEN (run `claude setup-token` locally)
+#   - the Claude GitHub App installed on this repository (`/install-github-app` in Claude Code)
+#   - Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests"
+# Runs count against your subscription's usage limits.
+on:
+  schedule:
+    - cron: '17 6 1,15 * *'
+  workflow_dispatch:
+    inputs:
+      countries:
+        description: 'Country ids separated by spaces (blank = all 26)'
+        required: false
+        default: ''
+      fresh:
+        description: 'New questions per country (0-5)'
+        required: false
+        default: '2'
+
+permissions:
+  contents: write
+  pull-requests: write
+  id-token: write # the Claude Code action exchanges this for a GitHub App token
+
+concurrency:
+  group: current-affairs
+  cancel-in-progress: false
+
+env:
+  CLAUDE_ARGS: >-
+    --model claude-sonnet-5-5
+    --max-turns 400
+    --allowedTools Read,Write,WebSearch,WebFetch
+    --disallowedTools Bash,Edit,NotebookEdit
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Prepare the writing task
+        env:
+          COUNTRIES: ${{ inputs.countries }}
+          FRESH: ${{ inputs.fresh || '2' }}
+        # $COUNTRIES is split on spaces on purpose; the script rejects unknown ids.
+        run: node scripts/factcheck/subscription.mjs prepare $COUNTRIES --fresh "$FRESH"
+
+      - name: Claude Code writes proposals
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: Read .factcheck/writer-task.md and carry out the task it describes. Only write files inside .factcheck/proposals/.
+          claude_args: ${{ env.CLAUDE_ARGS }}
+
+      # Web pages are untrusted input: throw away any change outside the (git-ignored) .factcheck/ folder.
+      - name: Discard edits outside .factcheck
+        run: git reset --hard --quiet && git clean -fd --quiet
+
+      - name: Screen proposals
+        id: screen
+        run: node scripts/factcheck/subscription.mjs screen
+
+      - name: Claude Code fact-checks proposals (fresh session)
+        if: steps.screen.outputs.candidates != '0'
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: Read .factcheck/check-task.md and carry out the task it describes. Only write .factcheck/verdicts.json.
+          claude_args: ${{ env.CLAUDE_ARGS }}
+
+      - name: Discard edits outside .factcheck
+        run: git reset --hard --quiet && git clean -fd --quiet
+
+      - name: Apply checked changes
+        run: node scripts/factcheck/subscription.mjs apply --summary "$RUNNER_TEMP/pr-body.md"
+
+      - name: Content and unit tests
+        run: npm test
+
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cat "$RUNNER_TEMP/pr-body.md" >> "$GITHUB_STEP_SUMMARY"
+          if git diff --quiet -- src/data/questions; then
+            echo "No questions changed; nothing to open."
+            exit 0
+          fi
+          branch="content/current-affairs-$(date -u +%Y-%m-%d)-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add src/data/questions
+          git commit -m "Refresh Current Affairs questions ($(date -u +%Y-%m-%d))"
+          git push -u origin "$branch"
+          gh pr create --base "${{ github.event.repository.default_branch }}" --head "$branch" \
+            --title "Current Affairs refresh: $(date -u +'%-d %B %Y')" \
+            --body-file "$RUNNER_TEMP/pr-body.md"
+
+      - name: Keep the proposals and verdicts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: current-affairs-refresh
+          path: .factcheck/
+          include-hidden-files: true
+          if-no-files-found: ignore

@@ -159,7 +159,7 @@ function recordTurn(transcript, content) {
 
 // ---------------------------------------------------------------- fact-check
 
-const VERDICT_TOOL = {
+export const VERDICT_TOOL = {
   name: 'report_verdicts',
   description: 'Submit exactly one verdict for every item you were asked to check. Call this once, at the end.',
   strict: true,
@@ -206,15 +206,18 @@ When finished, call report_verdicts once with a verdict for every item id.`;
  * Returns { verdicts: Map(id -> verdict), usage, model, transcript }.
  */
 export async function checkItems(items, { country, topic, effort = 'medium', maxSearches = 8 } = {}) {
-  const rendered = items.map(renderItem).join('\n\n');
-  const prompt = `Today is ${today()}. Country: ${country}${topic ? `. Topic: ${topic}` : ''}.
-Check these ${items.length} items:
-
-${rendered}`;
+  const prompt = factcheckPrompt(items, { country, topic });
   const run = await runToolTurns({ system: FACTCHECK_SYSTEM, prompt, reportTool: VERDICT_TOOL, effort, maxSearches });
   const verdicts = new Map();
   for (const v of run.result.verdicts ?? []) if (items.some((i) => i.id === v.id)) verdicts.set(v.id, v);
   return { ...run, verdicts };
+}
+
+export function factcheckPrompt(items, { country, topic }) {
+  return `Today is ${today()}. Country: ${country}${topic ? `. Topic: ${topic}` : ''}.
+Check these ${items.length} items:
+
+${items.map(renderItem).join('\n\n')}`;
 }
 
 function renderItem(item) {

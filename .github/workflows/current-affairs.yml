@@ -1,15 +1,11 @@
-name: Current affairs refresh
+name: Current affairs refresh (API key)
 
-# Twice a month (the 1st and 15th, 06:17 UTC), Claude reviews every country's Current Affairs
-# questions against the news: it rewrites ones that are no longer true and adds a couple of
-# fresh ones, each confirmed by a separate fact-check call. The result is opened as a pull
-# request for a human to review; nothing reaches main without a merge.
-#
-# Needs: repository secret ANTHROPIC_API_KEY, and Settings → Actions → General →
+# The same refresh as current-affairs-subscription.yml, but calling the Claude API directly
+# (scripts/factcheck/refresh-current-affairs.mjs, Opus 5.5, billed per token). Manual only;
+# to put it on the schedule instead, move the `schedule:` block over from the subscription
+# workflow. Needs repository secret ANTHROPIC_API_KEY, and Settings → Actions → General →
 # "Allow GitHub Actions to create and approve pull requests".
 on:
-  schedule:
-    - cron: '17 6 1,15 * *'
   workflow_dispatch:
     inputs:
       countries:

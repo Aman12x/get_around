@@ -107,17 +107,24 @@ Run `npm run validate:content` after any content change; `npm test` runs it too.
 
 ## Fact-checking
 
-The tools in `scripts/factcheck/` use Claude (`claude-opus-5-5`, with web search) and need `ANTHROPIC_API_KEY`. Each call opts into Anthropic's server-side refusal fallback (`fallbacks: "default"`). Add `--dry-run` to see how many calls a command would make.
+The `npm run factcheck*` tools call the Claude API (`claude-opus-5-5`, with web search) and need `ANTHROPIC_API_KEY`; the scheduled refresh below runs on a Claude subscription instead. Each call opts into Anthropic's server-side refusal fallback (`fallbacks: "default"`). Add `--dry-run` to see how many calls a command would make.
 
 | Command | What it does |
 | --- | --- |
 | `npm run factcheck -- japan` | Checks every Japan question; add `--extras` for timelines and map places, or `--topic current-affairs` to check one subject in every country. Writes `factcheck-report.md` (flagged items) and `.json`. |
-| `npm run factcheck:refresh -- kenya` | Runs the Current Affairs refresh locally (normally run by the GitHub Action below). |
+| `npm run factcheck:refresh -- kenya` | Runs the Current Affairs refresh through the API. |
 | `npm run factcheck:eval` | Measures the checker itself (see below). |
 
-**Current Affairs refresh (GitHub Action).** On the 1st and 15th of each month, [`current-affairs.yml`](.github/workflows/current-affairs.yml) asks Claude to rewrite questions that are no longer true and add up to two new ones per country about recent news. Each change keeps the replaced question's difficulty, must pass the content schema, and is then confirmed by a separate fact-check call; anything that fails is dropped. The surviving changes arrive as a pull request listing every before and after with its sources. Read them before merging. You can also start a run by hand from the Actions tab and pick the countries. It needs:
-- the repository secret `ANTHROPIC_API_KEY`;
+**Current Affairs refresh (GitHub Action, on your Claude subscription).** On the 1st and 15th of each month, [`current-affairs-subscription.yml`](.github/workflows/current-affairs-subscription.yml) has Claude Code (Sonnet 5.5) rewrite questions that are no longer true and propose up to two new ones per country about recent news. [`subscription.mjs`](scripts/factcheck/subscription.mjs) then:
+- checks every proposal against the content schema, keeps the replaced question's difficulty and rejects duplicates;
+- hands the survivors to a second, separate Claude Code session for fact-checking, and drops anything it doesn't pass.
+
+The changes arrive as a pull request listing every before and after with its sources. Read them before merging. You can also start a run by hand from the Actions tab and pick the countries. Runs count against your subscription's usage limits. It needs:
+- the repository secret `CLAUDE_CODE_OAUTH_TOKEN` (run `claude setup-token` to create it);
+- the Claude GitHub App on the repository (`/install-github-app` in Claude Code);
 - Settings → Actions → General → **Allow GitHub Actions to create and approve pull requests**.
+
+[`current-affairs.yml`](.github/workflows/current-affairs.yml) is the same refresh through the API (`npm run factcheck:refresh`, needs `ANTHROPIC_API_KEY`), started by hand.
 
 **The fact-check eval.** `scripts/factcheck/eval/cases.json` holds 45 packets (451 items), checked the same way `npm run factcheck` checks a bank. The items are:
 - 26 real errors found in the October 2026 review (`known-errors.json`);

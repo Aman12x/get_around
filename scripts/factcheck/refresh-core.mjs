@@ -30,13 +30,12 @@ export function screenProposals(qs, changes, { fresh, bankTexts }) {
   let freshCount = 0;
   for (const ch of changes ?? []) {
     const old = qs[ch.index];
-    const problem = !old
-      ? `index ${ch.index} out of range`
-      : used.has(ch.index)
-        ? `index ${ch.index} used twice`
-        : ch.kind === 'fresh' && freshCount >= fresh
-          ? 'too many fresh questions'
-          : schemaProblem(ch.question, old, texts);
+    let problem = null;
+    if (!old) problem = `index ${ch.index} out of range`;
+    else if (!['outdated', 'fresh'].includes(ch.kind)) problem = `unknown kind "${ch.kind}"`;
+    else if (used.has(ch.index)) problem = `index ${ch.index} used twice`;
+    else if (ch.kind === 'fresh' && freshCount >= fresh) problem = 'too many fresh questions';
+    else problem = schemaProblem(ch.question, old, texts);
     if (problem) {
       rejected.push({ ...ch, why: problem });
       continue;
@@ -70,4 +69,100 @@ export function applyVerified(qs, candidates, verdicts) {
     };
   }
   return { applied, rejected };
+}
+
+// ------------------------------------------------------------- writer prompt
+// Shared by the API refresher (refresh-current-affairs.mjs) and the subscription
+// workflow (subscription.mjs), so both write questions to the same brief.
+
+export const QUESTION_SCHEMA = {
+  type: 'object',
+  additionalProperties: false,
+  required: ['q', 'choices', 'answer', 'fact', 'difficulty', 'asOf'],
+  properties: {
+    q: { type: 'string' },
+    choices: { type: 'array', items: { type: 'string' } },
+    answer: { type: 'integer', description: '0-based index of the correct choice' },
+    fact: { type: 'string', description: 'At most 240 characters.' },
+    difficulty: { type: 'integer', enum: [1, 2, 3] },
+    asOf: { type: 'string', description: 'Four-digit year the question is true as of.' },
+  },
+};
+
+export const CHANGES_SCHEMA = {
+  type: 'object',
+  additionalProperties: false,
+  required: ['changes'],
+  properties: {
+    changes: {
+      type: 'array',
+      items: {
+        type: 'object',
+        additionalProperties: false,
+        required: ['index', 'kind', 'reason', 'sources', 'question'],
+        properties: {
+          index: { type: 'integer', description: 'Index of the existing question this replaces.' },
+          kind: { type: 'string', enum: ['outdated', 'fresh'] },
+          reason: { type: 'string' },
+          sources: { type: 'array', items: { type: 'string' } },
+          question: QUESTION_SCHEMA,
+        },
+      },
+    },
+  },
+};
+
+export const WRITER_SYSTEM = `You maintain the Current Affairs questions for "Get Around", a travel trivia game where players fly between countries answering questions. Questions must be true, unambiguous, fun, and answerable by an interested general audience.
+
+Rules for every question you write:
+- Exactly 4 distinct, plausible choices; "answer" is the 0-based index of the single correct one. Vary which position is correct.
+- "fact" (at most 240 characters) adds an interesting, verified detail; it must not just repeat the answer.
+- "asOf" is the current year. Keep the difficulty of the question you replace (1 easy, 2 medium, 3 hard).
+- Prefer settled facts (results, openings, appointments, records, launches) over ongoing stories whose outcome may change within weeks. No questions about deaths or tragedies framed as trivia, and no partisan framing.
+- Every claim must be confirmed by web search with reputable sources (list their URLs).
+- Do not duplicate a question already in the bank.`;
+
+export function writerPrompt(country, qs, { fresh, today }) {
+  const listing = qs
+    .map((q, i) => `#${i} [difficulty ${q.difficulty}, asOf ${q.asOf}] ${q.q} -> ${q.choices[q.answer]}. Fact: ${q.fact}`)
+    .join('\n');
+  return `Today is ${today}. Country: ${country}.
+
+Here is the current Current Affairs bank (${qs.length} questions):
+${listing}
+
+1. Find every question that is no longer true today (changed office holders, records broken, rankings moved, events that turned out differently). For each, propose a corrected replacement at the same index ("kind": "outdated") — either the updated fact or a new question on the same theme.
+2. Search the news from roughly the last two months about ${country}. Propose up to ${fresh} new questions about notable, settled developments ("kind": "fresh"), each replacing the stalest or least interesting existing question of the SAME difficulty (prefer the oldest asOf).
+Each index may be used at most once. If nothing needs changing, submit an empty list.`;
+}
+
+/** Pull-request body listing every applied change with before/after and sources. */
+export function renderRefreshSummary(report, intro) {
+  const L = [
+    intro,
+    '',
+    'Every change below was written with web search, passed the content schema, and was then confirmed by a separate fact-check. **Please still read each one before merging**: check the answer key and open at least one source.',
+    '',
+  ];
+  for (const r of report) {
+    if (!r.applied.length && !r.rejected.length && !r.error) continue;
+    L.push(`## ${r.country}`, '');
+    if (r.error) L.push(`⚠️ Failed: ${r.error}`, '');
+    for (const a of r.applied) {
+      L.push(
+        `**#${a.index} (${a.kind}, difficulty ${a.question.difficulty})**: ${a.reason}`,
+        `- Before: ${a.before.q} → *${a.before.choices[a.before.answer]}* (asOf ${a.before.asOf})`,
+        `- After: ${a.question.q} → *${a.question.choices[a.question.answer]}*`,
+        `- Fact: ${a.question.fact}`,
+        `- Sources: ${(a.sources ?? []).join(', ') || 'none given'}`,
+        '',
+      );
+    }
+    if (r.rejected.length) {
+      L.push('<details><summary>Rejected proposals</summary>', '');
+      for (const x of r.rejected) L.push(`- #${x.index} ${x.question?.q ?? ''}: ${x.why}`);
+      L.push('', '</details>', '');
+    }
+  }
+  return L.join('\n') + '\n';
 }

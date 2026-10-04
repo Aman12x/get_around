@@ -12,3 +12,4 @@ dist-server
 .claude/hillclimb/**/trajectory/
 .claude/hillclimb/**/progress.txt
 factcheck-report.*
+.factcheck/
