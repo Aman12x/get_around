@@ -354,6 +354,183 @@
         "fact": "Working in Baghdad, Abu al-Wafa also wrote practical arithmetic for scribes and a geometry handbook for craftsmen.",
         "difficulty": 3
       }
+    ],
+    "art": [
+      {
+        "q": "Which poet wrote the 'Shahnameh' (Book of Kings), Iran's national epic?",
+        "choices": ["Ferdowsi", "Hafez", "Rumi", "Saadi"],
+        "answer": 0,
+        "fact": "Ferdowsi spent some 30 years on its roughly 50,000 couplets, using very few Arabic words to celebrate the Persian language.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 13th-century Persian poet's 'Masnavi' inspired the Mevlevi order of whirling dervishes?",
+        "choices": ["Hafez", "Rumi", "Ferdowsi", "Attar"],
+        "answer": 1,
+        "fact": "Rumi was born in 1207 in the eastern Persian world, probably at Balkh, and spent most of his life in Konya, in today's Turkey.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 14th-century poet's tomb in Shiraz draws visitors who open his Divan at random to tell their fortunes?",
+        "choices": ["Saadi", "Rumi", "Hafez", "Ferdowsi"],
+        "answer": 2,
+        "fact": "This custom, 'fal-e Hafez', is especially popular on Yalda Night, the longest night of the year.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Iranian director's 'A Separation' won the Oscar for Best Foreign Language Film in 2012?",
+        "choices": ["Majid Majidi", "Abbas Kiarostami", "Jafar Panahi", "Asghar Farhadi"],
+        "answer": 3,
+        "fact": "Farhadi won the same Academy Award again in 2017 for 'The Salesman'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Naqsh-e Jahan Square, ringed by the Shah Mosque and Ali Qapu Palace, is in which city?",
+        "choices": ["Isfahan", "Tehran", "Tabriz", "Mashhad"],
+        "answer": 0,
+        "fact": "Laid out by Shah Abbas I around 1600, it is one of the largest city squares in the world and once served as a polo field.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Achaemenid ceremonial capital features the Gate of All Nations and the Apadana's carved staircases?",
+        "choices": ["Pasargadae", "Persepolis", "Susa", "Ctesiphon"],
+        "answer": 1,
+        "fact": "The Apadana reliefs show delegations from across the empire bringing gifts, from Ethiopians to Indians.",
+        "difficulty": 1
+      },
+      {
+        "q": "Isfahan's Si-o-se-pol bridge is named after its number of arches. How many are there?",
+        "choices": ["11", "22", "33", "44"],
+        "answer": 2,
+        "fact": "Built around 1602 for Shah Abbas I, it spans the Zayanderud river and doubles as a promenade and meeting place.",
+        "difficulty": 1
+      },
+      {
+        "q": "Edward FitzGerald's 1859 English version made which Persian poet's 'Rubaiyat' world famous?",
+        "choices": ["Saadi", "Rumi", "Hafez", "Omar Khayyam"],
+        "answer": 3,
+        "fact": "Lines such as 'A Jug of Wine, a Loaf of Bread—and Thou' became some of the most quoted verses in English.",
+        "difficulty": 1
+      },
+      {
+        "q": "A classic Persian 'chahar bagh' garden is divided by water channels into how many parts?",
+        "choices": ["Four", "Two", "Six", "Twelve"],
+        "answer": 0,
+        "fact": "Chahar bagh means 'four gardens'; UNESCO listed nine Persian gardens, including Fin Garden in Kashan, in 2011.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Iranian director won the Palme d'Or at Cannes in 1997 for 'Taste of Cherry'?",
+        "choices": ["Asghar Farhadi", "Abbas Kiarostami", "Mohsen Makhmalbaf", "Bahman Ghobadi"],
+        "answer": 1,
+        "fact": "He shared the prize with Japan's Shohei Imamura; Kiarostami was also a poet and photographer.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which painter at Shah Abbas's court in Isfahan was famed for elegant single-figure miniatures of courtiers and youths?",
+        "choices": ["Behzad", "Sultan Muhammad", "Reza Abbasi", "Kamal-ol-Molk"],
+        "answer": 2,
+        "fact": "Reza Abbasi's lively drawings and portraits broke away from book illustration and were collected as individual album pages.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Shiraz mosque, nicknamed the 'Pink Mosque', is famed for morning light streaming through stained glass?",
+        "choices": ["Jameh Mosque", "Shah Mosque", "Vakil Mosque", "Nasir al-Molk Mosque"],
+        "answer": 3,
+        "fact": "Built in the 1880s under the Qajars, it fills with coloured light on winter mornings, when the sun is low.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Persian instrument is a trapezoid zither whose strings are struck with light wooden hammers?",
+        "choices": ["Santur", "Tar", "Kamancheh", "Ney"],
+        "answer": 0,
+        "fact": "A typical santur has 72 strings, arranged in groups of four across movable bridges.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which master singer, who died in 2020, was the most celebrated voice of Persian classical music?",
+        "choices": ["Googoosh", "Mohammad-Reza Shajarian", "Hossein Alizadeh", "Dariush"],
+        "answer": 1,
+        "fact": "Shajarian's recording of the prayer 'Rabbana' was broadcast at sunset during Ramadan for decades.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 13th-century poet of Shiraz wrote the 'Gulistan' (Rose Garden) and the 'Bustan' (Orchard)?",
+        "choices": ["Hafez", "Attar", "Saadi", "Jami"],
+        "answer": 2,
+        "fact": "His poem 'Bani Adam', which says all people are limbs of one body, is quoted around the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which poet of Nishapur wrote 'The Conference of the Birds', about birds seeking their king, the Simurgh?",
+        "choices": ["Rumi", "Saadi", "Jami", "Attar"],
+        "answer": 3,
+        "fact": "Thirty birds finish the journey and find the Simurgh is themselves: 'si murgh' means 'thirty birds' in Persian.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which director made 'Children of Heaven', the first Iranian film nominated for an Oscar?",
+        "choices": ["Majid Majidi", "Jafar Panahi", "Asghar Farhadi", "Dariush Mehrjui"],
+        "answer": 0,
+        "fact": "The 1997 film follows a brother and sister who secretly share one pair of shoes after he loses hers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 16th-century Safavid carpet, now in London's V&A museum, is named after the shrine city it was made for?",
+        "choices": ["Pazyryk Carpet", "Ardabil Carpet", "Chelsea Carpet", "Coronation Carpet"],
+        "answer": 1,
+        "fact": "Dated 1539-40, it has around 26 million knots; its twin is in the Los Angeles County Museum of Art.",
+        "difficulty": 2
+      },
+      {
+        "q": "The mausoleum of the Ilkhan Oljeitu, crowned by one of the world's largest brick domes, stands at which site?",
+        "choices": ["Tabriz", "Maragheh", "Soltaniyeh", "Qazvin"],
+        "answer": 2,
+        "fact": "Completed around 1313, its double-shelled dome rises about 50 m and influenced later domes, including the Taj Mahal's.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 11th-century tomb tower near the Caspian is celebrated as the tallest tower ever built purely of brick?",
+        "choices": ["Gonbad-e Sorkh", "Kharraqan towers", "Tughrul Tower", "Gonbad-e Qabus"],
+        "answer": 3,
+        "fact": "Built in 1006-07 for the Ziyarid ruler Qabus, its star-shaped brick shaft is now a UNESCO World Heritage Site.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which great stepped temple, built by the Elamites around 1250 BCE, is Iran's best-preserved ziggurat?",
+        "choices": ["Chogha Zanbil", "Tepe Hasanlu", "Shahr-e Sukhteh", "Jiroft"],
+        "answer": 0,
+        "fact": "Built by King Untash-Napirisha, it was among Iran's first three UNESCO World Heritage Sites, listed in 1979.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Qajar-era court painter, famed for realist works such as his painting of the Mirror Hall, founded an influential art school in Tehran?",
+        "choices": ["Reza Abbasi", "Kamal-ol-Molk", "Sohrab Sepehri", "Mahmoud Farshchian"],
+        "answer": 1,
+        "fact": "Kamal-ol-Molk studied Europe's old masters and brought academic realism to Iranian painting.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Persian word 'kashi', for glazed tile, comes from which city famed for medieval lustreware?",
+        "choices": ["Isfahan", "Yazd", "Kashan", "Tabriz"],
+        "answer": 2,
+        "fact": "Kashan's potters made shimmering lustre tiles and bowls in the 12th-14th centuries, prized across the Islamic world.",
+        "difficulty": 3
+      },
+      {
+        "q": "The traditional repertoire of melodies at the heart of Persian classical music, inscribed by UNESCO in 2009, is called what?",
+        "choices": ["Maqam", "Raga", "Gamelan", "Radif"],
+        "answer": 3,
+        "fact": "Musicians memorise the radif's hundreds of short melodies, called gushehs, grouped into modal systems known as dastgahs.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 14th-century calligrapher is traditionally credited with creating the flowing Nastaliq script?",
+        "choices": ["Mir Ali Tabrizi", "Ibn Muqla", "Yaqut al-Musta'simi", "Mir Emad"],
+        "answer": 0,
+        "fact": "Nastaliq, often called the 'bride of calligraphy', became the favourite script for Persian poetry; Mir Emad later perfected it.",
+        "difficulty": 3
+      }
     ]
   }
 }
