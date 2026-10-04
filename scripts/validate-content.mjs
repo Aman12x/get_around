@@ -7,7 +7,9 @@ const TOPICS = ['history', 'technology', 'art', 'politics', 'current-affairs', '
 const errors = [];
 let total = 0;
 
-for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
+// Optional country ids to check just those files: node scripts/validate-content.mjs morocco kenya
+const only = process.argv.slice(2);
+for (const file of readdirSync(dir).filter((f) => f.endsWith('.json') && (!only.length || only.includes(f.replace('.json', ''))))) {
   const bank = JSON.parse(readFileSync(join(dir, file), 'utf8'));
   const where = (t, i) => `${file} › ${t} #${i + 1}`;
   if (bank.country !== file.replace('.json', '')) errors.push(`${file}: country "${bank.country}" does not match file name`);

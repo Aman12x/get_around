@@ -142,3 +142,74 @@ export function water(w: number, d: number, x = 0, z = 0, color = '#38bdf8'): TH
   m.castShadow = false;
   return m;
 }
+
+/** Triangular-prism roof: base `w` wide, `h` tall, running `d` deep along z, resting on y. */
+export function gable(w: number, h: number, d: number, color: string | THREE.Material, x = 0, y = 0, z = 0): THREE.Mesh {
+  const shape = new THREE.Shape();
+  shape.moveTo(-w / 2, 0);
+  shape.lineTo(w / 2, 0);
+  shape.lineTo(0, h);
+  shape.closePath();
+  const geo = new THREE.ExtrudeGeometry(shape, { depth: d, bevelEnabled: false });
+  geo.translate(0, 0, -d / 2);
+  return mesh(geo, color, x, y, z);
+}
+
+/** A simple house: walls, gabled roof and a door. */
+export function house(w: number, h: number, d: number, wall: string, roof: string): THREE.Group {
+  return group(
+    box(w, h, d, wall, 0, 0, 0),
+    gable(w * 1.08, h * 0.6, d * 1.06, roof, 0, h, 0),
+    box(w * 0.22, h * 0.45, 0.03, '#3f2a1d', 0, 0, d / 2 + 0.005),
+  );
+}
+
+export function acacia(h = 1): THREE.Group {
+  const trunk = '#6b4423';
+  const leaf = '#7a9a3a';
+  const g = group(strut(new THREE.Vector3(0, 0, 0), new THREE.Vector3(0.15 * h, 1.1 * h, 0), 0.06 * h, trunk, 5));
+  const canopy = mesh(new THREE.CylinderGeometry(0.75 * h, 0.55 * h, 0.22 * h, 9), mat(leaf), 0.15 * h, 1.2 * h, 0);
+  g.add(canopy, mesh(new THREE.CylinderGeometry(0.45 * h, 0.4 * h, 0.16 * h, 8), mat(leaf), -0.2 * h, 1.36 * h, 0.1 * h));
+  return g;
+}
+
+export function pine(h = 1, color = '#14532d'): THREE.Group {
+  return group(
+    cyl(0.05 * h, 0.07 * h, 0.3 * h, 5, '#5b3a29'),
+    cone(0.42 * h, 0.7 * h, 7, color, 0, 0.25 * h, 0),
+    cone(0.32 * h, 0.6 * h, 7, color, 0, 0.6 * h, 0),
+    cone(0.2 * h, 0.5 * h, 7, color, 0, 0.92 * h, 0),
+  );
+}
+
+export function birch(h = 1): THREE.Group {
+  return group(
+    cyl(0.05 * h, 0.07 * h, 1.1 * h, 6, '#f5f5f4'),
+    box(0.11 * h, 0.04 * h, 0.11 * h, '#292524', 0, 0.35 * h, 0),
+    box(0.11 * h, 0.04 * h, 0.11 * h, '#292524', 0, 0.7 * h, 0),
+    sphere(0.38 * h, '#a3e635', 0, 1.2 * h, 0),
+  );
+}
+
+export function balloon(color: string, stripe: string): THREE.Group {
+  const env = mesh(new THREE.SphereGeometry(0.5, 12, 10), mat(color));
+  env.scale.set(1, 1.15, 1);
+  env.position.y = 1.0;
+  const band = mesh(new THREE.CylinderGeometry(0.51, 0.51, 0.18, 12), mat(stripe), 0, 1.0, 0);
+  band.scale.set(1, 1, 1);
+  const skirt = mesh(new THREE.ConeGeometry(0.3, 0.4, 10), mat(color), 0, 0.45, 0);
+  skirt.rotation.x = Math.PI;
+  const basket = box(0.22, 0.18, 0.22, '#92400e', 0, 0, 0);
+  return group(env, band, skirt, basket);
+}
+
+export function boat(hull: string, sail?: string): THREE.Group {
+  const g = group(box(0.9, 0.18, 0.32, hull, 0, 0, 0), box(0.6, 0.06, 0.26, '#fef3c7', 0, 0.18, 0));
+  if (sail) {
+    g.add(cyl(0.02, 0.02, 0.9, 4, '#78350f', 0, 0.18, 0));
+    const s = mesh(new THREE.ConeGeometry(0.32, 0.75, 3), mat(sail), 0.12, 0.62, 0);
+    s.scale.set(1, 1, 0.12);
+    g.add(s);
+  }
+  return g;
+}

@@ -19,6 +19,7 @@ import {
   strut,
   water,
 } from './kit';
+import { WORLD_BUILDERS } from './landmarksWorld';
 
 /**
  * Procedural low-poly landmarks, one per nation. Each builder returns a group that
@@ -539,6 +540,7 @@ const BUILDERS: Record<CountryId, () => THREE.Group> = {
   usa,
   mexico,
   brazil,
+  ...WORLD_BUILDERS,
 };
 
 export function buildLandmark(id: CountryId): THREE.Group {

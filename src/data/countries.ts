@@ -9,7 +9,22 @@ export type CountryId =
   | 'japan'
   | 'usa'
   | 'mexico'
-  | 'brazil';
+  | 'brazil'
+  | 'morocco'
+  | 'nigeria'
+  | 'ethiopia'
+  | 'kenya'
+  | 'south-africa'
+  | 'turkey'
+  | 'jordan'
+  | 'iran'
+  | 'uae'
+  | 'norway'
+  | 'sweden'
+  | 'denmark'
+  | 'iceland'
+  | 'australia'
+  | 'new-zealand';
 
 export interface Country {
   id: CountryId;
@@ -86,6 +101,81 @@ export const COUNTRIES: Country[] = [
     id: 'brazil', name: 'Brazil', iso: '076', flag: '🇧🇷', lat: -22.95, lon: -43.21,
     nickname: 'Rainforest & Rhythm', landmark: 'Christ the Redeemer',
     color: '#facc15', sky: ['#06b6d4', '#fef9c3'], ground: '#3fb36b', mapView: [-33.9, 5.4, -74.1, -34.7],
+  },
+  {
+    id: 'morocco', name: 'Morocco', iso: '504', flag: '🇲🇦', lat: 31.62, lon: -7.99,
+    nickname: 'Gateway of Sands and Souks', landmark: 'Koutoubia Minaret',
+    color: '#e11d48', sky: ['#fb923c', '#fde68a'], ground: '#e9b872', mapView: [27.6, 36, -13.4, -0.9],
+  },
+  {
+    id: 'nigeria', name: 'Nigeria', iso: '566', flag: '🇳🇬', lat: 9.08, lon: 7.4,
+    nickname: 'Giant of Africa', landmark: 'Zuma Rock',
+    color: '#16a34a', sky: ['#22c55e', '#fef08a'], ground: '#7ccf5f', mapView: [4.1, 14, 2.5, 14.8],
+  },
+  {
+    id: 'ethiopia', name: 'Ethiopia', iso: '231', flag: '🇪🇹', lat: 12.03, lon: 39.04,
+    nickname: 'Land of Origins', landmark: 'Lalibela & Aksum Stele',
+    color: '#ca8a04', sky: ['#f59e0b', '#fef3c7'], ground: '#93c45d', mapView: [3.3, 15, 32.8, 48.1],
+  },
+  {
+    id: 'kenya', name: 'Kenya', iso: '404', flag: '🇰🇪', lat: -1.29, lon: 36.82,
+    nickname: 'Cradle of Humankind', landmark: 'Savanna & Mount Kenya',
+    color: '#b91c1c', sky: ['#f97316', '#fde68a'], ground: '#c9b458', mapView: [-4.8, 5.6, 33.7, 42],
+  },
+  {
+    id: 'south-africa', name: 'South Africa', iso: '710', flag: '🇿🇦', lat: -33.92, lon: 18.42,
+    nickname: 'Rainbow Nation', landmark: 'Table Mountain',
+    color: '#0d9488', sky: ['#0ea5e9', '#fbcfe8'], ground: '#79c46a', mapView: [-35, -22, 16.3, 33],
+  },
+  {
+    id: 'turkey', name: 'Turkey', iso: '792', flag: '🇹🇷', lat: 41.01, lon: 28.98,
+    nickname: 'Bridge Between Continents', landmark: 'Hagia Sophia',
+    color: '#ef4444', sky: ['#60a5fa', '#fecdd3'], ground: '#a3cf6a', mapView: [35.7, 42.2, 25.6, 45],
+  },
+  {
+    id: 'jordan', name: 'Jordan', iso: '400', flag: '🇯🇴', lat: 30.33, lon: 35.44,
+    nickname: 'Kingdom of the Rose City', landmark: 'Petra Treasury',
+    color: '#be185d', sky: ['#f472b6', '#fed7aa'], ground: '#e7a77a', mapView: [29.1, 33.5, 34.8, 39.4],
+  },
+  {
+    id: 'iran', name: 'Iran', iso: '364', flag: '🇮🇷', lat: 32.65, lon: 51.67,
+    nickname: 'Heart of Ancient Persia', landmark: 'Shah Mosque, Isfahan',
+    color: '#0891b2', sky: ['#22d3ee', '#fef3c7'], ground: '#d8c08a', mapView: [24.9, 39.9, 43.9, 63.4],
+  },
+  {
+    id: 'uae', name: 'United Arab Emirates', iso: '784', flag: '🇦🇪', lat: 25.2, lon: 55.27,
+    nickname: 'Desert Skyline', landmark: 'Burj Khalifa',
+    color: '#7c3aed', sky: ['#8b5cf6', '#fed7aa'], ground: '#efc98a', mapView: [22.5, 26.2, 51.4, 56.5],
+  },
+  {
+    id: 'norway', name: 'Norway', iso: '578', flag: '🇳🇴', lat: 60.39, lon: 5.32,
+    nickname: 'Land of Fjords', landmark: 'Stave Church',
+    color: '#1d4ed8', sky: ['#38bdf8', '#e0f2fe'], ground: '#6fbf7a', mapView: [57.8, 71.3, 4.4, 31.3],
+  },
+  {
+    id: 'sweden', name: 'Sweden', iso: '752', flag: '🇸🇪', lat: 59.33, lon: 18.07,
+    nickname: 'Kingdom of Lakes and Forests', landmark: 'Dala Horse & Red Cottages',
+    color: '#2563eb', sky: ['#60a5fa', '#fef9c3'], ground: '#79c66d', mapView: [55.2, 69.2, 10.9, 24.3],
+  },
+  {
+    id: 'denmark', name: 'Denmark', iso: '208', flag: '🇩🇰', lat: 55.68, lon: 12.57,
+    nickname: 'Home of Hygge', landmark: 'Nyhavn & The Little Mermaid',
+    color: '#dc2626', sky: ['#93c5fd', '#fecaca'], ground: '#86cf73', mapView: [54.5, 57.8, 8, 13],
+  },
+  {
+    id: 'iceland', name: 'Iceland', iso: '352', flag: '🇮🇸', lat: 64.15, lon: -21.94,
+    nickname: 'Land of Fire and Ice', landmark: 'Hallgrímskirkja & Geysir',
+    color: '#0284c7', sky: ['#6366f1', '#a7f3d0'], ground: '#7fb88a', mapView: [63.2, 66.7, -24.7, -13.3],
+  },
+  {
+    id: 'australia', name: 'Australia', iso: '036', flag: '🇦🇺', lat: -33.86, lon: 151.21,
+    nickname: 'The Great Southern Land', landmark: 'Sydney Opera House',
+    color: '#f97316', sky: ['#0ea5e9', '#fde68a'], ground: '#d9a05b', mapView: [-44, -10.5, 112.5, 154],
+  },
+  {
+    id: 'new-zealand', name: 'New Zealand', iso: '554', flag: '🇳🇿', lat: -36.85, lon: 174.76,
+    nickname: 'Land of the Long White Cloud', landmark: 'Sky Tower & Southern Alps',
+    color: '#059669', sky: ['#38bdf8', '#d9f99d'], ground: '#5fbf6a', mapView: [-47.4, -34.3, 166.3, 178.7],
   },
 ];
 

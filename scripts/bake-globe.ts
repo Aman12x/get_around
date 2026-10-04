@@ -84,10 +84,20 @@ const roundGeom = (g: Geometry): Geometry => {
   }
   return g;
 };
+// A few ids are shared (Australia and the tiny Ashmore and Cartier Islands are both 036):
+// keep the largest feature per id so outlines and map crops use the mainland.
+const size = (f: CountryFeature) => JSON.stringify(f.geometry ?? '').length;
+const mainland = new Map<string, CountryFeature>();
+for (const f of features) {
+  const id = String(f.id);
+  if (!playable.has(id)) continue;
+  const prev = mainland.get(id);
+  if (!prev || size(f) > size(prev)) mainland.set(id, f);
+}
 const shapes = {
   type: 'FeatureCollection',
-  features: features
-    .filter((f) => playable.has(String(f.id)))
+  features: [...mainland.values()]
+    .sort((a, b) => String(a.id).localeCompare(String(b.id)))
     .map((f) => ({ type: 'Feature', id: String(f.id), properties: {}, geometry: roundGeom(f.geometry) })),
 };
 const shapesJson = JSON.stringify(shapes) + '\n';
