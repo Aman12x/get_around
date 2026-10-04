@@ -34,7 +34,7 @@
         "q": "In what year did Mexico achieve independence from Spain?",
         "choices": ["1810", "1836", "1848", "1821"],
         "answer": 3,
-        "fact": "The Army of the Three Guarantees entered Mexico City in September 1821, and its leader Agustín de Iturbide soon crowned himself emperor.",
+        "fact": "The Army of the Three Guarantees entered Mexico City in September 1821, and its leader Agustín de Iturbide was crowned emperor the following year.",
         "difficulty": 2
       },
       {
@@ -90,7 +90,7 @@
         "q": "Which ancient civilization carved the colossal stone heads found on Mexico's Gulf Coast?",
         "choices": ["Maya", "Olmec", "Aztec", "Toltec"],
         "answer": 1,
-        "fact": "Seventeen colossal heads are known; the largest stand nearly 3 m (10 ft) tall and were carved from single basalt boulders.",
+        "fact": "Seventeen colossal heads are known, each carved from a single basalt boulder; the largest stands about 3.4 m (11 ft) tall.",
         "difficulty": 1
       },
       {
@@ -716,7 +716,7 @@
         "answer": 1,
         "fact": "A former mayor of Mexico City, Sheinbaum also holds a PhD in energy engineering.",
         "difficulty": 1,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "Which president did Claudia Sheinbaum succeed when she took office on 1 October 2024?",
@@ -724,7 +724,7 @@
         "answer": 2,
         "fact": "López Obrador, president from 2018 to 2024, is widely known by his initials, AMLO.",
         "difficulty": 1,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "Which Mexican boxer became the first undisputed super middleweight world champion in November 2021?",
@@ -732,7 +732,7 @@
         "answer": 0,
         "fact": "Nicknamed \"Canelo\" (cinnamon) for his red hair, Álvarez collected all four major belts by beating Caleb Plant in Las Vegas.",
         "difficulty": 1,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Which rail project, whose first section opened in December 2023, loops through the Yucatán Peninsula?",
@@ -740,7 +740,7 @@
         "answer": 3,
         "fact": "Its roughly 1,550 km route links Chiapas, Tabasco, Campeche, Yucatán and Quintana Roo, passing near Maya archaeological sites.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Which hurricane struck Acapulco as a Category 5 storm in October 2023?",
@@ -748,15 +748,15 @@
         "answer": 1,
         "fact": "Otis exploded from a tropical storm into a Category 5 hurricane in roughly a day, leaving little time to prepare.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Which Mexico City stadium was chosen in 2024 to host the opening match of the 2026 FIFA World Cup?",
         "choices": ["Estadio Azteca", "Estadio Olímpico Universitario", "Estadio Jalisco", "Estadio BBVA"],
         "answer": 0,
-        "fact": "Estadio Azteca hosted the 1970 and 1986 World Cup finals, making it the first stadium set to stage matches at three men's World Cups.",
+        "fact": "Estadio Azteca hosted the 1970 and 1986 World Cup finals, and in June 2026 it became the first stadium to stage matches at three men's World Cups.",
         "difficulty": 2,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "Under a constitutional reform approved in 2024, how are Mexico's federal judges, including Supreme Court justices, chosen?",
@@ -764,7 +764,7 @@
         "answer": 2,
         "fact": "Mexico held its first nationwide judicial elections in June 2025.",
         "difficulty": 2,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "Which Mexican driver finished runner-up in the 2023 Formula One World Drivers' Championship?",
@@ -772,7 +772,7 @@
         "answer": 3,
         "fact": "\"Checo\" Pérez's second place behind teammate Max Verstappen was the best F1 championship finish ever by a Mexican driver.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Which international airport near Mexico City opened in March 2022?",
@@ -780,7 +780,7 @@
         "answer": 1,
         "fact": "Built at the Santa Lucía air base, the airport is named after Felipe Ángeles, a general of the Mexican Revolution.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In 2022, Mexico reserved the exploitation of which mineral to the state, creating the company LitioMx?",
@@ -788,7 +788,7 @@
         "answer": 2,
         "fact": "Lithium is a key ingredient in rechargeable batteries for phones and electric cars.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Which black-and-white film won Alfonso Cuarón the Oscar for Best Director in February 2019?",
@@ -796,7 +796,7 @@
         "answer": 3,
         "fact": "Named after Mexico City's Colonia Roma, it also won Best Foreign Language Film, a first for Mexico.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Before winning the presidency, Claudia Sheinbaum served from 2018 to 2023 as head of government of which city?",
@@ -804,7 +804,7 @@
         "answer": 0,
         "fact": "Sheinbaum is also a scientist with a PhD in energy engineering who contributed to reports of the UN's climate panel, the IPCC.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Which trade agreement replaced NAFTA when it entered into force in July 2020?",
@@ -812,7 +812,7 @@
         "answer": 3,
         "fact": "Known in Mexico as T-MEC, it updated NAFTA with new rules on car parts, labor rights and digital trade.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Which Mexican drug lord was convicted by a US federal jury in New York in February 2019?",
@@ -820,7 +820,7 @@
         "answer": 3,
         "fact": "He was sentenced to life in prison plus 30 years and is held at the ADX Florence supermax prison in Colorado.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Which volcano near Mexico City erupted repeatedly in May 2023, briefly closing nearby airports?",
@@ -828,7 +828,7 @@
         "answer": 0,
         "fact": "Its name means \"Smoking Mountain\" in Nahuatl; at about 5,400 m it is Mexico's second-highest peak.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Which new national security force did Mexico create in 2019?",
@@ -836,7 +836,7 @@
         "answer": 1,
         "fact": "It absorbed the Federal Police, which was dissolved; a 2024 reform placed the Guard under the Defense Ministry.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Who finished second to Claudia Sheinbaum in Mexico's June 2024 presidential election?",
@@ -844,7 +844,7 @@
         "answer": 0,
         "fact": "Gálvez, a senator and engineer of Otomí heritage, ran for an opposition coalition of the PAN, PRI and PRD.",
         "difficulty": 2,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "In June 2022, Katya Echazarreta became the first Mexican-born woman in space aboard a rocket from which company?",
@@ -852,7 +852,7 @@
         "answer": 2,
         "fact": "The electrical engineer flew on a suborbital New Shepard flight from West Texas.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In June 2019, Andy Ruiz Jr. became the first boxer of Mexican descent to win a world heavyweight title by beating whom?",
@@ -860,7 +860,7 @@
         "answer": 1,
         "fact": "Ruiz, born in California to Mexican parents, won by seventh-round stoppage at Madison Square Garden.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Which former Bolivian president received political asylum in Mexico in November 2019?",
@@ -868,7 +868,7 @@
         "answer": 2,
         "fact": "Morales stayed in Mexico only about a month before moving on to Argentina in December 2019.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Which new Pemex oil refinery in Paraíso, Tabasco, was inaugurated in July 2022?",
@@ -876,7 +876,7 @@
         "answer": 1,
         "fact": "Tabasco, where the refinery was built, is the home state of then-president Andrés Manuel López Obrador.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Mexico won the 2023 CONCACAF Gold Cup by beating which team in the final?",
@@ -884,7 +884,7 @@
         "answer": 1,
         "fact": "Santiago Giménez scored the only goal at SoFi Stadium near Los Angeles, giving Mexico a record ninth Gold Cup title.",
         "difficulty": 3,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "A 2019 constitutional reform in Mexico required what across all branches and levels of government?",
@@ -892,7 +892,7 @@
         "answer": 0,
         "fact": "Known as \"parity in everything,\" it covers cabinets, courts, legislatures and candidacies at every level of government.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "A constitutional reform approved in late 2024 abolished which Mexican autonomous transparency and data-protection institute?",
@@ -900,7 +900,7 @@
         "answer": 3,
         "fact": "Its duties were transferred to government bodies, including a new Anti-Corruption and Good Government ministry.",
         "difficulty": 3,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "Which historic airline was relaunched in December 2023 as a state-owned carrier run by the armed forces?",
@@ -908,7 +908,7 @@
         "answer": 2,
         "fact": "The original Mexicana, founded in 1921, was one of the world's oldest airlines before it stopped flying in 2010.",
         "difficulty": 3,
-        "asOf": "2023"
+        "asOf": "2026"
       }
     ],
     "general": [

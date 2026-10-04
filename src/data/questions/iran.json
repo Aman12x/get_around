@@ -738,7 +738,7 @@
         "q": "In March 2025, Iran qualified for which FIFA World Cup?",
         "choices": ["2014", "2018", "2022", "2026"],
         "answer": 3,
-        "fact": "It will be Iran's seventh World Cup and its fourth in a row since 2014.",
+        "fact": "It was the seventh time Iran had qualified for a World Cup, and the fourth in a row since 2014.",
         "difficulty": 1,
         "asOf": "2025"
       },
@@ -826,7 +826,7 @@
         "q": "On 1 January 2024, Iran officially joined which group of emerging economies, alongside Egypt, Ethiopia and the UAE?",
         "choices": ["G20", "ASEAN", "BRICS", "OPEC"],
         "answer": 2,
-        "fact": "The group is named after its first members: Brazil, Russia, India, China and South Africa.",
+        "fact": "The name comes from its five members before 2024: Brazil, Russia, India and China, which founded it, and South Africa, which joined in 2010.",
         "difficulty": 2,
         "asOf": "2024"
       },

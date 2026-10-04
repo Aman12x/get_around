@@ -195,7 +195,7 @@
       },
       {
         "q": "Who invented a raised-dot reading and writing system for blind people?",
-        "choices": ["Valentin Haüy", "Charles Barbier", "Samuel Morse", "Louis Braille"],
+        "choices": ["Valentin Haüy", "Thomas Gallaudet", "Samuel Morse", "Louis Braille"],
         "answer": 3,
         "fact": "Louis Braille lost his sight after an accident in his father's workshop at the age of three. He created his system as a teenager.",
         "difficulty": 1
@@ -834,7 +834,7 @@
         "q": "Which striker overtook Thierry Henry in December 2022 to become France's all-time top goalscorer?",
         "choices": ["Antoine Griezmann", "Olivier Giroud", "Kylian Mbappé", "Michel Platini"],
         "answer": 1,
-        "fact": "Giroud retired from international football after Euro 2024 with 57 goals for France.",
+        "fact": "Giroud retired from international football after Euro 2024 with 57 goals for France. Kylian Mbappé broke his record at the 2026 World Cup.",
         "difficulty": 2,
         "asOf": "2022"
       },

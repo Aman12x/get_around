@@ -786,7 +786,7 @@
         "q": "How many gold medals did China win at the 2024 Paris Olympics, level with the United States for the most?",
         "choices": ["32", "38", "48", "40"],
         "answer": 3,
-        "fact": "At Paris 2024 China's divers won all eight Olympic diving events, the first clean sweep of the sport at a single Games.",
+        "fact": "At Paris 2024 China's divers won all eight Olympic diving events, the first full sweep since the programme grew to eight events in 2000.",
         "difficulty": 3,
         "asOf": "2024"
       },

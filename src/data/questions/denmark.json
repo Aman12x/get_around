@@ -458,7 +458,7 @@
         "q": "Which Danish architect designed CopenHill, a waste-to-energy plant with a ski slope on its roof?",
         "choices": ["Jørn Utzon", "Henning Larsen", "Arne Jacobsen", "Bjarke Ingels"],
         "answer": 3,
-        "fact": "The plant, opened in 2019, burns city waste to make electricity and heat for Copenhagen homes.",
+        "fact": "The plant began burning city waste in 2017 and its rooftop ski slope opened in 2019; it makes electricity and heat for Copenhagen homes.",
         "difficulty": 2
       },
       {
@@ -762,9 +762,9 @@
         "q": "Which Danish cyclist won the Tour de France in both 2022 and 2023?",
         "choices": ["Mads Pedersen", "Jakob Fuglsang", "Mattias Skjelmose", "Jonas Vingegaard"],
         "answer": 3,
-        "fact": "Vingegaard also finished second to Tadej Pogačar in 2021 and 2024.",
+        "fact": "Vingegaard also finished second to Tadej Pogačar in 2021, 2024 and 2025.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2025"
       },
       {
         "q": "Which Danish city hosted the Grand Départ, the opening stages, of the 2022 Tour de France?",
@@ -1033,7 +1033,7 @@
       },
       {
         "q": "At Grenen, near Skagen at Denmark's northern tip, which two seas meet?",
-        "choices": ["The North Sea and the Baltic", "The Wadden Sea and the North Sea", "The Skagerrak and the Kattegat", "The Kattegat and the Øresund"],
+        "choices": ["The Øresund and the Baltic", "The Wadden Sea and the North Sea", "The Skagerrak and the Kattegat", "The Kattegat and the Øresund"],
         "answer": 2,
         "fact": "Visitors can stand with one foot in each sea as the waves clash over the sandbar.",
         "difficulty": 2

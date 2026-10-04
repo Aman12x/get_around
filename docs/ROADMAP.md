@@ -66,7 +66,8 @@ How it scales: the server keeps no state between requests, so you can add Railwa
   - [x] Northern Lights: Denmark, Sweden, Norway and Iceland.
   - [x] Under the Southern Cross: South Africa, Australia, New Zealand and Brazil.
 - [ ] A "Report question" button that writes to a `question_reports` table, plus an admin review page.
-- [ ] Review dates for Current Affairs questions so stale ones show up.
+- [x] Fact-checking: every question, timeline event and map place was reviewed in October 2026 (26 fixes); `npm run factcheck` re-checks any bank with Claude and web search, and an eval with real and planted errors measures the checker.
+- [x] Current Affairs stays current: a GitHub Action on the 1st and 15th of each month opens a PR that rewrites outdated questions and adds fresh ones, each confirmed by a separate fact-check.
 - [ ] Per-question answer stats (an `events` table) to find confusing or too-hard questions.
 
 When Phase 2 adds accounts, the save's `rewards` section, the per-level scores and the recently-seen list move to the server together with journeys.

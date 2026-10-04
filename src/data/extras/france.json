@@ -14,7 +14,7 @@
     { "event": "Revolutionaries storm the Bastille", "year": 1789, "label": "1789", "difficulty": 1 },
     { "event": "Napoleon crowns himself Emperor at Notre-Dame", "year": 1804, "label": "1804", "difficulty": 1 },
     { "event": "The Eiffel Tower is completed for the World's Fair", "year": 1889, "label": "1889", "difficulty": 1 },
-    { "event": "The Lumière brothers hold the first paid public film screening", "year": 1895, "label": "1895", "difficulty": 2 },
+    { "event": "The Lumière brothers hold their first paid public film screening in Paris", "year": 1895, "label": "1895", "difficulty": 2 },
     { "event": "The First World War armistice is signed in a railway carriage at Compiègne", "year": 1918, "label": "1918", "difficulty": 2 },
     { "event": "Allied troops land on the beaches of Normandy on D-Day", "year": 1944, "label": "1944", "difficulty": 1 },
     { "event": "Charles de Gaulle founds the Fifth Republic", "year": 1958, "label": "1958", "difficulty": 2 },

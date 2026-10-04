@@ -1,0 +1,868 @@
+[
+  {
+    "country": "australia",
+    "kind": "question",
+    "topic": "history",
+    "index": 14,
+    "severity": "minor",
+    "before": {
+      "q": "The 1808 Rum Rebellion in Sydney overthrew which governor?",
+      "choices": [
+        "Arthur Phillip",
+        "Lachlan Macquarie",
+        "William Bligh",
+        "Philip Gidley King"
+      ],
+      "answer": 2,
+      "fact": "It was the second time Bligh lost command to rebels: in 1789 his crew had seized HMS Bounty in a famous mutiny.",
+      "difficulty": 2
+    },
+    "after": {
+      "q": "The 1808 Rum Rebellion in Sydney overthrew which governor?",
+      "choices": [
+        "Arthur Phillip",
+        "Lachlan Macquarie",
+        "William Bligh",
+        "Philip Gidley King"
+      ],
+      "answer": 2,
+      "fact": "Bligh was no stranger to rebellion: in 1789 his crew had seized HMS Bounty in a famous mutiny.",
+      "difficulty": 2
+    },
+    "reason": "Rum Rebellion was not Bligh's second loss of command: his crew on HMS Director also mutinied in the 1797 Nore mutiny.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "china",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 9,
+    "severity": "false_claim",
+    "before": {
+      "q": "How many gold medals did China win at the 2024 Paris Olympics, level with the United States for the most?",
+      "choices": [
+        "32",
+        "38",
+        "48",
+        "40"
+      ],
+      "answer": 3,
+      "fact": "At Paris 2024 China's divers won all eight Olympic diving events, the first clean sweep of the sport at a single Games.",
+      "difficulty": 3,
+      "asOf": "2024"
+    },
+    "after": {
+      "q": "How many gold medals did China win at the 2024 Paris Olympics, level with the United States for the most?",
+      "choices": [
+        "32",
+        "38",
+        "48",
+        "40"
+      ],
+      "answer": 3,
+      "fact": "At Paris 2024 China's divers won all eight Olympic diving events, the first full sweep since the programme grew to eight events in 2000.",
+      "difficulty": 3,
+      "asOf": "2024"
+    },
+    "reason": "China's 2024 diving sweep was not the first clean sweep of Olympic diving (the US won every diving event at e.g. 1932 and 1948); it was the first since the programme expanded to eight events in 2000.",
+    "source": "https://www.olympics.com/en/news/paris-2024-diving-cao-yuan-wins-mens-10m-platform"
+  },
+  {
+    "country": "denmark",
+    "kind": "question",
+    "topic": "art",
+    "index": 14,
+    "severity": "minor",
+    "before": {
+      "q": "Which Danish architect designed CopenHill, a waste-to-energy plant with a ski slope on its roof?",
+      "choices": [
+        "Jørn Utzon",
+        "Henning Larsen",
+        "Arne Jacobsen",
+        "Bjarke Ingels"
+      ],
+      "answer": 3,
+      "fact": "The plant, opened in 2019, burns city waste to make electricity and heat for Copenhagen homes.",
+      "difficulty": 2
+    },
+    "after": {
+      "q": "Which Danish architect designed CopenHill, a waste-to-energy plant with a ski slope on its roof?",
+      "choices": [
+        "Jørn Utzon",
+        "Henning Larsen",
+        "Arne Jacobsen",
+        "Bjarke Ingels"
+      ],
+      "answer": 3,
+      "fact": "The plant began burning city waste in 2017 and its rooftop ski slope opened in 2019; it makes electricity and heat for Copenhagen homes.",
+      "difficulty": 2
+    },
+    "reason": "The CopenHill (Amager Bakke) plant started operating in 2017; only the rooftop ski slope/park opened in 2019.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "denmark",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 6,
+    "severity": "outdated",
+    "before": {
+      "q": "Which Danish cyclist won the Tour de France in both 2022 and 2023?",
+      "choices": [
+        "Mads Pedersen",
+        "Jakob Fuglsang",
+        "Mattias Skjelmose",
+        "Jonas Vingegaard"
+      ],
+      "answer": 3,
+      "fact": "Vingegaard also finished second to Tadej Pogačar in 2021 and 2024.",
+      "difficulty": 1,
+      "asOf": "2023"
+    },
+    "after": {
+      "q": "Which Danish cyclist won the Tour de France in both 2022 and 2023?",
+      "choices": [
+        "Mads Pedersen",
+        "Jakob Fuglsang",
+        "Mattias Skjelmose",
+        "Jonas Vingegaard"
+      ],
+      "answer": 3,
+      "fact": "Vingegaard also finished second to Tadej Pogačar in 2021, 2024 and 2025.",
+      "difficulty": 1,
+      "asOf": "2025"
+    },
+    "reason": "Vingegaard was also runner-up to Pogačar in the 2025 Tour, so listing only 2021 and 2024 was incomplete; asOf updated to 2025.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "denmark",
+    "kind": "question",
+    "topic": "general",
+    "index": 17,
+    "severity": "ambiguous",
+    "before": {
+      "q": "At Grenen, near Skagen at Denmark's northern tip, which two seas meet?",
+      "choices": [
+        "The North Sea and the Baltic",
+        "The Wadden Sea and the North Sea",
+        "The Skagerrak and the Kattegat",
+        "The Kattegat and the Øresund"
+      ],
+      "answer": 2,
+      "fact": "Visitors can stand with one foot in each sea as the waves clash over the sandbar.",
+      "difficulty": 2
+    },
+    "after": {
+      "q": "At Grenen, near Skagen at Denmark's northern tip, which two seas meet?",
+      "choices": [
+        "The Øresund and the Baltic",
+        "The Wadden Sea and the North Sea",
+        "The Skagerrak and the Kattegat",
+        "The Kattegat and the Øresund"
+      ],
+      "answer": 2,
+      "fact": "Visitors can stand with one foot in each sea as the waves clash over the sandbar.",
+      "difficulty": 2
+    },
+    "reason": "Grenen is widely described (e.g. by tourism sources) as where the North Sea meets the Baltic, so that distractor was also defensible; replaced with a clearly wrong pair.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "france",
+    "kind": "question",
+    "topic": "technology",
+    "index": 2,
+    "severity": "ambiguous",
+    "before": {
+      "q": "Who invented a raised-dot reading and writing system for blind people?",
+      "choices": [
+        "Valentin Haüy",
+        "Charles Barbier",
+        "Samuel Morse",
+        "Louis Braille"
+      ],
+      "answer": 3,
+      "fact": "Louis Braille lost his sight after an accident in his father's workshop at the age of three. He created his system as a teenager.",
+      "difficulty": 1
+    },
+    "after": {
+      "q": "Who invented a raised-dot reading and writing system for blind people?",
+      "choices": [
+        "Valentin Haüy",
+        "Thomas Gallaudet",
+        "Samuel Morse",
+        "Louis Braille"
+      ],
+      "answer": 3,
+      "fact": "Louis Braille lost his sight after an accident in his father's workshop at the age of three. He created his system as a teenager.",
+      "difficulty": 1
+    },
+    "reason": "Distractor Charles Barbier also devised a raised-dot ('night writing') system that was presented for use by blind people, so it was arguably also correct; replaced with Thomas Gallaudet.",
+    "source": "https://en.wikipedia.org/wiki/Charles_Barbier"
+  },
+  {
+    "country": "france",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 15,
+    "severity": "outdated",
+    "before": {
+      "q": "Which striker overtook Thierry Henry in December 2022 to become France's all-time top goalscorer?",
+      "choices": [
+        "Antoine Griezmann",
+        "Olivier Giroud",
+        "Kylian Mbappé",
+        "Michel Platini"
+      ],
+      "answer": 1,
+      "fact": "Giroud retired from international football after Euro 2024 with 57 goals for France.",
+      "difficulty": 2,
+      "asOf": "2022"
+    },
+    "after": {
+      "q": "Which striker overtook Thierry Henry in December 2022 to become France's all-time top goalscorer?",
+      "choices": [
+        "Antoine Griezmann",
+        "Olivier Giroud",
+        "Kylian Mbappé",
+        "Michel Platini"
+      ],
+      "answer": 1,
+      "fact": "Giroud retired from international football after Euro 2024 with 57 goals for France. Kylian Mbappé broke his record at the 2026 World Cup.",
+      "difficulty": 2,
+      "asOf": "2022"
+    },
+    "reason": "Mbappé overtook Giroud's 57-goal record at the June 2026 World Cup, so the fact implied Giroud is still the record holder; added that update.",
+    "source": "https://businessday.ng/sports/article/world-cup-2026-kylian-mbappe-becomes-frances-all-time-top-scorer/"
+  },
+  {
+    "country": "france",
+    "kind": "timeline",
+    "topic": null,
+    "index": 13,
+    "severity": "false_claim",
+    "before": {
+      "event": "The Lumière brothers hold the first paid public film screening",
+      "year": 1895,
+      "label": "1895",
+      "difficulty": 2
+    },
+    "after": {
+      "event": "The Lumière brothers hold their first paid public film screening in Paris",
+      "year": 1895,
+      "label": "1895",
+      "difficulty": 2
+    },
+    "reason": "The Lumières' 28 Dec 1895 show was not the first paid public film screening (Latham's Eidoloscope in New York and Skladanowsky's Bioscop in Berlin charged admission earlier in 1895); reworded to 'their first'.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "greece",
+    "kind": "question",
+    "topic": "technology",
+    "index": 8,
+    "severity": "minor",
+    "before": {
+      "q": "Opened in 1893, the Corinth Canal links the Gulf of Corinth with which other gulf?",
+      "choices": [
+        "Thermaic Gulf",
+        "Argolic Gulf",
+        "Pagasetic Gulf",
+        "Saronic Gulf"
+      ],
+      "answer": 3,
+      "fact": "About 6.4 km long and only about 21 m wide at water level, the canal realised a project first attempted by Emperor Nero in 67 CE.",
+      "difficulty": 3
+    },
+    "after": {
+      "q": "Opened in 1893, the Corinth Canal links the Gulf of Corinth with which other gulf?",
+      "choices": [
+        "Thermaic Gulf",
+        "Argolic Gulf",
+        "Pagasetic Gulf",
+        "Saronic Gulf"
+      ],
+      "answer": 3,
+      "fact": "About 6.4 km long and only about 25 m wide at water level, the canal realised a project first attempted by Emperor Nero in 67 CE.",
+      "difficulty": 3
+    },
+    "reason": "The canal is about 24.6 m wide at water level (21.3 m at the bottom), not 21 m at water level.",
+    "source": "https://corinthcanal.com/the-canal/?lang=en"
+  },
+  {
+    "country": "iceland",
+    "kind": "question",
+    "topic": "art",
+    "index": 1,
+    "severity": "minor",
+    "before": {
+      "q": "Which Icelandic singer, formerly of The Sugarcubes, released the solo album 'Debut' in 1993?",
+      "choices": [
+        "Emilíana Torrini",
+        "Björk",
+        "Laufey",
+        "Lykke Li"
+      ],
+      "answer": 1,
+      "fact": "Björk released her first album at the age of 11 and later won Cannes' best actress award for 'Dancer in the Dark'.",
+      "difficulty": 1
+    },
+    "after": {
+      "q": "Which Icelandic singer, formerly of The Sugarcubes, released the solo album 'Debut' in 1993?",
+      "choices": [
+        "Emilíana Torrini",
+        "Björk",
+        "Laufey",
+        "Lykke Li"
+      ],
+      "answer": 1,
+      "fact": "Björk recorded her first album at the age of 11 and later won Cannes' best actress award for 'Dancer in the Dark'.",
+      "difficulty": 1
+    },
+    "reason": "Björk's 1977 debut was recorded when she was 11 but released in December 1977, after she had turned 12, so 'released at 11' is inaccurate.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "iran",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 14,
+    "severity": "minor",
+    "before": {
+      "q": "On 1 January 2024, Iran officially joined which group of emerging economies, alongside Egypt, Ethiopia and the UAE?",
+      "choices": [
+        "G20",
+        "ASEAN",
+        "BRICS",
+        "OPEC"
+      ],
+      "answer": 2,
+      "fact": "The group is named after its first members: Brazil, Russia, India, China and South Africa.",
+      "difficulty": 2,
+      "asOf": "2024"
+    },
+    "after": {
+      "q": "On 1 January 2024, Iran officially joined which group of emerging economies, alongside Egypt, Ethiopia and the UAE?",
+      "choices": [
+        "G20",
+        "ASEAN",
+        "BRICS",
+        "OPEC"
+      ],
+      "answer": 2,
+      "fact": "The name comes from its five members before 2024: Brazil, Russia, India and China, which founded it, and South Africa, which joined in 2010.",
+      "difficulty": 2,
+      "asOf": "2024"
+    },
+    "reason": "BRIC's founding members were Brazil, Russia, India and China; South Africa joined in 2010, so it was not one of the 'first members'.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "iran",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 3,
+    "severity": "outdated",
+    "before": {
+      "q": "In March 2025, Iran qualified for which FIFA World Cup?",
+      "choices": [
+        "2014",
+        "2018",
+        "2022",
+        "2026"
+      ],
+      "answer": 3,
+      "fact": "It will be Iran's seventh World Cup and its fourth in a row since 2014.",
+      "difficulty": 1,
+      "asOf": "2025"
+    },
+    "after": {
+      "q": "In March 2025, Iran qualified for which FIFA World Cup?",
+      "choices": [
+        "2014",
+        "2018",
+        "2022",
+        "2026"
+      ],
+      "answer": 3,
+      "fact": "It was the seventh time Iran had qualified for a World Cup, and the fourth in a row since 2014.",
+      "difficulty": 1,
+      "asOf": "2025"
+    },
+    "reason": "The 2026 World Cup has now been played, so \"It will be\" is stale; reworded to the qualification count, which holds either way.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "italy",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 12,
+    "severity": "false_claim",
+    "before": {
+      "q": "In 2021, Italy banned large cruise ships from sailing into the historic centre of which city?",
+      "choices": [
+        "Genoa",
+        "Naples",
+        "Venice",
+        "Trieste"
+      ],
+      "answer": 2,
+      "fact": "The ban took effect in August 2021, shortly before UNESCO was due to consider adding the city to its list of World Heritage in Danger.",
+      "difficulty": 1,
+      "asOf": "2021"
+    },
+    "after": {
+      "q": "In 2021, Italy banned large cruise ships from sailing into the historic centre of which city?",
+      "choices": [
+        "Genoa",
+        "Naples",
+        "Venice",
+        "Trieste"
+      ],
+      "answer": 2,
+      "fact": "Approved in July 2021 to take effect that August, the ban came days before UNESCO was due to consider adding the city to its list of World Heritage in Danger.",
+      "difficulty": 1,
+      "asOf": "2021"
+    },
+    "reason": "The ban was decreed on 13 July 2021 and took effect 1 August, after (not before) UNESCO's 15-23 July committee session considered Venice's endangered listing.",
+    "source": "https://www.theartnewspaper.com/2021/07/14/italy-bans-cruise-ships-from-the-venice-lagoon-from-1-august"
+  },
+  {
+    "country": "italy",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 16,
+    "severity": "outdated",
+    "before": {
+      "q": "Which country knocked Italy, the reigning European champions, out of World Cup qualifying in a March 2022 play-off?",
+      "choices": [
+        "Sweden",
+        "Switzerland",
+        "North Macedonia",
+        "Portugal"
+      ],
+      "answer": 2,
+      "fact": "Having lost a play-off to Sweden for the 2018 tournament, Italy missed two World Cups in a row for the first time.",
+      "difficulty": 2,
+      "asOf": "2022"
+    },
+    "after": {
+      "q": "Which country knocked Italy, the reigning European champions, out of World Cup qualifying in a March 2022 play-off?",
+      "choices": [
+        "Sweden",
+        "Switzerland",
+        "North Macedonia",
+        "Portugal"
+      ],
+      "answer": 2,
+      "fact": "Having lost a play-off to Sweden for the 2018 tournament, Italy missed two World Cups in a row for the first time; a 2026 play-off loss to Bosnia and Herzegovina made it three.",
+      "difficulty": 2,
+      "asOf": "2026"
+    },
+    "reason": "Italy has since missed a third straight World Cup, losing the March 2026 play-off final to Bosnia and Herzegovina on penalties.",
+    "source": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/european-qualifiers-play-off-final-review"
+  },
+  {
+    "country": "mexico",
+    "kind": "question",
+    "topic": "history",
+    "index": 4,
+    "severity": "minor",
+    "before": {
+      "q": "In what year did Mexico achieve independence from Spain?",
+      "choices": [
+        "1810",
+        "1836",
+        "1848",
+        "1821"
+      ],
+      "answer": 3,
+      "fact": "The Army of the Three Guarantees entered Mexico City in September 1821, and its leader Agustín de Iturbide soon crowned himself emperor.",
+      "difficulty": 2
+    },
+    "after": {
+      "q": "In what year did Mexico achieve independence from Spain?",
+      "choices": [
+        "1810",
+        "1836",
+        "1848",
+        "1821"
+      ],
+      "answer": 3,
+      "fact": "The Army of the Three Guarantees entered Mexico City in September 1821, and its leader Agustín de Iturbide was crowned emperor the following year.",
+      "difficulty": 2
+    },
+    "reason": "Iturbide did not crown himself; he was proclaimed by Congress and crowned in July 1822 (crown placed by Congress president).",
+    "source": "model knowledge"
+  },
+  {
+    "country": "mexico",
+    "kind": "question",
+    "topic": "history",
+    "index": 12,
+    "severity": "minor",
+    "before": {
+      "q": "Which ancient civilization carved the colossal stone heads found on Mexico's Gulf Coast?",
+      "choices": [
+        "Maya",
+        "Olmec",
+        "Aztec",
+        "Toltec"
+      ],
+      "answer": 1,
+      "fact": "Seventeen colossal heads are known; the largest stand nearly 3 m (10 ft) tall and were carved from single basalt boulders.",
+      "difficulty": 1
+    },
+    "after": {
+      "q": "Which ancient civilization carved the colossal stone heads found on Mexico's Gulf Coast?",
+      "choices": [
+        "Maya",
+        "Olmec",
+        "Aztec",
+        "Toltec"
+      ],
+      "answer": 1,
+      "fact": "Seventeen colossal heads are known, each carved from a single basalt boulder; the largest stands about 3.4 m (11 ft) tall.",
+      "difficulty": 1
+    },
+    "reason": "The largest colossal head (La Cobata) is about 3.4 m tall, not under 3 m.",
+    "source": "https://en.wikipedia.org/wiki/Olmec_colossal_heads"
+  },
+  {
+    "country": "mexico",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 5,
+    "severity": "outdated",
+    "before": {
+      "q": "Which Mexico City stadium was chosen in 2024 to host the opening match of the 2026 FIFA World Cup?",
+      "choices": [
+        "Estadio Azteca",
+        "Estadio Olímpico Universitario",
+        "Estadio Jalisco",
+        "Estadio BBVA"
+      ],
+      "answer": 0,
+      "fact": "Estadio Azteca hosted the 1970 and 1986 World Cup finals, making it the first stadium set to stage matches at three men's World Cups.",
+      "difficulty": 2,
+      "asOf": "2024"
+    },
+    "after": {
+      "q": "Which Mexico City stadium was chosen in 2024 to host the opening match of the 2026 FIFA World Cup?",
+      "choices": [
+        "Estadio Azteca",
+        "Estadio Olímpico Universitario",
+        "Estadio Jalisco",
+        "Estadio BBVA"
+      ],
+      "answer": 0,
+      "fact": "Estadio Azteca hosted the 1970 and 1986 World Cup finals, and in June 2026 it became the first stadium to stage matches at three men's World Cups.",
+      "difficulty": 2,
+      "asOf": "2026"
+    },
+    "reason": "The 2026 opener (Mexico 2-0 South Africa, 11 June 2026) has now been played, so \"set to\" is outdated.",
+    "source": "https://www.euronews.com/2026/06/10/mexico-city-counts-down-to-2026-world-cup-opener-at-historic-azteca-stadium"
+  },
+  {
+    "country": "new-zealand",
+    "kind": "question",
+    "topic": "technology",
+    "index": 21,
+    "severity": "ambiguous",
+    "before": {
+      "q": "Which fossilised resin was dug from Northland fields in the 1800s and exported to make varnish?",
+      "choices": [
+        "Copal",
+        "Rimu resin",
+        "Amber",
+        "Kauri gum"
+      ],
+      "answer": 3,
+      "fact": "Thousands of gumdiggers, many from Dalmatia in today's Croatia, worked the northern gumfields.",
+      "difficulty": 3
+    },
+    "after": {
+      "q": "Which fossilised resin was dug from Northland fields in the 1800s and exported to make varnish?",
+      "choices": [
+        "Shellac",
+        "Rimu resin",
+        "Amber",
+        "Kauri gum"
+      ],
+      "answer": 3,
+      "fact": "Thousands of gumdiggers, many from Dalmatia in today's Croatia, worked the northern gumfields.",
+      "difficulty": 3
+    },
+    "reason": "Kauri gum is itself a copal resin (often called 'kauri copal'), so the distractor 'Copal' was defensibly correct; replaced with Shellac.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "new-zealand",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 7,
+    "severity": "outdated",
+    "before": {
+      "q": "Which team won the women's Rugby World Cup final at Eden Park in November 2022?",
+      "choices": [
+        "New Zealand",
+        "England",
+        "France",
+        "Canada"
+      ],
+      "answer": 0,
+      "fact": "The Black Ferns beat England 34–31 in front of more than 42,000 fans, a record crowd for a women's rugby match.",
+      "difficulty": 1,
+      "asOf": "2022"
+    },
+    "after": {
+      "q": "Which team won the women's Rugby World Cup final at Eden Park in November 2022?",
+      "choices": [
+        "New Zealand",
+        "England",
+        "France",
+        "Canada"
+      ],
+      "answer": 0,
+      "fact": "The Black Ferns beat England 34–31 in front of more than 42,000 fans, then a record crowd for a women's rugby match.",
+      "difficulty": 1,
+      "asOf": "2022"
+    },
+    "reason": "The 42,579 crowd was a record only until the 2025 Women's Rugby World Cup final at Twickenham drew about 82,000.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "new-zealand",
+    "kind": "question",
+    "topic": "current-affairs",
+    "index": 23,
+    "severity": "minor",
+    "before": {
+      "q": "At the October 2023 election, Te Pāti Māori won how many of the seven Māori electorates?",
+      "choices": [
+        "Seven",
+        "Three",
+        "Six",
+        "Four"
+      ],
+      "answer": 2,
+      "fact": "Its electorate wins outstripped its party vote, creating an overhang that took Parliament to 123 seats.",
+      "difficulty": 3,
+      "asOf": "2023"
+    },
+    "after": {
+      "q": "At the October 2023 election, Te Pāti Māori won how many of the seven Māori electorates?",
+      "choices": [
+        "Seven",
+        "Three",
+        "Six",
+        "Four"
+      ],
+      "answer": 2,
+      "fact": "Its electorate wins outstripped its party vote, creating a two-seat overhang; with an extra seat from the Port Waikato by-election, Parliament grew to 123.",
+      "difficulty": 3,
+      "asOf": "2023"
+    },
+    "reason": "Te Pāti Māori's overhang was two seats (to 122); the 123rd seat came from the Port Waikato by-election overhang.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "norway",
+    "kind": "question",
+    "topic": "politics",
+    "index": 0,
+    "severity": "minor",
+    "before": {
+      "q": "What is the capital of Norway?",
+      "choices": [
+        "Bergen",
+        "Oslo",
+        "Trondheim",
+        "Stavanger"
+      ],
+      "answer": 1,
+      "fact": "Oslo sits at the head of the Oslofjord, and nearly half of its area is forest and protected nature.",
+      "difficulty": 1
+    },
+    "after": {
+      "q": "What is the capital of Norway?",
+      "choices": [
+        "Bergen",
+        "Oslo",
+        "Trondheim",
+        "Stavanger"
+      ],
+      "answer": 1,
+      "fact": "Oslo sits at the head of the Oslofjord, and more than half of its area is forest and protected nature.",
+      "difficulty": 1
+    },
+    "reason": "Forest (Marka) and protected nature cover well over half of Oslo municipality (commonly cited as about two-thirds), so 'nearly half' understated it.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "south-africa",
+    "kind": "question",
+    "topic": "art",
+    "index": 0,
+    "severity": "minor",
+    "before": {
+      "q": "Which South African singer was known worldwide as \"Mama Africa\"?",
+      "choices": [
+        "Brenda Fassie",
+        "Miriam Makeba",
+        "Yvonne Chaka Chaka",
+        "Angélique Kidjo"
+      ],
+      "answer": 1,
+      "fact": "Makeba's 1967 hit \"Pata Pata\" made her one of the first African musicians to top international charts.",
+      "difficulty": 1
+    },
+    "after": {
+      "q": "Which South African singer was known worldwide as \"Mama Africa\"?",
+      "choices": [
+        "Brenda Fassie",
+        "Miriam Makeba",
+        "Yvonne Chaka Chaka",
+        "Angélique Kidjo"
+      ],
+      "answer": 1,
+      "fact": "Makeba's 1967 hit \"Pata Pata\" made her one of the first African musicians to score a major international chart hit.",
+      "difficulty": 1
+    },
+    "reason": "Pata Pata peaked at No. 12 on the US Billboard Hot 100, so it did not \"top\" international charts.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "turkey",
+    "kind": "question",
+    "topic": "art",
+    "index": 14,
+    "severity": "minor",
+    "before": {
+      "q": "The 16th-century glazed tiles decorating Topkapı Palace and the Blue Mosque were mainly made in which town?",
+      "choices": [
+        "Kütahya",
+        "İznik",
+        "Bursa",
+        "Konya"
+      ],
+      "answer": 1,
+      "fact": "İznik potters perfected a vivid \"tomato red\" glaze that was famously hard to reproduce.",
+      "difficulty": 2
+    },
+    "after": {
+      "q": "The 16th- and 17th-century glazed tiles decorating Topkapı Palace and the Blue Mosque were mainly made in which town?",
+      "choices": [
+        "Kütahya",
+        "İznik",
+        "Bursa",
+        "Konya"
+      ],
+      "answer": 1,
+      "fact": "İznik potters perfected a vivid \"tomato red\" glaze that was famously hard to reproduce.",
+      "difficulty": 2
+    },
+    "reason": "The Blue Mosque (built 1609-1616) was decorated with early-17th-century İznik tiles, so calling all the tiles 16th-century was inaccurate.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "uae",
+    "kind": "question",
+    "topic": "history",
+    "index": 18,
+    "severity": "minor",
+    "before": {
+      "q": "In 1932, which town gained the region's first airfield, a stop on Imperial Airways' route to India?",
+      "choices": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sharjah",
+        "Ras Al Khaimah"
+      ],
+      "answer": 2,
+      "fact": "Passengers stayed overnight at the Al Mahatta fort, which is now a museum of aviation.",
+      "difficulty": 3
+    },
+    "after": {
+      "q": "In 1932, which town gained the Trucial Coast's first airfield, a stop on Imperial Airways' route to India?",
+      "choices": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sharjah",
+        "Ras Al Khaimah"
+      ],
+      "answer": 2,
+      "fact": "Passengers stayed overnight at the Al Mahatta fort, which is now a museum of aviation.",
+      "difficulty": 3
+    },
+    "reason": "Bahrain's Muharraq airfield also opened in 1932 on the same Imperial Airways route, so 'the region's first' was overstated; narrowed to the Trucial Coast.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "uk",
+    "kind": "question",
+    "topic": "history",
+    "index": 7,
+    "severity": "minor",
+    "before": {
+      "q": "The Wars of the Roses were fought between the House of Lancaster and which other royal house?",
+      "choices": [
+        "Tudor",
+        "Stuart",
+        "York",
+        "Windsor"
+      ],
+      "answer": 2,
+      "fact": "The wars ended in effect at Bosworth in 1485. The body of Richard III, the last king to fall there, was found under a Leicester car park in 2012.",
+      "difficulty": 2
+    },
+    "after": {
+      "q": "The Wars of the Roses were fought between the House of Lancaster and which other royal house?",
+      "choices": [
+        "Tudor",
+        "Stuart",
+        "York",
+        "Windsor"
+      ],
+      "answer": 2,
+      "fact": "The wars ended in effect at Bosworth in 1485. The body of Richard III, the last English king to die in battle, was found under a Leicester car park in 2012.",
+      "difficulty": 2
+    },
+    "reason": "'the last king to fall there' wrongly implies other kings died at Bosworth; Richard III was the only one, and the last English king to die in battle.",
+    "source": "model knowledge"
+  },
+  {
+    "country": "usa",
+    "kind": "question",
+    "topic": "history",
+    "index": 14,
+    "severity": "minor",
+    "before": {
+      "q": "Gold found at Sutter's Mill in 1848 sparked a famous rush to which present-day state?",
+      "choices": [
+        "California",
+        "Alaska",
+        "Colorado",
+        "Nevada"
+      ],
+      "answer": 0,
+      "fact": "About 300,000 \"forty-niners\" poured in, and California went from territory to statehood in just 1850.",
+      "difficulty": 1
+    },
+    "after": {
+      "q": "Gold found at Sutter's Mill in 1848 sparked a famous rush to which present-day state?",
+      "choices": [
+        "California",
+        "Alaska",
+        "Colorado",
+        "Nevada"
+      ],
+      "answer": 0,
+      "fact": "About 300,000 \"forty-niners\" poured in, and California became a state in 1850 without ever being an organized US territory.",
+      "difficulty": 1
+    },
+    "reason": "Fact implied California was a US territory before statehood; it went straight from Mexican cession (1848) to statehood (1850) with no organized territorial stage.",
+    "source": "model knowledge"
+  }
+]

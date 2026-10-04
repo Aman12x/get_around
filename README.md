@@ -105,6 +105,32 @@ Run `npm run validate:content` after any content change; `npm test` runs it too.
 
 **Swapping in hand-made 3D models.** Each landmark builder returns a `THREE.Group` that sits on the island top (y = 0) and fits within a radius of about 4.5. To use a real model, load a glTF with `GLTFLoader` and return the loaded scene from that builder; the rest of the game won't need to change.
 
+## Fact-checking
+
+The tools in `scripts/factcheck/` use Claude (`claude-opus-5-5`, with web search) and need `ANTHROPIC_API_KEY`. Each call opts into Anthropic's server-side refusal fallback (`fallbacks: "default"`). Add `--dry-run` to see how many calls a command would make.
+
+| Command | What it does |
+| --- | --- |
+| `npm run factcheck -- japan` | Checks every Japan question; add `--extras` for timelines and map places, or `--topic current-affairs` to check one subject in every country. Writes `factcheck-report.md` (flagged items) and `.json`. |
+| `npm run factcheck:refresh -- kenya` | Runs the Current Affairs refresh locally (normally run by the GitHub Action below). |
+| `npm run factcheck:eval` | Measures the checker itself (see below). |
+
+**Current Affairs refresh (GitHub Action).** On the 1st and 15th of each month, [`current-affairs.yml`](.github/workflows/current-affairs.yml) asks Claude to rewrite questions that are no longer true and add up to two new ones per country about recent news. Each change keeps the replaced question's difficulty, must pass the content schema, and is then confirmed by a separate fact-check call; anything that fails is dropped. The surviving changes arrive as a pull request listing every before and after with its sources. Read them before merging. You can also start a run by hand from the Actions tab and pick the countries. It needs:
+- the repository secret `ANTHROPIC_API_KEY`;
+- Settings → Actions → General → **Allow GitHub Actions to create and approve pull requests**.
+
+**The fact-check eval.** `scripts/factcheck/eval/cases.json` holds 45 packets (451 items), checked the same way `npm run factcheck` checks a bank. The items are:
+- 26 real errors found in the October 2026 review (`known-errors.json`);
+- 132 planted errors: an answer key moved to a wrong choice, a year shifted, a number in the fact changed, or a timeline date moved;
+- 293 correct items.
+
+Grading needs no model: an item counts as flagged when its verdict isn't `ok`. `npm run factcheck:eval` (or the manual [`factcheck-eval.yml`](.github/workflows/factcheck-eval.yml) Action) writes `.claude/hillclimb/factcheck/baseline/summary.md` with:
+- recall (errors caught), precision and specificity, with 95% confidence intervals;
+- recall for each kind of error;
+- every miss and false alarm.
+
+Re-run it as `--variant v1`, `v2` and so on after changing the checker, and compare. To rebuild the cases after content changes, run `node scripts/factcheck/eval/build-cases.mjs`. To test the harness for free, set `FACTCHECK_MOCK=oracle`, `null` or `flag-all`.
+
 ## Roadmap
 
 See [`docs/ROADMAP.md`](docs/ROADMAP.md). In short:

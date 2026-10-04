@@ -1,0 +1,14 @@
+{
+  "flow": "factcheck",
+  "description": "Fact-checker (scripts/factcheck/lib.mjs checkItems) on labelled packets of trivia items: real errors from the October 2026 verification pass, seeded errors and clean items.",
+  "metrics": [
+    { "id": "accuracy", "label": "accuracy", "kind": "float", "scale": 1 },
+    { "id": "fn", "label": "missed errors", "kind": "float", "scale": 10, "better": "lower" },
+    { "id": "fp", "label": "false alarms", "kind": "float", "scale": 10, "better": "lower" }
+  ],
+  "perf_fields": [
+    { "id": "cost_usd", "label": "cost", "unit": "$" },
+    { "id": "web_searches", "label": "searches" },
+    { "id": "latency_s", "label": "latency", "unit": "s" }
+  ]
+}

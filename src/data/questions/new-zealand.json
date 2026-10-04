@@ -328,7 +328,7 @@
       },
       {
         "q": "Which fossilised resin was dug from Northland fields in the 1800s and exported to make varnish?",
-        "choices": ["Copal", "Rimu resin", "Amber", "Kauri gum"],
+        "choices": ["Shellac", "Rimu resin", "Amber", "Kauri gum"],
         "answer": 3,
         "fact": "Thousands of gumdiggers, many from Dalmatia in today's Croatia, worked the northern gumfields.",
         "difficulty": 3
@@ -770,7 +770,7 @@
         "q": "Which team won the women's Rugby World Cup final at Eden Park in November 2022?",
         "choices": ["New Zealand", "England", "France", "Canada"],
         "answer": 0,
-        "fact": "The Black Ferns beat England 34–31 in front of more than 42,000 fans, a record crowd for a women's rugby match.",
+        "fact": "The Black Ferns beat England 34–31 in front of more than 42,000 fans, then a record crowd for a women's rugby match.",
         "difficulty": 1,
         "asOf": "2022"
       },
@@ -898,7 +898,7 @@
         "q": "At the October 2023 election, Te Pāti Māori won how many of the seven Māori electorates?",
         "choices": ["Seven", "Three", "Six", "Four"],
         "answer": 2,
-        "fact": "Its electorate wins outstripped its party vote, creating an overhang that took Parliament to 123 seats.",
+        "fact": "Its electorate wins outstripped its party vote, creating a two-seat overhang; with an extra seat from the Port Waikato by-election, Parliament grew to 123.",
         "difficulty": 3,
         "asOf": "2023"
       },

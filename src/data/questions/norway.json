@@ -537,7 +537,7 @@
         "q": "What is the capital of Norway?",
         "choices": ["Bergen", "Oslo", "Trondheim", "Stavanger"],
         "answer": 1,
-        "fact": "Oslo sits at the head of the Oslofjord, and nearly half of its area is forest and protected nature.",
+        "fact": "Oslo sits at the head of the Oslofjord, and more than half of its area is forest and protected nature.",
         "difficulty": 1
       },
       {

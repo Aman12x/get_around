@@ -4,3 +4,11 @@ dist
 .DS_Store
 dist-server
 .env
+
+# Fact-check eval output (results.jsonl and summary.md are kept)
+.claude/hillclimb/**/traces/
+.claude/hillclimb/**/report.html
+.claude/hillclimb/**/state.json
+.claude/hillclimb/**/trajectory/
+.claude/hillclimb/**/progress.txt
+factcheck-report.*
