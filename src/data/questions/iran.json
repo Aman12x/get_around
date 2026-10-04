@@ -531,6 +531,562 @@
         "fact": "Nastaliq, often called the 'bride of calligraphy', became the favourite script for Persian poetry; Mir Emad later perfected it.",
         "difficulty": 3
       }
+    ],
+    "politics": [
+      {
+        "q": "Which city is Iran's capital?",
+        "choices": ["Tehran", "Isfahan", "Tabriz", "Shiraz"],
+        "answer": 0,
+        "fact": "Tehran sits at the foot of the Alborz mountains; Mount Damavand, Iran's highest peak, can be seen from the city on clear days.",
+        "difficulty": 1
+      },
+      {
+        "q": "Under the constitution of the Islamic Republic, what is the title of the country's highest authority?",
+        "choices": ["President", "Supreme Leader", "Grand Vizier", "Shah"],
+        "answer": 1,
+        "fact": "The post was created by the 1979 constitution; Iran also has an elected president who heads the government.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Iran's parliament commonly called?",
+        "choices": ["Knesset", "Duma", "Majlis", "Diet"],
+        "answer": 2,
+        "fact": "Its full name is the Islamic Consultative Assembly, and its members are elected for four-year terms.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did a national referendum establish the Islamic Republic of Iran?",
+        "choices": ["1953", "1963", "1989", "1979"],
+        "answer": 3,
+        "fact": "The Islamic Republic was proclaimed on 1 April 1979, a date marked each year as Islamic Republic Day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which army officer founded the Pahlavi dynasty in 1925?",
+        "choices": ["Reza Shah", "Nader Shah", "Ahmad Shah", "Mohammad Reza Shah"],
+        "answer": 0,
+        "fact": "Reza Shah's government built the Trans-Iranian Railway, linking the Caspian Sea to the Persian Gulf, completed in 1938.",
+        "difficulty": 1
+      },
+      {
+        "q": "Iran was one of the five founding members of which organisation, created in Baghdad in 1960?",
+        "choices": ["Arab League", "OPEC", "NATO", "ASEAN"],
+        "answer": 1,
+        "fact": "OPEC's other founders were Iraq, Kuwait, Saudi Arabia and Venezuela.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 1943 wartime conference first brought Roosevelt, Churchill and Stalin together, in Iran's capital?",
+        "choices": ["Yalta Conference", "Potsdam Conference", "Tehran Conference", "Casablanca Conference"],
+        "answer": 2,
+        "fact": "The 'Big Three' met at the Soviet embassy in Tehran and agreed on the Allied invasion of France planned for 1944.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who succeeded Ayatollah Khomeini as Supreme Leader in 1989?",
+        "choices": ["Hassan Rouhani", "Akbar Hashemi Rafsanjani", "Mohammad Khatami", "Ali Khamenei"],
+        "answer": 3,
+        "fact": "Before that, Ali Khamenei had served two terms as Iran's president, from 1981 to 1989.",
+        "difficulty": 1
+      },
+      {
+        "q": "How long is a single term for Iran's president?",
+        "choices": ["Four years", "Five years", "Six years", "Seven years"],
+        "answer": 0,
+        "fact": "Under the constitution, a president may serve no more than two consecutive terms.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which prime minister nationalised Iran's oil industry in 1951?",
+        "choices": ["Amir Kabir", "Mohammad Mosaddegh", "Ahmad Qavam", "Ali Razmara"],
+        "answer": 1,
+        "fact": "Mosaddegh was Time magazine's Man of the Year for 1951; he was overthrown in a 1953 coup backed by the US and Britain.",
+        "difficulty": 2
+      },
+      {
+        "q": "Iran's first parliament opened in 1906 as a result of which movement?",
+        "choices": ["The White Revolution", "The Tobacco Protest", "The Constitutional Revolution", "The Safavid Restoration"],
+        "answer": 2,
+        "fact": "Merchants, clerics and intellectuals took part, thousands of them by taking sanctuary (bast) in the grounds of the British legation in Tehran.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 12-member body vets election candidates and reviews laws passed by Iran's parliament?",
+        "choices": ["Expediency Council", "Assembly of Experts", "Supreme National Security Council", "Guardian Council"],
+        "answer": 3,
+        "fact": "Six members are Islamic jurists chosen by the Supreme Leader; six are lawyers nominated by the judiciary and approved by parliament.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which elected body of clerics has the constitutional power to appoint the Supreme Leader?",
+        "choices": ["Assembly of Experts", "Guardian Council", "Expediency Council", "Majlis"],
+        "answer": 0,
+        "fact": "Its members are chosen by popular vote for eight-year terms.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which president, elected in 1997, proposed the 'Dialogue Among Civilizations' that the UN adopted as its theme for 2001?",
+        "choices": ["Mahmoud Ahmadinejad", "Mohammad Khatami", "Hassan Rouhani", "Abolhassan Banisadr"],
+        "answer": 1,
+        "fact": "Khatami served two terms, from 1997 to 2005; earlier he had headed Iran's National Library.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Iran become a founding member of the United Nations?",
+        "choices": ["1919", "1955", "1945", "1971"],
+        "answer": 2,
+        "fact": "Iran was among the 51 original member states of the UN, which was founded in 1945.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Reza Shah abdicate after British and Soviet forces entered Iran?",
+        "choices": ["1925", "1935", "1953", "1941"],
+        "answer": 3,
+        "fact": "His son Mohammad Reza succeeded him at 21; Reza Shah died in exile in Johannesburg in 1944.",
+        "difficulty": 2
+      },
+      {
+        "q": "What name was given to the Shah's 1963 reform programme, which included land reform and votes for women?",
+        "choices": ["The White Revolution", "The Green Plan", "The Constitutional Revolution", "The Great Leap"],
+        "answer": 0,
+        "fact": "Approved in a referendum in January 1963, it redistributed land from large estates and extended the vote to women.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many provinces is Iran divided into?",
+        "choices": ["21", "31", "41", "51"],
+        "answer": 1,
+        "fact": "The newest, Alborz, was carved out of Tehran Province in 2010, with Karaj as its capital.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was elected the Islamic Republic's first president, in January 1980?",
+        "choices": ["Mehdi Bazargan", "Mohammad-Ali Rajai", "Abolhassan Banisadr", "Ali Khamenei"],
+        "answer": 2,
+        "fact": "Banisadr was removed from office by parliament in June 1981 and spent the rest of his life in France.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who served as Iran's president from 1989 to 1997, focusing on reconstruction after the Iran-Iraq War?",
+        "choices": ["Mahmoud Ahmadinejad", "Mohammad Khatami", "Hassan Rouhani", "Akbar Hashemi Rafsanjani"],
+        "answer": 3,
+        "fact": "Before becoming president, Rafsanjani was speaker of parliament for nine years, from 1980 to 1989.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1907 agreement divided Iran into Russian and British spheres of influence?",
+        "choices": ["The Anglo-Russian Convention", "The Treaty of Paris", "The Sykes-Picot Agreement", "The Treaty of Gulistan"],
+        "answer": 0,
+        "fact": "Russia took the north, Britain the south-east, and a neutral zone lay between, all without consulting Iran's government.",
+        "difficulty": 3
+      },
+      {
+        "q": "Under which 1828 treaty did Qajar Iran cede Erivan and Nakhchivan to Russia?",
+        "choices": ["Treaty of Gulistan", "Treaty of Turkmenchay", "Treaty of Erzurum", "Treaty of Zuhab"],
+        "answer": 1,
+        "fact": "The treaty fixed much of the new border along the Aras River and granted Russian subjects special legal privileges in Iran.",
+        "difficulty": 3
+      },
+      {
+        "q": "How many times is the phrase 'Allahu Akbar' written in stylised script along the edges of Iran's flag?",
+        "choices": ["7", "12", "22", "40"],
+        "answer": 2,
+        "fact": "The 22 repetitions recall 22 Bahman in the Iranian calendar, the date in 1979 marked as the revolution's victory.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which post was abolished by the 1989 revision of Iran's constitution?",
+        "choices": ["Speaker of parliament", "Head of the judiciary", "Vice-president", "Prime minister"],
+        "answer": 3,
+        "fact": "Its executive powers were merged into the presidency, which has led the government ever since.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Qajar shah signed Iran's first constitution in December 1906, days before his death?",
+        "choices": ["Mozaffar ad-Din Shah", "Naser al-Din Shah", "Mohammad Ali Shah", "Ahmad Shah"],
+        "answer": 0,
+        "fact": "His successor, Mohammad Ali Shah, had the parliament shelled in 1908 and was deposed by constitutionalists the following year.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "In May 2024, Iranian President Ebrahim Raisi died in what kind of accident?",
+        "choices": ["Helicopter crash", "Car accident", "Plane crash at take-off", "Train derailment"],
+        "answer": 0,
+        "fact": "The crash in fog-covered mountains of East Azerbaijan province also killed Foreign Minister Hossein Amir-Abdollahian.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who won Iran's presidential election in July 2024?",
+        "choices": ["Ali Larijani", "Masoud Pezeshkian", "Mohammad Bagher Ghalibaf", "Hassan Rouhani"],
+        "answer": 1,
+        "fact": "A heart surgeon from Mahabad who had served as health minister, Pezeshkian took office at the end of July 2024.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "At the 2022 FIFA World Cup in Qatar, Iran won 2-0 against which team?",
+        "choices": ["England", "USA", "Wales", "Portugal"],
+        "answer": 2,
+        "fact": "Both goals, by Rouzbeh Cheshmi and Ramin Rezaeian, came deep in stoppage time.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In March 2025, Iran qualified for which FIFA World Cup?",
+        "choices": ["2014", "2018", "2022", "2026"],
+        "answer": 3,
+        "fact": "It will be Iran's seventh World Cup and its fourth in a row since 2014.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Javad Foroughi, a 41-year-old nurse, won Olympic gold at the Tokyo Games in 2021 in which event?",
+        "choices": ["10 m air pistol", "Archery", "Fencing", "Weightlifting"],
+        "answer": 0,
+        "fact": "It was Iran's first ever Olympic medal in shooting, and he set an Olympic record in the final.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which sport, a national passion, gave Iran two of its three gold medals at the Paris 2024 Olympics?",
+        "choices": ["Taekwondo", "Wrestling", "Weightlifting", "Judo"],
+        "answer": 1,
+        "fact": "Saeid Esmaeili and Mohammad Hadi Saravi won Greco-Roman titles, while Arian Salimi took gold in taekwondo.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who was elected president of Iran in June 2021?",
+        "choices": ["Hassan Rouhani", "Mahmoud Ahmadinejad", "Ebrahim Raisi", "Mohammad Khatami"],
+        "answer": 2,
+        "fact": "Raisi, previously head of the judiciary, succeeded Hassan Rouhani, who had served two terms.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2022, UNESCO inscribed which winter-solstice celebration of Iran and Afghanistan on its intangible heritage list?",
+        "choices": ["Nowruz", "Sadeh", "Mehregan", "Yalda"],
+        "answer": 3,
+        "fact": "On Yalda, the longest night of the year, families stay up late eating pomegranates and watermelon and reading Hafez.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which 1,394-km line, linking the Caspian Sea to the Persian Gulf, became a UNESCO World Heritage Site in 2021?",
+        "choices": ["The Trans-Iranian Railway", "The Hejaz Railway", "The Baghdad Railway", "The Tehran Metro"],
+        "answer": 0,
+        "fact": "Built from 1927 to 1938, it crosses mountains and plains through 224 tunnels, some of them spirals.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Mehdi Taremi's bicycle kick for Porto against Chelsea in April 2021 was a finalist for which FIFA prize?",
+        "choices": ["Ballon d'Or", "Puskás Award", "Golden Boot", "The Best FIFA Men's Player"],
+        "answer": 1,
+        "fact": "The award, for the year's most beautiful goal, went to Tottenham's Erik Lamela for his rabona.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Asghar Farhadi film shared the Grand Prix at the Cannes Film Festival in 2021?",
+        "choices": ["About Elly", "The Salesman", "A Hero", "Everybody Knows"],
+        "answer": 2,
+        "fact": "Set in Shiraz, it follows a prisoner on leave who tries to return a lost bag of gold coins.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2023 UNESCO listed 54 historic roadside inns from across Iran as a single World Heritage Site. What are they called?",
+        "choices": ["Ice houses", "Qanats", "Windcatchers", "Caravanserais"],
+        "answer": 3,
+        "fact": "Built along trade and pilgrimage routes, these fortified inns sheltered travellers and their animals about a day's journey apart.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which ancient broadleaf forests along the Caspian Sea became a UNESCO natural World Heritage Site in 2019?",
+        "choices": ["Hyrcanian Forests", "Zagros Oak Forests", "Arasbaran Forests", "Mangroves of Qeshm"],
+        "answer": 0,
+        "fact": "These forests date back 25 to 50 million years, to a time when such woodland covered much of the northern temperate zone.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In 2020, Iran, Azerbaijan, Turkey and Uzbekistan jointly won UNESCO intangible heritage status for which art?",
+        "choices": ["Calligraphy", "Miniature painting", "Carpet weaving", "Tilework"],
+        "answer": 1,
+        "fact": "Persian miniatures illustrate poems and histories in jewel-like colours, painted with the finest of brushes.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "On 1 January 2024, Iran officially joined which group of emerging economies, alongside Egypt, Ethiopia and the UAE?",
+        "choices": ["G20", "ASEAN", "BRICS", "OPEC"],
+        "answer": 2,
+        "fact": "The group is named after its first members: Brazil, Russia, India, China and South Africa.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In December 2021, which Iranian-born chess prodigy became the youngest player ever to reach a 2800 rating?",
+        "choices": ["Parham Maghsoodloo", "Ehsan Ghaem Maghami", "Pouya Idani", "Alireza Firouzja"],
+        "answer": 3,
+        "fact": "Born in Babol in 2003, Firouzja passed the mark aged 18, beating Magnus Carlsen's record; he has represented France since 2021.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "At the Tokyo Olympics in 2021, Sajjad Ganjzadeh won Iran a gold medal in which sport, then making its Olympic debut?",
+        "choices": ["Karate", "Taekwondo", "Judo", "Boxing"],
+        "answer": 0,
+        "fact": "He won the men's over-75 kg kumite title; Iran's three golds in Tokyo came in shooting, wrestling and karate.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In July 2023, Iran became a full member of which Eurasian bloc at a summit hosted online by India?",
+        "choices": ["Arab League", "Shanghai Cooperation Organisation", "African Union", "Gulf Cooperation Council"],
+        "answer": 1,
+        "fact": "Founded in 2001, the SCO's members include China, Russia, India, Pakistan and several Central Asian states.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who served as Iran's acting president after Ebrahim Raisi's death in May 2024?",
+        "choices": ["Mohammad Bagher Ghalibaf", "Gholam-Hossein Mohseni-Ejei", "Mohammad Mokhber", "Abbas Araghchi"],
+        "answer": 2,
+        "fact": "As first vice-president, Mokhber held the post under the constitution until a new president was elected within 50 days.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In July 2024, Masoud Pezeshkian won a presidential run-off against which candidate?",
+        "choices": ["Mohammad Bagher Ghalibaf", "Mostafa Pourmohammadi", "Alireza Zakani", "Saeed Jalili"],
+        "answer": 3,
+        "fact": "Pezeshkian won about 54% of the vote in the second round, held on 5 July 2024.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who became Iran's foreign minister in August 2024?",
+        "choices": ["Abbas Araghchi", "Javad Zarif", "Ali Bagheri Kani", "Hossein Amir-Abdollahian"],
+        "answer": 0,
+        "fact": "A career diplomat, Araghchi had earlier served as deputy foreign minister and as ambassador to Japan.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which mountainous Kurdish landscape of stepped villages was inscribed as a UNESCO World Heritage Site in 2021?",
+        "choices": ["Masuleh", "Hawraman/Uramanat", "Kandovan", "Abyaneh"],
+        "answer": 1,
+        "fact": "Its villages climb such steep slopes that the roof of one house often serves as the yard of the house above.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In July 2025, UNESCO added the prehistoric caves and rock shelters of which valley to the World Heritage List?",
+        "choices": ["Alamut Valley", "Lar Valley", "Khorramabad Valley", "Haraz Valley"],
+        "answer": 2,
+        "fact": "Its caves, such as Yafteh, preserve traces of Palaeolithic hunter-gatherers going back tens of thousands of years.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "At the AFC Asian Cup in February 2024, Iran knocked out which tournament favourite in the quarter-finals?",
+        "choices": ["South Korea", "Saudi Arabia", "Australia", "Japan"],
+        "answer": 3,
+        "fact": "Iran came from behind to win 2-1 with a stoppage-time penalty, before losing a five-goal semi-final to hosts Qatar.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "At the Tokyo Olympics in 2021, Mohammad Reza Geraei won gold in which style of wrestling?",
+        "choices": ["Greco-Roman", "Freestyle", "Sumo", "Pahlavani"],
+        "answer": 0,
+        "fact": "Greco-Roman wrestlers may not attack below the waist; Pahlavani, the fourth option, is Iran's ancient heroic style.",
+        "difficulty": 3,
+        "asOf": "2021"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is the Persian New Year, celebrated at the spring equinox, called?",
+        "choices": ["Nowruz", "Eid al-Fitr", "Yalda", "Mehregan"],
+        "answer": 0,
+        "fact": "Nowruz means 'new day'; it has been celebrated for over 3,000 years and is marked by some 300 million people from the Balkans to Central Asia.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Iran's official language?",
+        "choices": ["Arabic", "Persian (Farsi)", "Turkish", "Kurdish"],
+        "answer": 1,
+        "fact": "Persian is written in an Arabic-based script, but it is an Indo-European language, distantly related to English.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Iran's official currency?",
+        "choices": ["Dinar", "Lira", "Rial", "Afghani"],
+        "answer": 2,
+        "fact": "In everyday speech Iranians often count prices in 'tomans', each worth ten rials.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which snow-capped volcano in the Alborz range is Iran's highest mountain?",
+        "choices": ["Mount Ararat", "Mount Elbrus", "Zard Kuh", "Mount Damavand"],
+        "answer": 3,
+        "fact": "Rising about 5,610 m, Damavand is the highest volcano in Asia and features in Persian legend and the Shahnameh.",
+        "difficulty": 1
+      },
+      {
+        "q": "Iran produces the large majority of the world's supply of which precious spice?",
+        "choices": ["Saffron", "Vanilla", "Cardamom", "Cinnamon"],
+        "answer": 0,
+        "fact": "Each crocus flower yields just three red stigmas, picked by hand; Khorasan in north-east Iran is the heart of the harvest.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which body of water, the largest lake on Earth, lies along Iran's northern coast?",
+        "choices": ["Aral Sea", "Caspian Sea", "Black Sea", "Dead Sea"],
+        "answer": 1,
+        "fact": "The Caspian is famous for sturgeon and caviar, and Iran's green shores in Gilan and Mazandaran grow rice and tea.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which long-haired cat breed takes its name from Iran's old name in the West?",
+        "choices": ["Siamese", "Maine Coon", "Persian", "Abyssinian"],
+        "answer": 2,
+        "fact": "Long-haired cats were brought from Persia to Europe in the 17th century, and the breed became a Victorian favourite.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the prized crispy golden layer of rice from the bottom of the pot called in Persian cooking?",
+        "choices": ["Pilaf", "Paella", "Biryani", "Tahdig"],
+        "answer": 3,
+        "fact": "Tahdig means 'bottom of the pot'; families often compete politely for the last crunchy piece.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which horseback ball game is believed to have originated in ancient Persia?",
+        "choices": ["Polo", "Cricket", "Lacrosse", "Hockey"],
+        "answer": 0,
+        "fact": "Isfahan's Naqsh-e Jahan Square still has its old stone goalposts, and Persian polo, chogan, is on UNESCO's heritage list.",
+        "difficulty": 1
+      },
+      {
+        "q": "The chess word 'check' comes from which Persian word, meaning 'king'?",
+        "choices": ["Mir", "Shah", "Khan", "Pasha"],
+        "answer": 1,
+        "fact": "Chess reached Persia from India as 'chatrang'; Persians passed it on to the Arab world, and from there it spread to Europe.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which English word comes from an Old Iranian term for a walled enclosure or park?",
+        "choices": ["Bazaar", "Caravan", "Paradise", "Kiosk"],
+        "answer": 2,
+        "fact": "Greek writers borrowed 'paradeisos' for the walled parks of Persian kings, and the word came to mean heaven.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city is home to the vast shrine of Imam Reza, Iran's most visited pilgrimage site?",
+        "choices": ["Qom", "Shiraz", "Tabriz", "Mashhad"],
+        "answer": 3,
+        "fact": "Imam Reza is the only one of Shi'a Islam's Twelve Imams buried in Iran, and millions of pilgrims visit each year.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Iranian desert has recorded some of the hottest land-surface temperatures ever measured by satellite?",
+        "choices": ["Dasht-e Lut", "Dasht-e Kavir", "Rub' al Khali", "Karakum"],
+        "answer": 0,
+        "fact": "Satellites measured about 70.7°C on its dark gravel plains in 2005; the Lut became a UNESCO World Heritage Site in 2016.",
+        "difficulty": 2
+      },
+      {
+        "q": "What makes up the 'haft-sin' table laid out for Nowruz?",
+        "choices": ["Seven candles", "Seven items starting with 's'", "Seven kinds of bread", "Seven painted eggs"],
+        "answer": 1,
+        "fact": "Typical items include sabzeh (sprouts), sib (apple), sir (garlic), serkeh (vinegar) and sekkeh (coins).",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Persian stew combines chicken or duck with ground walnuts and pomegranate molasses?",
+        "choices": ["Ghormeh sabzi", "Dizi", "Fesenjan", "Kashk-e bademjan"],
+        "answer": 2,
+        "fact": "Fesenjan's sweet-and-sour sauce is slow-cooked until dark and glossy; it is a festive favourite, especially on Yalda Night.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Tehran landmark, built in 1971 and first named the Shahyad Tower, marks the western entrance to the city?",
+        "choices": ["Milad Tower", "Golestan Palace", "Shams-ol-Emareh", "Azadi Tower"],
+        "answer": 3,
+        "fact": "Designed by architect Hossein Amanat, it blends Sasanian and Islamic forms; its name means 'Freedom Tower'.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the popular nickname of Iran's national football team?",
+        "choices": ["Team Melli", "The Pharaohs", "The Lions of Mesopotamia", "The Falcons"],
+        "answer": 0,
+        "fact": "'Melli' simply means 'national'; Iran made its World Cup debut in Argentina in 1978.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which salt lake in north-western Iran is famous for its flamingos and pink-tinted waters?",
+        "choices": ["Lake Van", "Lake Urmia", "Lake Sevan", "Lake Hamun"],
+        "answer": 1,
+        "fact": "Lake Urmia has shrunk dramatically since the 1990s, but salt-loving algae still tint parts of it red and pink.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which freestyle wrestler, Olympic champion in 1956, is revered in Iran as 'Jahan Pahlavan' (World Champion)?",
+        "choices": ["Rasoul Khadem", "Hassan Yazdani", "Gholamreza Takhti", "Abbas Jadidi"],
+        "answer": 2,
+        "fact": "Takhti was loved as much for his chivalry as his medals: gold in Melbourne in 1956 and silver in 1952 and 1960.",
+        "difficulty": 3
+      },
+      {
+        "q": "The modern Persian alphabet adds four letters to the Arabic script. How many letters does it have?",
+        "choices": ["28", "29", "30", "32"],
+        "answer": 3,
+        "fact": "The extra letters, for the sounds p, ch, zh and g, are made by adding dots or strokes to Arabic letters.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which village near Tabriz has homes carved into cone-shaped volcanic rocks, much like Cappadocia?",
+        "choices": ["Kandovan", "Masuleh", "Abyaneh", "Meymand"],
+        "answer": 0,
+        "fact": "Kandovan's rock cones formed from the ash of nearby Mount Sahand, and families still live inside them.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Bronze Age 'Burnt City' in Sistan revealed what may be the world's oldest artificial eyeball?",
+        "choices": ["Tepe Sialk", "Shahr-e Sukhteh", "Jiroft", "Hasanlu"],
+        "answer": 1,
+        "fact": "Found in a woman's grave, the eye was made of a light paste, possibly bitumen, and dates to around 2900-2800 BCE.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which small Persian Gulf island near Bandar Abbas is famed for multicoloured mineral soils, including a red earth used as a spice?",
+        "choices": ["Kish", "Qeshm", "Hormuz", "Lavan"],
+        "answer": 2,
+        "fact": "Locals use the red ochre soil, called gelak, in sauces and pickles, and the island's beaches glitter with mineral sand.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Caspian city was named a UNESCO Creative City of Gastronomy in 2015?",
+        "choices": ["Isfahan", "Tabriz", "Yazd", "Rasht"],
+        "answer": 3,
+        "fact": "Rasht is the capital of Gilan, famous for dishes full of herbs, garlic, sour plums and Caspian fish.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the traditional Iranian gymnasium, where athletes train with wooden clubs to drumbeats and poetry, called?",
+        "choices": ["Zurkhaneh", "Hammam", "Caravanserai", "Tekyeh"],
+        "answer": 0,
+        "fact": "Zurkhaneh means 'house of strength'; its rituals, known as Pahlavani, were inscribed by UNESCO in 2010.",
+        "difficulty": 3
+      }
     ]
   }
 }

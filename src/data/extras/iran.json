@@ -1,0 +1,39 @@
+{
+  "country": "iran",
+  "timeline": [
+    { "event": "The Elamites build the great ziggurat of Chogha Zanbil", "year": -1250, "label": "c. 1250 BCE", "approx": true, "difficulty": 3 },
+    { "event": "Cyrus the Great captures Babylon", "year": -539, "label": "539 BCE", "difficulty": 1 },
+    { "event": "Darius I begins building Persepolis", "year": -518, "label": "c. 518 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Alexander the Great burns Persepolis", "year": -330, "label": "330 BCE", "difficulty": 1 },
+    { "event": "Parthian horse archers defeat the Roman general Crassus at Carrhae", "year": -53, "label": "53 BCE", "difficulty": 2 },
+    { "event": "Ardashir I founds the Sasanian Empire", "year": 224, "label": "224", "difficulty": 3 },
+    { "event": "The last Sasanian king, Yazdegerd III, dies fleeing the Arab conquest", "year": 651, "label": "651", "difficulty": 2 },
+    { "event": "Ferdowsi completes the Shahnameh, the Persian Book of Kings", "year": 1010, "label": "1010", "difficulty": 2 },
+    { "event": "Hulagu Khan's Mongols take the fortress of Alamut", "year": 1256, "label": "1256", "difficulty": 2 },
+    { "event": "Shah Ismail I founds the Safavid dynasty", "year": 1501, "label": "1501", "difficulty": 1 },
+    { "event": "Shah Abbas I makes Isfahan his capital", "year": 1598, "label": "1598", "difficulty": 1 },
+    { "event": "Nader Shah sacks Delhi and seizes the Peacock Throne", "year": 1739, "label": "1739", "difficulty": 3 },
+    { "event": "The Qajars make Tehran the capital", "year": 1786, "label": "1786", "difficulty": 2 },
+    { "event": "Iran's first parliament opens during the Constitutional Revolution", "year": 1906, "label": "1906", "difficulty": 2 },
+    { "event": "Reza Shah founds the Pahlavi dynasty", "year": 1925, "label": "1925", "difficulty": 1 },
+    { "event": "Persia asks the world to call it Iran", "year": 1935, "label": "1935", "difficulty": 1 },
+    { "event": "Roosevelt, Churchill and Stalin meet at the Tehran Conference", "year": 1943, "label": "1943", "difficulty": 3 },
+    { "event": "Prime Minister Mosaddegh nationalises Iran's oil industry", "year": 1951, "label": "1951", "difficulty": 2 },
+    { "event": "A referendum establishes the Islamic Republic of Iran", "year": 1979, "label": "1979", "difficulty": 1 },
+    { "event": "Maryam Mirzakhani becomes the first woman to win the Fields Medal", "year": 2014, "label": "2014", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Tehran", "kind": "city", "lat": 35.69, "lon": 51.39, "clue": "Iran's capital since 1786 sprawls beneath the Alborz mountains and is home to the Golestan Palace and Azadi Tower.", "difficulty": 1 },
+    { "name": "Isfahan", "kind": "city", "lat": 32.65, "lon": 51.67, "clue": "Shah Abbas I's Safavid capital, famed for Naqsh-e Jahan Square and the saying 'Isfahan is half the world'.", "difficulty": 1 },
+    { "name": "Persepolis", "kind": "historic", "lat": 29.94, "lon": 52.89, "clue": "Ceremonial capital of the Achaemenid kings, begun by Darius I and burned by Alexander the Great in 330 BCE.", "difficulty": 1 },
+    { "name": "Mount Damavand", "kind": "nature", "lat": 35.95, "lon": 52.11, "clue": "At about 5,610 m, this dormant volcano is Iran's highest peak and the tallest volcano in Asia.", "difficulty": 1 },
+    { "name": "Mashhad", "kind": "city", "lat": 36.3, "lon": 59.6, "clue": "Iran's second-largest city is home to the shrine of Imam Reza, the country's most visited pilgrimage site.", "difficulty": 1 },
+    { "name": "Yazd", "kind": "city", "lat": 31.9, "lon": 54.37, "clue": "A desert city of mud-brick lanes, windcatchers and Zoroastrian fire temples, UNESCO-listed in 2017.", "difficulty": 2 },
+    { "name": "Tabriz", "kind": "city", "lat": 38.08, "lon": 46.29, "clue": "The first Safavid capital, whose vast covered bazaar is a UNESCO World Heritage Site.", "difficulty": 2 },
+    { "name": "Susa", "kind": "historic", "lat": 32.19, "lon": 48.25, "clue": "Capital of ancient Elam and later a royal city of Darius I, where Hammurabi's law code was found in 1901.", "difficulty": 2 },
+    { "name": "Lut Desert", "kind": "nature", "lat": 30.5, "lon": 58.0, "clue": "Wind-carved ridges called kaluts rise from one of the hottest places on Earth, UNESCO-listed in 2016.", "difficulty": 2 },
+    { "name": "Behistun Inscription", "kind": "historic", "lat": 34.39, "lon": 47.44, "clue": "Darius I's trilingual cliff inscription here helped scholars decipher cuneiform in the 19th century.", "difficulty": 3 },
+    { "name": "Shahr-e Sukhteh", "kind": "historic", "lat": 30.6, "lon": 61.33, "clue": "This 'Burnt City' was a Bronze Age trading hub in Sistan and is now a UNESCO World Heritage Site.", "difficulty": 3 },
+    { "name": "Gonbad-e Qabus", "kind": "landmark", "lat": 37.26, "lon": 55.17, "clue": "An early 11th-century tomb tower, celebrated as the tallest tower ever built purely of brick.", "difficulty": 3 }
+  ]
+}

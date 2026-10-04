@@ -194,7 +194,9 @@ export class DioramaView {
 
   /** Confetti burst from the landmark — used for correct answers and stamps. */
   celebrate(colors: string[], count = 70): void {
-    for (let i = 0; i < count; i++) {
+    // Cap live confetti so rapid answers can't pile up thousands of meshes.
+    const room = Math.max(0, 400 - this.particles.length);
+    for (let i = 0; i < Math.min(count, room); i++) {
       const m = new THREE.Mesh(
         new THREE.PlaneGeometry(0.16, 0.1),
         new THREE.MeshBasicMaterial({ color: colors[i % colors.length], side: THREE.DoubleSide, transparent: true }),
