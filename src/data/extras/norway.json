@@ -1,0 +1,39 @@
+{
+  "country": "norway",
+  "timeline": [
+    { "event": "Hunter-gatherers begin carving the rock art of Alta", "year": -4200, "label": "c. 4200 BCE", "approx": true, "difficulty": 3 },
+    { "event": "Viking raiders attack the monastery of Lindisfarne in England", "year": 793, "label": "793", "difficulty": 1 },
+    { "event": "The Oseberg ship is buried in a great mound near the Oslofjord", "year": 834, "label": "834", "difficulty": 2 },
+    { "event": "Harald Fairhair wins the Battle of Hafrsfjord", "year": 872, "label": "c. 872", "approx": true, "difficulty": 2 },
+    { "event": "King Olaf Haraldsson falls at the Battle of Stiklestad", "year": 1030, "label": "1030", "difficulty": 2 },
+    { "event": "Harald Hardrada is killed at Stamford Bridge in England", "year": 1066, "label": "1066", "difficulty": 1 },
+    { "event": "Norway cedes the Hebrides and Isle of Man to Scotland", "year": 1266, "label": "1266", "difficulty": 3 },
+    { "event": "The Black Death arrives in Bergen by ship", "year": 1349, "label": "1349", "difficulty": 2 },
+    { "event": "The Kalmar Union joins Norway, Denmark and Sweden under one monarch", "year": 1397, "label": "1397", "difficulty": 2 },
+    { "event": "The Lutheran Reformation is imposed on Norway", "year": 1537, "label": "1537", "difficulty": 3 },
+    { "event": "Christian IV rebuilds Oslo after a fire and renames it Christiania", "year": 1624, "label": "1624", "difficulty": 2 },
+    { "event": "Norway's constitution is signed at Eidsvoll", "year": 1814, "label": "1814", "difficulty": 1 },
+    { "event": "Fridtjof Nansen's Fram sets off to drift across the Arctic Ocean", "year": 1893, "label": "1893", "difficulty": 3 },
+    { "event": "Norway dissolves its union with Sweden", "year": 1905, "label": "1905", "difficulty": 1 },
+    { "event": "Roald Amundsen's team reaches the South Pole", "year": 1911, "label": "1911", "difficulty": 1 },
+    { "event": "Norwegian women win the vote on equal terms with men", "year": 1913, "label": "1913", "difficulty": 2 },
+    { "event": "Germany invades Norway", "year": 1940, "label": "1940", "difficulty": 1 },
+    { "event": "Oil is discovered at the Ekofisk field in the North Sea", "year": 1969, "label": "1969", "difficulty": 1 },
+    { "event": "Lillehammer hosts the Winter Olympics", "year": 1994, "label": "1994", "difficulty": 1 },
+    { "event": "The marble-roofed Oslo Opera House opens", "year": 2008, "label": "2008", "difficulty": 2 }
+  ],
+  "places": [
+    { "name": "Oslo", "kind": "city", "lat": 59.91, "lon": 10.75, "clue": "Norway's capital, at the head of the Oslofjord, where the Nobel Peace Prize is awarded each December.", "difficulty": 1 },
+    { "name": "Bergen", "kind": "city", "lat": 60.39, "lon": 5.32, "clue": "The 'city of seven mountains', whose colourful Hanseatic wharf, Bryggen, is a UNESCO World Heritage Site.", "difficulty": 1 },
+    { "name": "Geirangerfjord", "kind": "nature", "lat": 62.10, "lon": 7.10, "clue": "A UNESCO-listed fjord where the Seven Sisters waterfalls tumble down sheer cliffs.", "difficulty": 1 },
+    { "name": "North Cape", "kind": "landmark", "lat": 71.17, "lon": 25.78, "clue": "A 307 m cliff on Magerøya island, famed as the northern tip of Europe and a place to watch the midnight sun.", "difficulty": 1 },
+    { "name": "Preikestolen", "kind": "nature", "lat": 58.99, "lon": 6.19, "clue": "Pulpit Rock, a flat-topped cliff about 604 m above the Lysefjord, reached by a popular hike.", "difficulty": 1 },
+    { "name": "Trondheim", "kind": "city", "lat": 63.43, "lon": 10.40, "clue": "Medieval Nidaros, built around the cathedral over the grave of St Olaf, Norway's patron saint.", "difficulty": 2 },
+    { "name": "Tromsø", "kind": "city", "lat": 69.65, "lon": 18.96, "clue": "The 'Gateway to the Arctic', a base for polar expeditions and one of the best places to see the northern lights.", "difficulty": 2 },
+    { "name": "Reine, Lofoten", "kind": "nature", "lat": 67.93, "lon": 13.09, "clue": "A fishing village of red rorbu cabins beneath jagged peaks, where cod dries on wooden racks in spring.", "difficulty": 2 },
+    { "name": "Røros", "kind": "historic", "lat": 62.57, "lon": 11.38, "clue": "A UNESCO-listed copper-mining town of wooden houses, mined for 333 years from 1644.", "difficulty": 2 },
+    { "name": "Urnes Stave Church", "kind": "historic", "lat": 61.30, "lon": 7.32, "clue": "A 12th-century stave church on the Lustrafjord, whose animal carvings gave their name to the Urnes style.", "difficulty": 3 },
+    { "name": "Saltstraumen", "kind": "nature", "lat": 67.23, "lon": 14.62, "clue": "A narrow strait near Bodø where one of the world's strongest tidal currents forms swirling whirlpools.", "difficulty": 3 },
+    { "name": "Alta Rock Art", "kind": "historic", "lat": 69.95, "lon": 23.19, "clue": "Thousands of prehistoric carvings of reindeer, boats and hunters, a UNESCO site near the Altafjord.", "difficulty": 3 }
+  ]
+}

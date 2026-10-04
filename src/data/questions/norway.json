@@ -2,166 +2,1091 @@
   "country": "norway",
   "topics": {
     "history": [
-      { "q": "The Viking Age is traditionally dated from a raid in 793 on which English monastery?", "choices": ["Lindisfarne", "Iona", "Whitby", "Jarrow"], "answer": 0, "fact": "Norse raiders struck the Holy Island of Lindisfarne off Northumberland, shocking scholars across Christian Europe.", "difficulty": 1 },
-      { "q": "Which king is traditionally credited with first uniting Norway in the late 9th century?", "choices": ["Harald Fairhair", "Olaf Tryggvason", "Harald Hardrada", "Cnut the Great"], "answer": 0, "fact": "Legend says Harald vowed not to cut or comb his hair until he ruled all of Norway, hence his nickname.", "difficulty": 1 },
-      { "q": "In which year did Norway peacefully dissolve its union with Sweden?", "choices": ["1905", "1814", "1918", "1945"], "answer": 0, "fact": "In a referendum that August, 368,208 Norwegians voted for dissolution and just 184 against.", "difficulty": 1 },
-      { "q": "Which country invaded Norway on 9 April 1940?", "choices": ["Germany", "The Soviet Union", "Britain", "Italy"], "answer": 0, "fact": "The German cruiser Blücher was sunk in the Oslofjord near Drøbak, buying time for the King and government to escape.", "difficulty": 1 },
-      { "q": "Which Norwegian explorer led the first expedition to reach the South Pole, in December 1911?", "choices": ["Roald Amundsen", "Fridtjof Nansen", "Otto Sverdrup", "Carsten Borchgrevink"], "answer": 0, "fact": "His team reached the pole on 14 December 1911, about five weeks before Robert Falcon Scott's party.", "difficulty": 1 },
-      { "q": "Norway's National Day, 17 May, commemorates the signing of what in 1814?", "choices": ["The Constitution", "A peace treaty with Sweden", "The end of the Black Death", "The founding of Oslo"], "answer": 0, "fact": "Children's parades, rather than military ones, are the heart of the day's celebrations across the country.", "difficulty": 1 },
-      { "q": "German merchants of the Hanseatic League ran a major trading post at the Bryggen wharf in which city?", "choices": ["Bergen", "Trondheim", "Stavanger", "Tromsø"], "answer": 0, "fact": "The Hansa traded grain for dried cod from the north; Bryggen's wooden wharf buildings are now a UNESCO World Heritage Site.", "difficulty": 1 },
-      { "q": "For about four centuries until 1814, Norway was ruled in a union from which capital?", "choices": ["Copenhagen", "Stockholm", "London", "Berlin"], "answer": 0, "fact": "The union with Denmark began in 1380 under a shared king; Norway's institutions were increasingly run from Copenhagen.", "difficulty": 1 },
-      { "q": "Which Norwegian politician's surname became a byword for 'traitor' after he collaborated with the Nazi occupiers?", "choices": ["Vidkun Quisling", "Christian Michelsen", "Johan Nygaardsvold", "Trygve Lie"], "answer": 0, "fact": "He was tried and executed in October 1945, and 'quisling' entered English as a word for a collaborator.", "difficulty": 1 },
-      { "q": "Which Norwegian king was killed at the Battle of Stamford Bridge in England in 1066?", "choices": ["Harald Hardrada", "Olaf Haraldsson", "Magnus Barefoot", "Sverre Sigurdsson"], "answer": 0, "fact": "His defeat by Harold Godwinson is often seen as the end of the Viking Age; weeks later Harold lost at Hastings.", "difficulty": 2 },
-      { "q": "Which king, later Norway's patron saint, died at the Battle of Stiklestad in 1030?", "choices": ["Olaf II Haraldsson", "Olaf I Tryggvason", "Haakon the Good", "Magnus the Good"], "answer": 0, "fact": "His shrine in Trondheim became one of northern Europe's great pilgrimage destinations.", "difficulty": 2 },
-      { "q": "Under the 1814 Treaty of Kiel, Denmark ceded Norway to which country?", "choices": ["Sweden", "Britain", "Russia", "Prussia"], "answer": 0, "fact": "Norwegians resisted by drafting their own constitution, and later accepted a union with Sweden that kept it in place.", "difficulty": 2 },
-      { "q": "Which Danish prince became King Haakon VII of Norway in 1905?", "choices": ["Prince Carl", "Prince Valdemar", "Prince Christian", "Prince Frederik"], "answer": 0, "fact": "Carl asked for a referendum before accepting, and about 79% of voters approved keeping a monarchy.", "difficulty": 2 },
-      { "q": "In 1943, Norwegian commandos sabotaged the Vemork plant, which was producing what for Nazi Germany?", "choices": ["Heavy water", "Synthetic fuel", "Uranium ore", "Rocket propellant"], "answer": 0, "fact": "Operation Gunnerside's team escaped without firing a shot; the story inspired the 1965 film 'The Heroes of Telemark'.", "difficulty": 2 },
-      { "q": "Which explorer let his ship freeze into the Arctic pack ice in 1893 to drift towards the North Pole?", "choices": ["Fridtjof Nansen", "Roald Amundsen", "Otto Sverdrup", "Hjalmar Johansen"], "answer": 0, "fact": "Leaving the ship with Hjalmar Johansen, he reached a record 86°14′N on skis before wintering in a stone hut.", "difficulty": 2 },
-      { "q": "Which union of 1397 brought Norway, Denmark and Sweden under a single monarch?", "choices": ["The Kalmar Union", "The Union of Lublin", "The Hanseatic League", "The Union of Utrecht"], "answer": 0, "fact": "The union was formed at the Swedish castle town of Kalmar; Sweden finally broke away in 1523.", "difficulty": 2 },
-      { "q": "During the Second World War, what was the 'Shetland Bus'?", "choices": ["Boats ferrying agents and refugees between Shetland and Norway", "A British bomber squadron", "A Nazi supply railway", "An escape route through Sweden"], "answer": 0, "fact": "Norwegian fishing boats, and later fast submarine chasers, made the dangerous North Sea crossings, often in winter darkness.", "difficulty": 2 },
-      { "q": "Oslo was officially known by which name from 1624 until 1925?", "choices": ["Christiania", "Kristiansand", "Nidaros", "Bjørgvin"], "answer": 0, "fact": "King Christian IV rebuilt the city after a great fire in 1624 and named it after himself.", "difficulty": 2 },
-      { "q": "The Black Death reached Norway in 1349 aboard a ship that docked at which port?", "choices": ["Bergen", "Oslo", "Tønsberg", "Trondheim"], "answer": 0, "fact": "The plague may have killed around half of the population, leaving many farms abandoned for generations.", "difficulty": 2 },
-      { "q": "Which Danish prince was elected King of Norway at Eidsvoll in May 1814, but abdicated that October?", "choices": ["Christian Frederik", "Frederik VI", "Christian VIII's son Frederik", "Carl Johan"], "answer": 0, "fact": "Christian Frederik later became King Christian VIII of Denmark, ruling from 1839 to 1848.", "difficulty": 3 },
-      { "q": "The Battle of Hafrsfjord, traditionally linked to Norway's unification, was fought near which modern city?", "choices": ["Stavanger", "Bergen", "Trondheim", "Kristiansand"], "answer": 0, "fact": "The monument 'Swords in Rock', three giant bronze swords planted in the ground, marks the battle site.", "difficulty": 3 },
-      { "q": "By what name was Trondheim known in the Middle Ages?", "choices": ["Nidaros", "Christiania", "Bjørgvin", "Kaupang"], "answer": 0, "fact": "Nidaros became the seat of Norway's archbishop in 1152, and its great cathedral still stands over St Olaf's burial place.", "difficulty": 3 },
-      { "q": "Under King Haakon IV, which island accepted Norwegian rule in 1262-64?", "choices": ["Iceland", "Ireland", "Gotland", "Sicily"], "answer": 0, "fact": "At its height, the Norwegian realm also included Greenland, the Faroes, Orkney and Shetland.", "difficulty": 3 },
-      { "q": "By the Treaty of Perth in 1266, Norway ceded the Hebrides and the Isle of Man to which kingdom?", "choices": ["Scotland", "England", "Denmark", "Ireland"], "answer": 0, "fact": "The treaty followed the inconclusive Battle of Largs in 1263; Norway kept Orkney and Shetland for two more centuries.", "difficulty": 3 },
-      { "q": "Which 1814 agreement ended the brief war between Norway and Sweden while preserving Norway's new constitution?", "choices": ["The Convention of Moss", "The Treaty of Kiel", "The Peace of Roskilde", "The Treaty of Stockholm"], "answer": 0, "fact": "Signed in August 1814, it led Christian Frederik to abdicate and Norway to enter a union with Sweden as a separate state.", "difficulty": 3 }
+      {
+        "q": "The Viking Age is traditionally dated from a raid in 793 on which English monastery?",
+        "choices": ["Iona", "Whitby", "Jarrow", "Lindisfarne"],
+        "answer": 3,
+        "fact": "Norse raiders struck the Holy Island of Lindisfarne off Northumberland, shocking scholars across Christian Europe.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which king is traditionally credited with first uniting Norway in the late 9th century?",
+        "choices": ["Harald Fairhair", "Olaf Tryggvason", "Harald Hardrada", "Cnut the Great"],
+        "answer": 0,
+        "fact": "Legend says Harald vowed not to cut or comb his hair until he ruled all of Norway, hence his nickname.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did Norway peacefully dissolve its union with Sweden?",
+        "choices": ["1814", "1905", "1918", "1945"],
+        "answer": 1,
+        "fact": "In a referendum that August, 368,208 Norwegians voted for dissolution and just 184 against.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which country invaded Norway on 9 April 1940?",
+        "choices": ["The Soviet Union", "Britain", "Germany", "Italy"],
+        "answer": 2,
+        "fact": "The German cruiser Blücher was sunk in the Oslofjord near Drøbak, buying time for the King and government to escape.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Norwegian explorer led the first expedition to reach the South Pole, in December 1911?",
+        "choices": ["Fridtjof Nansen", "Otto Sverdrup", "Carsten Borchgrevink", "Roald Amundsen"],
+        "answer": 3,
+        "fact": "His team reached the pole on 14 December 1911, about five weeks before Robert Falcon Scott's party.",
+        "difficulty": 1
+      },
+      {
+        "q": "Norway's National Day, 17 May, commemorates the signing of what in 1814?",
+        "choices": ["The Constitution", "A peace treaty with Sweden", "The end of the Black Death", "The founding of Oslo"],
+        "answer": 0,
+        "fact": "Children's parades, rather than military ones, are the heart of the day's celebrations across the country.",
+        "difficulty": 1
+      },
+      {
+        "q": "German merchants of the Hanseatic League ran a major trading post at the Bryggen wharf in which city?",
+        "choices": ["Trondheim", "Bergen", "Stavanger", "Tromsø"],
+        "answer": 1,
+        "fact": "The Hansa traded grain for dried cod from the north; Bryggen's wooden wharf buildings are now a UNESCO World Heritage Site.",
+        "difficulty": 1
+      },
+      {
+        "q": "For about four centuries until 1814, Norway was ruled in a union from which capital?",
+        "choices": ["Stockholm", "London", "Copenhagen", "Berlin"],
+        "answer": 2,
+        "fact": "The union with Denmark began in 1380 under a shared king; Norway's institutions were increasingly run from Copenhagen.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Norwegian politician's surname became a byword for 'traitor' after he collaborated with the Nazi occupiers?",
+        "choices": ["Christian Michelsen", "Johan Nygaardsvold", "Trygve Lie", "Vidkun Quisling"],
+        "answer": 3,
+        "fact": "He was tried and executed in October 1945, and 'quisling' entered English as a word for a collaborator.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Norwegian king was killed at the Battle of Stamford Bridge in England in 1066?",
+        "choices": ["Harald Hardrada", "Olaf Haraldsson", "Magnus Barefoot", "Sverre Sigurdsson"],
+        "answer": 0,
+        "fact": "His defeat by Harold Godwinson is often seen as the end of the Viking Age; weeks later Harold lost at Hastings.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which king, later Norway's patron saint, died at the Battle of Stiklestad in 1030?",
+        "choices": ["Olaf I Tryggvason", "Olaf II Haraldsson", "Haakon the Good", "Magnus the Good"],
+        "answer": 1,
+        "fact": "His shrine in Trondheim became one of northern Europe's great pilgrimage destinations.",
+        "difficulty": 2
+      },
+      {
+        "q": "Under the 1814 Treaty of Kiel, Denmark ceded Norway to which country?",
+        "choices": ["Britain", "Russia", "Sweden", "Prussia"],
+        "answer": 2,
+        "fact": "Norwegians resisted by drafting their own constitution, and later accepted a union with Sweden that kept it in place.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Danish prince became King Haakon VII of Norway in 1905?",
+        "choices": ["Prince Valdemar", "Prince Christian", "Prince Frederik", "Prince Carl"],
+        "answer": 3,
+        "fact": "Carl asked for a referendum before accepting, and about 79% of voters approved keeping a monarchy.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1943, Norwegian commandos sabotaged the Vemork plant, which was producing what for Nazi Germany?",
+        "choices": ["Heavy water", "Synthetic fuel", "Uranium ore", "Rocket propellant"],
+        "answer": 0,
+        "fact": "Operation Gunnerside's team escaped without firing a shot; the story inspired the 1965 film 'The Heroes of Telemark'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which explorer let his ship freeze into the Arctic pack ice in 1893 to drift towards the North Pole?",
+        "choices": ["Roald Amundsen", "Fridtjof Nansen", "Otto Sverdrup", "Hjalmar Johansen"],
+        "answer": 1,
+        "fact": "Leaving the ship with Hjalmar Johansen, he reached a record 86°14′N on skis before wintering in a stone hut.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which union of 1397 brought Norway, Denmark and Sweden under a single monarch?",
+        "choices": ["The Union of Lublin", "The Hanseatic League", "The Kalmar Union", "The Union of Utrecht"],
+        "answer": 2,
+        "fact": "The union was formed at the Swedish castle town of Kalmar; Sweden finally broke away in 1523.",
+        "difficulty": 2
+      },
+      {
+        "q": "During the Second World War, what was the 'Shetland Bus'?",
+        "choices": ["A British bomber squadron", "A Nazi supply railway", "An escape route through Sweden", "Boats ferrying agents and refugees between Shetland and Norway"],
+        "answer": 3,
+        "fact": "Norwegian fishing boats, and later fast submarine chasers, made the dangerous North Sea crossings, often in winter darkness.",
+        "difficulty": 2
+      },
+      {
+        "q": "Oslo was officially known by which name from 1624 until 1925?",
+        "choices": ["Christiania", "Kristiansand", "Nidaros", "Bjørgvin"],
+        "answer": 0,
+        "fact": "King Christian IV rebuilt the city after a great fire in 1624 and named it after himself.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Black Death reached Norway in 1349 aboard a ship that docked at which port?",
+        "choices": ["Oslo", "Bergen", "Tønsberg", "Trondheim"],
+        "answer": 1,
+        "fact": "The plague may have killed around half of the population, leaving many farms abandoned for generations.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Danish prince was elected King of Norway at Eidsvoll in May 1814, but abdicated that October?",
+        "choices": ["Frederik VI", "Christian August", "Christian Frederik", "Carl Johan"],
+        "answer": 2,
+        "fact": "Christian Frederik later became King Christian VIII of Denmark, ruling from 1839 to 1848.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Battle of Hafrsfjord, traditionally linked to Norway's unification, was fought near which modern city?",
+        "choices": ["Bergen", "Trondheim", "Kristiansand", "Stavanger"],
+        "answer": 3,
+        "fact": "The monument 'Swords in Rock', three giant bronze swords planted in the ground, marks the battle site.",
+        "difficulty": 3
+      },
+      {
+        "q": "By what name was Trondheim known in the Middle Ages?",
+        "choices": ["Nidaros", "Christiania", "Bjørgvin", "Kaupang"],
+        "answer": 0,
+        "fact": "Nidaros became the seat of Norway's archbishop in the 1150s, and its great cathedral still stands over St Olaf's burial place.",
+        "difficulty": 3
+      },
+      {
+        "q": "Under King Haakon IV, which island accepted Norwegian rule in 1262-64?",
+        "choices": ["Ireland", "Iceland", "Gotland", "Sicily"],
+        "answer": 1,
+        "fact": "At its height, the Norwegian realm also included Greenland, the Faroes, Orkney and Shetland.",
+        "difficulty": 3
+      },
+      {
+        "q": "By the Treaty of Perth in 1266, Norway ceded the Hebrides and the Isle of Man to which kingdom?",
+        "choices": ["England", "Denmark", "Scotland", "Ireland"],
+        "answer": 2,
+        "fact": "The treaty followed the inconclusive Battle of Largs in 1263; Norway kept Orkney and Shetland for two more centuries.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1814 agreement ended the brief war between Norway and Sweden while preserving Norway's new constitution?",
+        "choices": ["The Treaty of Kiel", "The Peace of Roskilde", "The Treaty of Stockholm", "The Convention of Moss"],
+        "answer": 3,
+        "fact": "Signed in August 1814, it led Christian Frederik to abdicate and Norway to enter a union with Sweden as a separate state.",
+        "difficulty": 3
+      }
     ],
     "technology": [
-      { "q": "What did Norway discover at the Ekofisk field in the North Sea in 1969?", "choices": ["Oil", "Gold", "Diamonds", "Uranium"], "answer": 0, "fact": "The discovery turned Norway into one of the world's major exporters of oil and gas.", "difficulty": 1 },
-      { "q": "Thor Heyerdahl's 1947 Kon-Tiki raft, which sailed from Peru to Polynesia, was built mainly from which wood?", "choices": ["Balsa", "Oak", "Teak", "Pine"], "answer": 0, "fact": "The raft drifted about 6,900 km in 101 days; it is now displayed at the Kon-Tiki Museum in Oslo.", "difficulty": 1 },
-      { "q": "What supplies the vast majority of Norway's electricity?", "choices": ["Hydropower", "Nuclear power", "Coal", "Solar power"], "answer": 0, "fact": "Rain and snowmelt from the mountains feed well over a thousand hydropower plants.", "difficulty": 1 },
-      { "q": "Which kitchen tool did Norwegian carpenter Thor Bjørklund patent in 1925?", "choices": ["The cheese slicer", "The can opener", "The garlic press", "The whisk"], "answer": 0, "fact": "Bjørklund's 'ostehøvel' (cheese plane) was inspired by his carpenter's plane and is still made by the family firm in Lillehammer.", "difficulty": 1 },
-      { "q": "Which Norwegian tunnel became the world's longest road tunnel when it opened in 2000?", "choices": ["Lærdal Tunnel", "Gotthard Road Tunnel", "Seikan Tunnel", "Channel Tunnel"], "answer": 0, "fact": "The 24.5 km tunnel has three large caverns lit in blue and yellow to break the monotony and keep drivers alert.", "difficulty": 1 },
-      { "q": "Norway is the world's largest producer of which farmed fish?", "choices": ["Atlantic salmon", "Tilapia", "Catfish", "Carp"], "answer": 0, "fact": "Norway produces around half of the world's farmed Atlantic salmon, raised in sea pens along its sheltered fjords.", "difficulty": 1 },
-      { "q": "In 2018, Norway's state-controlled oil company Statoil changed its name to what?", "choices": ["Equinor", "Aker", "Norsk Hydro", "Petoro"], "answer": 0, "fact": "The new name combines 'equi', for equality and equilibrium, with 'nor', for Norway.", "difficulty": 1 },
-      { "q": "Which famous wooden polar ship, used by both Nansen and Amundsen, is displayed in its own museum in Oslo?", "choices": ["Fram", "Endurance", "Terra Nova", "Discovery"], "answer": 0, "fact": "Fram is said to have sailed farther north and farther south than any other wooden ship.", "difficulty": 1 },
-      { "q": "What does the Svalbard Global Seed Vault, opened in 2008, store deep inside a mountain?", "choices": ["Backup samples of crop seeds", "Norway's gold reserves", "Arctic ice cores", "Nuclear waste"], "answer": 0, "fact": "Built near Longyearbyen, the vault can hold millions of seed samples kept frozen at about -18°C.", "difficulty": 1 },
-      { "q": "Kristian Birkeland and Sam Eyde developed an electric-arc process to make what, leading to the founding of Norsk Hydro?", "choices": ["Nitrogen fertiliser", "Aluminium", "Steel", "Paper"], "answer": 0, "fact": "Birkeland also explained the aurora as charged particles from the Sun guided by Earth's magnetic field.", "difficulty": 2 },
-      { "q": "Troll A, among the tallest structures ever moved by humans, is what kind of installation?", "choices": ["An offshore gas platform", "A suspension bridge tower", "A floating wind turbine", "A radio mast"], "answer": 0, "fact": "Standing 472 m tall, the concrete platform was towed out to the Troll field in the North Sea in 1995.", "difficulty": 2 },
-      { "q": "Equinor's Hywind project pioneered which renewable energy technology?", "choices": ["Floating offshore wind turbines", "Tidal stream generators", "Wave-energy buoys", "Geothermal wells"], "answer": 0, "fact": "The first full-scale Hywind test turbine began operating off the island of Karmøy in 2009.", "difficulty": 2 },
-      { "q": "Which Norwegian mathematician gave his name to a prize often called the 'Nobel of mathematics'?", "choices": ["Niels Henrik Abel", "Sophus Lie", "Atle Selberg", "Carl Størmer"], "answer": 0, "fact": "Abel proved in 1824 that the general quintic equation cannot be solved by radicals; he died aged just 26.", "difficulty": 2 },
-      { "q": "May-Britt and Edvard Moser shared the 2014 Nobel Prize in Physiology or Medicine for discovering what?", "choices": ["Grid cells, part of the brain's positioning system", "The structure of insulin", "The enzyme telomerase", "CRISPR gene editing"], "answer": 0, "fact": "Working in Trondheim, the couple showed how grid cells help the brain map where we are, like an inner GPS.", "difficulty": 2 },
-      { "q": "Norwegian engineer Erik Rotheim patented which everyday invention in the 1920s?", "choices": ["The aerosol spray can", "The paper clip", "The zip fastener", "The ballpoint pen"], "answer": 0, "fact": "In 1998, Norway's postal service marked the invention with a stamp showing an aerosol can.", "difficulty": 2 },
-      { "q": "The UNESCO-listed mining town of Røros grew up around the extraction of which metal?", "choices": ["Copper", "Silver", "Iron", "Gold"], "answer": 0, "fact": "Mining began in 1644 and lasted 333 years; the town's wooden houses survive in remarkably intact streets.", "difficulty": 2 },
-      { "q": "Which web browser began as a research project at the Norwegian telecom company Telenor?", "choices": ["Opera", "Firefox", "Safari", "Netscape Navigator"], "answer": 0, "fact": "Opera Software was spun off in Oslo in 1995 and introduced features such as tabbed browsing and speed dial early on.", "difficulty": 2 },
-      { "q": "What is the purpose of the giant mirrors installed above the town of Rjukan in 2013?", "choices": ["Reflecting sunlight into the shaded valley in winter", "Generating solar electricity", "Signalling to aircraft", "Tracking satellites"], "answer": 0, "fact": "The deep valley gets no direct sun for about half the year, so computer-steered mirrors beam it onto the town square.", "difficulty": 2 },
-      { "q": "Which Norwegian mathematician developed the theory of continuous symmetry groups that now bear his name?", "choices": ["Sophus Lie", "Niels Henrik Abel", "Viggo Brun", "Axel Thue"], "answer": 0, "fact": "Lie groups underpin modern physics, from particle theory to the mathematics behind relativity.", "difficulty": 3 },
-      { "q": "Which Norwegian-born physicist shared the 1973 Nobel Prize in Physics for work on tunnelling in superconductors?", "choices": ["Ivar Giaever", "Lars Onsager", "Odd Hassel", "Kristian Birkeland"], "answer": 0, "fact": "Giaever trained as a mechanical engineer before moving into physics at General Electric in the United States.", "difficulty": 3 },
-      { "q": "Which Norwegian whaler patented the explosive harpoon gun in 1870, transforming modern whaling?", "choices": ["Svend Foyn", "Carl Anton Larsen", "Lars Christensen", "Christen Christensen"], "answer": 0, "fact": "Foyn from Tønsberg combined the gun with steam-powered catcher boats, allowing fast rorqual whales to be hunted.", "difficulty": 3 },
-      { "q": "The mining town of Kongsberg was founded in 1624 to exploit deposits of which metal?", "choices": ["Silver", "Copper", "Gold", "Tin"], "answer": 0, "fact": "Kongsberg's silver mines were among the largest industrial sites in Denmark-Norway; the Royal Mint is still in the town.", "difficulty": 3 },
-      { "q": "Which pioneering object-oriented programming language was created in Oslo in the 1960s?", "choices": ["Simula", "Pascal", "ALGOL", "Smalltalk"], "answer": 0, "fact": "Ole-Johan Dahl and Kristen Nygaard received the 2001 Turing Award for Simula, which inspired C++ and Java.", "difficulty": 3 },
-      { "q": "Which US company discovered the Ekofisk oil field in 1969?", "choices": ["Phillips Petroleum", "Exxon", "Gulf Oil", "Mobil"], "answer": 0, "fact": "The find came just before Christmas 1969, after a long run of dry wells had almost ended the search.", "difficulty": 3 },
-      { "q": "Ragnar Frisch, co-winner of the first Nobel economics prize in 1969, coined which term?", "choices": ["Econometrics", "Macroeconomics", "Game theory", "Supply-side economics"], "answer": 0, "fact": "Frisch shared the prize with Dutch economist Jan Tinbergen for building mathematical models of the economy.", "difficulty": 3 }
+      {
+        "q": "What did Norway discover at the Ekofisk field in the North Sea in 1969?",
+        "choices": ["Gold", "Diamonds", "Oil", "Uranium"],
+        "answer": 2,
+        "fact": "The discovery turned Norway into one of the world's major exporters of oil and gas.",
+        "difficulty": 1
+      },
+      {
+        "q": "Thor Heyerdahl's 1947 Kon-Tiki raft, which sailed from Peru to Polynesia, was built mainly from which wood?",
+        "choices": ["Oak", "Teak", "Pine", "Balsa"],
+        "answer": 3,
+        "fact": "The crew of six drifted across the Pacific for 101 days; the raft is now displayed at the Kon-Tiki Museum in Oslo.",
+        "difficulty": 1
+      },
+      {
+        "q": "What supplies the vast majority of Norway's electricity?",
+        "choices": ["Hydropower", "Nuclear power", "Coal", "Solar power"],
+        "answer": 0,
+        "fact": "Rain and snowmelt from the mountains feed well over a thousand hydropower plants.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which kitchen tool did Norwegian carpenter Thor Bjørklund patent in 1925?",
+        "choices": ["The can opener", "The cheese slicer", "The garlic press", "The whisk"],
+        "answer": 1,
+        "fact": "Bjørklund's 'ostehøvel' (cheese plane) was inspired by his carpenter's plane and is still made by the family firm in Lillehammer.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Norwegian tunnel became the world's longest road tunnel when it opened in 2000?",
+        "choices": ["Gotthard Road Tunnel", "Seikan Tunnel", "Lærdal Tunnel", "Channel Tunnel"],
+        "answer": 2,
+        "fact": "The 24.5 km tunnel has three large caverns lit in blue and yellow to break the monotony and keep drivers alert.",
+        "difficulty": 1
+      },
+      {
+        "q": "Norway is the world's largest producer of which farmed fish?",
+        "choices": ["Tilapia", "Catfish", "Carp", "Atlantic salmon"],
+        "answer": 3,
+        "fact": "Norway produces around half of the world's farmed Atlantic salmon, raised in sea pens along its sheltered fjords.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2018, Norway's state-controlled oil company Statoil changed its name to what?",
+        "choices": ["Equinor", "Aker", "Norsk Hydro", "Petoro"],
+        "answer": 0,
+        "fact": "The new name combines 'equi', for equality and equilibrium, with 'nor', for Norway.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which famous wooden polar ship, used by both Nansen and Amundsen, is displayed in its own museum in Oslo?",
+        "choices": ["Endurance", "Fram", "Terra Nova", "Discovery"],
+        "answer": 1,
+        "fact": "Fram is said to have sailed farther north and farther south than any other wooden ship.",
+        "difficulty": 1
+      },
+      {
+        "q": "What does the Svalbard Global Seed Vault, opened in 2008, store deep inside a mountain?",
+        "choices": ["Norway's gold reserves", "Arctic ice cores", "Backup samples of crop seeds", "Nuclear waste"],
+        "answer": 2,
+        "fact": "Built near Longyearbyen, the vault can hold millions of seed samples kept frozen at about -18°C.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kristian Birkeland and Sam Eyde developed an electric-arc process to make what, leading to the founding of Norsk Hydro?",
+        "choices": ["Aluminium", "Steel", "Paper", "Nitrogen fertiliser"],
+        "answer": 3,
+        "fact": "Birkeland also explained the aurora as charged particles from the Sun guided by Earth's magnetic field.",
+        "difficulty": 2
+      },
+      {
+        "q": "Troll A, among the tallest structures ever moved by humans, is what kind of installation?",
+        "choices": ["An offshore gas platform", "A suspension bridge tower", "A floating wind turbine", "A radio mast"],
+        "answer": 0,
+        "fact": "Standing 472 m tall, the concrete platform was towed out to the Troll field in the North Sea in 1995.",
+        "difficulty": 2
+      },
+      {
+        "q": "Equinor's Hywind project pioneered which renewable energy technology?",
+        "choices": ["Tidal stream generators", "Floating offshore wind turbines", "Wave-energy buoys", "Geothermal wells"],
+        "answer": 1,
+        "fact": "The first full-scale Hywind test turbine began operating off the island of Karmøy in 2009.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Norwegian mathematician gave his name to a prize often called the 'Nobel of mathematics'?",
+        "choices": ["Sophus Lie", "Atle Selberg", "Niels Henrik Abel", "Carl Størmer"],
+        "answer": 2,
+        "fact": "Abel proved in 1824 that the general quintic equation cannot be solved by radicals; he died aged just 26.",
+        "difficulty": 2
+      },
+      {
+        "q": "May-Britt and Edvard Moser shared the 2014 Nobel Prize in Physiology or Medicine for discovering what?",
+        "choices": ["The structure of insulin", "The enzyme telomerase", "CRISPR gene editing", "Grid cells, part of the brain's positioning system"],
+        "answer": 3,
+        "fact": "Working in Trondheim, the couple showed how grid cells help the brain map where we are, like an inner GPS.",
+        "difficulty": 2
+      },
+      {
+        "q": "Norwegian engineer Erik Rotheim patented which everyday invention in the 1920s?",
+        "choices": ["The aerosol spray can", "The paper clip", "The zip fastener", "The ballpoint pen"],
+        "answer": 0,
+        "fact": "In 1998, Norway's postal service marked the invention with a stamp showing an aerosol can.",
+        "difficulty": 2
+      },
+      {
+        "q": "The UNESCO-listed mining town of Røros grew up around the extraction of which metal?",
+        "choices": ["Silver", "Copper", "Iron", "Gold"],
+        "answer": 1,
+        "fact": "Mining began in 1644 and lasted 333 years; the town's wooden houses survive in remarkably intact streets.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which web browser began as a research project at the Norwegian telecom company Telenor?",
+        "choices": ["Firefox", "Safari", "Opera", "Netscape Navigator"],
+        "answer": 2,
+        "fact": "Opera Software was spun off in Oslo in 1995 and introduced features such as tabbed browsing and speed dial early on.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the purpose of the giant mirrors installed above the town of Rjukan in 2013?",
+        "choices": ["Generating solar electricity", "Signalling to aircraft", "Tracking satellites", "Reflecting sunlight into the shaded valley in winter"],
+        "answer": 3,
+        "fact": "The deep valley gets no direct sun for about half the year, so computer-steered mirrors beam it onto the town square.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Norwegian mathematician developed the theory of continuous symmetry groups that now bear his name?",
+        "choices": ["Sophus Lie", "Niels Henrik Abel", "Viggo Brun", "Axel Thue"],
+        "answer": 0,
+        "fact": "Lie groups underpin modern physics, from particle theory to the mathematics behind relativity.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Norwegian-born physicist shared the 1973 Nobel Prize in Physics for work on tunnelling in superconductors?",
+        "choices": ["Lars Onsager", "Ivar Giaever", "Odd Hassel", "Kristian Birkeland"],
+        "answer": 1,
+        "fact": "Giaever trained as a mechanical engineer before moving into physics at General Electric in the United States.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Norwegian whaler patented the explosive harpoon gun in 1870, transforming modern whaling?",
+        "choices": ["Carl Anton Larsen", "Lars Christensen", "Svend Foyn", "Christen Christensen"],
+        "answer": 2,
+        "fact": "Foyn from Tønsberg combined the gun with steam-powered catcher boats, allowing fast rorqual whales to be hunted.",
+        "difficulty": 3
+      },
+      {
+        "q": "The mining town of Kongsberg was founded in 1624 to exploit deposits of which metal?",
+        "choices": ["Copper", "Gold", "Tin", "Silver"],
+        "answer": 3,
+        "fact": "Kongsberg's silver mines were among the largest industrial sites in Denmark-Norway and operated until 1958.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which pioneering object-oriented programming language was created in Oslo in the 1960s?",
+        "choices": ["Simula", "Pascal", "ALGOL", "Smalltalk"],
+        "answer": 0,
+        "fact": "Ole-Johan Dahl and Kristen Nygaard received the 2001 Turing Award for Simula, which inspired C++ and Java.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which US company discovered the Ekofisk oil field in 1969?",
+        "choices": ["Exxon", "Phillips Petroleum", "Gulf Oil", "Mobil"],
+        "answer": 1,
+        "fact": "The find came just before Christmas 1969, after a long run of dry wells had almost ended the search.",
+        "difficulty": 3
+      },
+      {
+        "q": "Ragnar Frisch, co-winner of the first Nobel economics prize in 1969, coined which term?",
+        "choices": ["Behavioural economics", "Game theory", "Econometrics", "Supply-side economics"],
+        "answer": 2,
+        "fact": "Frisch shared the prize with Dutch economist Jan Tinbergen for building mathematical models of the economy.",
+        "difficulty": 3
+      }
     ],
     "art": [
-      { "q": "Which Norwegian artist painted 'The Scream'?", "choices": ["Edvard Munch", "Gustav Vigeland", "Harald Sohlberg", "Christian Krohg"], "answer": 0, "fact": "Munch made several versions in paint, pastel and print; he said the image came from a sunset walk near Oslo.", "difficulty": 1 },
-      { "q": "Which composer wrote 'In the Hall of the Mountain King'?", "choices": ["Edvard Grieg", "Jean Sibelius", "Carl Nielsen", "Johan Svendsen"], "answer": 0, "fact": "Grieg's home, Troldhaugen, near Bergen, is now a museum with a concert hall overlooking a lake.", "difficulty": 1 },
-      { "q": "Which Henrik Ibsen play ends with Nora slamming the door on her husband and family?", "choices": ["A Doll's House", "Hedda Gabler", "Ghosts", "The Wild Duck"], "answer": 0, "fact": "First staged in 1879, it caused a sensation; that final door slam was called 'the door slam heard around the world'.", "difficulty": 1 },
-      { "q": "What are Norway's medieval wooden churches, built with load-bearing posts, called?", "choices": ["Stave churches", "Log chapels", "Turf churches", "Timber basilicas"], "answer": 0, "fact": "About 28 survive in Norway, many decorated with dragon heads and carvings that echo Viking art.", "difficulty": 1 },
-      { "q": "What can visitors famously do on the roof of the Oslo Opera House?", "choices": ["Walk up its sloping marble surface", "Swim in a rooftop pool", "Ski down an artificial slope", "Land in a helicopter"], "answer": 0, "fact": "Clad in white Italian marble, the roof rises from the fjord like a glacier and is free to walk on.", "difficulty": 1 },
-      { "q": "Which Norwegian band had a worldwide hit in 1985 with 'Take On Me'?", "choices": ["a-ha", "Röyksopp", "Madcon", "Kings of Convenience"], "answer": 0, "fact": "Its pencil-sketch animated video won six MTV Video Music Awards in 1986.", "difficulty": 1 },
-      { "q": "Oslo's Frogner Park displays more than 200 sculptures by which artist?", "choices": ["Gustav Vigeland", "Edvard Munch", "Auguste Rodin", "Bertel Thorvaldsen"], "answer": 0, "fact": "Its centrepiece, the Monolith, is carved from a single block of granite with 121 intertwined human figures.", "difficulty": 1 },
-      { "q": "The kingdom of Arendelle in which Disney film drew inspiration from Norwegian scenery and architecture?", "choices": ["Frozen", "Brave", "Tangled", "Moana"], "answer": 0, "fact": "Disney artists visited Norway; stave churches, fjords and Bergen's Bryggen all shaped the film's look.", "difficulty": 1 },
-      { "q": "Which 1991 novel by Jostein Gaarder, an introduction to the history of philosophy, became a worldwide bestseller?", "choices": ["Sophie's World", "The Alchemist", "The Name of the Rose", "Hunger"], "answer": 0, "fact": "It follows a 14-year-old girl who starts receiving mysterious letters asking 'Who are you?'", "difficulty": 1 },
-      { "q": "Which Norwegian architecture firm designed the Oslo Opera House?", "choices": ["Snøhetta", "Bjarke Ingels Group", "Henning Larsen", "Sverre Fehn Architects"], "answer": 0, "fact": "Snøhetta, named after a Norwegian mountain, also designed the Bibliotheca Alexandrina in Egypt.", "difficulty": 2 },
-      { "q": "Which Norwegian author of the novel 'Hunger' won the 1920 Nobel Prize in Literature?", "choices": ["Knut Hamsun", "Bjørnstjerne Bjørnson", "Sigrid Undset", "Henrik Ibsen"], "answer": 0, "fact": "'Hunger' (1890), about a starving young writer in Christiania, is often seen as a forerunner of modernist fiction.", "difficulty": 2 },
-      { "q": "Which writer won the 1928 Nobel Prize in Literature, notably for the medieval trilogy 'Kristin Lavransdatter'?", "choices": ["Sigrid Undset", "Selma Lagerlöf", "Cora Sandel", "Camilla Collett"], "answer": 0, "fact": "Undset's home, Bjerkebæk in Lillehammer, is now a museum.", "difficulty": 2 },
-      { "q": "Who wrote the words of Norway's national anthem, 'Ja, vi elsker dette landet'?", "choices": ["Bjørnstjerne Bjørnson", "Henrik Wergeland", "Henrik Ibsen", "Ivar Aasen"], "answer": 0, "fact": "Bjørnson won the 1903 Nobel Prize in Literature; the anthem's melody is by his cousin Rikard Nordraak.", "difficulty": 2 },
-      { "q": "Which Norwegian folk instrument has extra sympathetic strings running beneath the ones that are bowed?", "choices": ["Hardanger fiddle", "Langeleik", "Nyckelharpa", "Kantele"], "answer": 0, "fact": "Hardanger fiddles are often richly decorated with mother-of-pearl inlay and a carved dragon or lion head.", "difficulty": 2 },
-      { "q": "Edvard Grieg's 'Peer Gynt' music was written for a play by which dramatist?", "choices": ["Henrik Ibsen", "August Strindberg", "Bjørnstjerne Bjørnson", "Ludvig Holberg"], "answer": 0, "fact": "The play premiered in Christiania in 1876; Grieg later arranged his music into two popular orchestral suites.", "difficulty": 2 },
-      { "q": "A version of 'The Scream' was stolen from Oslo's National Gallery in 1994 on the opening day of which event?", "choices": ["The Lillehammer Winter Olympics", "The Nobel Peace Prize ceremony", "The Bergen International Festival", "The Holmenkollen Ski Festival"], "answer": 0, "fact": "The thieves left a note thanking the gallery for its poor security; the painting was recovered undamaged months later.", "difficulty": 2 },
-      { "q": "Which Norwegian actress starred in Ingmar Bergman films such as 'Persona' and 'Scenes from a Marriage'?", "choices": ["Liv Ullmann", "Ingrid Bergman", "Greta Garbo", "Bibi Andersson"], "answer": 0, "fact": "Ullmann later directed films herself, including 'Faithless' (2000), from a script by Bergman.", "difficulty": 2 },
-      { "q": "Rosemaling is a traditional Norwegian style of what?", "choices": ["Decorative folk painting", "Wood carving", "Silver jewellery", "Knitting"], "answer": 0, "fact": "Flowing flowers and scrolls in rosemaling decorated rural chests, bowls and church walls, especially from the 1700s.", "difficulty": 2 },
-      { "q": "The richly decorated Oseberg ship, buried around 834 CE, was the grave of whom?", "choices": ["Two women", "A king and his horse", "A Christian bishop", "A Viking chieftain and his sons"], "answer": 0, "fact": "The burial included a carved cart, sledges, beds and animals; the ship is the finest surviving Viking vessel.", "difficulty": 3 },
-      { "q": "Which Norwegian stave church, famous for its animal carvings, is on the UNESCO World Heritage List?", "choices": ["Urnes", "Heddal", "Borgund", "Lom"], "answer": 0, "fact": "Its carvings of interlaced beasts gave their name to the 'Urnes style', the last phase of Viking art.", "difficulty": 3 },
-      { "q": "Munch grouped 'The Scream' with works such as 'Madonna' and 'The Dance of Life' in a series he called what?", "choices": ["The Frieze of Life", "The Kristiania Cycle", "The Northern Lights Series", "The Sick Child Sequence"], "answer": 0, "fact": "The series explored love, anxiety and death, themes Munch called 'a poem about life'.", "difficulty": 3 },
-      { "q": "Which painter's 'Winter Night in the Mountains' was voted Norway's national painting in a 1995 poll?", "choices": ["Harald Sohlberg", "Edvard Munch", "Nikolai Astrup", "Theodor Kittelsen"], "answer": 0, "fact": "Sohlberg was inspired by the snow-covered Rondane mountains seen under a deep blue winter sky.", "difficulty": 3 },
-      { "q": "Which 19th-century painter is often called the father of Norwegian landscape painting?", "choices": ["Johan Christian Dahl", "Hans Gude", "Peder Balke", "Thomas Fearnley"], "answer": 0, "fact": "Dahl spent most of his career in Dresden but returned to paint Norway's mountains, fjords and stave churches.", "difficulty": 3 },
-      { "q": "Edvard Grieg's only completed piano concerto is in which key?", "choices": ["A minor", "C major", "D minor", "E-flat major"], "answer": 0, "fact": "Grieg wrote it at 24, and its dramatic opening flourish is one of the best-known in classical music.", "difficulty": 3 },
-      { "q": "Which two painters created the 1848 painting 'Bridal Procession on the Hardangerfjord' together?", "choices": ["Adolph Tidemand and Hans Gude", "Edvard Munch and Christian Krohg", "J. C. Dahl and Thomas Fearnley", "Frits Thaulow and Erik Werenskiold"], "answer": 0, "fact": "Gude painted the landscape and Tidemand the people; the work became an icon of National Romanticism.", "difficulty": 3 }
+      {
+        "q": "Which Norwegian artist painted 'The Scream'?",
+        "choices": ["Gustav Vigeland", "Harald Sohlberg", "Edvard Munch", "Christian Krohg"],
+        "answer": 2,
+        "fact": "Munch made several versions in paint, pastel and print; he said the image came from a sunset walk near Oslo.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which composer wrote 'In the Hall of the Mountain King'?",
+        "choices": ["Jean Sibelius", "Carl Nielsen", "Johan Svendsen", "Edvard Grieg"],
+        "answer": 3,
+        "fact": "Grieg's home, Troldhaugen, near Bergen, is now a museum with a concert hall overlooking a lake.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Henrik Ibsen play ends with Nora slamming the door on her husband and family?",
+        "choices": ["A Doll's House", "Hedda Gabler", "Ghosts", "The Wild Duck"],
+        "answer": 0,
+        "fact": "First staged in 1879, it caused a sensation; that final door slam was called 'the door slam heard around the world'.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are Norway's medieval wooden churches, built with load-bearing posts, called?",
+        "choices": ["Log chapels", "Stave churches", "Turf churches", "Timber basilicas"],
+        "answer": 1,
+        "fact": "About 28 survive in Norway, many decorated with dragon heads and carvings that echo Viking art.",
+        "difficulty": 1
+      },
+      {
+        "q": "What can visitors famously do on the roof of the Oslo Opera House?",
+        "choices": ["Swim in a rooftop pool", "Ski down an artificial slope", "Walk up its sloping marble surface", "Land in a helicopter"],
+        "answer": 2,
+        "fact": "Clad in white Italian marble, the roof rises from the fjord like a glacier and is free to walk on.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Norwegian band had a worldwide hit in 1985 with 'Take On Me'?",
+        "choices": ["Röyksopp", "Madcon", "Kings of Convenience", "a-ha"],
+        "answer": 3,
+        "fact": "Its pencil-sketch animated video won six MTV Video Music Awards in 1986.",
+        "difficulty": 1
+      },
+      {
+        "q": "Oslo's Frogner Park displays more than 200 sculptures by which artist?",
+        "choices": ["Gustav Vigeland", "Edvard Munch", "Auguste Rodin", "Bertel Thorvaldsen"],
+        "answer": 0,
+        "fact": "Its centrepiece, the Monolith, is carved from a single block of granite with 121 intertwined human figures.",
+        "difficulty": 1
+      },
+      {
+        "q": "The kingdom of Arendelle in which Disney film drew inspiration from Norwegian scenery and architecture?",
+        "choices": ["Brave", "Frozen", "Tangled", "Moana"],
+        "answer": 1,
+        "fact": "Disney artists visited Norway; stave churches, fjords and Bergen's Bryggen all shaped the film's look.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 1991 novel by Jostein Gaarder, an introduction to the history of philosophy, became a worldwide bestseller?",
+        "choices": ["The Alchemist", "The Name of the Rose", "Sophie's World", "Hunger"],
+        "answer": 2,
+        "fact": "It follows a 14-year-old girl who starts receiving mysterious letters asking 'Who are you?'",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Norwegian architecture firm designed the Oslo Opera House?",
+        "choices": ["Bjarke Ingels Group", "Henning Larsen", "Sverre Fehn Architects", "Snøhetta"],
+        "answer": 3,
+        "fact": "Snøhetta, named after a Norwegian mountain, also designed the Bibliotheca Alexandrina in Egypt.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Norwegian author of the novel 'Hunger' won the 1920 Nobel Prize in Literature?",
+        "choices": ["Knut Hamsun", "Bjørnstjerne Bjørnson", "Sigrid Undset", "Henrik Ibsen"],
+        "answer": 0,
+        "fact": "'Hunger' (1890), about a starving young writer in Christiania, is often seen as a forerunner of modernist fiction.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which writer won the 1928 Nobel Prize in Literature, notably for the medieval trilogy 'Kristin Lavransdatter'?",
+        "choices": ["Selma Lagerlöf", "Sigrid Undset", "Cora Sandel", "Camilla Collett"],
+        "answer": 1,
+        "fact": "Undset's home, Bjerkebæk in Lillehammer, is now a museum.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who wrote the words of Norway's national anthem, 'Ja, vi elsker dette landet'?",
+        "choices": ["Henrik Wergeland", "Henrik Ibsen", "Bjørnstjerne Bjørnson", "Ivar Aasen"],
+        "answer": 2,
+        "fact": "Bjørnson won the 1903 Nobel Prize in Literature; the anthem's melody is by his cousin Rikard Nordraak.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Norwegian folk instrument has extra sympathetic strings running beneath the ones that are bowed?",
+        "choices": ["Langeleik", "Nyckelharpa", "Kantele", "Hardanger fiddle"],
+        "answer": 3,
+        "fact": "Hardanger fiddles are often richly decorated with mother-of-pearl inlay and a carved dragon or lion head.",
+        "difficulty": 2
+      },
+      {
+        "q": "Edvard Grieg's 'Peer Gynt' music was written for a play by which dramatist?",
+        "choices": ["Henrik Ibsen", "August Strindberg", "Bjørnstjerne Bjørnson", "Ludvig Holberg"],
+        "answer": 0,
+        "fact": "The play premiered in Christiania in 1876; Grieg later arranged his music into two popular orchestral suites.",
+        "difficulty": 2
+      },
+      {
+        "q": "A version of 'The Scream' was stolen from Oslo's National Gallery in 1994 on the opening day of which event?",
+        "choices": ["The Nobel Peace Prize ceremony", "The Lillehammer Winter Olympics", "The Bergen International Festival", "The Holmenkollen Ski Festival"],
+        "answer": 1,
+        "fact": "The thieves left a note thanking the gallery for its poor security; the painting was recovered undamaged months later.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Norwegian actress starred in Ingmar Bergman films such as 'Persona' and 'Scenes from a Marriage'?",
+        "choices": ["Ingrid Bergman", "Greta Garbo", "Liv Ullmann", "Bibi Andersson"],
+        "answer": 2,
+        "fact": "Ullmann later directed films herself, including 'Faithless' (2000), from a script by Bergman.",
+        "difficulty": 2
+      },
+      {
+        "q": "Rosemaling is a traditional Norwegian style of what?",
+        "choices": ["Wood carving", "Silver jewellery", "Knitting", "Decorative folk painting"],
+        "answer": 3,
+        "fact": "Flowing flowers and scrolls in rosemaling decorated rural chests, bowls and church walls, especially from the 1700s.",
+        "difficulty": 2
+      },
+      {
+        "q": "The richly decorated Oseberg ship, buried around 834 CE, was the grave of whom?",
+        "choices": ["Two women", "A king and his horse", "A Christian bishop", "A Viking chieftain and his sons"],
+        "answer": 0,
+        "fact": "The burial included a carved cart, sledges, beds and animals; the ship is the finest surviving Viking vessel.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Norwegian stave church, famous for its animal carvings, is on the UNESCO World Heritage List?",
+        "choices": ["Heddal", "Urnes", "Borgund", "Lom"],
+        "answer": 1,
+        "fact": "Its carvings of interlaced beasts gave their name to the 'Urnes style', the last phase of Viking art.",
+        "difficulty": 3
+      },
+      {
+        "q": "Munch grouped 'The Scream' with works such as 'Madonna' and 'The Dance of Life' in a series he called what?",
+        "choices": ["The Kristiania Cycle", "The Northern Lights Series", "The Frieze of Life", "The Sick Child Sequence"],
+        "answer": 2,
+        "fact": "The series explored love, anxiety and death, themes Munch called 'a poem about life'.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which painter's 'Winter Night in the Mountains' was voted Norway's national painting in a 1995 poll?",
+        "choices": ["Edvard Munch", "Nikolai Astrup", "Theodor Kittelsen", "Harald Sohlberg"],
+        "answer": 3,
+        "fact": "Sohlberg was inspired by the snow-covered Rondane mountains seen under a deep blue winter sky.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 19th-century painter is often called the father of Norwegian landscape painting?",
+        "choices": ["Johan Christian Dahl", "Hans Gude", "Peder Balke", "Thomas Fearnley"],
+        "answer": 0,
+        "fact": "Dahl spent most of his career in Dresden but returned to paint Norway's mountains, fjords and stave churches.",
+        "difficulty": 3
+      },
+      {
+        "q": "Edvard Grieg's only completed piano concerto is in which key?",
+        "choices": ["C major", "A minor", "D minor", "E-flat major"],
+        "answer": 1,
+        "fact": "Grieg wrote it at 24, and its dramatic opening flourish is one of the best-known in classical music.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which two painters created the 1848 painting 'Bridal Procession on the Hardangerfjord' together?",
+        "choices": ["Edvard Munch and Christian Krohg", "J. C. Dahl and Thomas Fearnley", "Adolph Tidemand and Hans Gude", "Frits Thaulow and Erik Werenskiold"],
+        "answer": 2,
+        "fact": "Gude painted the landscape and Tidemand the people; the work became an icon of National Romanticism.",
+        "difficulty": 3
+      }
     ],
     "politics": [
-      { "q": "What is the capital of Norway?", "choices": ["Oslo", "Bergen", "Trondheim", "Stavanger"], "answer": 0, "fact": "Oslo sits at the head of the Oslofjord, and nearly half of its area is forest and protected nature.", "difficulty": 1 },
-      { "q": "In which city is the Nobel Peace Prize awarded each year?", "choices": ["Oslo", "Stockholm", "Geneva", "Copenhagen"], "answer": 0, "fact": "Alfred Nobel's will gave the Peace Prize to a committee chosen by Norway's parliament; the other prizes are awarded in Stockholm.", "difficulty": 1 },
-      { "q": "What is the name of Norway's parliament?", "choices": ["The Storting", "The Riksdag", "The Folketing", "The Althing"], "answer": 0, "fact": "The name roughly means 'the great assembly' and echoes the 'things', or assemblies, of Viking times.", "difficulty": 1 },
-      { "q": "Who became King of Norway in 1991?", "choices": ["Harald V", "Olav V", "Haakon VII", "Haakon VIII"], "answer": 0, "fact": "Born in 1937, Harald was the first king born in Norway in more than 500 years; he sailed for Norway at the Olympics.", "difficulty": 1 },
-      { "q": "In referendums held in 1972 and 1994, Norwegian voters rejected joining which organisation?", "choices": ["The European Community/European Union", "NATO", "The United Nations", "The Nordic Council"], "answer": 0, "fact": "The 1994 vote was close: about 52% voted no.", "difficulty": 1 },
-      { "q": "Norway was a founding member of which military alliance in 1949?", "choices": ["NATO", "The Warsaw Pact", "SEATO", "The Western European Union"], "answer": 0, "fact": "Norway was the only founding member to share a border with the Soviet Union.", "difficulty": 1 },
-      { "q": "Who became Norway's first female Prime Minister, in 1981?", "choices": ["Gro Harlem Brundtland", "Erna Solberg", "Siv Jensen", "Kristin Halvorsen"], "answer": 0, "fact": "In 1986 she formed a cabinet in which 8 of 18 ministers were women, then a world record.", "difficulty": 1 },
-      { "q": "Norway's huge sovereign wealth fund was built mainly from revenue from what?", "choices": ["Oil and gas", "Fishing", "Shipping", "Timber"], "answer": 0, "fact": "Officially the Government Pension Fund Global, it invests abroad and owns roughly 1.5% of all listed shares in the world.", "difficulty": 1 },
-      { "q": "Which Norwegian became the first Secretary-General of the United Nations, in 1946?", "choices": ["Trygve Lie", "Dag Hammarskjöld", "Fridtjof Nansen", "Halvdan Koht"], "answer": 0, "fact": "Lie had been Norway's foreign minister in exile in London during the Second World War.", "difficulty": 1 },
-      { "q": "At which manor house was Norway's constitution drafted and signed in 1814?", "choices": ["Eidsvoll", "Akershus", "Bygdøy", "Skaugum"], "answer": 0, "fact": "The 112 representatives became known as the 'Eidsvoll men'; the building is now a national museum.", "difficulty": 2 },
-      { "q": "In which year did Norwegian women gain the vote in national elections on equal terms with men?", "choices": ["1913", "1905", "1928", "1945"], "answer": 0, "fact": "Norway was one of the first independent countries to do so; women's rights pioneer Gina Krog campaigned for decades.", "difficulty": 2 },
-      { "q": "The 1993 Oslo Accords, prepared in secret talks hosted by Norway, were agreements between Israel and whom?", "choices": ["The Palestine Liberation Organization", "Egypt", "Jordan", "Syria"], "answer": 0, "fact": "The first accord was signed on the White House lawn in Washington in September 1993.", "difficulty": 2 },
-      { "q": "The Sámi Parliament of Norway, opened in 1989, sits in which northern town?", "choices": ["Karasjok", "Tromsø", "Kautokeino", "Alta"], "answer": 0, "fact": "Its building is shaped to evoke a lavvu, the traditional Sámi tent.", "difficulty": 2 },
-      { "q": "What was the 'Nansen passport', introduced in 1922?", "choices": ["An identity document for stateless refugees", "A permit for polar expeditions", "A Nordic travel pass", "A League of Nations diplomatic passport"], "answer": 0, "fact": "Fridtjof Nansen won the 1922 Nobel Peace Prize for his work helping refugees and prisoners of war.", "difficulty": 2 },
-      { "q": "Which former Norwegian Prime Minister served as NATO Secretary General from 2014 to 2024?", "choices": ["Jens Stoltenberg", "Erna Solberg", "Kjell Magne Bondevik", "Thorbjørn Jagland"], "answer": 0, "fact": "He became one of NATO's longest-serving Secretaries General, second only to Joseph Luns.", "difficulty": 2 },
-      { "q": "How many members sit in the Storting?", "choices": ["169", "101", "349", "200"], "answer": 0, "fact": "Members are elected for fixed four-year terms by proportional representation from the counties.", "difficulty": 2 },
-      { "q": "Gro Harlem Brundtland chaired a UN commission whose 1987 report popularised which concept?", "choices": ["Sustainable development", "The responsibility to protect", "Human security", "Universal basic income"], "answer": 0, "fact": "The report 'Our Common Future' defined it as meeting present needs without compromising those of future generations.", "difficulty": 2 },
-      { "q": "Through which agreement does Norway take part in the EU's single market without being an EU member?", "choices": ["The European Economic Area (EEA)", "The Schengen Agreement", "The Lisbon Treaty", "The Maastricht Treaty"], "answer": 0, "fact": "The EEA came into force in 1994 and links the EU with Norway, Iceland and Liechtenstein.", "difficulty": 2 },
-      { "q": "Who was Norway's Prime Minister when the union with Sweden was dissolved in 1905?", "choices": ["Christian Michelsen", "Johan Sverdrup", "Gunnar Knudsen", "Francis Hagerup"], "answer": 0, "fact": "Michelsen, a Bergen shipowner, led the government that steered the peaceful break from Sweden.", "difficulty": 2 },
-      { "q": "Which is the only country with an older single-document national constitution still in force than Norway's?", "choices": ["The United States", "The United Kingdom", "France", "Sweden"], "answer": 0, "fact": "Norway's constitution of 17 May 1814 drew inspiration from the US Constitution and French revolutionary ideas.", "difficulty": 3 },
-      { "q": "The 1920 Svalbard Treaty recognised Norway's sovereignty while giving signatories' citizens what?", "choices": ["Equal rights to economic activity such as mining", "The right to build military bases", "Shared ownership of the islands' land", "Free passage to the North Pole"], "answer": 0, "fact": "The treaty came into force in 1925, and Russia's coal town of Barentsburg operates under its terms.", "difficulty": 3 },
-      { "q": "What is unusual about Norway's parliament compared with most parliamentary democracies?", "choices": ["It cannot be dissolved for early elections", "It has no political parties", "Its members are chosen by lottery", "It meets only once every two years"], "answer": 0, "fact": "Elections are held every four years without exception, so governments must find majorities within each term.", "difficulty": 3 },
-      { "q": "What is the royal motto of Norway, first adopted by King Haakon VII?", "choices": ["Alt for Norge", "Gud og fedrelandet", "Enighet og troskap", "Norge først"], "answer": 0, "fact": "'All for Norway' became a rallying cry during the Second World War, when the King led resistance from exile.", "difficulty": 3 },
-      { "q": "Which Labour Prime Minister, often called the 'father of the nation', led Norway's post-war rebuilding?", "choices": ["Einar Gerhardsen", "Johan Nygaardsvold", "Trygve Bratteli", "Odvar Nordli"], "answer": 0, "fact": "Gerhardsen, a former road worker who survived a concentration camp, served as Prime Minister for about 17 years in total.", "difficulty": 3 },
-      { "q": "Who was the Labour Prime Minister heading Norway's government-in-exile in London during the Second World War?", "choices": ["Johan Nygaardsvold", "Einar Gerhardsen", "Christian Michelsen", "Trygve Lie"], "answer": 0, "fact": "His government had fled with King Haakon VII in June 1940 and returned to Norway after liberation in 1945.", "difficulty": 3 }
+      {
+        "q": "What is the capital of Norway?",
+        "choices": ["Bergen", "Oslo", "Trondheim", "Stavanger"],
+        "answer": 1,
+        "fact": "Oslo sits at the head of the Oslofjord, and nearly half of its area is forest and protected nature.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which city is the Nobel Peace Prize awarded each year?",
+        "choices": ["Stockholm", "Geneva", "Oslo", "Copenhagen"],
+        "answer": 2,
+        "fact": "Alfred Nobel's will gave the Peace Prize to a committee chosen by Norway's parliament; the other prizes are awarded in Stockholm.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of Norway's parliament?",
+        "choices": ["The Riksdag", "The Folketing", "The Althing", "The Storting"],
+        "answer": 3,
+        "fact": "The name roughly means 'the great assembly' and echoes the 'things', or assemblies, of Viking times.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became King of Norway in 1991?",
+        "choices": ["Harald V", "Olav V", "Haakon VII", "Haakon VIII"],
+        "answer": 0,
+        "fact": "Born in 1937, Harald was the first king born in Norway in more than 500 years; he sailed for Norway at the Olympics.",
+        "difficulty": 1
+      },
+      {
+        "q": "In referendums held in 1972 and 1994, Norwegian voters rejected joining which organisation?",
+        "choices": ["NATO", "The European Community/European Union", "The United Nations", "The Nordic Council"],
+        "answer": 1,
+        "fact": "The 1994 vote was close: about 52% voted no.",
+        "difficulty": 1
+      },
+      {
+        "q": "Norway was a founding member of which military alliance in 1949?",
+        "choices": ["The Warsaw Pact", "SEATO", "NATO", "The Western European Union"],
+        "answer": 2,
+        "fact": "Norway was the only founding member to share a border with the Soviet Union.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became Norway's first female Prime Minister, in 1981?",
+        "choices": ["Erna Solberg", "Siv Jensen", "Kristin Halvorsen", "Gro Harlem Brundtland"],
+        "answer": 3,
+        "fact": "In 1986 she formed a cabinet in which 8 of 18 ministers were women, then a world record.",
+        "difficulty": 1
+      },
+      {
+        "q": "Norway's huge sovereign wealth fund was built mainly from revenue from what?",
+        "choices": ["Oil and gas", "Fishing", "Shipping", "Timber"],
+        "answer": 0,
+        "fact": "Officially the Government Pension Fund Global, it invests abroad and owns roughly 1.5% of all listed shares in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Norwegian became the first Secretary-General of the United Nations, in 1946?",
+        "choices": ["Dag Hammarskjöld", "Trygve Lie", "Fridtjof Nansen", "Halvdan Koht"],
+        "answer": 1,
+        "fact": "Lie had been Norway's foreign minister in exile in London during the Second World War.",
+        "difficulty": 1
+      },
+      {
+        "q": "At which manor house was Norway's constitution drafted and signed in 1814?",
+        "choices": ["Akershus", "Bygdøy", "Eidsvoll", "Skaugum"],
+        "answer": 2,
+        "fact": "The 112 representatives became known as the 'Eidsvoll men'; the building is now a national museum.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Norwegian women gain the vote in national elections on equal terms with men?",
+        "choices": ["1905", "1928", "1945", "1913"],
+        "answer": 3,
+        "fact": "Norway was one of the first independent countries to do so; women's rights pioneer Gina Krog campaigned for decades.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 1993 Oslo Accords, prepared in secret talks hosted by Norway, were agreements between Israel and whom?",
+        "choices": ["The Palestine Liberation Organization", "Egypt", "Jordan", "Syria"],
+        "answer": 0,
+        "fact": "The first accord was signed on the White House lawn in Washington in September 1993.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Sámi Parliament of Norway, opened in 1989, sits in which northern town?",
+        "choices": ["Tromsø", "Karasjok", "Kautokeino", "Alta"],
+        "answer": 1,
+        "fact": "Its building is shaped to evoke a lavvu, the traditional Sámi tent.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the 'Nansen passport', introduced in 1922?",
+        "choices": ["A permit for polar expeditions", "A Nordic travel pass", "An identity document for stateless refugees", "A League of Nations diplomatic passport"],
+        "answer": 2,
+        "fact": "Fridtjof Nansen won the 1922 Nobel Peace Prize for his work helping refugees and prisoners of war.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which former Norwegian Prime Minister served as NATO Secretary General from 2014 to 2024?",
+        "choices": ["Erna Solberg", "Kjell Magne Bondevik", "Thorbjørn Jagland", "Jens Stoltenberg"],
+        "answer": 3,
+        "fact": "He became one of NATO's longest-serving Secretaries General, second only to Joseph Luns.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many members sit in the Storting?",
+        "choices": ["169", "101", "349", "200"],
+        "answer": 0,
+        "fact": "Members are elected for fixed four-year terms by proportional representation from the counties.",
+        "difficulty": 2
+      },
+      {
+        "q": "Gro Harlem Brundtland chaired a UN commission whose 1987 report popularised which concept?",
+        "choices": ["The responsibility to protect", "Sustainable development", "Human security", "Universal basic income"],
+        "answer": 1,
+        "fact": "The report 'Our Common Future' defined it as meeting present needs without compromising those of future generations.",
+        "difficulty": 2
+      },
+      {
+        "q": "Through which agreement does Norway take part in the EU's single market without being an EU member?",
+        "choices": ["The Schengen Agreement", "The Lisbon Treaty", "The European Economic Area (EEA)", "The Maastricht Treaty"],
+        "answer": 2,
+        "fact": "The EEA came into force in 1994 and links the EU with Norway, Iceland and Liechtenstein.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was Norway's Prime Minister when the union with Sweden was dissolved in 1905?",
+        "choices": ["Johan Sverdrup", "Gunnar Knudsen", "Francis Hagerup", "Christian Michelsen"],
+        "answer": 3,
+        "fact": "Michelsen, a Bergen shipowner, led the government that steered the peaceful break from Sweden.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which is the only country with an older single-document national constitution still in force than Norway's?",
+        "choices": ["The United States", "The United Kingdom", "France", "Sweden"],
+        "answer": 0,
+        "fact": "Norway's constitution of 17 May 1814 drew inspiration from the US Constitution and French revolutionary ideas.",
+        "difficulty": 3
+      },
+      {
+        "q": "The 1920 Svalbard Treaty recognised Norway's sovereignty while giving signatories' citizens what?",
+        "choices": ["The right to build military bases", "Equal rights to economic activity such as mining", "Shared ownership of the islands' land", "Free passage to the North Pole"],
+        "answer": 1,
+        "fact": "The treaty came into force in 1925, and Russia's coal town of Barentsburg operates under its terms.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is unusual about Norway's parliament compared with most parliamentary democracies?",
+        "choices": ["It has no political parties", "Its members are chosen by lottery", "It cannot be dissolved for early elections", "It meets only once every two years"],
+        "answer": 2,
+        "fact": "Elections are held every four years without exception, so governments must find majorities within each term.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the royal motto of Norway, first adopted by King Haakon VII?",
+        "choices": ["Gud og fedrelandet", "Enighet og troskap", "Norge først", "Alt for Norge"],
+        "answer": 3,
+        "fact": "'All for Norway' became a rallying cry during the Second World War, when the King led resistance from exile.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Labour Prime Minister, often called the 'father of the nation', led Norway's post-war rebuilding?",
+        "choices": ["Einar Gerhardsen", "Johan Nygaardsvold", "Trygve Bratteli", "Odvar Nordli"],
+        "answer": 0,
+        "fact": "Gerhardsen, a former road worker who survived a concentration camp, served as Prime Minister for about 17 years in total.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was the Labour Prime Minister heading Norway's government-in-exile in London during the Second World War?",
+        "choices": ["Einar Gerhardsen", "Johan Nygaardsvold", "Christian Michelsen", "Trygve Lie"],
+        "answer": 1,
+        "fact": "His government had fled with King Haakon VII in June 1940 and returned to Norway after liberation in 1945.",
+        "difficulty": 3
+      }
     ],
     "current-affairs": [
-      { "q": "Which Norwegian writer won the Nobel Prize in Literature in 2023?", "choices": ["Jon Fosse", "Karl Ove Knausgård", "Jo Nesbø", "Lars Saabye Christensen"], "answer": 0, "fact": "The Swedish Academy praised Fosse's plays and prose for 'giving voice to the unsayable'; he writes in Nynorsk.", "difficulty": 1, "asOf": "2023" },
-      { "q": "In October 2021, a new 13-storey museum devoted to which artist opened on Oslo's waterfront?", "choices": ["Edvard Munch", "Gustav Vigeland", "Nikolai Astrup", "Kai Fjell"], "answer": 0, "fact": "The tower holds tens of thousands of works that Munch bequeathed to the city of Oslo.", "difficulty": 1, "asOf": "2021" },
-      { "q": "In 2024, roughly what share of new cars sold in Norway were fully electric?", "choices": ["About 89%", "About 25%", "About 50%", "About 65%"], "answer": 0, "fact": "Tax breaks, toll discounts and dense charging networks made Norway the world leader in switching to electric cars.", "difficulty": 1, "asOf": "2024" },
-      { "q": "Norway topped the medal table at the 2022 Winter Olympics, hosted by which city?", "choices": ["Beijing", "PyeongChang", "Sochi", "Milan"], "answer": 0, "fact": "Norway won 16 gold medals, a record for a single Winter Games at the time.", "difficulty": 1, "asOf": "2022" },
-      { "q": "Which Norwegian striker set a Premier League record of 36 goals in the 2022-23 season?", "choices": ["Erling Haaland", "Martin Ødegaard", "Alexander Sørloth", "Ole Gunnar Solskjær"], "answer": 0, "fact": "Haaland, born in Leeds, scored his goals for Manchester City as they won the treble that season.", "difficulty": 1, "asOf": "2023" },
-      { "q": "At the Tokyo Olympics in 2021, Karsten Warholm won gold and set a world record in which event?", "choices": ["400 m hurdles", "110 m hurdles", "800 m", "400 m"], "answer": 0, "fact": "Warholm ran 45.94 seconds, the first time anyone had broken 46 seconds in the event.", "difficulty": 1, "asOf": "2021" },
-      { "q": "Who became Norway's Prime Minister in October 2021?", "choices": ["Jonas Gahr Støre", "Erna Solberg", "Jens Stoltenberg", "Trygve Slagsvold Vedum"], "answer": 0, "fact": "The Labour leader took over from Conservative Erna Solberg after the September 2021 election.", "difficulty": 1, "asOf": "2021" },
-      { "q": "At the Tokyo Olympics in 2021, Jakob Ingebrigtsen won gold in which event?", "choices": ["1500 m", "800 m", "10,000 m", "Marathon"], "answer": 0, "fact": "He set an Olympic record of 3:28.32, and later won 5000 m gold at the Paris Games in 2024.", "difficulty": 1, "asOf": "2024" },
-      { "q": "Norway's women won Olympic gold in which team sport at the Paris 2024 Games?", "choices": ["Handball", "Football", "Volleyball", "Ice hockey"], "answer": 0, "fact": "They beat hosts France 29-21 in the final in Lille.", "difficulty": 1, "asOf": "2024" },
-      { "q": "In February 2025, former NATO chief Jens Stoltenberg returned to Norwegian government in which role?", "choices": ["Minister of Finance", "Minister of Defence", "Foreign Minister", "Prime Minister"], "answer": 0, "fact": "He joined Jonas Gahr Støre's cabinet after the Centre Party left the coalition.", "difficulty": 2, "asOf": "2025" },
-      { "q": "Which Norwegian tennis player reached the men's singles final at the French Open in both 2022 and 2023?", "choices": ["Casper Ruud", "Christian Ruud", "Viktor Durasovic", "Nicolai Budkov Kjær"], "answer": 0, "fact": "He lost to Rafael Nadal in 2022 and to Novak Djokovic in 2023; his father Christian was also a tour player.", "difficulty": 2, "asOf": "2023" },
-      { "q": "In 2023, which player won the world chess title that Magnus Carlsen had chosen not to defend?", "choices": ["Ding Liren", "Ian Nepomniachtchi", "Fabiano Caruana", "Hikaru Nakamura"], "answer": 0, "fact": "Carlsen had held the classical title since 2013 and said he lacked motivation to play another match.", "difficulty": 2, "asOf": "2023" },
-      { "q": "Which party won the most seats in Norway's parliamentary election of September 2025?", "choices": ["Labour Party", "Progress Party", "Conservative Party", "Centre Party"], "answer": 0, "fact": "The result kept Jonas Gahr Støre in office as Prime Minister.", "difficulty": 2, "asOf": "2025" },
-      { "q": "In 2022, Norway overtook which country to become the largest supplier of pipeline gas to the European Union?", "choices": ["Russia", "Algeria", "Azerbaijan", "Libya"], "answer": 0, "fact": "Norwegian gas flows through a network of subsea pipelines thousands of kilometres long to Germany, Britain and beyond.", "difficulty": 2, "asOf": "2022" },
-      { "q": "Which giant North Sea oil field, named after a 19th-century prime minister, began production in October 2019?", "choices": ["Johan Sverdrup", "Johan Castberg", "Christian Michelsen", "Gunnar Knudsen"], "answer": 0, "fact": "The field is powered by electricity from shore, giving it some of the lowest production emissions in the industry.", "difficulty": 2, "asOf": "2019" },
-      { "q": "In June 2022, Oslo opened a new building for which institution, the largest art museum in the Nordic countries?", "choices": ["The National Museum", "The Munch Museum", "The Astrup Fearnley Museum", "The Viking Ship Museum"], "answer": 0, "fact": "Its rooftop 'Light Hall' glows at night and is used for large temporary exhibitions.", "difficulty": 2, "asOf": "2022" },
-      { "q": "Which member of Norway's royal family turned 18 in January 2022?", "choices": ["Princess Ingrid Alexandra", "Princess Märtha Louise", "Princess Astrid", "Crown Princess Mette-Marit"], "answer": 0, "fact": "She is second in line to the throne, after her father, Crown Prince Haakon.", "difficulty": 2, "asOf": "2022" },
-      { "q": "Which Arctic Norwegian city was a European Capital of Culture in 2024?", "choices": ["Bodø", "Tromsø", "Hammerfest", "Narvik"], "answer": 0, "fact": "Bodø was the first European Capital of Culture north of the Arctic Circle.", "difficulty": 2, "asOf": "2024" },
-      { "q": "Hywind Tampen, the floating wind farm opened in the North Sea in 2023, was built to power what?", "choices": ["Offshore oil and gas platforms", "The city of Bergen", "A hydrogen plant", "Undersea data centres"], "answer": 0, "fact": "Its 11 turbines supply electricity to the Snorre and Gullfaks fields, cutting their use of gas turbines.", "difficulty": 3, "asOf": "2023" },
-      { "q": "In 2024, Norway partly reversed a 2020 reform, raising its number of counties from 11 to how many?", "choices": ["15", "19", "13", "18"], "answer": 0, "fact": "Several merged counties, such as Viken and Troms og Finnmark, were split up again from 1 January 2024.", "difficulty": 3, "asOf": "2024" },
-      { "q": "Which Oslo library, opened in 2020, was named the world's Public Library of the Year in 2021?", "choices": ["Deichman Bjørvika", "The National Library", "Stavanger Sølvberget", "Bergen Public Library"], "answer": 0, "fact": "Its top floor has a cantilevered window aimed at the Opera House, and the building has no fines on late returns.", "difficulty": 3, "asOf": "2021" },
-      { "q": "In August 2024, Princess Märtha Louise held her wedding in which famous fjord village?", "choices": ["Geiranger", "Flåm", "Balestrand", "Lofthus"], "answer": 0, "fact": "She married American Durek Verrett at the Hotel Union in Geiranger, beside the UNESCO-listed fjord.", "difficulty": 3, "asOf": "2024" },
-      { "q": "Which Japanese organisation of atomic-bomb survivors received the Nobel Peace Prize in Oslo in December 2024?", "choices": ["Nihon Hidankyo", "Soka Gakkai", "Peace Boat", "Hiroshima Peace Culture Foundation"], "answer": 0, "fact": "The Norwegian Nobel Committee honoured its decades of testimony by 'hibakusha', survivors of Hiroshima and Nagasaki.", "difficulty": 3, "asOf": "2024" },
-      { "q": "At the 2025 Nordic World Ski Championships in Trondheim, how many gold medals did Johannes Høsflot Klæbo win?", "choices": ["Six", "Three", "Four", "Five"], "answer": 0, "fact": "Racing on home snow, the Trondheim skier won every men's cross-country event on the programme.", "difficulty": 3, "asOf": "2025" },
-      { "q": "Which Norwegian city held the title of European Green Capital in 2019?", "choices": ["Oslo", "Bergen", "Trondheim", "Stavanger"], "answer": 0, "fact": "The city had reopened buried streams, restricted cars in the centre and expanded electric public transport.", "difficulty": 3, "asOf": "2019" }
+      {
+        "q": "Which Norwegian writer won the Nobel Prize in Literature in 2023?",
+        "choices": ["Jon Fosse", "Karl Ove Knausgård", "Jo Nesbø", "Lars Saabye Christensen"],
+        "answer": 0,
+        "fact": "The Swedish Academy praised Fosse's plays and prose for 'giving voice to the unsayable'; he writes in Nynorsk.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In October 2021, a new 13-storey museum devoted to which artist opened on Oslo's waterfront?",
+        "choices": ["Gustav Vigeland", "Edvard Munch", "Nikolai Astrup", "Kai Fjell"],
+        "answer": 1,
+        "fact": "The tower holds tens of thousands of works that Munch bequeathed to the city of Oslo.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2024, roughly what share of new cars sold in Norway were fully electric?",
+        "choices": ["About 25%", "About 50%", "About 89%", "About 65%"],
+        "answer": 2,
+        "fact": "Tax breaks, toll discounts and dense charging networks made Norway the world leader in switching to electric cars.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Norway topped the medal table at the 2022 Winter Olympics, hosted by which city?",
+        "choices": ["PyeongChang", "Sochi", "Milan", "Beijing"],
+        "answer": 3,
+        "fact": "Norway won 16 gold medals, a record for a single Winter Games at the time.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Norwegian striker set a Premier League record of 36 goals in the 2022-23 season?",
+        "choices": ["Erling Haaland", "Martin Ødegaard", "Alexander Sørloth", "Ole Gunnar Solskjær"],
+        "answer": 0,
+        "fact": "Haaland, born in Leeds, scored his goals for Manchester City as they won the treble that season.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "At the Tokyo Olympics in 2021, Karsten Warholm won gold and set a world record in which event?",
+        "choices": ["110 m hurdles", "400 m hurdles", "800 m", "400 m"],
+        "answer": 1,
+        "fact": "Warholm ran 45.94 seconds, the first time anyone had broken 46 seconds in the event.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Who became Norway's Prime Minister in October 2021?",
+        "choices": ["Erna Solberg", "Jens Stoltenberg", "Jonas Gahr Støre", "Trygve Slagsvold Vedum"],
+        "answer": 2,
+        "fact": "The Labour leader took over from Conservative Erna Solberg after the September 2021 election.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "At the Tokyo Olympics in 2021, Jakob Ingebrigtsen won gold in which event?",
+        "choices": ["800 m", "10,000 m", "Marathon", "1500 m"],
+        "answer": 3,
+        "fact": "He set an Olympic record of 3:28.32, and later won 5000 m gold at the Paris Games in 2024.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Norway's women won Olympic gold in which team sport at the Paris 2024 Games?",
+        "choices": ["Handball", "Football", "Volleyball", "Ice hockey"],
+        "answer": 0,
+        "fact": "They beat hosts France 29-21 in the final in Lille.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In February 2025, former NATO chief Jens Stoltenberg returned to Norwegian government in which role?",
+        "choices": ["Minister of Defence", "Minister of Finance", "Foreign Minister", "Prime Minister"],
+        "answer": 1,
+        "fact": "He joined Jonas Gahr Støre's cabinet after the Centre Party left the coalition.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Norwegian tennis player reached the men's singles final at the French Open in both 2022 and 2023?",
+        "choices": ["Christian Ruud", "Viktor Durasovic", "Casper Ruud", "Nicolai Budkov Kjær"],
+        "answer": 2,
+        "fact": "He lost to Rafael Nadal in 2022 and to Novak Djokovic in 2023; his father Christian was also a tour player.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, which player won the world chess title that Magnus Carlsen had chosen not to defend?",
+        "choices": ["Ian Nepomniachtchi", "Fabiano Caruana", "Hikaru Nakamura", "Ding Liren"],
+        "answer": 3,
+        "fact": "Carlsen had held the classical title since 2013 and said he lacked motivation to play another match.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which party won the most seats in Norway's parliamentary election of September 2025?",
+        "choices": ["Labour Party", "Progress Party", "Conservative Party", "Centre Party"],
+        "answer": 0,
+        "fact": "The result kept Jonas Gahr Støre in office as Prime Minister.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2022, Norway overtook which country to become the largest supplier of natural gas to the European Union?",
+        "choices": ["Algeria", "Russia", "Azerbaijan", "Libya"],
+        "answer": 1,
+        "fact": "Norwegian gas flows through a network of subsea pipelines thousands of kilometres long to Germany, Britain and beyond.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which giant North Sea oil field, named after a 19th-century prime minister, began production in October 2019?",
+        "choices": ["Johan Castberg", "Christian Michelsen", "Johan Sverdrup", "Gunnar Knudsen"],
+        "answer": 2,
+        "fact": "The field is powered by electricity from shore, giving it some of the lowest production emissions in the industry.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In June 2022, Oslo opened a new building for which institution, the largest art museum in the Nordic countries?",
+        "choices": ["The Munch Museum", "The Astrup Fearnley Museum", "The Viking Ship Museum", "The National Museum"],
+        "answer": 3,
+        "fact": "Its rooftop 'Light Hall' glows at night and is used for large temporary exhibitions.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which member of Norway's royal family turned 18 in January 2022?",
+        "choices": ["Princess Ingrid Alexandra", "Princess Märtha Louise", "Princess Astrid", "Crown Princess Mette-Marit"],
+        "answer": 0,
+        "fact": "She is second in line to the throne, after her father, Crown Prince Haakon.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Arctic Norwegian city was a European Capital of Culture in 2024?",
+        "choices": ["Tromsø", "Bodø", "Hammerfest", "Narvik"],
+        "answer": 1,
+        "fact": "Bodø was the first European Capital of Culture north of the Arctic Circle.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Hywind Tampen, the floating wind farm opened in the North Sea in 2023, was built to power what?",
+        "choices": ["The city of Bergen", "A hydrogen plant", "Offshore oil and gas platforms", "Undersea data centres"],
+        "answer": 2,
+        "fact": "Its 11 turbines supply electricity to the Snorre and Gullfaks fields, cutting their use of gas turbines.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2024, Norway partly reversed a 2020 reform, raising its number of counties from 11 to how many?",
+        "choices": ["19", "13", "18", "15"],
+        "answer": 3,
+        "fact": "Several merged counties, such as Viken and Troms og Finnmark, were split up again from 1 January 2024.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Oslo library, opened in 2020, was named the world's Public Library of the Year in 2021?",
+        "choices": ["Deichman Bjørvika", "The National Library", "Stavanger Sølvberget", "Bergen Public Library"],
+        "answer": 0,
+        "fact": "Its cantilevered upper floors and light-filled central atrium stand beside the Oslo Opera House in Bjørvika.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In August 2024, Princess Märtha Louise held her wedding in which famous fjord village?",
+        "choices": ["Flåm", "Geiranger", "Balestrand", "Lofthus"],
+        "answer": 1,
+        "fact": "She married American Durek Verrett at the Hotel Union in Geiranger, beside the UNESCO-listed fjord.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Japanese organisation of atomic-bomb survivors received the Nobel Peace Prize in Oslo in December 2024?",
+        "choices": ["Soka Gakkai", "Peace Boat", "Nihon Hidankyo", "Hiroshima Peace Culture Foundation"],
+        "answer": 2,
+        "fact": "The Norwegian Nobel Committee honoured its decades of testimony by 'hibakusha', survivors of Hiroshima and Nagasaki.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "At the 2025 Nordic World Ski Championships in Trondheim, how many gold medals did Johannes Høsflot Klæbo win?",
+        "choices": ["Three", "Four", "Five", "Six"],
+        "answer": 3,
+        "fact": "Racing on home snow, the Trondheim skier won every men's cross-country event on the programme.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Norwegian city held the title of European Green Capital in 2019?",
+        "choices": ["Oslo", "Bergen", "Trondheim", "Stavanger"],
+        "answer": 0,
+        "fact": "The city had reopened buried streams, restricted cars in the centre and expanded electric public transport.",
+        "difficulty": 3,
+        "asOf": "2019"
+      }
     ],
     "general": [
-      { "q": "Norway's coast is famous for which deep, narrow sea inlets carved by glaciers?", "choices": ["Fjords", "Lagoons", "Estuaries", "Atolls"], "answer": 0, "fact": "Counting all its fjords and islands, Norway's coastline is over 100,000 km long.", "difficulty": 1 },
-      { "q": "Which natural light display can often be seen over Tromsø on clear winter nights?", "choices": ["The northern lights", "The zodiacal light", "St Elmo's fire", "A green flash"], "answer": 0, "fact": "Tromsø lies inside the auroral oval, making it one of the best places on Earth to see the aurora borealis.", "difficulty": 1 },
-      { "q": "What is Norway's currency?", "choices": ["Krone", "Euro", "Mark", "Florin"], "answer": 0, "fact": "Norway introduced the krone in 1875, as part of a Scandinavian monetary union with Denmark and Sweden.", "difficulty": 1 },
-      { "q": "Brunost, a Norwegian favourite, is what kind of food?", "choices": ["A caramel-coloured whey cheese", "A smoked salmon dish", "A rye flatbread", "A reindeer stew"], "answer": 0, "fact": "Its sweet flavour comes from boiling whey until the milk sugars caramelise; it is sliced thinly with a cheese slicer.", "difficulty": 1 },
-      { "q": "Through the 2022 Games, which country had won the most medals in Winter Olympics history?", "choices": ["Norway", "United States", "Germany", "Soviet Union"], "answer": 0, "fact": "Much of Norway's success has come in cross-country skiing, biathlon and speed skating.", "difficulty": 1 },
-      { "q": "Oslo's Holmenkollen is famous for what kind of winter sports venue?", "choices": ["A ski jump", "A bobsleigh track", "An ice-hockey arena", "A speed-skating oval"], "answer": 0, "fact": "Ski jumping has been held at Holmenkollen since 1892, and the hill was rebuilt in a sleek modern form for 2011.", "difficulty": 1 },
-      { "q": "Which Indigenous people traditionally live across northern Norway, Sweden, Finland and Russia's Kola Peninsula?", "choices": ["The Sámi", "The Inuit", "The Nenets", "The Basques"], "answer": 0, "fact": "Reindeer herding remains an important part of Sámi culture, and Sámi National Day is celebrated on 6 February.", "difficulty": 1 },
-      { "q": "Which clifftop in Finnmark is famously promoted as the northern tip of Europe?", "choices": ["North Cape (Nordkapp)", "Lindesnes", "Preikestolen", "Hornelen"], "answer": 0, "fact": "North Cape is actually on the island of Magerøya; the mainland's northernmost point is Kinnarodden.", "difficulty": 1 },
-      { "q": "Which city, surrounded by seven mountains, is Norway's second largest?", "choices": ["Bergen", "Trondheim", "Stavanger", "Drammen"], "answer": 0, "fact": "Bergen is one of Europe's rainiest cities, and locals joke that its children are born with umbrellas.", "difficulty": 1 },
-      { "q": "What is Norway's longest and deepest fjord?", "choices": ["Sognefjord", "Geirangerfjord", "Hardangerfjord", "Oslofjord"], "answer": 0, "fact": "Sognefjord stretches about 200 km inland and reaches a depth of around 1,300 m.", "difficulty": 2 },
-      { "q": "Preikestolen, the famous flat-topped cliff also called Pulpit Rock, towers over which fjord?", "choices": ["Lysefjord", "Sognefjord", "Nærøyfjord", "Trondheimsfjord"], "answer": 0, "fact": "Its flat top stands about 604 m above the water, and the hike up draws hundreds of thousands of visitors a year.", "difficulty": 2 },
-      { "q": "Which two fjords together form a UNESCO World Heritage Site, listed in 2005?", "choices": ["Geirangerfjord and Nærøyfjord", "Sognefjord and Hardangerfjord", "Lysefjord and Oslofjord", "Trondheimsfjord and Porsangerfjord"], "answer": 0, "fact": "Waterfalls such as the Seven Sisters tumble down the steep cliffs of Geirangerfjord.", "difficulty": 2 },
-      { "q": "What are the two official written standards of the Norwegian language?", "choices": ["Bokmål and Nynorsk", "Riksmål and Høgnorsk", "Bokmål and Danish", "Nynorsk and Sámi"], "answer": 0, "fact": "Nynorsk was built by Ivar Aasen in the 1800s from rural dialects; Bokmål grew out of written Danish.", "difficulty": 2 },
-      { "q": "Which traditional Norwegian Christmas dish is dried whitefish, usually cod, treated with lye?", "choices": ["Lutefisk", "Rakfisk", "Klippfisk", "Pinnekjøtt"], "answer": 0, "fact": "Soaking in lye gives the fish a jelly-like texture; it is often served with bacon, peas and potatoes.", "difficulty": 2 },
-      { "q": "What is Norway's highest mountain?", "choices": ["Galdhøpiggen", "Glittertind", "Snøhetta", "Store Skagastølstind"], "answer": 0, "fact": "At about 2,469 m, the peak in the Jotunheimen range is the highest in northern Europe.", "difficulty": 2 },
-      { "q": "Which Norwegian city hosted the 1952 Winter Olympics?", "choices": ["Oslo", "Lillehammer", "Trondheim", "Bergen"], "answer": 0, "fact": "They were the first Winter Games held in a Scandinavian country and the first to feature an Olympic flame relay.", "difficulty": 2 },
-      { "q": "The Hurtigruten coastal voyage famously runs from Bergen to which town near the Russian border?", "choices": ["Kirkenes", "Hammerfest", "Vardø", "Tromsø"], "answer": 0, "fact": "Founded in 1893 to carry mail and goods, the route calls at more than 30 ports along the coast.", "difficulty": 2 },
-      { "q": "Which Norwegian cross-country skier won 15 Winter Olympic medals between 2002 and 2018?", "choices": ["Marit Bjørgen", "Therese Johaug", "Bjørn Dæhlie", "Ole Einar Bjørndalen"], "answer": 0, "fact": "Eight of her 15 Olympic medals were gold; she retired soon after the 2018 Games in PyeongChang.", "difficulty": 2 },
-      { "q": "What is Norway's longest river?", "choices": ["Glomma", "Lågen", "Tana", "Otra"], "answer": 0, "fact": "The Glomma flows about 600 km from near Røros to the Oslofjord at Fredrikstad.", "difficulty": 3 },
-      { "q": "Saltstraumen, one of the world's strongest tidal currents, is found near which city?", "choices": ["Bodø", "Ålesund", "Kristiansand", "Molde"], "answer": 0, "fact": "Every six hours, hundreds of millions of cubic metres of seawater force through a narrow strait, forming whirlpools.", "difficulty": 3 },
-      { "q": "Which Ice Age animal was reintroduced to the Dovrefjell mountains in the 20th century?", "choices": ["Musk ox", "Woolly mammoth", "Wisent", "Arctic camel"], "answer": 0, "fact": "Musk oxen were brought over from Greenland, and today a herd roams Dovrefjell-Sunndalsfjella National Park.", "difficulty": 3 },
-      { "q": "How is rakfisk, a Norwegian winter speciality, traditionally prepared?", "choices": ["Fermented in brine for months", "Smoked over juniper", "Dried on wooden racks", "Pickled in vinegar and sugar"], "answer": 0, "fact": "Usually made from trout or char, it is eaten raw with flatbread, onions and sour cream, especially around Christmas.", "difficulty": 3 },
-      { "q": "At the 1998 FIFA World Cup, Norway famously beat which reigning champion 2-1?", "choices": ["Brazil", "Germany", "Italy", "Argentina"], "answer": 0, "fact": "Kjetil Rekdal's late penalty in Marseille sealed the win and sent Norway through to the knockout stage.", "difficulty": 3 },
-      { "q": "Sondre Norheim, a pioneer of modern skiing, came from which region that gave its name to a ski technique?", "choices": ["Telemark", "Hardanger", "Valdres", "Gudbrandsdal"], "answer": 0, "fact": "Norheim designed skis with curved sides and stiffer bindings, making turns on steep slopes far easier.", "difficulty": 3 },
-      { "q": "Trolltunga, the 'Troll's Tongue' rock ledge, is usually reached by a long hike from near which town?", "choices": ["Odda", "Flåm", "Stryn", "Lom"], "answer": 0, "fact": "The ledge juts out about 700 m above Lake Ringedalsvatnet; the return hike takes most of a day.", "difficulty": 3 }
+      {
+        "q": "Norway's coast is famous for which deep, narrow sea inlets carved by glaciers?",
+        "choices": ["Lagoons", "Fjords", "Estuaries", "Atolls"],
+        "answer": 1,
+        "fact": "Counting all its fjords and islands, Norway's coastline is over 100,000 km long.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which natural light display can often be seen over Tromsø on clear winter nights?",
+        "choices": ["The zodiacal light", "St Elmo's fire", "The northern lights", "A green flash"],
+        "answer": 2,
+        "fact": "Tromsø lies inside the auroral oval, making it one of the best places on Earth to see the aurora borealis.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Norway's currency?",
+        "choices": ["Euro", "Mark", "Florin", "Krone"],
+        "answer": 3,
+        "fact": "Norway introduced the krone in 1875, as part of a Scandinavian monetary union with Denmark and Sweden.",
+        "difficulty": 1
+      },
+      {
+        "q": "Brunost, a Norwegian favourite, is what kind of food?",
+        "choices": ["A caramel-coloured whey cheese", "A smoked salmon dish", "A rye flatbread", "A reindeer stew"],
+        "answer": 0,
+        "fact": "Its sweet flavour comes from boiling whey until the milk sugars caramelise; it is sliced thinly with a cheese slicer.",
+        "difficulty": 1
+      },
+      {
+        "q": "Through the 2022 Games, which country had won the most medals in Winter Olympics history?",
+        "choices": ["United States", "Norway", "Germany", "Soviet Union"],
+        "answer": 1,
+        "fact": "Much of Norway's success has come in cross-country skiing, biathlon and speed skating.",
+        "difficulty": 1
+      },
+      {
+        "q": "Oslo's Holmenkollen is famous for what kind of winter sports venue?",
+        "choices": ["A bobsleigh track", "An ice-hockey arena", "A ski jump", "A speed-skating oval"],
+        "answer": 2,
+        "fact": "Ski jumping has been held at Holmenkollen since 1892, and the hill was rebuilt in a sleek modern form for 2011.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Indigenous people traditionally live across northern Norway, Sweden, Finland and Russia's Kola Peninsula?",
+        "choices": ["The Inuit", "The Nenets", "The Basques", "The Sámi"],
+        "answer": 3,
+        "fact": "Reindeer herding remains an important part of Sámi culture, and Sámi National Day is celebrated on 6 February.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which clifftop in Finnmark is famously promoted as the northern tip of Europe?",
+        "choices": ["North Cape (Nordkapp)", "Lindesnes", "Preikestolen", "Hornelen"],
+        "answer": 0,
+        "fact": "North Cape is actually on the island of Magerøya; the mainland's northernmost point is Kinnarodden.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city, surrounded by seven mountains, is Norway's second largest?",
+        "choices": ["Trondheim", "Bergen", "Stavanger", "Drammen"],
+        "answer": 1,
+        "fact": "Bergen is one of Europe's rainiest cities, and locals joke that its children are born with umbrellas.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Norway's longest and deepest fjord?",
+        "choices": ["Geirangerfjord", "Hardangerfjord", "Sognefjord", "Oslofjord"],
+        "answer": 2,
+        "fact": "Sognefjord stretches about 200 km inland and reaches a depth of around 1,300 m.",
+        "difficulty": 2
+      },
+      {
+        "q": "Preikestolen, the famous flat-topped cliff also called Pulpit Rock, towers over which fjord?",
+        "choices": ["Sognefjord", "Nærøyfjord", "Trondheimsfjord", "Lysefjord"],
+        "answer": 3,
+        "fact": "Its flat top stands about 604 m above the water, and the hike up draws hundreds of thousands of visitors a year.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which two fjords together form a UNESCO World Heritage Site, listed in 2005?",
+        "choices": ["Geirangerfjord and Nærøyfjord", "Sognefjord and Hardangerfjord", "Lysefjord and Oslofjord", "Trondheimsfjord and Porsangerfjord"],
+        "answer": 0,
+        "fact": "Waterfalls such as the Seven Sisters tumble down the steep cliffs of Geirangerfjord.",
+        "difficulty": 2
+      },
+      {
+        "q": "What are the two official written standards of the Norwegian language?",
+        "choices": ["Riksmål and Høgnorsk", "Bokmål and Nynorsk", "Bokmål and Danish", "Nynorsk and Sámi"],
+        "answer": 1,
+        "fact": "Nynorsk was built by Ivar Aasen in the 1800s from rural dialects; Bokmål grew out of written Danish.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which traditional Norwegian Christmas dish is dried whitefish, usually cod, treated with lye?",
+        "choices": ["Rakfisk", "Klippfisk", "Lutefisk", "Pinnekjøtt"],
+        "answer": 2,
+        "fact": "Soaking in lye gives the fish a jelly-like texture; it is often served with bacon, peas and potatoes.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Norway's highest mountain?",
+        "choices": ["Glittertind", "Snøhetta", "Store Skagastølstind", "Galdhøpiggen"],
+        "answer": 3,
+        "fact": "At about 2,469 m, the peak in the Jotunheimen range is the highest in northern Europe.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Norwegian city hosted the 1952 Winter Olympics?",
+        "choices": ["Oslo", "Lillehammer", "Trondheim", "Bergen"],
+        "answer": 0,
+        "fact": "They were the first Winter Games held in a Scandinavian country and the first to feature an Olympic flame relay.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Hurtigruten coastal voyage famously runs from Bergen to which town near the Russian border?",
+        "choices": ["Hammerfest", "Kirkenes", "Vardø", "Tromsø"],
+        "answer": 1,
+        "fact": "Founded in 1893 to carry mail and goods, the route calls at more than 30 ports along the coast.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Norwegian cross-country skier won 15 Winter Olympic medals between 2002 and 2018?",
+        "choices": ["Therese Johaug", "Bjørn Dæhlie", "Marit Bjørgen", "Ole Einar Bjørndalen"],
+        "answer": 2,
+        "fact": "Eight of her 15 Olympic medals were gold; she retired soon after the 2018 Games in PyeongChang.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Norway's longest river?",
+        "choices": ["Lågen", "Tana", "Otra", "Glomma"],
+        "answer": 3,
+        "fact": "The Glomma flows about 600 km from near Røros to the Oslofjord at Fredrikstad.",
+        "difficulty": 3
+      },
+      {
+        "q": "Saltstraumen, one of the world's strongest tidal currents, is found near which city?",
+        "choices": ["Bodø", "Ålesund", "Kristiansand", "Molde"],
+        "answer": 0,
+        "fact": "Every six hours, hundreds of millions of cubic metres of seawater force through a narrow strait, forming whirlpools.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Ice Age animal was reintroduced to the Dovrefjell mountains in the 20th century?",
+        "choices": ["Woolly mammoth", "Musk ox", "Wisent", "Arctic camel"],
+        "answer": 1,
+        "fact": "Musk oxen were brought over from Greenland, and today a herd roams Dovrefjell-Sunndalsfjella National Park.",
+        "difficulty": 3
+      },
+      {
+        "q": "How is rakfisk, a Norwegian winter speciality, traditionally prepared?",
+        "choices": ["Smoked over juniper", "Dried on wooden racks", "Fermented in brine for months", "Pickled in vinegar and sugar"],
+        "answer": 2,
+        "fact": "Usually made from trout or char, it is eaten raw with flatbread, onions and sour cream, especially around Christmas.",
+        "difficulty": 3
+      },
+      {
+        "q": "At the 1998 FIFA World Cup, Norway famously beat which reigning champion 2-1?",
+        "choices": ["Germany", "Italy", "Argentina", "Brazil"],
+        "answer": 3,
+        "fact": "Kjetil Rekdal's late penalty in Marseille sealed the win and sent Norway through to the knockout stage.",
+        "difficulty": 3
+      },
+      {
+        "q": "Sondre Norheim, a pioneer of modern skiing, came from which region that gave its name to a ski technique?",
+        "choices": ["Telemark", "Hardanger", "Valdres", "Gudbrandsdal"],
+        "answer": 0,
+        "fact": "Norheim designed skis with curved sides and stiffer bindings, making turns on steep slopes far easier.",
+        "difficulty": 3
+      },
+      {
+        "q": "Trolltunga, the 'Troll's Tongue' rock ledge, is usually reached by a long hike from near which town?",
+        "choices": ["Flåm", "Odda", "Stryn", "Lom"],
+        "answer": 1,
+        "fact": "The ledge juts out about 700 m above Lake Ringedalsvatnet; the return hike takes most of a day.",
+        "difficulty": 3
+      }
     ]
   }
 }
