@@ -14,5 +14,23 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm test
-      - run: npm run build
+      - name: Baked globe is up to date
+        run: npm run bake:globe -- --check
+      - name: Content + unit tests (game and server)
+        run: npm test
+      - name: Typecheck and build game + server
+        run: npm run build
+
+  docker:
+    # Builds the exact image Railway deploys and checks it boots and passes /health.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t get-around:ci .
+      - name: Container serves the game and /health
+        run: |
+          docker run -d --name app -p 8787:8787 -e PORT=8787 get-around:ci
+          for i in $(seq 1 30); do curl -fs localhost:8787/health && break; sleep 1; done
+          curl -fs localhost:8787/health | grep '"status":"ok"'
+          curl -fs localhost:8787/ | grep -q 'Get Around'
+          docker stop app

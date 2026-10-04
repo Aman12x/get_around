@@ -1,5 +1,4 @@
 import './style.css';
-import { App } from './ui/app';
 
 function webglAvailable(): boolean {
   try {
@@ -11,10 +10,17 @@ function webglAvailable(): boolean {
 }
 
 const root = document.getElementById('app')!;
-if (webglAvailable()) {
-  const app = new App(root);
-  // Handy for poking at the game from the browser console during development.
-  if (import.meta.env.DEV) Object.assign(window, { app });
-} else {
+if (!webglAvailable()) {
   root.innerHTML = '<p class="no-webgl">Get Around needs WebGL. Please try a recent version of Chrome, Edge, Firefox or Safari.</p>';
+} else {
+  // The 3D engine loads as a separate chunk; the boot screen in index.html shows meanwhile.
+  import('./ui/app')
+    .then(({ App }) => {
+      const app = new App(root);
+      // Handy for poking at the game from the browser console during development.
+      if (import.meta.env.DEV) Object.assign(window, { app });
+    })
+    .catch(() => {
+      root.innerHTML = '<p class="no-webgl">Couldn’t load the game. Check your connection and refresh.</p>';
+    });
 }

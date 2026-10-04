@@ -15,17 +15,32 @@ export interface QuestionBank {
   topics: Partial<Record<TopicId, Question[]>>;
 }
 
-const modules = import.meta.glob<QuestionBank>('./questions/*.json', { eager: true, import: 'default' });
+// Each country's bank is its own small chunk, fetched when the traveler lands there.
+const loaders = import.meta.glob<QuestionBank>('./questions/*.json', { import: 'default' });
 
-const BANKS: Partial<Record<CountryId, QuestionBank>> = {};
-for (const bank of Object.values(modules)) {
-  BANKS[bank.country] = bank;
+const banks = new Map<CountryId, QuestionBank>();
+const pending = new Map<CountryId, Promise<QuestionBank>>();
+
+export function loadBank(country: CountryId): Promise<QuestionBank> {
+  const cached = banks.get(country);
+  if (cached) return Promise.resolve(cached);
+  let p = pending.get(country);
+  if (!p) {
+    const loader = loaders[`./questions/${country}.json`];
+    p = loader
+      ? loader().then((bank) => {
+          banks.set(country, bank);
+          return bank;
+        })
+      : Promise.resolve({ country, topics: {} });
+    // Forget failures so the next visit retries.
+    p.catch(() => pending.delete(country));
+    pending.set(country, p);
+  }
+  return p;
 }
 
+/** Questions for a loaded bank; call loadBank first. */
 export function questionsFor(country: CountryId, topic: TopicId): Question[] {
-  return BANKS[country]?.topics[topic] ?? [];
-}
-
-export function hasQuestions(country: CountryId, topic: TopicId): boolean {
-  return questionsFor(country, topic).length > 0;
+  return banks.get(country)?.topics[topic] ?? [];
 }

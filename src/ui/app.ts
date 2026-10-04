@@ -1,5 +1,5 @@
 import { COUNTRIES, COUNTRY_BY_ID, type CountryId } from '../data/countries';
-import { questionsFor } from '../data/questions';
+import { loadBank, questionsFor } from '../data/questions';
 import { recommendedRouteIds, ROUTE_BY_ID, ROUTES, type Route } from '../data/routes';
 import { TOPIC_BY_ID, TOPICS, type TopicId } from '../data/topics';
 import {
@@ -378,6 +378,8 @@ export class App {
       this.mount('', 'screen-flying');
       this.screen.innerHTML = `<div class="flight-banner" style="--c:${dest.color}">In flight to ${dest.flag} ${esc(dest.name)}…</div>`;
       sfx.takeoff();
+      // Fetch the destination's questions while the plane is in the air.
+      void loadBank(to).catch(() => {});
       await this.stage.globe.fly(from, to);
       this.setJourney(arrive(j, to));
       this.enterCountry(to, true);
@@ -391,9 +393,14 @@ export class App {
     await this.curtainWipe(
       c.color,
       `<div class="arrive"><span class="flag-big">${c.flag}</span><small>${landing ? 'Now arriving in' : 'Visiting'}</small><strong>${esc(c.name)}</strong><em>${esc(c.nickname)}</em></div>`,
-      () => {
+      async () => {
         this.stage.diorama.show(id);
         this.stage.setView('diorama');
+        try {
+          await loadBank(id);
+        } catch {
+          this.toast('Couldn’t load the questions. Check your connection and visit again.');
+        }
         this.showCountry(id);
       },
       landing ? 1100 : 500,

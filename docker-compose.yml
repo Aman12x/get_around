@@ -1,0 +1,33 @@
+# Local production-like stack: `docker compose up --build`, then open http://localhost:8787
+# For day-to-day development use `docker compose up db` with `npm run dev` instead.
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-get_around}
+      POSTGRES_USER: ${POSTGRES_USER:-get_around}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-get_around}
+    ports:
+      - '5432:5432'
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U ${POSTGRES_USER:-get_around}']
+      interval: 5s
+      retries: 10
+
+  app:
+    build: .
+    environment:
+      PORT: 8787
+      DATABASE_URL: postgresql://${POSTGRES_USER:-get_around}:${POSTGRES_PASSWORD:-get_around}@db:5432/${POSTGRES_DB:-get_around}
+    ports:
+      - '8787:8787'
+    depends_on:
+      db:
+        condition: service_healthy
+    # Mirrors Railway: migrate first, then serve.
+    command: sh -c "npm run db:migrate && node dist-server/index.js"
+
+volumes:
+  pgdata:

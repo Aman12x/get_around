@@ -5,23 +5,47 @@
   "type": "module",
   "description": "Get Around — a 3D journey through world history, one country and one quiz at a time.",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc --noEmit && vite build",
-    "preview": "vite preview",
-    "typecheck": "tsc --noEmit",
+    "dev": "concurrently -k -n web,api -c magenta,cyan \"vite\" \"tsx watch server/index.ts\"",
+    "build": "npm run typecheck && vite build && npm run build:server",
+    "typecheck": "tsc --noEmit && tsc -p server/tsconfig.json",
     "validate:content": "node scripts/validate-content.mjs",
-    "test": "node scripts/validate-content.mjs && vitest run"
+    "test": "node scripts/validate-content.mjs && vitest run",
+    "bake:globe": "tsx scripts/bake-globe.ts",
+    "dev:web": "vite",
+    "dev:api": "tsx watch server/index.ts",
+    "build:server": "esbuild server/index.ts server/migrate.ts --bundle --platform=node --target=node22 --format=esm --packages=external --outdir=dist-server --log-level=warning",
+    "start": "node dist-server/index.js",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "node dist-server/migrate.js",
+    "db:studio": "drizzle-kit studio",
+    "preview": "npm run build && npm start"
   },
   "dependencies": {
-    "three": "^0.186.1",
-    "topojson-client": "^3.1.0",
-    "world-atlas": "^2.0.2"
+    "@fastify/compress": "^9.2.0",
+    "@fastify/helmet": "^13.1.1",
+    "@fastify/static": "^10.1.5",
+    "drizzle-orm": "^0.45.3",
+    "fastify": "^5.12.5",
+    "postgres": "^3.4.9",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
+    "@napi-rs/canvas": "^1.0.10",
+    "@types/node": "^22.20.5",
     "@types/three": "^0.186.0",
     "@types/topojson-client": "^3.1.5",
+    "concurrently": "^10.0.5",
+    "drizzle-kit": "^0.31.11",
+    "esbuild": "^0.28.2",
+    "three": "^0.186.1",
+    "topojson-client": "^3.1.0",
+    "tsx": "^4.23.15",
     "typescript": "~5.9",
     "vite": "^7.3.6",
-    "vitest": "^3.2.7"
+    "vitest": "^3.2.7",
+    "world-atlas": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }

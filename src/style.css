@@ -1410,6 +1410,35 @@ h2 {
   transform: rotate(-10deg);
 }
 
+.boot {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 8px;
+  font-family: var(--display);
+}
+
+.boot-globe {
+  font-size: 64px;
+  animation: spin 3s linear infinite;
+}
+
+.boot strong {
+  font-size: 32px;
+  background: linear-gradient(100deg, var(--yellow), var(--pink));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.boot small {
+  color: var(--ink-soft);
+  font-family: var(--body);
+  font-weight: 700;
+}
+
 .no-webgl {
   padding: 40px;
   font-size: 18px;
