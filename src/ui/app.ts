@@ -2,16 +2,23 @@ import { COUNTRIES, COUNTRY_BY_ID, type CountryId } from '../data/countries';
 import { loadBank, questionsFor } from '../data/questions';
 import { recommendedRouteIds, ROUTE_BY_ID, ROUTES, type Route } from '../data/routes';
 import { TOPIC_BY_ID, TOPICS, type TopicId } from '../data/topics';
+import { describeMix, LEVEL_BY_ID, LEVELS, nextLevel, type Level, type LevelId } from '../game/levels';
 import {
   arrive,
+  bestScore,
   currentCountry,
   destinations,
   hasCleared,
+  levelUnlocked,
   loadSave,
+  markSeen,
   newJourney,
   passport,
   recordScore,
+  seenSet,
+  stampCounts,
   stopStatus,
+  topicTier,
   writeSave,
   type Journey,
   type SaveData,
@@ -28,6 +35,7 @@ const $ = <T extends HTMLElement = HTMLElement>(root: ParentNode, sel: string) =
 interface QuizState {
   country: CountryId;
   topic: TopicId;
+  level: LevelId;
   questions: QuizQuestion[];
   index: number;
   correct: number;
@@ -122,7 +130,7 @@ export class App {
   private renderHud(): void {
     const r = this.route;
     const j = this.journey;
-    const stamps = Object.values(passport(this.save)).reduce((n, t) => n + (t?.length ?? 0), 0);
+    const { stamps } = stampCounts(this.save);
     this.hud.innerHTML = `
       <button class="brand" data-act="home" aria-label="Get Around home"><span class="logo-globe">🌍</span><span>Get&nbsp;Around</span></button>
       <div class="hud-route">${r && j ? `<span class="chip" style="--c:${r.color}">${esc(r.code)} · ${esc(r.name)}</span>` : ''}</div>
@@ -412,20 +420,18 @@ export class App {
     const c = COUNTRY_BY_ID[id];
     const r = this.route!;
     const j = this.journey!;
-    const scores = j.scores[id] ?? {};
     const cleared = hasCleared(j, id);
     const isHere = currentCountry(j) === id;
     const dests = destinations(j, r);
     const cards = TOPICS.map((t) => {
-      const best = scores[t.id];
-      const passed = best !== undefined && isPass(best, 10);
+      const tier = topicTier(j, id, t.id);
       const count = questionsFor(id, t.id).length;
-      return `<button class="topic-card ${passed ? 'passed' : ''}" data-topic="${t.id}" style="--c:${t.color}" ${count ? '' : 'disabled'}>
+      return `<button class="topic-card ${tier ? 'passed' : ''}" data-topic="${t.id}" style="--c:${t.color}" ${count ? '' : 'disabled'}>
         <span class="ico">${t.icon}</span>
         <strong>${t.label}</strong>
         <small>${count ? esc(t.blurb) : 'Coming soon'}</small>
-        ${best !== undefined ? `<span class="best">${passed ? '✅' : '🎯'} ${best}/10</span>` : ''}
-        ${passed ? `<span class="mini-stamp" style="--c:${c.color}">${c.flag}</span>` : ''}
+        <span class="medals" aria-label="${tier ? `${LEVEL_BY_ID[tier].medal} stamp earned` : 'No stamp yet'}">${medalRow(j, id, t.id)}</span>
+        ${tier ? `<span class="mini-stamp" style="--c:${LEVEL_BY_ID[tier].color}">${c.flag}</span>` : ''}
       </button>`;
     }).join('');
     const el = this.mount(
@@ -438,7 +444,11 @@ export class App {
             <p class="sub">${esc(c.nickname)}</p>
           </div>
         </div>
-        <p class="goal">${cleared ? '🛂 Stamp earned! Collect more stamps or continue your journey.' : 'Pick a subject. Answer <strong>9 of 10</strong> correctly to earn this nation’s stamp.'}</p>
+        <p class="goal">${
+          cleared
+            ? '🛂 Stamp earned! Climb to <strong>Silver</strong> and <strong>Gold</strong>, or continue your journey.'
+            : 'Pick a subject. Answer <strong>9 of 10</strong> correctly to earn this nation’s stamp.'
+        }</p>
         <div class="topic-grid">${cards}</div>
         <div class="country-actions">
           <button class="btn ghost" data-act="map">🗺️ Back to map</button>
@@ -454,7 +464,62 @@ export class App {
       const topic = t.closest<HTMLElement>('[data-topic]')?.dataset.topic as TopicId | undefined;
       if (topic) {
         sfx.click();
-        this.startQuiz(id, topic);
+        this.showLevels(id, topic);
+      }
+    };
+  }
+
+  /** Level picker for one subject: Explorer → Voyager → Legend. */
+  private showLevels(id: CountryId, topic: TopicId): void {
+    const c = COUNTRY_BY_ID[id];
+    const t = TOPIC_BY_ID[topic];
+    const j = this.journey!;
+    const cards = LEVELS.map((l, i) => {
+      const open = levelUnlocked(j, id, topic, l.id);
+      const best = bestScore(j, id, topic, l.id);
+      const won = best !== undefined && isPass(best, 10);
+      const prev = LEVELS[i - 1];
+      const status = won
+        ? `<span class="lv-status won">${l.medal} stamp · best ${best}/10</span>`
+        : !open
+          ? `<span class="lv-status locked">🔒 Earn ${prev.medal} first</span>`
+          : best !== undefined
+            ? `<span class="lv-status">Best ${best}/10 · need 9</span>`
+            : `<span class="lv-status">Not tried yet</span>`;
+      return `<button class="level-card ${won ? 'won' : ''} ${open ? '' : 'locked'}" data-level="${l.id}" style="--m:${l.color}" ${open ? '' : 'disabled'}>
+        <span class="lv-medal">${l.icon}</span>
+        <span class="lv-body">
+          <strong>${l.label} <em>${l.medal}</em></strong>
+          <small>${esc(l.blurb)} · ${describeMix(l)}</small>
+          ${status}
+        </span>
+        <span class="lv-go">${open ? (won ? '↻' : '▶') : ''}</span>
+      </button>`;
+    }).join('');
+    const el = this.mount(
+      `<section class="country-panel panel levels-panel" style="--c:${t.color}">
+        <div class="country-head">
+          <span class="flag-big">${t.icon}</span>
+          <div>
+            <p class="eyebrow">${c.flag} ${esc(c.name)}</p>
+            <h2>${esc(t.label)}</h2>
+            <p class="sub">Choose your level. Each one earns a better stamp.</p>
+          </div>
+        </div>
+        <div class="level-list">${cards}</div>
+        <div class="country-actions">
+          <button class="btn ghost" data-act="back">← All subjects</button>
+        </div>
+      </section>`,
+      'screen-country',
+    );
+    el.onclick = (e) => {
+      const target = e.target as HTMLElement;
+      if (target.closest('[data-act="back"]')) return this.showCountry(id);
+      const level = target.closest<HTMLElement>('[data-level]')?.dataset.level as LevelId | undefined;
+      if (level && levelUnlocked(j, id, topic, level)) {
+        sfx.click();
+        this.startQuiz(id, topic, level);
       }
     };
   }
@@ -465,8 +530,15 @@ export class App {
 
   // ---------- quiz ----------
 
-  private startQuiz(country: CountryId, topic: TopicId): void {
-    this.quiz = { country, topic, questions: buildQuiz(questionsFor(country, topic)), index: 0, correct: 0, wrong: 0, answered: null };
+  private startQuiz(country: CountryId, topic: TopicId, level: LevelId): void {
+    const questions = buildQuiz(questionsFor(country, topic), Math.random, {
+      mix: LEVEL_BY_ID[level].mix,
+      seen: seenSet(this.save, country, topic),
+    });
+    // Remember these so the next attempt leads with questions the player hasn't met.
+    this.save = markSeen(this.save, country, topic, questions.map((q) => q.id));
+    this.persist();
+    this.quiz = { country, topic, level, questions, index: 0, correct: 0, wrong: 0, answered: null };
     this.renderQuestion();
   }
 
@@ -482,6 +554,7 @@ export class App {
       `<section class="quiz panel" style="--c:${t.color}">
         <div class="quiz-top">
           <span class="chip" style="--c:${t.color}">${t.icon} ${t.label} · ${c.flag} ${esc(c.name)}</span>
+          <span class="chip level-chip" style="--c:${LEVEL_BY_ID[qz.level].color}">${LEVEL_BY_ID[qz.level].icon} ${LEVEL_BY_ID[qz.level].label}</span>
           <span class="spares" title="Misses you can still afford">${spare > 0 ? '🎟️'.repeat(spare) + ` ${spare} spare` : spare === 0 ? '⚠️ No misses left' : '❌'}</span>
         </div>
         <div class="pips">${pips}</div>
@@ -501,7 +574,7 @@ export class App {
     this.paintPips();
     el.onclick = (e) => {
       const tgt = e.target as HTMLElement;
-      if (tgt.closest('[data-act="quit"]')) return this.showCountry(qz.country);
+      if (tgt.closest('[data-act="quit"]')) return this.showLevels(qz.country, qz.topic);
       if (tgt.closest('[data-act="next"]')) return this.nextQuestion();
       const a = tgt.closest<HTMLElement>('.answer');
       if (a) this.answer(Number(a.dataset.i));
@@ -575,46 +648,53 @@ export class App {
     const passed = isPass(qz.correct, total);
     const before = this.journey!;
     const wasCleared = hasCleared(before, qz.country);
-    const j = recordScore(before, r, qz.country, qz.topic, qz.correct);
+    const hadLevel = isPass(bestScore(before, qz.country, qz.topic, qz.level) ?? 0, 10);
+    const j = recordScore(before, r, qz.country, qz.topic, qz.level, qz.correct);
     this.setJourney(j);
     this.renderHud();
     const c = COUNTRY_BY_ID[qz.country];
     const t = TOPIC_BY_ID[qz.topic];
+    const level = LEVEL_BY_ID[qz.level];
+    const up: Level | null = passed ? nextLevel(qz.level) : null;
     const dests = destinations(j, r);
     const routeDone = j.completed && !before.completed;
 
     if (passed) {
       sfx.stamp();
-      this.stage.diorama.celebrate([c.color, t.color, '#fde047', '#ffffff'], 140);
+      this.stage.diorama.celebrate([level.color, c.color, t.color, '#ffffff'], qz.level === 'legend' ? 220 : 140);
     }
-    const nextLine = routeDone
-      ? `🏆 You completed <strong>${esc(r.name)}</strong>!`
-      : passed && !wasCleared && dests.length === 1
-        ? `Next stop unlocked: <strong>${COUNTRY_BY_ID[dests[0]].flag} ${esc(COUNTRY_BY_ID[dests[0]].name)}</strong>`
-        : passed && !wasCleared && dests.length > 1
-          ? 'The skies are open — choose any destination next.'
-          : '';
+    const lines: string[] = [];
+    if (routeDone) lines.push(`🏆 You completed <strong>${esc(r.name)}</strong>!`);
+    else if (passed && !wasCleared && dests.length === 1) {
+      lines.push(`Next stop unlocked: <strong>${COUNTRY_BY_ID[dests[0]].flag} ${esc(COUNTRY_BY_ID[dests[0]].name)}</strong>`);
+    } else if (passed && !wasCleared && dests.length > 1) lines.push('The skies are open — choose any destination next.');
+    if (up && !hadLevel) lines.push(`${up.icon} <strong>${up.label}</strong> level unlocked for ${esc(t.label)}.`);
+
+    const onward = passed && dests.length && currentCountry(j) === qz.country;
     const el = this.mount(
       `<section class="result panel ${passed ? 'win' : 'lose'}" style="--c:${c.color}">
         ${
           passed
-            ? `<div class="big-stamp" style="--c:${c.color}"><span>${c.flag}</span><strong>${esc(c.name.toUpperCase())}</strong><small>${t.icon} ${esc(t.label.toUpperCase())}</small><em>${new Date().toLocaleDateString(undefined, { day: '2-digit', month: 'short', year: 'numeric' })}</em></div>`
+            ? `<div class="big-stamp tier-${qz.level}" style="--c:${level.color}"><span>${c.flag}</span><strong>${esc(c.name.toUpperCase())}</strong><small>${t.icon} ${esc(t.label.toUpperCase())}</small><b>${level.medal.toUpperCase()} · ${level.label.toUpperCase()}</b><em>${new Date().toLocaleDateString(undefined, { day: '2-digit', month: 'short', year: 'numeric' })}</em></div>`
             : `<div class="miss">🧳</div>`
         }
-        <h2>${passed ? 'Passport stamped!' : 'So close — the gate is closed.'}</h2>
+        <h2>${passed ? `${level.medal} stamp earned!` : 'So close — the gate is closed.'}</h2>
         <p class="score"><strong>${qz.correct}</strong> / ${total} correct${answered < total ? ` <small>(stopped after ${answered} — 90% was out of reach)</small>` : ''}</p>
-        ${nextLine ? `<p class="next-line">${nextLine}</p>` : ''}
-        ${!passed ? `<p class="sub">You need ${requiredCorrect(total)} of ${total}. Questions are reshuffled every attempt.</p>` : ''}
+        ${lines.map((l) => `<p class="next-line">${l}</p>`).join('')}
+        ${!passed ? `<p class="sub">You need ${requiredCorrect(total)} of ${total}. Next time you’ll mostly get questions you haven’t seen.</p>` : ''}
         <div class="result-actions">
-          ${passed ? (dests.length && currentCountry(j) === qz.country ? `<button class="btn primary" data-act="onward">Continue journey ✈️</button>` : `<button class="btn primary" data-act="map">🗺️ Back to map</button>`) : `<button class="btn primary" data-act="retry">↻ Try again</button>`}
-          <button class="btn ghost" data-act="topics">${passed ? 'Collect more stamps' : 'Pick another subject'}</button>
+          ${!passed ? `<button class="btn primary" data-act="retry">↻ Try again</button>` : ''}
+          ${up ? `<button class="btn ${onward ? '' : 'primary'}" data-act="up">${up.icon} Try ${up.label}</button>` : ''}
+          ${passed ? (onward ? `<button class="btn primary" data-act="onward">Continue journey ✈️</button>` : `<button class="btn" data-act="map">🗺️ Back to map</button>`) : ''}
+          <button class="btn ghost" data-act="topics">${passed ? 'Other subjects' : 'Pick another subject'}</button>
         </div>
       </section>`,
       'screen-center',
     );
     el.onclick = (e) => {
       const act = (e.target as HTMLElement).closest<HTMLElement>('[data-act]')?.dataset.act;
-      if (act === 'retry') this.startQuiz(qz.country, qz.topic);
+      if (act === 'retry') this.startQuiz(qz.country, qz.topic, qz.level);
+      if (act === 'up' && up) this.startQuiz(qz.country, qz.topic, up.id);
       if (act === 'topics') this.showCountry(qz.country);
       if (act === 'onward' || act === 'map') void this.backToMap();
     };
@@ -624,25 +704,34 @@ export class App {
 
   private showPassport(): void {
     const pp = passport(this.save);
+    const counts = stampCounts(this.save);
     const dlg = document.createElement('dialog');
     dlg.className = 'passport';
     const total = COUNTRIES.length * TOPICS.length;
-    const have = Object.values(pp).reduce((n, t) => n + (t?.length ?? 0), 0);
     dlg.innerHTML = `
       <div class="pp-head">
         <div><p class="eyebrow">Passport of</p><h2>${esc(this.save.traveler?.name ?? 'Traveler')}</h2></div>
-        <div class="pp-count"><strong>${have}</strong><small>/ ${total} stamps</small></div>
+        <div class="pp-count">
+          <strong>${counts.stamps}</strong><small>/ ${total} stamps</small>
+          <span class="pp-medals"><i style="--m:${LEVEL_BY_ID.legend.color}">${counts.gold}</i><i style="--m:${LEVEL_BY_ID.voyager.color}">${counts.silver}</i><i style="--m:${LEVEL_BY_ID.explorer.color}">${counts.bronze}</i></span>
+        </div>
         <button class="btn ghost small" data-act="close" aria-label="Close passport">✕</button>
       </div>
       <div class="pp-grid">
         ${COUNTRIES.map((c) => {
-          const got = pp[c.id] ?? [];
-          return `<div class="pp-page ${got.length ? 'visited' : ''}" style="--c:${c.color}">
+          const got = pp[c.id] ?? {};
+          const any = Object.keys(got).length > 0;
+          return `<div class="pp-page ${any ? 'visited' : ''}" style="--c:${c.color}">
             <div class="pp-country"><span>${c.flag}</span><strong>${esc(c.name)}</strong></div>
-            <div class="pp-stamps">${TOPICS.map((t) => `<span class="pp-stamp ${got.includes(t.id) ? 'on' : ''}" style="--t:${t.color}" title="${t.label}">${t.icon}</span>`).join('')}</div>
+            <div class="pp-stamps">${TOPICS.map((t) => {
+              const tier = got[t.id];
+              const title = tier ? `${t.label}: ${LEVEL_BY_ID[tier].medal}` : t.label;
+              return `<span class="pp-stamp ${tier ? 'on' : ''}" style="--t:${t.color};--m:${tier ? LEVEL_BY_ID[tier].color : 'transparent'}" title="${title}">${t.icon}</span>`;
+            }).join('')}</div>
           </div>`;
         }).join('')}
-      </div>`;
+      </div>
+      <p class="pp-legend">Stamp rims show your best level: <i style="--m:${LEVEL_BY_ID.explorer.color}"></i> Bronze <i style="--m:${LEVEL_BY_ID.voyager.color}"></i> Silver <i style="--m:${LEVEL_BY_ID.legend.color}"></i> Gold</p>`;
     document.body.appendChild(dlg);
     dlg.addEventListener('close', () => dlg.remove());
     dlg.addEventListener('click', (e) => {
@@ -653,6 +742,14 @@ export class App {
 }
 
 // ---------- small utilities ----------
+
+/** Three medal pips (bronze, silver, gold) for one subject, filled when earned. */
+function medalRow(j: Journey, country: CountryId, topic: TopicId): string {
+  return LEVELS.map((l) => {
+    const won = isPass(bestScore(j, country, topic, l.id) ?? 0, 10);
+    return `<i class="${won ? 'on' : ''}" style="--m:${l.color}" title="${l.medal}"></i>`;
+  }).join('');
+}
 
 function wait(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms));
