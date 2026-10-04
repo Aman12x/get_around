@@ -2,166 +2,1091 @@
   "country": "australia",
   "topics": {
     "history": [
-      {"q": "Which British navigator charted Australia's east coast in 1770 aboard HMS Endeavour?", "choices": ["James Cook", "Abel Tasman", "Matthew Flinders", "William Dampier"], "answer": 0, "fact": "Cook landed at Kamay Botany Bay in April 1770, where botanist Joseph Banks collected so many new plants that the bay was named for them.", "difficulty": 1},
-      {"q": "In which year did the First Fleet arrive at Sydney Cove to found a British penal colony?", "choices": ["1788", "1770", "1801", "1851"], "answer": 0, "fact": "Eleven ships carrying about 1,500 people, roughly half of them convicts, arrived at Sydney Cove on 26 January 1788.", "difficulty": 1},
-      {"q": "In which year did the Australian colonies unite to form the Commonwealth of Australia?", "choices": ["1901", "1788", "1856", "1945"], "answer": 0, "fact": "Federation took effect on 1 January 1901 with a ceremony in Sydney's Centennial Park, uniting six colonies as states.", "difficulty": 1},
-      {"q": "Which bushranger wore homemade iron armour in his final shoot-out at Glenrowan in 1880?", "choices": ["Ned Kelly", "Ben Hall", "Captain Thunderbolt", "Mad Dan Morgan"], "answer": 0, "fact": "The armour was hammered from plough parts. Kelly was captured, tried and hanged at the Old Melbourne Gaol that November.", "difficulty": 1},
-      {"q": "What does the 'ANZAC' in Anzac Day stand for?", "choices": ["Australian and New Zealand Army Corps", "Allied Nations Zone Armed Command", "Australian Naval and Zealand Air Corps", "Army of the New Zealand and Australian Colonies"], "answer": 0, "fact": "Anzac troops landed at Gallipoli on 25 April 1915; the date is marked every year with dawn services across Australia.", "difficulty": 1},
-      {"q": "What discovery set off a population boom in Victoria in the 1850s?", "choices": ["Gold", "Opals", "Oil", "Copper"], "answer": 0, "fact": "Victoria's population rose from about 77,000 in 1851 to over 500,000 a decade later, making Melbourne one of the world's richest cities.", "difficulty": 1},
-      {"q": "Roughly how long have Aboriginal and Torres Strait Islander peoples lived in Australia?", "choices": ["Tens of thousands of years", "About 2,000 years", "About 5,000 years", "About 800 years"], "answer": 0, "fact": "They are often described as the world's oldest continuous living cultures, with hundreds of distinct languages and nations.", "difficulty": 1},
-      {"q": "Which former convict settlement on Tasmania's Tasman Peninsula is now a World Heritage site?", "choices": ["Port Arthur", "Fremantle", "Moreton Bay", "Parramatta"], "answer": 0, "fact": "Founded in 1830 as a timber station, Port Arthur became a prison for repeat offenders sent from across the colonies.", "difficulty": 1},
-      {"q": "Which Dutch explorer reached the island now named after him in 1642?", "choices": ["Abel Tasman", "Dirk Hartog", "Willem Janszoon", "Willem de Vlamingh"], "answer": 0, "fact": "Tasman named the island Van Diemen's Land after his patron; it was officially renamed Tasmania in 1856.", "difficulty": 1},
-      {"q": "Who commanded the First Fleet and became the first governor of New South Wales?", "choices": ["Arthur Phillip", "William Bligh", "Lachlan Macquarie", "John Hunter"], "answer": 0, "fact": "Phillip chose Sydney Cove for its fresh water and deep harbour, naming it after Lord Sydney, the British Home Secretary.", "difficulty": 2},
-      {"q": "The 1854 Eureka Stockade was an armed uprising by whom?", "choices": ["Gold miners at Ballarat", "Convicts at Port Arthur", "Shearers in Queensland", "Soldiers in Sydney"], "answer": 0, "fact": "The miners protested against costly licences; their blue-and-white Southern Cross flag became a lasting symbol of protest.", "difficulty": 2},
-      {"q": "Which Australian city was bombed by Japanese aircraft on 19 February 1942?", "choices": ["Darwin", "Sydney", "Townsville", "Perth"], "answer": 0, "fact": "The raid was launched by the same carrier force that attacked Pearl Harbor, and was the first of dozens of raids on Darwin.", "difficulty": 2},
-      {"q": "Which explorers led the ill-fated 1860-61 expedition to cross Australia from south to north?", "choices": ["Burke and Wills", "Hume and Hovell", "Lewis and Clark", "Blaxland and Lawson"], "answer": 0, "fact": "They reached the tidal mangroves near the Gulf of Carpentaria but died on the way back; John King survived, cared for by Yandruwandha people.", "difficulty": 2},
-      {"q": "Who led the first recorded circumnavigation of Australia in 1801-03 and promoted the name 'Australia'?", "choices": ["Matthew Flinders", "James Cook", "George Bass", "John Oxley"], "answer": 0, "fact": "Flinders sailed with his cat Trim, whose statue now sits on a window ledge of the State Library in Sydney.", "difficulty": 2},
-      {"q": "The 1808 Rum Rebellion in Sydney overthrew which governor?", "choices": ["William Bligh", "Lachlan Macquarie", "Arthur Phillip", "Philip Gidley King"], "answer": 0, "fact": "It was the second time Bligh lost command to rebels: in 1789 his crew had seized HMS Bounty in a famous mutiny.", "difficulty": 2},
-      {"q": "Roughly how many convicts were transported to Australia between 1788 and 1868?", "choices": ["About 160,000", "About 16,000", "About 600,000", "About 1.6 million"], "answer": 0, "fact": "Many Australians today descend from convicts, and having a convict ancestor is now often a point of family pride.", "difficulty": 2},
-      {"q": "The 1942 Kokoda Track campaign was fought in which present-day country?", "choices": ["Papua New Guinea", "Indonesia", "Malaysia", "Solomon Islands"], "answer": 0, "fact": "Australian troops fought over the steep Owen Stanley Range, helped by Papuan carriers nicknamed the 'Fuzzy Wuzzy Angels'.", "difficulty": 2},
-      {"q": "The Immigration Restriction Act, among the first laws of the new federal Parliament in 1901, underpinned which policy?", "choices": ["White Australia policy", "Assimilation policy", "Ten Pound Pom scheme", "Populate or Perish campaign"], "answer": 0, "fact": "It used a dictation test to exclude migrants; the policy was dismantled in stages and formally ended in 1973.", "difficulty": 2},
-      {"q": "Which Dutch captain left an inscribed pewter plate on an island off Western Australia in 1616?", "choices": ["Dirk Hartog", "Abel Tasman", "Willem Janszoon", "Willem de Vlamingh"], "answer": 0, "fact": "Willem de Vlamingh found the plate in 1697 and replaced it with his own; Hartog's plate is now in the Rijksmuseum in Amsterdam.", "difficulty": 3},
-      {"q": "Who made the first recorded European landing in Australia, on Cape York Peninsula in 1606?", "choices": ["Willem Janszoon", "Dirk Hartog", "Luis Váez de Torres", "Abel Tasman"], "answer": 0, "fact": "Janszoon sailed the small ship Duyfken; later that year Torres passed through the strait that now bears his name.", "difficulty": 3},
-      {"q": "Which governor of New South Wales from 1810 to 1821 is often called the 'Father of Australia'?", "choices": ["Lachlan Macquarie", "Arthur Phillip", "Ralph Darling", "Richard Bourke"], "answer": 0, "fact": "Macquarie built roads, towns and public buildings, many designed by the convict architect Francis Greenway.", "difficulty": 3},
-      {"q": "Which colony received Australia's last convict ship, in 1868?", "choices": ["Western Australia", "Tasmania", "New South Wales", "Queensland"], "answer": 0, "fact": "The Hougoumont landed at Fremantle; Western Australia had asked for convicts to help build its struggling colony.", "difficulty": 3},
-      {"q": "Australian troops nicknamed the 'Rats of Tobruk' held a besieged port in 1941 in which country?", "choices": ["Libya", "Egypt", "Greece", "Syria"], "answer": 0, "fact": "The nickname came from enemy propaganda, but the defenders adopted it with pride and held out for months.", "difficulty": 3},
-      {"q": "In which city did Aboriginal activists hold a 'Day of Mourning' protest on 26 January 1938?", "choices": ["Sydney", "Melbourne", "Adelaide", "Canberra"], "answer": 0, "fact": "Held on the 150th anniversary of the First Fleet's arrival, it is seen as a landmark of the Aboriginal civil rights movement.", "difficulty": 3},
-      {"q": "In 1966 Vincent Lingiari led Gurindji workers in a walk-off from which cattle station?", "choices": ["Wave Hill", "Anna Creek", "Brunette Downs", "Victoria River Downs"], "answer": 0, "fact": "In 1975 Prime Minister Gough Whitlam poured soil into Lingiari's hand as land was handed back to the Gurindji.", "difficulty": 3}
+      {
+        "q": "Which British navigator charted Australia's east coast in 1770 aboard HMS Endeavour?",
+        "choices": ["James Cook", "Abel Tasman", "Matthew Flinders", "William Dampier"],
+        "answer": 0,
+        "fact": "Cook landed at Kamay Botany Bay in April 1770, where botanist Joseph Banks collected so many new plants that the bay was named for them.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did the First Fleet arrive at Sydney Cove to found a British penal colony?",
+        "choices": ["1770", "1788", "1801", "1851"],
+        "answer": 1,
+        "fact": "Eleven ships carrying about 1,500 people, roughly half of them convicts, arrived at Sydney Cove on 26 January 1788.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did the Australian colonies unite to form the Commonwealth of Australia?",
+        "choices": ["1856", "1788", "1901", "1945"],
+        "answer": 2,
+        "fact": "Federation took effect on 1 January 1901 with a ceremony in Sydney's Centennial Park, uniting six colonies as states.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which bushranger wore homemade iron armour in his final shoot-out at Glenrowan in 1880?",
+        "choices": ["Mad Dan Morgan", "Ben Hall", "Captain Thunderbolt", "Ned Kelly"],
+        "answer": 3,
+        "fact": "The armour was hammered from plough parts. Kelly was captured, tried and hanged at the Old Melbourne Gaol that November.",
+        "difficulty": 1
+      },
+      {
+        "q": "What does the 'ANZAC' in Anzac Day stand for?",
+        "choices": ["Australian and New Zealand Army Corps", "Allied Nations Zone Armed Command", "Australian Naval and Zealand Air Corps", "Army of the New Zealand and Australian Colonies"],
+        "answer": 0,
+        "fact": "Anzac troops landed at Gallipoli on 25 April 1915; the date is marked every year with dawn services across Australia.",
+        "difficulty": 1
+      },
+      {
+        "q": "What discovery set off a population boom in Victoria in the 1850s?",
+        "choices": ["Opals", "Gold", "Oil", "Copper"],
+        "answer": 1,
+        "fact": "Victoria's population rose from about 77,000 in 1851 to over 500,000 a decade later, making Melbourne one of the world's richest cities.",
+        "difficulty": 1
+      },
+      {
+        "q": "Roughly how long have Aboriginal and Torres Strait Islander peoples lived in Australia?",
+        "choices": ["About 5,000 years", "About 2,000 years", "Tens of thousands of years", "About 800 years"],
+        "answer": 2,
+        "fact": "They are often described as the world's oldest continuous living cultures, with hundreds of distinct languages and nations.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which former convict settlement on Tasmania's Tasman Peninsula is now a World Heritage site?",
+        "choices": ["Parramatta", "Fremantle", "Moreton Bay", "Port Arthur"],
+        "answer": 3,
+        "fact": "Founded in 1830 as a timber station, Port Arthur became a prison for repeat offenders sent from across the colonies.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Dutch explorer reached the island now named after him in 1642?",
+        "choices": ["Abel Tasman", "Dirk Hartog", "Willem Janszoon", "Willem de Vlamingh"],
+        "answer": 0,
+        "fact": "Tasman named the island Van Diemen's Land after his patron; it was officially renamed Tasmania in 1856.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who commanded the First Fleet and became the first governor of New South Wales?",
+        "choices": ["William Bligh", "Arthur Phillip", "Lachlan Macquarie", "John Hunter"],
+        "answer": 1,
+        "fact": "Phillip chose Sydney Cove for its fresh water and deep harbour, naming it after Lord Sydney, the British Home Secretary.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 1854 Eureka Stockade was an armed uprising by whom?",
+        "choices": ["Shearers in Queensland", "Convicts at Port Arthur", "Gold miners at Ballarat", "Soldiers in Sydney"],
+        "answer": 2,
+        "fact": "The miners protested against costly licences; their blue-and-white Southern Cross flag became a lasting symbol of protest.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Australian city was bombed by Japanese aircraft on 19 February 1942?",
+        "choices": ["Perth", "Sydney", "Townsville", "Darwin"],
+        "answer": 3,
+        "fact": "The raid was launched by the same carrier force that attacked Pearl Harbor, and was the first of dozens of raids on Darwin.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which explorers led the ill-fated 1860-61 expedition to cross Australia from south to north?",
+        "choices": ["Burke and Wills", "Hume and Hovell", "Lewis and Clark", "Blaxland and Lawson"],
+        "answer": 0,
+        "fact": "They reached the tidal mangroves near the Gulf of Carpentaria but died on the way back; John King survived, cared for by Yandruwandha people.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who led the first recorded circumnavigation of Australia in 1801-03 and promoted the name 'Australia'?",
+        "choices": ["James Cook", "Matthew Flinders", "George Bass", "John Oxley"],
+        "answer": 1,
+        "fact": "Flinders sailed with his cat Trim, whose statue now sits on a window ledge of the State Library in Sydney.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 1808 Rum Rebellion in Sydney overthrew which governor?",
+        "choices": ["Arthur Phillip", "Lachlan Macquarie", "William Bligh", "Philip Gidley King"],
+        "answer": 2,
+        "fact": "It was the second time Bligh lost command to rebels: in 1789 his crew had seized HMS Bounty in a famous mutiny.",
+        "difficulty": 2
+      },
+      {
+        "q": "Roughly how many convicts were transported to Australia between 1788 and 1868?",
+        "choices": ["About 1.6 million", "About 16,000", "About 600,000", "About 160,000"],
+        "answer": 3,
+        "fact": "Many Australians today descend from convicts, and having a convict ancestor is now often a point of family pride.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 1942 Kokoda Track campaign was fought in which present-day country?",
+        "choices": ["Papua New Guinea", "Indonesia", "Malaysia", "Solomon Islands"],
+        "answer": 0,
+        "fact": "Australian troops fought over the steep Owen Stanley Range, helped by Papuan carriers nicknamed the 'Fuzzy Wuzzy Angels'.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Immigration Restriction Act, among the first laws of the new federal Parliament in 1901, underpinned which policy?",
+        "choices": ["Assimilation policy", "White Australia policy", "Ten Pound Pom scheme", "Populate or Perish campaign"],
+        "answer": 1,
+        "fact": "It used a dictation test to exclude migrants; the policy was dismantled in stages and formally ended in 1973.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Dutch captain left an inscribed pewter plate on an island off Western Australia in 1616?",
+        "choices": ["Willem Janszoon", "Abel Tasman", "Dirk Hartog", "Willem de Vlamingh"],
+        "answer": 2,
+        "fact": "Willem de Vlamingh found the plate in 1697 and replaced it with his own; Hartog's plate is now in the Rijksmuseum in Amsterdam.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who made the first recorded European landing in Australia, on Cape York Peninsula in 1606?",
+        "choices": ["Abel Tasman", "Dirk Hartog", "Luis Váez de Torres", "Willem Janszoon"],
+        "answer": 3,
+        "fact": "Janszoon sailed the small ship Duyfken; later that year Torres passed through the strait that now bears his name.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which governor of New South Wales from 1810 to 1821 is often called the 'Father of Australia'?",
+        "choices": ["Lachlan Macquarie", "Arthur Phillip", "Ralph Darling", "Richard Bourke"],
+        "answer": 0,
+        "fact": "Macquarie built roads, towns and public buildings, many designed by the convict architect Francis Greenway.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which colony received Australia's last convict ship, in 1868?",
+        "choices": ["Tasmania", "Western Australia", "New South Wales", "Queensland"],
+        "answer": 1,
+        "fact": "The Hougoumont landed at Fremantle; Western Australia had asked for convicts to help build its struggling colony.",
+        "difficulty": 3
+      },
+      {
+        "q": "Australian troops nicknamed the 'Rats of Tobruk' held a besieged port in 1941 in which country?",
+        "choices": ["Greece", "Egypt", "Libya", "Syria"],
+        "answer": 2,
+        "fact": "The nickname came from enemy propaganda, but the defenders adopted it with pride and held out for months.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which city did Aboriginal activists hold a 'Day of Mourning' protest on 26 January 1938?",
+        "choices": ["Canberra", "Melbourne", "Adelaide", "Sydney"],
+        "answer": 3,
+        "fact": "Held on the 150th anniversary of the First Fleet's arrival, it is seen as a landmark of the Aboriginal civil rights movement.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 1966 Vincent Lingiari led Gurindji workers in a walk-off from which cattle station?",
+        "choices": ["Wave Hill", "Anna Creek", "Brunette Downs", "Victoria River Downs"],
+        "answer": 0,
+        "fact": "In 1975 Prime Minister Gough Whitlam poured soil into Lingiari's hand as land was handed back to the Gurindji.",
+        "difficulty": 3
+      }
     ],
     "technology": [
-      {"q": "Which aviation device, now standard on airliners, was invented by Australian scientist David Warren?", "choices": ["The flight data recorder or 'black box'", "The jet engine", "Radar", "The autopilot"], "answer": 0, "fact": "Warren, whose father died in an air crash in 1934, built his prototype in Melbourne in the 1950s.", "difficulty": 1},
-      {"q": "Which wireless technology was developed with key help from engineers at Australia's CSIRO?", "choices": ["Wi-Fi", "Bluetooth", "GPS", "Radio-frequency ID"], "answer": 0, "fact": "CSIRO's patent on fast wireless networking earned it hundreds of millions of dollars from technology companies.", "difficulty": 1},
-      {"q": "Which curved throwing tool, crafted by Aboriginal peoples for thousands of years, can be made to return to the thrower?", "choices": ["Boomerang", "Woomera", "Nulla-nulla", "Didgeridoo"], "answer": 0, "fact": "Returning boomerangs were mostly used for sport and hunting birds; heavier non-returning ones were used to hunt larger game.", "difficulty": 1},
-      {"q": "The Hills Hoist, a backyard icon since 1945, is what kind of device?", "choices": ["A rotary clothesline", "A lawnmower", "A barbecue", "A garden sprinkler"], "answer": 0, "fact": "Lance Hill started making his height-adjustable rotary clothesline in Adelaide, and it soon spread across suburban Australia.", "difficulty": 1},
-      {"q": "Built from 1949 to 1974, the Snowy Mountains Scheme is a vast system of what?", "choices": ["Dams, tunnels and hydroelectric power stations", "Ski resorts and chairlifts", "Railways and bridges", "Oil pipelines"], "answer": 0, "fact": "More than 100,000 people from over 30 countries worked on the scheme, many of them post-war migrants from Europe.", "difficulty": 1},
-      {"q": "In 1988 Australia became the first country to issue banknotes made of what?", "choices": ["Polymer (plastic)", "Cotton", "Hemp", "Aluminium foil"], "answer": 0, "fact": "Developed with CSIRO to defeat forgers, polymer notes have clear windows and last far longer than paper ones.", "difficulty": 1},
-      {"q": "The Parkes radio telescope in New South Wales helped broadcast TV pictures of which 1969 event?", "choices": ["The Apollo 11 Moon landing", "The launch of Sputnik", "Halley's Comet", "The first Space Shuttle flight"], "answer": 0, "fact": "Parkes and the Honeysuckle Creek station near Canberra relayed the moonwalk images seen by some 600 million people.", "difficulty": 1},
-      {"q": "What nickname do Sydneysiders give the Sydney Harbour Bridge?", "choices": ["The Coathanger", "The Iron Lady", "The Harp", "The Big Steel"], "answer": 0, "fact": "Opened in 1932, it has long been listed as the world's widest long-span bridge, and visitors can climb its arch.", "difficulty": 1},
-      {"q": "Western Australia's Pilbara region is famous for mining which mineral, one of Australia's top exports?", "choices": ["Iron ore", "Opal", "Uranium", "Tin"], "answer": 0, "fact": "Trains in the Pilbara regularly haul ore cars in lines more than 2 km long to ports such as Port Hedland.", "difficulty": 1},
-      {"q": "Australian surgeon Graeme Clark pioneered which medical device?", "choices": ["The multi-channel cochlear implant", "The heart pacemaker", "The insulin pump", "The MRI scanner"], "answer": 0, "fact": "The first patient received the 'bionic ear' in Melbourne in 1978, and it has since helped hundreds of thousands of people hear.", "difficulty": 2},
-      {"q": "Which train crosses the Nullarbor Plain on the world's longest straight stretch of railway?", "choices": ["Indian Pacific", "The Ghan", "Spirit of Queensland", "The Overland"], "answer": 0, "fact": "The track runs dead straight for 478 km; the train's name reflects its journey between the Indian and Pacific oceans.", "difficulty": 2},
-      {"q": "Ford Australia's Lewis Bandt designed which beloved Australian vehicle type in 1934?", "choices": ["The coupé utility, or 'ute'", "The road train", "The campervan", "The four-wheel-drive wagon"], "answer": 0, "fact": "The story goes that a farmer's wife asked for a car to take her to church on Sunday and carry pigs to market on Monday.", "difficulty": 2},
-      {"q": "Which Australian pair won the 2005 Nobel Prize for showing that bacteria cause most stomach ulcers?", "choices": ["Barry Marshall and Robin Warren", "Peter Doherty and Rolf Zinkernagel", "Elizabeth Blackburn and Carol Greider", "John Eccles and Alan Hodgkin"], "answer": 0, "fact": "To convince sceptics, Marshall drank a culture of Helicobacter pylori and soon developed stomach inflammation.", "difficulty": 2},
-      {"q": "Which Adelaide-born scientist shared the 1945 Nobel Prize for turning penicillin into a usable medicine?", "choices": ["Howard Florey", "Alexander Fleming", "Ernst Chain", "Frank Macfarlane Burnet"], "answer": 0, "fact": "Florey's team in Oxford ran the first trials on patients in 1941; his portrait later appeared on Australia's $50 note.", "difficulty": 2},
-      {"q": "Which Google product grew out of a Sydney start-up co-founded by brothers Lars and Jens Rasmussen?", "choices": ["Google Maps", "Gmail", "YouTube", "Android"], "answer": 0, "fact": "Google bought their company, Where 2 Technologies, in 2004 and launched Google Maps the following year.", "difficulty": 2},
-      {"q": "Melanie Perkins co-founded which online graphic design platform?", "choices": ["Canva", "Atlassian", "Figma", "Afterpay"], "answer": 0, "fact": "Perkins first ran a school-yearbook design business from her mother's living room in Perth before Canva launched in 2013.", "difficulty": 2},
-      {"q": "The airline name Qantas originally stood for what?", "choices": ["Queensland and Northern Territory Aerial Services", "Queensland and New Territories Air Service", "Quick Australian National Transport Air Service", "Queensland Air Navigation and Transport Association"], "answer": 0, "fact": "Founded in 1920 in Winton, Queensland, Qantas is one of the world's oldest continuously operating airlines.", "difficulty": 2},
-      {"q": "In 1928 Charles Kingsford Smith piloted the first flight across which ocean?", "choices": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"], "answer": 0, "fact": "His plane, the Southern Cross, flew from California to Brisbane via Hawaii and Fiji; Sydney Airport is named after him.", "difficulty": 2},
-      {"q": "Lawrence Hargrave's experiments in 1890s Sydney produced which aviation invention?", "choices": ["The box kite", "The propeller", "The hot-air balloon", "The parachute"], "answer": 0, "fact": "In 1894 Hargrave lifted himself several metres off the ground at Stanwell Park beach using four linked box kites.", "difficulty": 3},
-      {"q": "In the 1850s James Harrison of Geelong pioneered which technology?", "choices": ["Mechanical refrigeration", "The telephone", "The steam tractor", "Electric street lighting"], "answer": 0, "fact": "Harrison built ice-making machines using vapour compression, and later tried to ship frozen meat to Britain.", "difficulty": 3},
-      {"q": "Australia co-hosts the Square Kilometre Array radio telescope project with which country?", "choices": ["South Africa", "Chile", "New Zealand", "Argentina"], "answer": 0, "fact": "The Australian half, SKA-Low, is being built on Wajarri Yamaji Country in Western Australia's Murchison region.", "difficulty": 3},
-      {"q": "Ian Frazer, Australian of the Year in 2006, co-developed a vaccine against which virus?", "choices": ["Human papillomavirus (HPV)", "Measles", "Hepatitis B", "Polio"], "answer": 0, "fact": "Frazer and the late Jian Zhou developed the technology behind vaccines that protect against most cervical cancers.", "difficulty": 3},
-      {"q": "Plastic surgeon Fiona Wood co-invented which treatment for burns victims?", "choices": ["Spray-on skin", "Hyperbaric oxygen", "Silver-coated bandages", "Artificial blood"], "answer": 0, "fact": "Her technique sprays a patient's own skin cells onto wounds; she treated many survivors of the 2002 Bali bombings.", "difficulty": 3},
-      {"q": "Who founded the service that became the Royal Flying Doctor Service, whose first flight was in 1928?", "choices": ["John Flynn", "Charles Kingsford Smith", "Hudson Fysh", "Nancy Bird Walton"], "answer": 0, "fact": "The Presbyterian minister's dream of a 'mantle of safety' for the outback began at Cloncurry; he appears on the $20 note.", "difficulty": 3},
-      {"q": "The mining giant BHP takes its name from which outback town's silver, lead and zinc deposits?", "choices": ["Broken Hill", "Kalgoorlie", "Mount Isa", "Coober Pedy"], "answer": 0, "fact": "BHP began in 1885 as the Broken Hill Proprietary Company and later became one of the world's largest mining firms.", "difficulty": 3}
+      {
+        "q": "Which aviation device, now standard on airliners, was invented by Australian scientist David Warren?",
+        "choices": ["The flight data recorder or 'black box'", "The jet engine", "Radar", "The autopilot"],
+        "answer": 0,
+        "fact": "Warren, whose father died in an air crash in 1934, built his prototype in Melbourne in the 1950s.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which wireless technology was developed with key help from engineers at Australia's CSIRO?",
+        "choices": ["Bluetooth", "Wi-Fi", "GPS", "Radio-frequency ID"],
+        "answer": 1,
+        "fact": "CSIRO's patent on fast wireless networking earned it hundreds of millions of dollars from technology companies.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which curved throwing tool, crafted by Aboriginal peoples for thousands of years, can be made to return to the thrower?",
+        "choices": ["Nulla-nulla", "Woomera", "Boomerang", "Didgeridoo"],
+        "answer": 2,
+        "fact": "Returning boomerangs were mostly used for sport and hunting birds; heavier non-returning ones were used to hunt larger game.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Hills Hoist, a backyard icon since 1945, is what kind of device?",
+        "choices": ["A garden sprinkler", "A lawnmower", "A barbecue", "A rotary clothesline"],
+        "answer": 3,
+        "fact": "Lance Hill started making his height-adjustable rotary clothesline in Adelaide, and it soon spread across suburban Australia.",
+        "difficulty": 1
+      },
+      {
+        "q": "Built from 1949 to 1974, the Snowy Mountains Scheme is a vast system of what?",
+        "choices": ["Dams, tunnels and hydroelectric power stations", "Ski resorts and chairlifts", "Railways and bridges", "Oil pipelines"],
+        "answer": 0,
+        "fact": "More than 100,000 people from over 30 countries worked on the scheme, many of them post-war migrants from Europe.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1988 Australia became the first country to issue banknotes made of what?",
+        "choices": ["Cotton", "Polymer (plastic)", "Hemp", "Aluminium foil"],
+        "answer": 1,
+        "fact": "Developed with CSIRO to defeat forgers, polymer notes have clear windows and last far longer than paper ones.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Parkes radio telescope in New South Wales helped broadcast TV pictures of which 1969 event?",
+        "choices": ["Halley's Comet", "The launch of Sputnik", "The Apollo 11 Moon landing", "The first Space Shuttle flight"],
+        "answer": 2,
+        "fact": "Parkes and the Honeysuckle Creek station near Canberra relayed the moonwalk images seen by some 600 million people.",
+        "difficulty": 1
+      },
+      {
+        "q": "What nickname do Sydneysiders give the Sydney Harbour Bridge?",
+        "choices": ["The Big Steel", "The Iron Lady", "The Harp", "The Coathanger"],
+        "answer": 3,
+        "fact": "Opened in 1932, it has long been listed as the world's widest long-span bridge, and visitors can climb its arch.",
+        "difficulty": 1
+      },
+      {
+        "q": "Western Australia's Pilbara region is famous for mining which mineral, one of Australia's top exports?",
+        "choices": ["Iron ore", "Opal", "Uranium", "Tin"],
+        "answer": 0,
+        "fact": "Trains in the Pilbara regularly haul ore cars in lines more than 2 km long to ports such as Port Hedland.",
+        "difficulty": 1
+      },
+      {
+        "q": "Australian surgeon Graeme Clark pioneered which medical device?",
+        "choices": ["The heart pacemaker", "The multi-channel cochlear implant", "The insulin pump", "The MRI scanner"],
+        "answer": 1,
+        "fact": "The first patient received the 'bionic ear' in Melbourne in 1978, and it has since helped hundreds of thousands of people hear.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which train crosses the Nullarbor Plain on the world's longest straight stretch of railway?",
+        "choices": ["Spirit of Queensland", "The Ghan", "Indian Pacific", "The Overland"],
+        "answer": 2,
+        "fact": "The track runs dead straight for 478 km; the train's name reflects its journey between the Indian and Pacific oceans.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ford Australia's Lewis Bandt designed which beloved Australian vehicle type in 1934?",
+        "choices": ["The four-wheel-drive wagon", "The road train", "The campervan", "The coupé utility, or 'ute'"],
+        "answer": 3,
+        "fact": "The story goes that a farmer's wife asked for a car to take her to church on Sunday and carry pigs to market on Monday.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Australian pair won the 2005 Nobel Prize for showing that bacteria cause most stomach ulcers?",
+        "choices": ["Barry Marshall and Robin Warren", "Peter Doherty and Rolf Zinkernagel", "Elizabeth Blackburn and Carol Greider", "John Eccles and Alan Hodgkin"],
+        "answer": 0,
+        "fact": "To convince sceptics, Marshall drank a culture of Helicobacter pylori and soon developed stomach inflammation.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Adelaide-born scientist shared the 1945 Nobel Prize for turning penicillin into a usable medicine?",
+        "choices": ["Alexander Fleming", "Howard Florey", "Ernst Chain", "Frank Macfarlane Burnet"],
+        "answer": 1,
+        "fact": "Florey's team in Oxford ran the first trials on patients in 1941; his portrait later appeared on Australia's $50 note.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Google product grew out of a Sydney start-up co-founded by brothers Lars and Jens Rasmussen?",
+        "choices": ["YouTube", "Gmail", "Google Maps", "Android"],
+        "answer": 2,
+        "fact": "Google bought their company, Where 2 Technologies, in 2004 and launched Google Maps the following year.",
+        "difficulty": 2
+      },
+      {
+        "q": "Melanie Perkins co-founded which online graphic design platform?",
+        "choices": ["Afterpay", "Atlassian", "Figma", "Canva"],
+        "answer": 3,
+        "fact": "Perkins first ran a school-yearbook design business from her mother's living room in Perth before Canva launched in 2013.",
+        "difficulty": 2
+      },
+      {
+        "q": "The airline name Qantas originally stood for what?",
+        "choices": ["Queensland and Northern Territory Aerial Services", "Queensland and New Territories Air Service", "Quick Australian National Transport Air Service", "Queensland Air Navigation and Transport Association"],
+        "answer": 0,
+        "fact": "Founded in 1920 in Winton, Queensland, Qantas is one of the world's oldest continuously operating airlines.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1928 Charles Kingsford Smith piloted the first flight across which ocean?",
+        "choices": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+        "answer": 1,
+        "fact": "His plane, the Southern Cross, flew from California to Brisbane via Hawaii and Fiji; Sydney Airport is named after him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Lawrence Hargrave's experiments in 1890s Sydney produced which aviation invention?",
+        "choices": ["The hot-air balloon", "The propeller", "The box kite", "The parachute"],
+        "answer": 2,
+        "fact": "In 1894 Hargrave lifted himself several metres off the ground at Stanwell Park beach using four linked box kites.",
+        "difficulty": 3
+      },
+      {
+        "q": "In the 1850s James Harrison of Geelong pioneered which technology?",
+        "choices": ["Electric street lighting", "The telephone", "The steam tractor", "Mechanical refrigeration"],
+        "answer": 3,
+        "fact": "Harrison built ice-making machines using vapour compression, and later tried to ship frozen meat to Britain.",
+        "difficulty": 3
+      },
+      {
+        "q": "Australia co-hosts the Square Kilometre Array radio telescope project with which country?",
+        "choices": ["South Africa", "Chile", "New Zealand", "Argentina"],
+        "answer": 0,
+        "fact": "The Australian half, SKA-Low, is being built on Wajarri Yamaji Country in Western Australia's Murchison region.",
+        "difficulty": 3
+      },
+      {
+        "q": "Ian Frazer, Australian of the Year in 2006, co-developed a vaccine against which virus?",
+        "choices": ["Measles", "Human papillomavirus (HPV)", "Hepatitis B", "Polio"],
+        "answer": 1,
+        "fact": "Frazer and the late Jian Zhou developed the technology behind vaccines that protect against most cervical cancers.",
+        "difficulty": 3
+      },
+      {
+        "q": "Plastic surgeon Fiona Wood co-invented which treatment for burns victims?",
+        "choices": ["Silver-coated bandages", "Hyperbaric oxygen", "Spray-on skin", "Artificial blood"],
+        "answer": 2,
+        "fact": "Her technique sprays a patient's own skin cells onto wounds; she treated many survivors of the 2002 Bali bombings.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who founded the service that became the Royal Flying Doctor Service, whose first flight was in 1928?",
+        "choices": ["Nancy Bird Walton", "Charles Kingsford Smith", "Hudson Fysh", "John Flynn"],
+        "answer": 3,
+        "fact": "The Presbyterian minister's dream of a 'mantle of safety' for the outback began at Cloncurry; he appears on the $20 note.",
+        "difficulty": 3
+      },
+      {
+        "q": "The mining giant BHP takes its name from which outback town's silver, lead and zinc deposits?",
+        "choices": ["Broken Hill", "Kalgoorlie", "Mount Isa", "Coober Pedy"],
+        "answer": 0,
+        "fact": "BHP began in 1885 as the Broken Hill Proprietary Company and later became one of the world's largest mining firms.",
+        "difficulty": 3
+      }
     ],
     "art": [
-      {"q": "Which Danish architect designed the Sydney Opera House?", "choices": ["Jørn Utzon", "Frank Gehry", "Renzo Piano", "Harry Seidler"], "answer": 0, "fact": "Utzon left the project in 1966 and never saw it completed; the building was declared a World Heritage site in 2007.", "difficulty": 1},
-      {"q": "Which song begins 'Once a jolly swagman camped by a billabong'?", "choices": ["Waltzing Matilda", "Advance Australia Fair", "Click Go the Shears", "Botany Bay"], "answer": 0, "fact": "The words were written in 1895 at Dagworth Station in Queensland; it is often called Australia's unofficial national anthem.", "difficulty": 1},
-      {"q": "Which Sydney-formed rock band recorded 'Highway to Hell' and 'Back in Black'?", "choices": ["AC/DC", "INXS", "Midnight Oil", "Cold Chisel"], "answer": 0, "fact": "Brothers Malcolm and Angus Young formed the band in 1973; Angus's schoolboy uniform became its trademark.", "difficulty": 1},
-      {"q": "Which Australian singer had a worldwide hit with 'Can't Get You Out of My Head' in 2001?", "choices": ["Kylie Minogue", "Natalie Imbruglia", "Sia", "Delta Goodrem"], "answer": 0, "fact": "Kylie first became famous playing the mechanic Charlene in the TV soap 'Neighbours'.", "difficulty": 1},
-      {"q": "Which 1986 film starred Paul Hogan as a bushman from the outback let loose in New York?", "choices": ["Crocodile Dundee", "The Man from Snowy River", "Mad Max", "Gallipoli"], "answer": 0, "fact": "It was a huge international hit, and Hogan received an Oscar nomination for co-writing the screenplay.", "difficulty": 1},
-      {"q": "Which 1979 post-apocalyptic action film starring Mel Gibson launched a long-running franchise?", "choices": ["Mad Max", "Wake in Fright", "Razorback", "Gallipoli"], "answer": 0, "fact": "Director George Miller was a medical doctor; his later 'Mad Max: Fury Road' won six Academy Awards.", "difficulty": 1},
-      {"q": "Which Australian director made 'Moulin Rouge!', 'The Great Gatsby' and 'Elvis'?", "choices": ["Baz Luhrmann", "Peter Weir", "George Miller", "Jane Campion"], "answer": 0, "fact": "Luhrmann's 'Red Curtain' trilogy includes 'Strictly Ballroom', 'Romeo + Juliet' and 'Moulin Rouge!'.", "difficulty": 1},
-      {"q": "Which wind instrument comes from Aboriginal peoples of northern Australia?", "choices": ["Didgeridoo", "Pan flute", "Bagpipes", "Alphorn"], "answer": 0, "fact": "Known to the Yolŋu people as the yidaki, it is traditionally made from a eucalyptus trunk hollowed out by termites.", "difficulty": 1},
-      {"q": "Which dessert was named after the Australian opera singer Nellie Melba?", "choices": ["Peach Melba", "Pavlova", "Lamington", "Baked Alaska"], "answer": 0, "fact": "Chef Auguste Escoffier created it in London; Melba took her stage name from her home city of Melbourne.", "difficulty": 1},
-      {"q": "Which Arrernte artist became famous for his watercolour landscapes of Central Australia?", "choices": ["Albert Namatjira", "Clifford Possum Tjapaltjarri", "Rover Thomas", "Tommy McRae"], "answer": 0, "fact": "Namatjira grew up at the Hermannsburg mission; in 1957 he became one of the first Aboriginal people in the Northern Territory granted citizenship rights.", "difficulty": 2},
-      {"q": "Which painter created a famous series of works about Ned Kelly in the 1940s, showing him in his black helmet?", "choices": ["Sidney Nolan", "Arthur Boyd", "Russell Drysdale", "Brett Whiteley"], "answer": 0, "fact": "Nolan painted most of the series in 1946-47; it is now held by the National Gallery of Australia in Canberra.", "difficulty": 2},
-      {"q": "Which Australian author wrote the bestselling 1977 novel 'The Thorn Birds'?", "choices": ["Colleen McCullough", "Patrick White", "Miles Franklin", "Christina Stead"], "answer": 0, "fact": "The saga of a family on a vast sheep station became a hugely popular TV mini-series in 1983.", "difficulty": 2},
-      {"q": "Which Australian won the Nobel Prize in Literature in 1973?", "choices": ["Patrick White", "Peter Carey", "Tim Winton", "Thomas Keneally"], "answer": 0, "fact": "His novel 'Voss' follows an explorer crossing the continent; he used his prize money to found an award for writers.", "difficulty": 2},
-      {"q": "Which Australian novelist won the 1982 Booker Prize for 'Schindler's Ark'?", "choices": ["Thomas Keneally", "Peter Carey", "David Malouf", "Richard Flanagan"], "answer": 0, "fact": "Steven Spielberg adapted the book into the 1993 film 'Schindler's List'.", "difficulty": 2},
-      {"q": "Who directed the haunting 1975 film 'Picnic at Hanging Rock'?", "choices": ["Peter Weir", "George Miller", "Bruce Beresford", "Gillian Armstrong"], "answer": 0, "fact": "Weir went on to direct Hollywood hits including 'Dead Poets Society' and 'The Truman Show'.", "difficulty": 2},
-      {"q": "Which poet wrote 'My Country', with the line 'I love a sunburnt country'?", "choices": ["Dorothea Mackellar", "Judith Wright", "Henry Lawson", "Mary Gilmore"], "answer": 0, "fact": "Mackellar wrote the first version as a homesick teenager visiting England.", "difficulty": 2},
-      {"q": "Which bush poet, pictured on the A$10 note, wrote 'The Man from Snowy River'?", "choices": ["Banjo Paterson", "Henry Lawson", "C. J. Dennis", "Adam Lindsay Gordon"], "answer": 0, "fact": "Andrew Barton 'Banjo' Paterson took his pen name from a racehorse his family owned.", "difficulty": 2},
-      {"q": "Which American architect couple won the international competition to design Canberra in 1912?", "choices": ["Walter Burley Griffin and Marion Mahony Griffin", "Frank Lloyd Wright and Catherine Tobin", "Charles and Ray Eames", "Daniel Burnham and Margaret Sherman"], "answer": 0, "fact": "Marion's striking drawings helped win the competition; Canberra's central lake is named Lake Burley Griffin.", "difficulty": 2},
-      {"q": "The Western Desert art movement, known for acrylic 'dot' paintings, began in 1971 at which community?", "choices": ["Papunya", "Yuendumu", "Utopia", "Hermannsburg"], "answer": 0, "fact": "Senior men painted a Honey Ant Dreaming mural on a school wall, inspiring the Papunya Tula artists' cooperative.", "difficulty": 3},
-      {"q": "Which novel won Peter Carey his second Booker Prize, in 2001?", "choices": ["True History of the Kelly Gang", "Oscar and Lucinda", "The Secret River", "Cloudstreet"], "answer": 0, "fact": "The novel is written as Ned Kelly's own letter to his daughter, in an unpunctuated, breathless voice.", "difficulty": 3},
-      {"q": "Which Heidelberg School artist painted 'Shearing the Rams' in 1890?", "choices": ["Tom Roberts", "Arthur Streeton", "Frederick McCubbin", "Charles Conder"], "answer": 0, "fact": "Roberts sketched in a real shearing shed for months; the painting hangs in the National Gallery of Victoria.", "difficulty": 3},
-      {"q": "Which Australian architect, known for houses that 'touch the earth lightly', won the 2002 Pritzker Prize?", "choices": ["Glenn Murcutt", "Harry Seidler", "Robin Boyd", "Jørn Utzon"], "answer": 0, "fact": "Murcutt works alone and designs mainly modest homes suited to their landscape and climate.", "difficulty": 3},
-      {"q": "Which Anmatyerre artist from Utopia began painting on canvas in her late seventies and created 'Earth's Creation'?", "choices": ["Emily Kame Kngwarreye", "Gloria Petyarre", "Sally Gabori", "Minnie Pwerle"], "answer": 0, "fact": "In just eight years she produced thousands of works, and her paintings have toured major galleries around the world.", "difficulty": 3},
-      {"q": "Which 1918 children's book by Norman Lindsay features a bad-tempered pudding that never runs out?", "choices": ["The Magic Pudding", "Blinky Bill", "Snugglepot and Cuddlepie", "Seven Little Australians"], "answer": 0, "fact": "Albert the pudding can be steak and kidney or apple dumpling, whatever his owners fancy, and regrows after every slice.", "difficulty": 3},
-      {"q": "Which Australian soprano was nicknamed 'La Stupenda'?", "choices": ["Joan Sutherland", "Nellie Melba", "Yvonne Kenny", "June Bronhill"], "answer": 0, "fact": "Italian audiences gave her the nickname after a 1960 performance in Venice; she sang at major opera houses for four decades.", "difficulty": 3}
+      {
+        "q": "Which Danish architect designed the Sydney Opera House?",
+        "choices": ["Jørn Utzon", "Frank Gehry", "Renzo Piano", "Harry Seidler"],
+        "answer": 0,
+        "fact": "Utzon left the project in 1966 and never saw it completed; the building was declared a World Heritage site in 2007.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which song begins 'Once a jolly swagman camped by a billabong'?",
+        "choices": ["Advance Australia Fair", "Waltzing Matilda", "Click Go the Shears", "Botany Bay"],
+        "answer": 1,
+        "fact": "The words were written in 1895 at Dagworth Station in Queensland; it is often called Australia's unofficial national anthem.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Sydney-formed rock band recorded 'Highway to Hell' and 'Back in Black'?",
+        "choices": ["Midnight Oil", "INXS", "AC/DC", "Cold Chisel"],
+        "answer": 2,
+        "fact": "Brothers Malcolm and Angus Young formed the band in 1973; Angus's schoolboy uniform became its trademark.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Australian singer had a worldwide hit with 'Can't Get You Out of My Head' in 2001?",
+        "choices": ["Delta Goodrem", "Natalie Imbruglia", "Sia", "Kylie Minogue"],
+        "answer": 3,
+        "fact": "Kylie first became famous playing the mechanic Charlene in the TV soap 'Neighbours'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 1986 film starred Paul Hogan as a bushman from the outback let loose in New York?",
+        "choices": ["Crocodile Dundee", "The Man from Snowy River", "Mad Max", "Gallipoli"],
+        "answer": 0,
+        "fact": "It was a huge international hit, and Hogan received an Oscar nomination for co-writing the screenplay.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 1979 post-apocalyptic action film starring Mel Gibson launched a long-running franchise?",
+        "choices": ["Wake in Fright", "Mad Max", "Razorback", "Gallipoli"],
+        "answer": 1,
+        "fact": "Director George Miller was a medical doctor; his later 'Mad Max: Fury Road' won six Academy Awards.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Australian director made 'Moulin Rouge!', 'The Great Gatsby' and 'Elvis'?",
+        "choices": ["George Miller", "Peter Weir", "Baz Luhrmann", "Jane Campion"],
+        "answer": 2,
+        "fact": "Luhrmann's 'Red Curtain' trilogy includes 'Strictly Ballroom', 'Romeo + Juliet' and 'Moulin Rouge!'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which wind instrument comes from Aboriginal peoples of northern Australia?",
+        "choices": ["Alphorn", "Pan flute", "Bagpipes", "Didgeridoo"],
+        "answer": 3,
+        "fact": "Known to the Yolŋu people as the yidaki, it is traditionally made from a eucalyptus trunk hollowed out by termites.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which dessert was named after the Australian opera singer Nellie Melba?",
+        "choices": ["Peach Melba", "Pavlova", "Lamington", "Baked Alaska"],
+        "answer": 0,
+        "fact": "Chef Auguste Escoffier created it in London; Melba took her stage name from her home city of Melbourne.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Arrernte artist became famous for his watercolour landscapes of Central Australia?",
+        "choices": ["Clifford Possum Tjapaltjarri", "Albert Namatjira", "Rover Thomas", "Tommy McRae"],
+        "answer": 1,
+        "fact": "Namatjira grew up at the Hermannsburg mission; in 1957 he became one of the first Aboriginal people in the Northern Territory granted citizenship rights.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which painter created a famous series of works about Ned Kelly in the 1940s, showing him in his black helmet?",
+        "choices": ["Russell Drysdale", "Arthur Boyd", "Sidney Nolan", "Brett Whiteley"],
+        "answer": 2,
+        "fact": "Nolan painted most of the series in 1946-47; it is now held by the National Gallery of Australia in Canberra.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Australian author wrote the bestselling 1977 novel 'The Thorn Birds'?",
+        "choices": ["Christina Stead", "Patrick White", "Miles Franklin", "Colleen McCullough"],
+        "answer": 3,
+        "fact": "The saga of a family on a vast sheep station became a hugely popular TV mini-series in 1983.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Australian won the Nobel Prize in Literature in 1973?",
+        "choices": ["Patrick White", "Peter Carey", "Tim Winton", "Thomas Keneally"],
+        "answer": 0,
+        "fact": "His novel 'Voss' follows an explorer crossing the continent; he used his prize money to found an award for writers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Australian novelist won the 1982 Booker Prize for 'Schindler's Ark'?",
+        "choices": ["Peter Carey", "Thomas Keneally", "David Malouf", "Richard Flanagan"],
+        "answer": 1,
+        "fact": "Steven Spielberg adapted the book into the 1993 film 'Schindler's List'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who directed the haunting 1975 film 'Picnic at Hanging Rock'?",
+        "choices": ["Bruce Beresford", "George Miller", "Peter Weir", "Gillian Armstrong"],
+        "answer": 2,
+        "fact": "Weir went on to direct Hollywood hits including 'Dead Poets Society' and 'The Truman Show'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which poet wrote 'My Country', with the line 'I love a sunburnt country'?",
+        "choices": ["Mary Gilmore", "Judith Wright", "Henry Lawson", "Dorothea Mackellar"],
+        "answer": 3,
+        "fact": "Mackellar wrote the first version as a homesick teenager visiting England.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which bush poet, pictured on the A$10 note, wrote 'The Man from Snowy River'?",
+        "choices": ["Banjo Paterson", "Henry Lawson", "C. J. Dennis", "Adam Lindsay Gordon"],
+        "answer": 0,
+        "fact": "Andrew Barton 'Banjo' Paterson took his pen name from a racehorse his family owned.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which American architect couple won the international competition to design Canberra in 1912?",
+        "choices": ["Frank Lloyd Wright and Catherine Tobin", "Walter Burley Griffin and Marion Mahony Griffin", "Charles and Ray Eames", "Daniel Burnham and Margaret Sherman"],
+        "answer": 1,
+        "fact": "Marion's striking drawings helped win the competition; Canberra's central lake is named Lake Burley Griffin.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Western Desert art movement, known for acrylic 'dot' paintings, began in 1971 at which community?",
+        "choices": ["Utopia", "Yuendumu", "Papunya", "Hermannsburg"],
+        "answer": 2,
+        "fact": "Senior men painted a Honey Ant Dreaming mural on a school wall, inspiring the Papunya Tula artists' cooperative.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which novel won Peter Carey his second Booker Prize, in 2001?",
+        "choices": ["Cloudstreet", "Oscar and Lucinda", "The Secret River", "True History of the Kelly Gang"],
+        "answer": 3,
+        "fact": "The novel is written as Ned Kelly's own letter to his daughter, in an unpunctuated, breathless voice.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Heidelberg School artist painted 'Shearing the Rams' in 1890?",
+        "choices": ["Tom Roberts", "Arthur Streeton", "Frederick McCubbin", "Charles Conder"],
+        "answer": 0,
+        "fact": "Roberts sketched in a real shearing shed for months; the painting hangs in the National Gallery of Victoria.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Australian architect, known for houses that 'touch the earth lightly', won the 2002 Pritzker Prize?",
+        "choices": ["Harry Seidler", "Glenn Murcutt", "Robin Boyd", "Jørn Utzon"],
+        "answer": 1,
+        "fact": "Murcutt works alone and designs mainly modest homes suited to their landscape and climate.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Anmatyerre artist from Utopia began painting on canvas in her late seventies and created 'Earth's Creation'?",
+        "choices": ["Sally Gabori", "Gloria Petyarre", "Emily Kame Kngwarreye", "Minnie Pwerle"],
+        "answer": 2,
+        "fact": "In just eight years she produced thousands of works, and her paintings have toured major galleries around the world.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1918 children's book by Norman Lindsay features a bad-tempered pudding that never runs out?",
+        "choices": ["Seven Little Australians", "Blinky Bill", "Snugglepot and Cuddlepie", "The Magic Pudding"],
+        "answer": 3,
+        "fact": "Albert the pudding can be steak and kidney or apple dumpling, whatever his owners fancy, and regrows after every slice.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Australian soprano was nicknamed 'La Stupenda'?",
+        "choices": ["Joan Sutherland", "Nellie Melba", "Yvonne Kenny", "June Bronhill"],
+        "answer": 0,
+        "fact": "Italian audiences gave her the nickname after a 1960 performance in Venice; she sang at major opera houses for four decades.",
+        "difficulty": 3
+      }
     ],
     "politics": [
-      {"q": "What is the capital of Australia?", "choices": ["Canberra", "Sydney", "Melbourne", "Brisbane"], "answer": 0, "fact": "Canberra was built as a compromise between rivals Sydney and Melbourne; Parliament moved there from Melbourne in 1927.", "difficulty": 1},
-      {"q": "Who was Australia's first prime minister?", "choices": ["Edmund Barton", "Alfred Deakin", "Robert Menzies", "Henry Parkes"], "answer": 0, "fact": "A leading campaigner for Federation, Barton later became one of the first judges of the High Court of Australia.", "difficulty": 1},
-      {"q": "Who became Australia's first female prime minister in 2010?", "choices": ["Julia Gillard", "Julie Bishop", "Penny Wong", "Quentin Bryce"], "answer": 0, "fact": "Gillard was born in Barry, Wales, and moved to Adelaide with her family as a young child.", "difficulty": 1},
-      {"q": "Voting in Australian federal elections is what for adult citizens?", "choices": ["Compulsory", "Optional", "Only for property owners", "Only by post"], "answer": 0, "fact": "Compulsory voting began federally in 1924; turnout is usually around 90%, and elections are held on Saturdays.", "difficulty": 1},
-      {"q": "Which official represents the monarch as Australia's head of state at the national level?", "choices": ["Governor-General", "Prime Minister", "Chief Justice", "Speaker of the House"], "answer": 0, "fact": "The Governor-General is appointed by the monarch on the advice of the prime minister and lives at Government House in Canberra.", "difficulty": 1},
-      {"q": "Which prime minister was dismissed by the Governor-General on 11 November 1975?", "choices": ["Gough Whitlam", "Malcolm Fraser", "Bob Hawke", "William McMahon"], "answer": 0, "fact": "Sir John Kerr dismissed Whitlam amid a budget deadlock in the Senate; it remains the most dramatic crisis in Australian politics.", "difficulty": 1},
-      {"q": "Which prime minister disappeared while swimming off a Victorian beach in December 1967?", "choices": ["Harold Holt", "John Gorton", "Robert Menzies", "Ben Chifley"], "answer": 0, "fact": "His body was never found; in a famously Australian twist, a Melbourne swimming centre is named in his memory.", "difficulty": 1},
-      {"q": "In 2008, which prime minister delivered the National Apology to the Stolen Generations?", "choices": ["Kevin Rudd", "John Howard", "Paul Keating", "Julia Gillard"], "answer": 0, "fact": "The apology on 13 February 2008 was the new Parliament's first business, and crowds watched on big screens across the country.", "difficulty": 1},
-      {"q": "How many states make up the Commonwealth of Australia?", "choices": ["Six", "Five", "Seven", "Eight"], "answer": 0, "fact": "The six states are joined by two self-governing mainland territories: the Australian Capital Territory and the Northern Territory.", "difficulty": 1},
-      {"q": "In a 1999 referendum, Australians voted on whether to become what?", "choices": ["A republic", "A federation", "A member of the Commonwealth of Nations", "A one-chamber parliamentary state"], "answer": 0, "fact": "About 55% voted No to replacing the monarch with a president chosen by Parliament.", "difficulty": 2},
-      {"q": "Who is Australia's longest-serving prime minister?", "choices": ["Robert Menzies", "John Howard", "Bob Hawke", "Malcolm Fraser"], "answer": 0, "fact": "Menzies served over 18 years in two spells, 1939-41 and 1949-66, and founded the modern Liberal Party.", "difficulty": 2},
-      {"q": "In 1894, which colony became the first in Australia to give women the vote?", "choices": ["South Australia", "Western Australia", "Victoria", "New South Wales"], "answer": 0, "fact": "It also became one of the first places in the world where women could stand for parliament.", "difficulty": 2},
-      {"q": "The 1967 referendum, backed by over 90% of voters, changed the Constitution so that Aboriginal people would be what?", "choices": ["Counted in the national census", "Allowed to vote for the first time", "Given their own parliament", "Granted land rights"], "answer": 0, "fact": "It also let the federal Parliament make laws for Aboriginal people; it remains the biggest Yes vote in any Australian referendum.", "difficulty": 2},
-      {"q": "The High Court's 1992 Mabo decision overturned which legal idea?", "choices": ["Terra nullius", "Habeas corpus", "Divine right of kings", "Separation of powers"], "answer": 0, "fact": "Eddie Mabo, from Mer in the Torres Strait, died months before the court recognised native title to his people's land.", "difficulty": 2},
-      {"q": "Which future prime minister set a record for drinking a yard of ale while studying at Oxford?", "choices": ["Bob Hawke", "Paul Keating", "Malcolm Turnbull", "Tony Abbott"], "answer": 0, "fact": "Hawke, a Rhodes Scholar, later said the feat may have helped his popularity with ordinary Australians.", "difficulty": 2},
-      {"q": "To change Australia's Constitution, a referendum must win a 'double majority'. What does that mean?", "choices": ["A national majority plus majorities in most states", "Two-thirds of both houses of Parliament", "Majorities in two separate votes a year apart", "Approval by the Senate and the High Court"], "answer": 0, "fact": "This high bar means fewer than one in five proposals put to voters since 1901 have succeeded.", "difficulty": 2},
-      {"q": "Parliament House in Canberra opened in which year, marking 200 years since the First Fleet's arrival?", "choices": ["1988", "1927", "1951", "2001"], "answer": 0, "fact": "It is built into Capital Hill, so people can walk on grass over its roof, beneath an 81-metre flagpole.", "difficulty": 2},
-      {"q": "What is the name of the prime minister's official residence in Canberra?", "choices": ["The Lodge", "Kirribilli House", "Yarralumla", "Admiralty House"], "answer": 0, "fact": "Kirribilli House is the prime minister's Sydney residence, while Yarralumla is the Governor-General's home in Canberra.", "difficulty": 2},
-      {"q": "Who designed the Aboriginal flag, first flown in Adelaide in 1971?", "choices": ["Harold Thomas", "Bernard Namok", "Charles Perkins", "Albert Namatjira"], "answer": 0, "fact": "Black represents the people, red the earth and ochre, and yellow the sun; it became an official flag of Australia in 1995.", "difficulty": 2},
-      {"q": "How many senators does each Australian state elect?", "choices": ["12", "6", "10", "15"], "answer": 0, "fact": "Every state has equal Senate representation regardless of population; the two mainland territories elect two senators each.", "difficulty": 3},
-      {"q": "In 2017-18 several federal MPs lost their seats under which section of the Constitution, which bars dual citizens?", "choices": ["Section 44", "Section 51", "Section 128", "Section 92"], "answer": 0, "fact": "The 'citizenship crisis' forced by-elections; some members had never known they held a second citizenship by descent.", "difficulty": 3},
-      {"q": "Who became the first Aboriginal member of the federal Parliament, as a senator in 1971?", "choices": ["Neville Bonner", "Ken Wyatt", "Charles Perkins", "Linda Burney"], "answer": 0, "fact": "Bonner represented Queensland in the Senate until 1983; Ken Wyatt became the first Aboriginal member of the House in 2010.", "difficulty": 3},
-      {"q": "In 1943, who became the first woman elected to the federal House of Representatives?", "choices": ["Enid Lyons", "Dorothy Tangney", "Edith Cowan", "Vida Goldstein"], "answer": 0, "fact": "At the same election Dorothy Tangney became the first woman elected to the Senate.", "difficulty": 3},
-      {"q": "Australia's Constitution was enacted in 1900 as an Act of which parliament?", "choices": ["The British Parliament", "The New South Wales Parliament", "The Victorian Parliament", "The Federal Council of Australasia"], "answer": 0, "fact": "Queen Victoria gave royal assent to the Commonwealth of Australia Constitution Act on 9 July 1900.", "difficulty": 3},
-      {"q": "Which 1986 law ended the British Parliament's remaining power to legislate for Australia?", "choices": ["Australia Act", "Statute of Westminster", "Constitution Alteration Act", "Royal Style and Titles Act"], "answer": 0, "fact": "The Australia Act also ended appeals from Australian courts to the Privy Council in London.", "difficulty": 3}
+      {
+        "q": "What is the capital of Australia?",
+        "choices": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+        "answer": 0,
+        "fact": "Canberra was built as a compromise between rivals Sydney and Melbourne; Parliament moved there from Melbourne in 1927.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was Australia's first prime minister?",
+        "choices": ["Alfred Deakin", "Edmund Barton", "Robert Menzies", "Henry Parkes"],
+        "answer": 1,
+        "fact": "A leading campaigner for Federation, Barton later became one of the first judges of the High Court of Australia.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became Australia's first female prime minister in 2010?",
+        "choices": ["Penny Wong", "Julie Bishop", "Julia Gillard", "Quentin Bryce"],
+        "answer": 2,
+        "fact": "Gillard was born in Barry, Wales, and moved to Adelaide with her family as a young child.",
+        "difficulty": 1
+      },
+      {
+        "q": "Voting in Australian federal elections is what for adult citizens?",
+        "choices": ["Only by post", "Optional", "Only for property owners", "Compulsory"],
+        "answer": 3,
+        "fact": "Compulsory voting began federally in 1924; turnout is usually around 90%, and elections are held on Saturdays.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which official represents the monarch as Australia's head of state at the national level?",
+        "choices": ["Governor-General", "Prime Minister", "Chief Justice", "Speaker of the House"],
+        "answer": 0,
+        "fact": "The Governor-General is appointed by the monarch on the advice of the prime minister and lives at Government House in Canberra.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which prime minister was dismissed by the Governor-General on 11 November 1975?",
+        "choices": ["Malcolm Fraser", "Gough Whitlam", "Bob Hawke", "William McMahon"],
+        "answer": 1,
+        "fact": "Sir John Kerr dismissed Whitlam amid a budget deadlock in the Senate; it remains the most dramatic crisis in Australian politics.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which prime minister disappeared while swimming off a Victorian beach in December 1967?",
+        "choices": ["Robert Menzies", "John Gorton", "Harold Holt", "Ben Chifley"],
+        "answer": 2,
+        "fact": "His body was never found; in a famously Australian twist, a Melbourne swimming centre is named in his memory.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2008, which prime minister delivered the National Apology to the Stolen Generations?",
+        "choices": ["Julia Gillard", "John Howard", "Paul Keating", "Kevin Rudd"],
+        "answer": 3,
+        "fact": "The apology on 13 February 2008 was the new Parliament's first business, and crowds watched on big screens across the country.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many states make up the Commonwealth of Australia?",
+        "choices": ["Six", "Five", "Seven", "Eight"],
+        "answer": 0,
+        "fact": "The six states are joined by two self-governing mainland territories: the Australian Capital Territory and the Northern Territory.",
+        "difficulty": 1
+      },
+      {
+        "q": "In a 1999 referendum, Australians voted on whether to become what?",
+        "choices": ["A federation", "A republic", "A member of the Commonwealth of Nations", "A one-chamber parliamentary state"],
+        "answer": 1,
+        "fact": "About 55% voted No to replacing the monarch with a president chosen by Parliament.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who is Australia's longest-serving prime minister?",
+        "choices": ["Bob Hawke", "John Howard", "Robert Menzies", "Malcolm Fraser"],
+        "answer": 2,
+        "fact": "Menzies served over 18 years in two spells, 1939-41 and 1949-66, and founded the modern Liberal Party.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1894, which colony became the first in Australia to give women the vote?",
+        "choices": ["New South Wales", "Western Australia", "Victoria", "South Australia"],
+        "answer": 3,
+        "fact": "It also became one of the first places in the world where women could stand for parliament.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 1967 referendum, backed by over 90% of voters, changed the Constitution so that Aboriginal people would be what?",
+        "choices": ["Counted in the national census", "Allowed to vote for the first time", "Given their own parliament", "Granted land rights"],
+        "answer": 0,
+        "fact": "It also let the federal Parliament make laws for Aboriginal people; it remains the biggest Yes vote in any Australian referendum.",
+        "difficulty": 2
+      },
+      {
+        "q": "The High Court's 1992 Mabo decision overturned which legal idea?",
+        "choices": ["Habeas corpus", "Terra nullius", "Divine right of kings", "Separation of powers"],
+        "answer": 1,
+        "fact": "Eddie Mabo, from Mer in the Torres Strait, died months before the court recognised native title to his people's land.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which future prime minister set a record for drinking a yard of ale while studying at Oxford?",
+        "choices": ["Malcolm Turnbull", "Paul Keating", "Bob Hawke", "Tony Abbott"],
+        "answer": 2,
+        "fact": "Hawke, a Rhodes Scholar, later said the feat may have helped his popularity with ordinary Australians.",
+        "difficulty": 2
+      },
+      {
+        "q": "To change Australia's Constitution, a referendum must win a 'double majority'. What does that mean?",
+        "choices": ["Approval by the Senate and the High Court", "Two-thirds of both houses of Parliament", "Majorities in two separate votes a year apart", "A national majority plus majorities in most states"],
+        "answer": 3,
+        "fact": "This high bar means fewer than one in five proposals put to voters since 1901 have succeeded.",
+        "difficulty": 2
+      },
+      {
+        "q": "Parliament House in Canberra opened in which year, marking 200 years since the First Fleet's arrival?",
+        "choices": ["1988", "1927", "1951", "2001"],
+        "answer": 0,
+        "fact": "It is built into Capital Hill, so people can walk on grass over its roof, beneath an 81-metre flagpole.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of the prime minister's official residence in Canberra?",
+        "choices": ["Kirribilli House", "The Lodge", "Yarralumla", "Admiralty House"],
+        "answer": 1,
+        "fact": "Kirribilli House is the prime minister's Sydney residence, while Yarralumla is the Governor-General's home in Canberra.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who designed the Aboriginal flag, first flown in Adelaide in 1971?",
+        "choices": ["Charles Perkins", "Bernard Namok", "Harold Thomas", "Albert Namatjira"],
+        "answer": 2,
+        "fact": "Black represents the people, red the earth and ochre, and yellow the sun; it became an official flag of Australia in 1995.",
+        "difficulty": 3
+      },
+      {
+        "q": "How many senators does each Australian state elect?",
+        "choices": ["15", "6", "10", "12"],
+        "answer": 3,
+        "fact": "Every state has equal Senate representation regardless of population; the two mainland territories elect two senators each.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 2017-18 several federal MPs lost their seats under which section of the Constitution, which bars dual citizens?",
+        "choices": ["Section 44", "Section 51", "Section 128", "Section 92"],
+        "answer": 0,
+        "fact": "The 'citizenship crisis' forced by-elections; some members had never known they held a second citizenship by descent.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became the first Aboriginal member of the federal Parliament, as a senator in 1971?",
+        "choices": ["Ken Wyatt", "Neville Bonner", "Charles Perkins", "Linda Burney"],
+        "answer": 1,
+        "fact": "Bonner represented Queensland in the Senate until 1983; Ken Wyatt became the first Aboriginal member of the House in 2010.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 1943, who became the first woman elected to the federal House of Representatives?",
+        "choices": ["Edith Cowan", "Dorothy Tangney", "Enid Lyons", "Vida Goldstein"],
+        "answer": 2,
+        "fact": "At the same election Dorothy Tangney became the first woman elected to the Senate.",
+        "difficulty": 3
+      },
+      {
+        "q": "Australia's Constitution was enacted in 1900 as an Act of which parliament?",
+        "choices": ["The Federal Council of Australasia", "The New South Wales Parliament", "The Victorian Parliament", "The British Parliament"],
+        "answer": 3,
+        "fact": "Queen Victoria gave royal assent to the Commonwealth of Australia Constitution Act on 9 July 1900.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1986 law ended the British Parliament's remaining power to legislate for Australia?",
+        "choices": ["Australia Act", "Statute of Westminster", "Constitution Alteration Act", "Royal Style and Titles Act"],
+        "answer": 0,
+        "fact": "The Australia Act also ended appeals from Australian courts to the Privy Council in London.",
+        "difficulty": 3
+      }
     ],
     "current-affairs": [
-      {"q": "What name is given to Australia's devastating 2019-20 bushfire season?", "choices": ["Black Summer", "Ash Wednesday", "Black Saturday", "Red Spring"], "answer": 0, "fact": "Fires burned tens of millions of hectares, and scientists estimated that nearly 3 billion animals were killed or displaced.", "difficulty": 1, "asOf": "2020"},
-      {"q": "Who became prime minister after Australia's May 2022 federal election?", "choices": ["Anthony Albanese", "Scott Morrison", "Peter Dutton", "Bill Shorten"], "answer": 0, "fact": "Albanese grew up in public housing in Sydney's inner west, raised by a single mother.", "difficulty": 1, "asOf": "2022"},
-      {"q": "In the October 2023 referendum, Australians voted on creating what?", "choices": ["An Indigenous Voice to Parliament", "An Australian republic", "Four-year federal terms", "A national bill of rights"], "answer": 0, "fact": "The proposal did not pass: about 60% voted No nationally and it failed to win a majority in any state.", "difficulty": 1, "asOf": "2023"},
-      {"q": "Australia co-hosted the 2023 FIFA Women's World Cup with which country?", "choices": ["New Zealand", "Japan", "Fiji", "Indonesia"], "answer": 0, "fact": "The Matildas reached the semi-finals for the first time, and their quarter-final penalty shoot-out win gripped the nation.", "difficulty": 1, "asOf": "2023"},
-      {"q": "In July 2021, which Australian city was chosen to host the 2032 Summer Olympics?", "choices": ["Brisbane", "Sydney", "Melbourne", "Perth"], "answer": 0, "fact": "Australia's previous Summer Games were Melbourne 1956 and Sydney 2000.", "difficulty": 1, "asOf": "2021"},
-      {"q": "From 26 October 2019, what became permanently banned at Uluru?", "choices": ["Climbing it", "Photographing it", "Camping in the national park", "Flying over it"], "answer": 0, "fact": "The date marked 34 years since Uluru was handed back to its Anangu traditional owners, who had long asked visitors not to climb.", "difficulty": 1, "asOf": "2019"},
-      {"q": "In January 2022, who became the first Australian in decades to win the Australian Open women's singles title?", "choices": ["Ash Barty", "Sam Stosur", "Daria Saville", "Ajla Tomljanović"], "answer": 0, "fact": "Barty was the first home winner of the women's title since 1978; she retired from tennis two months later, aged 25.", "difficulty": 1, "asOf": "2022"},
-      {"q": "In October 2024, which monarch made his first visit to Australia as king?", "choices": ["Charles III", "William V", "Harald V", "Frederik X"], "answer": 0, "fact": "King Charles and Queen Camilla visited Canberra and Sydney; Charles had first come to Australia as a teenager, attending school in Victoria.", "difficulty": 1, "asOf": "2024"},
-      {"q": "In November 2023, Australia won a record sixth men's Cricket World Cup by beating which host nation in the final?", "choices": ["India", "England", "Pakistan", "South Africa"], "answer": 0, "fact": "Travis Head scored 137 in the final in Ahmedabad, in front of a huge home crowd.", "difficulty": 1, "asOf": "2023"},
-      {"q": "In September 2021, Australia announced the AUKUS security partnership with which two countries?", "choices": ["United Kingdom and United States", "United States and Japan", "United Kingdom and Canada", "New Zealand and United States"], "answer": 0, "fact": "A central part of AUKUS is helping Australia acquire nuclear-powered, conventionally armed submarines.", "difficulty": 2, "asOf": "2021"},
-      {"q": "Which leader's party won Australia's federal election held on 3 May 2025?", "choices": ["Anthony Albanese", "Peter Dutton", "Adam Bandt", "Scott Morrison"], "answer": 0, "fact": "Labor was returned with an increased majority, and opposition leader Peter Dutton lost his own seat of Dickson.", "difficulty": 2, "asOf": "2025"},
-      {"q": "In November 2024, Australia's Parliament passed a law setting what minimum age for holding social media accounts?", "choices": ["16", "13", "15", "18"], "answer": 0, "fact": "The law puts the onus on platforms, not parents or children, which face heavy fines if they fail to take reasonable steps.", "difficulty": 2, "asOf": "2024"},
-      {"q": "Which Australian swimmer, nicknamed 'the Terminator', beat Katie Ledecky to 400 m freestyle gold at the Tokyo Olympics in 2021?", "choices": ["Ariarne Titmus", "Emma McKeon", "Kaylee McKeown", "Mollie O'Callaghan"], "answer": 0, "fact": "Her coach Dean Boxall's wild celebration in the stands became one of the most-shared moments of the Games.", "difficulty": 2, "asOf": "2021"},
-      {"q": "How many gold medals did Australia win at the Paris 2024 Olympics, its best tally ever?", "choices": ["18", "12", "9", "24"], "answer": 0, "fact": "Swimmers won about half of the golds, and the team finished fourth on the medal table.", "difficulty": 2, "asOf": "2024"},
-      {"q": "In November 2021, Australia's men's cricket team won its first World Cup in which format?", "choices": ["T20", "One-day (50 overs)", "Test", "The Hundred"], "answer": 0, "fact": "Australia beat New Zealand in the final in Dubai to claim the one major men's trophy it had never won.", "difficulty": 2, "asOf": "2021"},
-      {"q": "Who became Australia's foreign minister in May 2022?", "choices": ["Penny Wong", "Marise Payne", "Julie Bishop", "Tanya Plibersek"], "answer": 0, "fact": "Born in Malaysia, Penny Wong was the first Asian-born member of an Australian federal cabinet.", "difficulty": 2, "asOf": "2022"},
-      {"q": "Which Australian driver took his first Formula One victory at the 2024 Hungarian Grand Prix?", "choices": ["Oscar Piastri", "Daniel Ricciardo", "Mark Webber", "Jack Doohan"], "answer": 0, "fact": "Piastri, from Melbourne, won for McLaren in only his second F1 season.", "difficulty": 2, "asOf": "2024"},
-      {"q": "In February 2021, which platform briefly blocked news for Australian users in a dispute over a new media bargaining law?", "choices": ["Facebook", "Google", "Twitter", "TikTok"], "answer": 0, "fact": "The block lasted about a week; it ended after the government agreed to amendments and the law was passed.", "difficulty": 2, "asOf": "2021"},
-      {"q": "How many medals did swimmer Emma McKeon win at the Tokyo Olympics, held in 2021?", "choices": ["7", "5", "6", "8"], "answer": 0, "fact": "Four golds and three bronzes tied the record for the most medals won by a woman at a single Olympics.", "difficulty": 3, "asOf": "2021"},
-      {"q": "In February-March 2022, record floods devastated which northern New South Wales city?", "choices": ["Lismore", "Tamworth", "Wagga Wagga", "Orange"], "answer": 0, "fact": "The Wilsons River peaked more than 2 m above its previous record, and residents in tinnies rescued neighbours from rooftops.", "difficulty": 3, "asOf": "2022"},
-      {"q": "Who was sworn in as Australia's Governor-General on 1 July 2024?", "choices": ["Sam Mostyn", "David Hurley", "Quentin Bryce", "Linda Dessau"], "answer": 0, "fact": "A businesswoman and former AFL commissioner, she became the second woman to hold the post, after Quentin Bryce.", "difficulty": 3, "asOf": "2024"},
-      {"q": "Who became the first woman to serve as governor of the Reserve Bank of Australia, in September 2023?", "choices": ["Michele Bullock", "Gail Kelly", "Jennifer Westacott", "Philip Lowe"], "answer": 0, "fact": "Bullock joined the central bank as a graduate in 1985 and worked her way up to lead it.", "difficulty": 3, "asOf": "2023"},
-      {"q": "In May 2020, mining company Rio Tinto destroyed ancient Aboriginal rock shelters at which site in the Pilbara?", "choices": ["Juukan Gorge", "Murujuga", "Kakadu", "Lake Mungo"], "answer": 0, "fact": "The shelters held evidence of human occupation going back about 46,000 years; the outcry led to the chief executive's resignation.", "difficulty": 3, "asOf": "2020"},
-      {"q": "Under AUKUS plans announced in March 2023, Australia is to buy which class of US nuclear-powered submarine?", "choices": ["Virginia class", "Columbia class", "Ohio class", "Seawolf class"], "answer": 0, "fact": "The plan also includes a new jointly developed submarine, SSN-AUKUS, to be built in Britain and Australia.", "difficulty": 3, "asOf": "2023"},
-      {"q": "Ash Barty's Wimbledon title in July 2021 came 50 years after the first Wimbledon win of which fellow Indigenous Australian?", "choices": ["Evonne Goolagong Cawley", "Margaret Court", "Cathy Freeman", "Nova Peris"], "answer": 0, "fact": "Barty, a Ngarigo woman, wore a dress inspired by the scalloped outfit Goolagong wore in her 1971 win.", "difficulty": 3, "asOf": "2021"}
+      {
+        "q": "What name is given to Australia's devastating 2019-20 bushfire season?",
+        "choices": ["Black Summer", "Ash Wednesday", "Black Saturday", "Red Spring"],
+        "answer": 0,
+        "fact": "Fires burned tens of millions of hectares, and scientists estimated that nearly 3 billion animals were killed or displaced.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Who became prime minister after Australia's May 2022 federal election?",
+        "choices": ["Scott Morrison", "Anthony Albanese", "Peter Dutton", "Bill Shorten"],
+        "answer": 1,
+        "fact": "Albanese grew up in public housing in Sydney's inner west, raised by a single mother.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In the October 2023 referendum, Australians voted on creating what?",
+        "choices": ["Four-year federal terms", "An Australian republic", "An Indigenous Voice to Parliament", "A national bill of rights"],
+        "answer": 2,
+        "fact": "The proposal did not pass: about 60% voted No nationally and it failed to win a majority in any state.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Australia co-hosted the 2023 FIFA Women's World Cup with which country?",
+        "choices": ["Indonesia", "Japan", "Fiji", "New Zealand"],
+        "answer": 3,
+        "fact": "The Matildas reached the semi-finals for the first time, and their quarter-final penalty shoot-out win gripped the nation.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In July 2021, which Australian city was chosen to host the 2032 Summer Olympics?",
+        "choices": ["Brisbane", "Sydney", "Melbourne", "Perth"],
+        "answer": 0,
+        "fact": "Australia's previous Summer Games were Melbourne 1956 and Sydney 2000.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "From 26 October 2019, what became permanently banned at Uluru?",
+        "choices": ["Photographing it", "Climbing it", "Camping in the national park", "Flying over it"],
+        "answer": 1,
+        "fact": "The date marked 34 years since Uluru was handed back to its Anangu traditional owners, who had long asked visitors not to climb.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "In January 2022, who became the first Australian in decades to win the Australian Open women's singles title?",
+        "choices": ["Daria Saville", "Sam Stosur", "Ash Barty", "Ajla Tomljanović"],
+        "answer": 2,
+        "fact": "Barty was the first home winner of the women's title since 1978; she retired from tennis two months later, aged 25.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In October 2024, which monarch made his first visit to Australia as king?",
+        "choices": ["Frederik X", "William V", "Harald V", "Charles III"],
+        "answer": 3,
+        "fact": "King Charles and Queen Camilla visited Canberra and Sydney; Charles had first come to Australia as a teenager, attending school in Victoria.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In November 2023, Australia won a record sixth men's Cricket World Cup by beating which host nation in the final?",
+        "choices": ["India", "England", "Pakistan", "South Africa"],
+        "answer": 0,
+        "fact": "Travis Head scored 137 in the final in Ahmedabad, in front of a huge home crowd.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In September 2021, Australia announced the AUKUS security partnership with which two countries?",
+        "choices": ["United States and Japan", "United Kingdom and United States", "United Kingdom and Canada", "New Zealand and United States"],
+        "answer": 1,
+        "fact": "A central part of AUKUS is helping Australia acquire nuclear-powered, conventionally armed submarines.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which leader's party won Australia's federal election held on 3 May 2025?",
+        "choices": ["Adam Bandt", "Peter Dutton", "Anthony Albanese", "Scott Morrison"],
+        "answer": 2,
+        "fact": "Labor was returned with an increased majority, and opposition leader Peter Dutton lost his own seat of Dickson.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In November 2024, Australia's Parliament passed a law setting what minimum age for holding social media accounts?",
+        "choices": ["18", "13", "15", "16"],
+        "answer": 3,
+        "fact": "The law puts the onus on platforms, not parents or children, which face heavy fines if they fail to take reasonable steps.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Australian swimmer, nicknamed 'the Terminator', beat Katie Ledecky to 400 m freestyle gold at the Tokyo Olympics in 2021?",
+        "choices": ["Ariarne Titmus", "Emma McKeon", "Kaylee McKeown", "Mollie O'Callaghan"],
+        "answer": 0,
+        "fact": "Her coach Dean Boxall's wild celebration in the stands became one of the most-shared moments of the Games.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "How many gold medals did Australia win at the Paris 2024 Olympics, its best tally ever?",
+        "choices": ["12", "18", "9", "24"],
+        "answer": 1,
+        "fact": "Swimmers won seven of the golds, and the team finished fourth on the medal table.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In November 2021, Australia's men's cricket team won its first World Cup in which format?",
+        "choices": ["Test", "One-day (50 overs)", "T20", "The Hundred"],
+        "answer": 2,
+        "fact": "Australia beat New Zealand by eight wickets in the final in Dubai, with Mitchell Marsh named player of the match.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Who became Australia's foreign minister in May 2022?",
+        "choices": ["Tanya Plibersek", "Marise Payne", "Julie Bishop", "Penny Wong"],
+        "answer": 3,
+        "fact": "Born in Malaysia, Penny Wong was the first Asian-born member of an Australian federal cabinet.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Australian driver took his first Formula One victory at the 2024 Hungarian Grand Prix?",
+        "choices": ["Oscar Piastri", "Daniel Ricciardo", "Mark Webber", "Jack Doohan"],
+        "answer": 0,
+        "fact": "Piastri, from Melbourne, won for McLaren in only his second F1 season.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In February 2021, which platform briefly blocked news for Australian users in a dispute over a new media bargaining law?",
+        "choices": ["Google", "Facebook", "Twitter", "TikTok"],
+        "answer": 1,
+        "fact": "The block lasted about a week; it ended after the government agreed to amendments and the law was passed.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "How many medals did swimmer Emma McKeon win at the Tokyo Olympics, held in 2021?",
+        "choices": ["6", "5", "7", "8"],
+        "answer": 2,
+        "fact": "Four golds and three bronzes tied the record for the most medals won by a woman at a single Olympics.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In February-March 2022, record floods devastated which northern New South Wales city?",
+        "choices": ["Orange", "Tamworth", "Wagga Wagga", "Lismore"],
+        "answer": 3,
+        "fact": "The Wilsons River peaked more than 2 m above its previous record, and residents in tinnies rescued neighbours from rooftops.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Who was sworn in as Australia's Governor-General on 1 July 2024?",
+        "choices": ["Sam Mostyn", "David Hurley", "Quentin Bryce", "Linda Dessau"],
+        "answer": 0,
+        "fact": "A businesswoman and former AFL commissioner, she became the second woman to hold the post, after Quentin Bryce.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who became the first woman to serve as governor of the Reserve Bank of Australia, in September 2023?",
+        "choices": ["Gail Kelly", "Michele Bullock", "Jennifer Westacott", "Philip Lowe"],
+        "answer": 1,
+        "fact": "Bullock joined the central bank as a graduate in 1985 and worked her way up to lead it.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In May 2020, mining company Rio Tinto destroyed ancient Aboriginal rock shelters at which site in the Pilbara?",
+        "choices": ["Kakadu", "Murujuga", "Juukan Gorge", "Lake Mungo"],
+        "answer": 2,
+        "fact": "The shelters held evidence of human occupation going back about 46,000 years; the outcry led to the chief executive's resignation.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Under AUKUS plans announced in March 2023, Australia is to buy which class of US nuclear-powered submarine?",
+        "choices": ["Seawolf class", "Columbia class", "Ohio class", "Virginia class"],
+        "answer": 3,
+        "fact": "The plan also includes a new jointly developed submarine, SSN-AUKUS, to be built in Britain and Australia.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Ash Barty's Wimbledon title in July 2021 came 50 years after the first Wimbledon win of which fellow Indigenous Australian?",
+        "choices": ["Evonne Goolagong Cawley", "Margaret Court", "Cathy Freeman", "Nova Peris"],
+        "answer": 0,
+        "fact": "Barty, a Ngarigo woman, wore a dress inspired by the scalloped outfit Goolagong wore in her 1971 win.",
+        "difficulty": 3,
+        "asOf": "2021"
+      }
     ],
     "general": [
-      {"q": "What is the Aboriginal name of the giant sandstone rock in Central Australia once called Ayers Rock?", "choices": ["Uluru", "Kata Tjuta", "Karijini", "Purnululu"], "answer": 0, "fact": "Uluru is sacred to the Anangu people, who jointly manage Uluru-Kata Tjuta National Park; it glows red at sunset.", "difficulty": 1},
-      {"q": "The Great Barrier Reef lies off the coast of which Australian state?", "choices": ["Queensland", "New South Wales", "Western Australia", "Victoria"], "answer": 0, "fact": "Stretching about 2,300 km, it is the world's largest coral reef system and was World Heritage-listed in 1981.", "difficulty": 1},
-      {"q": "Which egg-laying Australian mammal has a duck-like bill and webbed feet?", "choices": ["Platypus", "Wombat", "Quokka", "Bilby"], "answer": 0, "fact": "Male platypuses have venomous spurs on their hind legs, and the bill senses the electric fields of prey underwater.", "difficulty": 1},
-      {"q": "Which Sydney beach is famous for its surf lifesavers and the Icebergs ocean pool?", "choices": ["Bondi", "Manly", "Coogee", "Bells Beach"], "answer": 0, "fact": "Bondi's surf lifesaving club, founded in 1907, is one of the oldest in the world.", "difficulty": 1},
-      {"q": "Which dark, salty spread made from leftover brewer's yeast was created in Melbourne in 1922?", "choices": ["Vegemite", "Marmite", "Nutella", "Promite"], "answer": 0, "fact": "Food scientist Cyril Callister developed it; Australians are told to spread it thinly on buttered toast.", "difficulty": 1},
-      {"q": "Which cricketer finished his Test career with a batting average of 99.94?", "choices": ["Don Bradman", "Ricky Ponting", "Steve Smith", "Shane Warne"], "answer": 0, "fact": "Bradman needed just four runs in his final innings to average 100, but he was bowled for a duck.", "difficulty": 1},
-      {"q": "The limestone sea stacks called the Twelve Apostles stand beside which famous coastal road?", "choices": ["Great Ocean Road", "Pacific Highway", "Stuart Highway", "Gibb River Road"], "answer": 0, "fact": "There were never twelve stacks. The road itself was built by returned First World War soldiers as a war memorial.", "difficulty": 1},
-      {"q": "Which horse race is known as 'the race that stops a nation'?", "choices": ["Melbourne Cup", "Caulfield Cup", "Cox Plate", "Golden Slipper"], "answer": 0, "fact": "Run on the first Tuesday of November, it is a public holiday in Melbourne; the famous racehorse Phar Lap won it in 1930.", "difficulty": 1},
-      {"q": "In Australian slang, what is an 'arvo'?", "choices": ["An afternoon", "An avocado", "A barbecue", "An argument"], "answer": 0, "fact": "Australians love shortening words: a 'servo' is a petrol station and a 'brekkie' is breakfast.", "difficulty": 1},
-      {"q": "What is Australia's national floral emblem?", "choices": ["Golden wattle", "Waratah", "Kangaroo paw", "Sturt's desert pea"], "answer": 0, "fact": "Its green and gold colours inspired Australia's national sporting colours, and 1 September is National Wattle Day.", "difficulty": 2},
-      {"q": "Which island off Queensland, the world's largest sand island, was officially renamed K'gari in 2023?", "choices": ["Fraser Island", "Moreton Island", "North Stradbroke Island", "Kangaroo Island"], "answer": 0, "fact": "K'gari is the Butchulla people's name for the island, which has rainforest growing on sand and over 100 freshwater lakes.", "difficulty": 2},
-      {"q": "What is mainland Australia's highest mountain?", "choices": ["Mount Kosciuszko", "Mount Townsend", "Mount Bogong", "Mount Ossa"], "answer": 0, "fact": "At 2,228 m, it was named by Polish explorer Paweł Strzelecki after the Polish-Lithuanian hero Tadeusz Kościuszko.", "difficulty": 2},
-      {"q": "Kakadu National Park, famous for wetlands and ancient rock art, is in which state or territory?", "choices": ["Northern Territory", "Queensland", "Western Australia", "South Australia"], "answer": 0, "fact": "Kakadu is jointly managed with its Bininj/Mungguy traditional owners, and its rock art spans thousands of years.", "difficulty": 2},
-      {"q": "What is Australia's longest river?", "choices": ["Murray", "Darling", "Murrumbidgee", "Lachlan"], "answer": 0, "fact": "The Murray flows about 2,500 km from the Australian Alps to the sea in South Australia, forming much of the NSW-Victoria border.", "difficulty": 2},
-      {"q": "The last known thylacine, or 'Tasmanian tiger', died in a Hobart zoo in which year?", "choices": ["1936", "1886", "1912", "1966"], "answer": 0, "fact": "The striped marsupial carnivore died on 7 September 1936; that date is now Australia's National Threatened Species Day.", "difficulty": 2},
-      {"q": "Which outback opal-mining town is famous for homes and churches built underground?", "choices": ["Coober Pedy", "Lightning Ridge", "Broken Hill", "Kalgoorlie"], "answer": 0, "fact": "Underground 'dugouts' stay comfortably cool while summer temperatures outside can top 45°C.", "difficulty": 2},
-      {"q": "Kata Tjuta, the group of huge domed rocks near Uluru, was formerly known by what name?", "choices": ["The Olgas", "The Bungle Bungles", "The Pinnacles", "The Three Sisters"], "answer": 0, "fact": "Kata Tjuta means 'many heads'; its tallest dome, Mount Olga, rises higher than Uluru.", "difficulty": 2},
-      {"q": "Which square sponge cake dipped in chocolate and coated in coconut is an Australian classic?", "choices": ["Lamington", "Pavlova", "Anzac biscuit", "Tim Tam"], "answer": 0, "fact": "It is named after Lord Lamington, governor of Queensland from 1896 to 1901.", "difficulty": 2},
-      {"q": "Which flightless bird appears beside the kangaroo on Australia's coat of arms?", "choices": ["Emu", "Cassowary", "Kiwi", "Ostrich"], "answer": 0, "fact": "The emu is the world's second-tallest bird after the ostrich and can sprint at around 50 km/h.", "difficulty": 2},
-      {"q": "Roughly how long is the Dingo Fence, built to keep dingoes out of sheep country in south-eastern Australia?", "choices": ["About 5,600 km", "About 560 km", "About 1,800 km", "About 15,000 km"], "answer": 0, "fact": "It is one of the longest fences in the world, stretching from Queensland's Darling Downs to South Australia's Great Australian Bight.", "difficulty": 3},
-      {"q": "Lake Hillier, famous for its bubble-gum pink water, lies on an island off which state?", "choices": ["Western Australia", "South Australia", "Tasmania", "Queensland"], "answer": 0, "fact": "The lake on Middle Island in the Recherche Archipelago gets its colour from salt-loving algae and microbes.", "difficulty": 3},
-      {"q": "The English word 'kangaroo' comes from 'gangurru' in which Aboriginal language?", "choices": ["Guugu Yimithirr", "Wiradjuri", "Pitjantjatjara", "Noongar"], "answer": 0, "fact": "Joseph Banks and James Cook recorded the word in 1770 while repairing the Endeavour at today's Cooktown.", "difficulty": 3},
-      {"q": "The beehive-striped domes of the Bungle Bungle Range are protected in which Western Australian national park?", "choices": ["Purnululu", "Karijini", "Nambung", "Kalbarri"], "answer": 0, "fact": "Although long known to local Aboriginal people, the range was little known to other Australians until the 1980s.", "difficulty": 3},
-      {"q": "What is Australia's lowest natural point, about 15 m below sea level?", "choices": ["Kati Thanda-Lake Eyre", "Lake Torrens", "Lake Mungo", "Lake Argyle"], "answer": 0, "fact": "Usually a dry salt crust, the lake fills completely only a few times a century, when it attracts huge flocks of pelicans.", "difficulty": 3},
-      {"q": "Which outback town holds the Henley-on-Todd Regatta, with bottomless boats 'raced' along a dry riverbed?", "choices": ["Alice Springs", "Katherine", "Tennant Creek", "Broken Hill"], "answer": 0, "fact": "Crews poke their legs through their boats and run along the sandy bed of the Todd River, which is usually dry.", "difficulty": 3}
+      {
+        "q": "What is the Aboriginal name of the giant sandstone rock in Central Australia once called Ayers Rock?",
+        "choices": ["Uluru", "Kata Tjuta", "Karijini", "Purnululu"],
+        "answer": 0,
+        "fact": "Uluru is sacred to the Anangu people, who jointly manage Uluru-Kata Tjuta National Park; it glows red at sunset.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Great Barrier Reef lies off the coast of which Australian state?",
+        "choices": ["New South Wales", "Queensland", "Western Australia", "Victoria"],
+        "answer": 1,
+        "fact": "Stretching about 2,300 km, it is the world's largest coral reef system and was World Heritage-listed in 1981.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which egg-laying Australian mammal has a duck-like bill and webbed feet?",
+        "choices": ["Quokka", "Wombat", "Platypus", "Bilby"],
+        "answer": 2,
+        "fact": "Male platypuses have venomous spurs on their hind legs, and the bill senses the electric fields of prey underwater.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Sydney beach is famous for its surf lifesavers and the Icebergs ocean pool?",
+        "choices": ["Bells Beach", "Manly", "Coogee", "Bondi"],
+        "answer": 3,
+        "fact": "Bondi's surf lifesaving club, founded in 1907, is one of the oldest in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which dark, salty spread made from leftover brewer's yeast was created in Melbourne in 1922?",
+        "choices": ["Vegemite", "Marmite", "Nutella", "Promite"],
+        "answer": 0,
+        "fact": "Food scientist Cyril Callister developed it; Australians are told to spread it thinly on buttered toast.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which cricketer finished his Test career with a batting average of 99.94?",
+        "choices": ["Ricky Ponting", "Don Bradman", "Steve Smith", "Shane Warne"],
+        "answer": 1,
+        "fact": "Bradman needed just four runs in his final innings to average 100, but he was bowled for a duck.",
+        "difficulty": 1
+      },
+      {
+        "q": "The limestone sea stacks called the Twelve Apostles stand beside which famous coastal road?",
+        "choices": ["Stuart Highway", "Pacific Highway", "Great Ocean Road", "Gibb River Road"],
+        "answer": 2,
+        "fact": "There were never twelve stacks. The road itself was built by returned First World War soldiers as a war memorial.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which horse race is known as 'the race that stops a nation'?",
+        "choices": ["Golden Slipper", "Caulfield Cup", "Cox Plate", "Melbourne Cup"],
+        "answer": 3,
+        "fact": "Run on the first Tuesday of November, it is a public holiday in Melbourne; the famous racehorse Phar Lap won it in 1930.",
+        "difficulty": 1
+      },
+      {
+        "q": "In Australian slang, what is an 'arvo'?",
+        "choices": ["An afternoon", "An avocado", "A barbecue", "An argument"],
+        "answer": 0,
+        "fact": "Australians love shortening words: a 'servo' is a petrol station and a 'brekkie' is breakfast.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Australia's national floral emblem?",
+        "choices": ["Waratah", "Golden wattle", "Kangaroo paw", "Sturt's desert pea"],
+        "answer": 1,
+        "fact": "Its green and gold colours inspired Australia's national sporting colours, and 1 September is National Wattle Day.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which island off Queensland, the world's largest sand island, was officially renamed K'gari in 2023?",
+        "choices": ["North Stradbroke Island", "Moreton Island", "Fraser Island", "Kangaroo Island"],
+        "answer": 2,
+        "fact": "K'gari is the Butchulla people's name for the island, which has rainforest growing on sand and dozens of freshwater lakes.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is mainland Australia's highest mountain?",
+        "choices": ["Mount Ossa", "Mount Townsend", "Mount Bogong", "Mount Kosciuszko"],
+        "answer": 3,
+        "fact": "At 2,228 m, it was named by Polish explorer Paweł Strzelecki after the Polish-Lithuanian hero Tadeusz Kościuszko.",
+        "difficulty": 2
+      },
+      {
+        "q": "Kakadu National Park, famous for wetlands and ancient rock art, is in which state or territory?",
+        "choices": ["Northern Territory", "Queensland", "Western Australia", "South Australia"],
+        "answer": 0,
+        "fact": "Kakadu is jointly managed with its Bininj/Mungguy traditional owners, and its rock art spans thousands of years.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Australia's longest river?",
+        "choices": ["Darling", "Murray", "Murrumbidgee", "Lachlan"],
+        "answer": 1,
+        "fact": "The Murray flows about 2,500 km from the Australian Alps to the sea in South Australia, forming much of the NSW-Victoria border.",
+        "difficulty": 2
+      },
+      {
+        "q": "The last known thylacine, or 'Tasmanian tiger', died in a Hobart zoo in which year?",
+        "choices": ["1912", "1886", "1936", "1966"],
+        "answer": 2,
+        "fact": "The striped marsupial carnivore died on 7 September 1936; that date is now Australia's National Threatened Species Day.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which outback opal-mining town is famous for homes and churches built underground?",
+        "choices": ["Kalgoorlie", "Lightning Ridge", "Broken Hill", "Coober Pedy"],
+        "answer": 3,
+        "fact": "Underground 'dugouts' stay comfortably cool while summer temperatures outside can top 45°C.",
+        "difficulty": 2
+      },
+      {
+        "q": "Kata Tjuta, the group of huge domed rocks near Uluru, was formerly known by what name?",
+        "choices": ["The Olgas", "The Bungle Bungles", "The Pinnacles", "The Three Sisters"],
+        "answer": 0,
+        "fact": "Kata Tjuta means 'many heads'; its tallest dome, Mount Olga, rises higher than Uluru.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which square sponge cake dipped in chocolate and coated in coconut is an Australian classic?",
+        "choices": ["Pavlova", "Lamington", "Anzac biscuit", "Tim Tam"],
+        "answer": 1,
+        "fact": "It is named after Lord Lamington, governor of Queensland from 1896 to 1901.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which AFL club, founded in 1858, is one of the oldest football clubs of any code in the world?",
+        "choices": ["Carlton", "Geelong", "Melbourne", "Essendon"],
+        "answer": 2,
+        "fact": "Australian rules football was codified in Melbourne in 1859, partly to keep cricketers fit during the winter.",
+        "difficulty": 3
+      },
+      {
+        "q": "Roughly how long is the Dingo Fence, built to keep dingoes out of sheep country in south-eastern Australia?",
+        "choices": ["About 15,000 km", "About 560 km", "About 1,800 km", "About 5,600 km"],
+        "answer": 3,
+        "fact": "It is one of the longest fences in the world, stretching from Queensland's Darling Downs to South Australia's Great Australian Bight.",
+        "difficulty": 3
+      },
+      {
+        "q": "Lake Hillier, famous for its bubble-gum pink water, lies on an island off which state?",
+        "choices": ["Western Australia", "South Australia", "Tasmania", "Queensland"],
+        "answer": 0,
+        "fact": "The lake on Middle Island in the Recherche Archipelago gets its colour from salt-loving algae and microbes.",
+        "difficulty": 3
+      },
+      {
+        "q": "The English word 'kangaroo' comes from 'gangurru' in which Aboriginal language?",
+        "choices": ["Wiradjuri", "Guugu Yimithirr", "Pitjantjatjara", "Noongar"],
+        "answer": 1,
+        "fact": "Joseph Banks and James Cook recorded the word in 1770 while repairing the Endeavour at today's Cooktown.",
+        "difficulty": 3
+      },
+      {
+        "q": "The beehive-striped domes of the Bungle Bungle Range are protected in which Western Australian national park?",
+        "choices": ["Nambung", "Karijini", "Purnululu", "Kalbarri"],
+        "answer": 2,
+        "fact": "Although long known to local Aboriginal people, the range was little known to other Australians until the 1980s.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is Australia's lowest natural point, about 15 m below sea level?",
+        "choices": ["Lake Argyle", "Lake Torrens", "Lake Mungo", "Kati Thanda-Lake Eyre"],
+        "answer": 3,
+        "fact": "Usually a dry salt crust, the lake fills completely only a few times a century, when it attracts huge flocks of pelicans.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which outback town holds the Henley-on-Todd Regatta, with bottomless boats 'raced' along a dry riverbed?",
+        "choices": ["Alice Springs", "Katherine", "Tennant Creek", "Broken Hill"],
+        "answer": 0,
+        "fact": "Crews poke their legs through their boats and run along the sandy bed of the Todd River, which is usually dry.",
+        "difficulty": 3
+      }
     ]
   }
 }

@@ -1,0 +1,39 @@
+{
+  "country": "australia",
+  "timeline": [
+    { "event": "Mungo Man is buried beside Lake Mungo in western New South Wales", "year": -40000, "label": "c. 40,000 years ago", "approx": true, "difficulty": 3 },
+    { "event": "Willem Janszoon makes the first recorded European landing", "year": 1606, "label": "1606", "difficulty": 2 },
+    { "event": "Dirk Hartog leaves an inscribed plate on the west coast", "year": 1616, "label": "1616", "difficulty": 3 },
+    { "event": "Abel Tasman reaches Van Diemen's Land", "year": 1642, "label": "1642", "difficulty": 2 },
+    { "event": "James Cook charts the east coast aboard HMS Endeavour", "year": 1770, "label": "1770", "difficulty": 1 },
+    { "event": "The First Fleet arrives at Sydney Cove", "year": 1788, "label": "1788", "difficulty": 1 },
+    { "event": "Matthew Flinders completes his voyage around the continent", "year": 1803, "label": "1803", "difficulty": 2 },
+    { "event": "The Rum Rebellion overthrows Governor William Bligh", "year": 1808, "label": "1808", "difficulty": 3 },
+    { "event": "Gold rushes begin in New South Wales and Victoria", "year": 1851, "label": "1851", "difficulty": 1 },
+    { "event": "Gold miners clash with troops at the Eureka Stockade", "year": 1854, "label": "1854", "difficulty": 2 },
+    { "event": "Ned Kelly is captured after the siege at Glenrowan", "year": 1880, "label": "1880", "difficulty": 2 },
+    { "event": "The six colonies federate as the Commonwealth of Australia", "year": 1901, "label": "1901", "difficulty": 1 },
+    { "event": "Anzac troops land at Gallipoli", "year": 1915, "label": "1915", "difficulty": 1 },
+    { "event": "The Sydney Harbour Bridge opens", "year": 1932, "label": "1932", "difficulty": 2 },
+    { "event": "Gurindji workers walk off Wave Hill cattle station", "year": 1966, "label": "1966", "difficulty": 3 },
+    { "event": "Australians vote to count Aboriginal people in the census", "year": 1967, "label": "1967", "difficulty": 2 },
+    { "event": "The Sydney Opera House opens", "year": 1973, "label": "1973", "difficulty": 1 },
+    { "event": "The High Court's Mabo decision recognises native title", "year": 1992, "label": "1992", "difficulty": 2 },
+    { "event": "Sydney hosts the Summer Olympic Games", "year": 2000, "label": "2000", "difficulty": 1 },
+    { "event": "Kevin Rudd delivers the National Apology to the Stolen Generations", "year": 2008, "label": "2008", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Sydney Opera House", "kind": "landmark", "lat": -33.86, "lon": 151.21, "clue": "Jørn Utzon's sail-roofed performing arts centre on Bennelong Point opened in 1973.", "difficulty": 1 },
+    { "name": "Uluru", "kind": "nature", "lat": -25.34, "lon": 131.04, "clue": "A sandstone monolith sacred to the Anangu people, rising about 348 m above the surrounding desert.", "difficulty": 1 },
+    { "name": "Canberra", "kind": "city", "lat": -35.28, "lon": 149.13, "clue": "The purpose-built capital, designed by Walter Burley Griffin and Marion Mahony Griffin around a central lake.", "difficulty": 1 },
+    { "name": "Melbourne", "kind": "city", "lat": -37.81, "lon": 144.96, "clue": "Seat of the federal Parliament from Federation until 1927, and home of the Melbourne Cricket Ground.", "difficulty": 1 },
+    { "name": "Great Barrier Reef", "kind": "nature", "lat": -16.75, "lon": 146.0, "clue": "The world's largest coral reef system stretches about 2,300 km along the Queensland coast.", "difficulty": 1 },
+    { "name": "Perth", "kind": "city", "lat": -31.95, "lon": 115.86, "clue": "Western Australia's capital on the Swan River, often called one of the world's most isolated big cities.", "difficulty": 2 },
+    { "name": "Kakadu National Park", "kind": "nature", "lat": -12.9, "lon": 132.5, "clue": "A World Heritage park of wetlands and escarpments with Aboriginal rock art, jointly managed with its traditional owners.", "difficulty": 2 },
+    { "name": "Twelve Apostles", "kind": "nature", "lat": -38.66, "lon": 143.10, "clue": "Limestone stacks carved by the Southern Ocean beside the Great Ocean Road; there were never twelve.", "difficulty": 2 },
+    { "name": "Port Arthur", "kind": "historic", "lat": -43.15, "lon": 147.85, "clue": "A former convict settlement on Tasmania's Tasman Peninsula, part of the Australian Convict Sites World Heritage listing.", "difficulty": 2 },
+    { "name": "Lake Mungo", "kind": "historic", "lat": -33.73, "lon": 143.08, "clue": "A dry lake bed where the remains of Mungo Lady and Mungo Man, buried around 40,000 years ago, were found.", "difficulty": 3 },
+    { "name": "Purnululu (Bungle Bungle Range)", "kind": "nature", "lat": -17.48, "lon": 128.39, "clue": "Orange-and-black striped sandstone domes shaped like beehives rise from the Kimberley plains here.", "difficulty": 3 },
+    { "name": "Coober Pedy", "kind": "city", "lat": -29.01, "lon": 134.75, "clue": "An outback opal-mining town where many residents escape the heat by living in underground homes called dugouts.", "difficulty": 3 }
+  ]
+}
