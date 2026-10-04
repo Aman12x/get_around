@@ -1,0 +1,39 @@
+{
+  "country": "jordan",
+  "timeline": [
+    { "event": "Villagers at 'Ain Ghazal model large lime-plaster human statues", "year": -6500, "label": "c. 6500 BCE", "approx": true, "difficulty": 3 },
+    { "event": "King Mesha of Moab sets up his victory stele at Dhiban", "year": -840, "label": "c. 840 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Rome annexes the Nabataean kingdom and its capital Petra", "year": 106, "label": "106", "difficulty": 1 },
+    { "event": "Jerash builds a triumphal arch for Emperor Hadrian's visit", "year": 129, "label": "129", "difficulty": 2 },
+    { "event": "The Madaba mosaic map of the Holy Land is laid in a church floor", "year": 560, "label": "c. 560", "approx": true, "difficulty": 2 },
+    { "event": "Arab Muslim armies defeat the Byzantines at the Yarmouk River", "year": 636, "label": "636", "difficulty": 2 },
+    { "event": "Crusaders begin building Kerak Castle", "year": 1142, "label": "1142", "difficulty": 2 },
+    { "event": "The Ottoman Empire takes control of the region", "year": 1516, "label": "1516", "difficulty": 2 },
+    { "event": "Johann Ludwig Burckhardt reaches Petra in disguise", "year": 1812, "label": "1812", "difficulty": 1 },
+    { "event": "Circassian settlers refound Amman among its Roman ruins", "year": 1878, "label": "1878", "difficulty": 3 },
+    { "event": "The Hejaz Railway reaches Medina", "year": 1908, "label": "1908", "difficulty": 2 },
+    { "event": "Sharif Hussein of Mecca launches the Arab Revolt", "year": 1916, "label": "1916", "difficulty": 1 },
+    { "event": "Abdullah founds the Emirate of Transjordan", "year": 1921, "label": "1921", "difficulty": 1 },
+    { "event": "Transjordan becomes independent and Abdullah is proclaimed king", "year": 1946, "label": "1946", "difficulty": 1 },
+    { "event": "King Talal issues the constitution still in force today", "year": 1952, "label": "1952", "difficulty": 2 },
+    { "event": "Jordan is admitted to the United Nations", "year": 1955, "label": "1955", "difficulty": 3 },
+    { "event": "Jordan and Israel sign a peace treaty at Wadi Araba", "year": 1994, "label": "1994", "difficulty": 1 },
+    { "event": "Abdullah II becomes king after the death of King Hussein", "year": 1999, "label": "1999", "difficulty": 1 },
+    { "event": "Petra is voted one of the New Seven Wonders of the World", "year": 2007, "label": "2007", "difficulty": 1 },
+    { "event": "Wadi Rum is inscribed as a UNESCO World Heritage Site", "year": 2011, "label": "2011", "difficulty": 3 }
+  ],
+  "places": [
+    { "name": "Amman", "kind": "city", "lat": 31.95, "lon": 35.93, "clue": "Jordan's hilly capital grew around the citadel of ancient Rabbath Ammon, later the Roman city of Philadelphia.", "difficulty": 1 },
+    { "name": "Petra", "kind": "historic", "lat": 30.32, "lon": 35.44, "clue": "The Nabataean capital, carved from rose-red sandstone, was voted one of the New Seven Wonders of the World in 2007.", "difficulty": 1 },
+    { "name": "Wadi Rum", "kind": "nature", "lat": 29.6, "lon": 35.52, "clue": "A desert of red sand and sandstone peaks that has stood in for Mars and other alien worlds in Hollywood films.", "difficulty": 1 },
+    { "name": "Dead Sea", "kind": "nature", "lat": 31.62, "lon": 35.52, "clue": "At about 430 m below sea level, its shore is the lowest dry land on Earth, and its salty water keeps bathers afloat.", "difficulty": 1 },
+    { "name": "Aqaba", "kind": "city", "lat": 29.52, "lon": 34.99, "clue": "Jordan's only seaport sits on the Red Sea's Gulf of Aqaba, with coral reefs just offshore.", "difficulty": 1 },
+    { "name": "Kerak Castle", "kind": "historic", "lat": 31.18, "lon": 35.7, "clue": "Begun by the Crusaders in the 1140s, this hilltop fortress surrendered to Saladin's forces in 1188.", "difficulty": 2 },
+    { "name": "Umm Qais", "kind": "historic", "lat": 32.66, "lon": 35.68, "clue": "Ancient Gadara, a Decapolis city built of black basalt, overlooks the Sea of Galilee and the Yarmouk gorge.", "difficulty": 2 },
+    { "name": "Azraq Wetland Reserve", "kind": "nature", "lat": 31.83, "lon": 36.82, "clue": "A rare oasis in the eastern desert whose pools and marshes are a vital stopover for migrating birds.", "difficulty": 2 },
+    { "name": "Umm el-Jimal", "kind": "historic", "lat": 32.33, "lon": 36.37, "clue": "A town of black basalt houses, churches and reservoirs from Roman to early Islamic times, listed by UNESCO in 2024.", "difficulty": 2 },
+    { "name": "Qasr Burqu'", "kind": "historic", "lat": 32.63, "lon": 37.97, "clue": "A remote fort beside a desert lake in the far north-east, expanded in Umayyad times around an older tower.", "difficulty": 3 },
+    { "name": "Qasr al-Tuba", "kind": "historic", "lat": 31.32, "lon": 36.57, "clue": "The most remote of the Umayyad desert palaces, a vast brick complex left unfinished in the 8th century.", "difficulty": 3 },
+    { "name": "Al-Mudawwara", "kind": "historic", "lat": 29.32, "lon": 36.0, "clue": "A Hejaz Railway station near the Saudi border, raided by Lawrence and Arab forces during the First World War.", "difficulty": 3 }
+  ]
+}

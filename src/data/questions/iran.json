@@ -1,0 +1,359 @@
+{
+  "country": "iran",
+  "topics": {
+    "history": [
+      {
+        "q": "Who founded the Achaemenid Persian Empire in the 6th century BCE?",
+        "choices": ["Cyrus the Great", "Darius I", "Xerxes I", "Cambyses II"],
+        "answer": 0,
+        "fact": "The clay Cyrus Cylinder, now in the British Museum, records his capture of Babylon in 539 BCE and his restoration of its temples.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which conqueror's army burned the palaces of Persepolis in 330 BCE?",
+        "choices": ["Julius Caesar", "Alexander the Great", "Genghis Khan", "Hannibal"],
+        "answer": 1,
+        "fact": "Ancient writers disagree on whether the fire was revenge for Xerxes' burning of Athens or a drunken accident during a feast.",
+        "difficulty": 1
+      },
+      {
+        "q": "At which battle in 490 BCE did the Athenians defeat the invasion force sent by Darius I?",
+        "choices": ["Thermopylae", "Salamis", "Marathon", "Plataea"],
+        "answer": 2,
+        "fact": "Legend says a messenger ran about 40 km to Athens with news of the victory, inspiring the modern marathon race.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Persian king led the invasion of Greece that fought the Spartans at Thermopylae in 480 BCE?",
+        "choices": ["Darius I", "Cyrus the Great", "Artaxerxes I", "Xerxes I"],
+        "answer": 3,
+        "fact": "Xerxes' army crossed the Hellespont on bridges of boats, but his fleet was defeated at Salamis later that year.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1935 the government asked foreign nations to stop saying 'Persia' and use which name?",
+        "choices": ["Iran", "Pars", "Aryana", "Khorasan"],
+        "answer": 0,
+        "fact": "Iranians had long called their land Iran; 'Persia' came from the Greek name for the southern province of Pars, today's Fars.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was Iran's last shah, who left the country in January 1979?",
+        "choices": ["Reza Shah", "Mohammad Reza Pahlavi", "Ahmad Shah Qajar", "Nader Shah"],
+        "answer": 1,
+        "fact": "Mohammad Reza Pahlavi had reigned since 1941; he died in exile in Cairo in 1980 and is buried there.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which cleric returned from exile in February 1979 and became the Islamic Republic's first Supreme Leader?",
+        "choices": ["Ali Khamenei", "Mohammad Mosaddegh", "Ruhollah Khomeini", "Ali Shariati"],
+        "answer": 2,
+        "fact": "Ayatollah Khomeini had spent about 14 years in exile in Turkey, Iraq and France before returning to Tehran.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which dynasty, founded by Shah Ismail I in 1501, made Twelver Shi'ism Iran's state religion?",
+        "choices": ["Qajar", "Seljuk", "Zand", "Safavid"],
+        "answer": 3,
+        "fact": "Ismail was only about 14 when he was crowned in Tabriz, which became the first Safavid capital.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient religion, founded by the prophet Zarathustra, was the official faith of the Sasanian kings?",
+        "choices": ["Zoroastrianism", "Manichaeism", "Buddhism", "Mithraism"],
+        "answer": 0,
+        "fact": "Zoroastrian fire temples still stand in Yazd, where one sacred flame is said to have burned for some 1,500 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Safavid ruler made Isfahan his capital in 1598?",
+        "choices": ["Shah Ismail I", "Shah Abbas I", "Shah Tahmasp I", "Nader Shah"],
+        "answer": 1,
+        "fact": "Abbas transformed the city around the vast Naqsh-e Jahan Square, inspiring the saying 'Isfahan is half the world'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which empire, the last great pre-Islamic Persian dynasty, fell to Arab Muslim armies in the 7th century?",
+        "choices": ["Achaemenid", "Parthian", "Sasanian", "Seleucid"],
+        "answer": 2,
+        "fact": "Founded by Ardashir I in 224 CE, the Sasanian Empire rivalled Rome and Byzantium for four centuries.",
+        "difficulty": 2
+      },
+      {
+        "q": "At Carrhae in 53 BCE, which Iranian empire's horse archers crushed the Roman general Crassus?",
+        "choices": ["Sasanian", "Achaemenid", "Median", "Parthian"],
+        "answer": 3,
+        "fact": "The 'Parthian shot', fired backwards while riding away, is thought to have given English the phrase 'parting shot'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Roman emperor was captured by the Sasanian king Shapur I in 260 CE?",
+        "choices": ["Valerian", "Trajan", "Julian", "Hadrian"],
+        "answer": 0,
+        "fact": "Shapur celebrated his triumph in rock reliefs at Naqsh-e Rostam, near Persepolis, showing Roman emperors submitting to him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Mongol leader founded the Ilkhanate in Iran and took the Nizari fortress of Alamut in 1256?",
+        "choices": ["Genghis Khan", "Hulagu Khan", "Timur", "Kublai Khan"],
+        "answer": 1,
+        "fact": "A grandson of Genghis Khan, Hulagu went on to sack Baghdad in 1258, ending the Abbasid caliphate there.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Iranian ruler sacked Delhi in 1739 and carried off the Mughal Peacock Throne?",
+        "choices": ["Shah Abbas I", "Karim Khan Zand", "Nader Shah", "Agha Mohammad Khan"],
+        "answer": 2,
+        "fact": "The loot also included the Koh-i-Noor diamond, which later passed to Afghan and Sikh rulers and then to the British.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which dynasty made Tehran Iran's capital in 1786?",
+        "choices": ["Safavid", "Zand", "Pahlavi", "Qajar"],
+        "answer": 3,
+        "fact": "Agha Mohammad Khan, founder of the Qajar dynasty, chose what was then a modest town near his tribe's northern homelands.",
+        "difficulty": 2
+      },
+      {
+        "q": "Long before the Persians, Susa was the capital of which ancient civilisation in south-western Iran?",
+        "choices": ["Elam", "Assyria", "Urartu", "Lydia"],
+        "answer": 0,
+        "fact": "Hammurabi's famous law code was found at Susa in 1901, carried there as war booty by an Elamite king.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Achaemenid king was defeated by Alexander the Great at Gaugamela in 331 BCE?",
+        "choices": ["Darius I", "Darius III", "Artaxerxes II", "Cyrus the Younger"],
+        "answer": 1,
+        "fact": "Darius III fled the battlefield and was killed the following year by one of his own satraps, Bessus.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ecbatana, capital of the ancient Medes, lies beneath which modern Iranian city?",
+        "choices": ["Shiraz", "Tabriz", "Hamadan", "Kermanshah"],
+        "answer": 2,
+        "fact": "Herodotus described Ecbatana ringed by seven walls of different colours, the innermost two plated in silver and gold.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which British officer copied the Behistun Inscription of Darius I in the 1830s and 1840s, helping to crack cuneiform?",
+        "choices": ["Austen Henry Layard", "Georg Friedrich Grotefend", "Jean-François Champollion", "Henry Rawlinson"],
+        "answer": 3,
+        "fact": "The inscription, in Old Persian, Elamite and Babylonian, is carved about 100 m up a cliff; Rawlinson climbed with ropes and ladders to copy it.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Persian vizier of the Seljuk sultans founded the Nizamiyya network of colleges in the 11th century?",
+        "choices": ["Nizam al-Mulk", "Rashid al-Din", "Al-Biruni", "Tughril Beg"],
+        "answer": 0,
+        "fact": "He also wrote the 'Siyasatnama', a classic book of advice on statecraft, before his assassination in 1092.",
+        "difficulty": 3
+      },
+      {
+        "q": "At which 1514 battle did Ottoman Sultan Selim I's artillery defeat Shah Ismail I?",
+        "choices": ["Battle of Nahavand", "Battle of Chaldiran", "Battle of Karnal", "Battle of Qadisiyyah"],
+        "answer": 1,
+        "fact": "The defeat briefly cost the Safavids their capital, Tabriz, and helped shape the long Ottoman-Iranian frontier.",
+        "difficulty": 3
+      },
+      {
+        "q": "A nationwide boycott in 1891-92 forced Naser al-Din Shah to cancel a British concession over which commodity?",
+        "choices": ["Silk", "Opium", "Tobacco", "Oil"],
+        "answer": 2,
+        "fact": "After a leading cleric issued a fatwa against its use, even the shah's own household reportedly gave it up until the concession was cancelled.",
+        "difficulty": 3
+      },
+      {
+        "q": "Karim Khan Zand, who styled himself 'Vakil' (regent) rather than shah, ruled from which city?",
+        "choices": ["Isfahan", "Tabriz", "Mashhad", "Shiraz"],
+        "answer": 3,
+        "fact": "He endowed Shiraz with a citadel, bazaar and bathhouse that still stand at the city's heart.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Sasanian king, the last of his dynasty, was killed near Merv in 651 while fleeing the Arab conquest?",
+        "choices": ["Yazdegerd III", "Khosrow II", "Shapur II", "Ardashir I"],
+        "answer": 0,
+        "fact": "His death ended four centuries of Sasanian rule; his son Peroz later sought help at the court of Tang China.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "The word 'algorithm' comes from the name of which Persian mathematician of Baghdad's House of Wisdom?",
+        "choices": ["Al-Khwarizmi", "Omar Khayyam", "Al-Kindi", "Ibn al-Haytham"],
+        "answer": 0,
+        "fact": "His book 'al-Jabr' also gave us 'algebra'; his name points to Khwarazm, a region of Central Asia south of the Aral Sea.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Persian polymath wrote 'The Canon of Medicine' and lies buried in Hamadan?",
+        "choices": ["Al-Razi", "Avicenna (Ibn Sina)", "Al-Biruni", "Al-Farabi"],
+        "answer": 1,
+        "fact": "Born near Bukhara around 980, Avicenna saw his Canon used as a medical textbook in Europe for centuries.",
+        "difficulty": 1
+      },
+      {
+        "q": "How did ancient Persians bring water from mountain aquifers to desert towns?",
+        "choices": ["On arched stone aqueducts", "With windmill pumps", "Through underground channels called qanats", "With steam-driven pumps"],
+        "answer": 2,
+        "fact": "Some qanats run for tens of kilometres; UNESCO listed eleven Persian qanats as a World Heritage Site in 2016.",
+        "difficulty": 1
+      },
+      {
+        "q": "The desert city of Yazd is famous for tall towers that funnel breezes down to cool houses. What are they called?",
+        "choices": ["Minarets", "Chimneys", "Bell towers", "Windcatchers (badgirs)"],
+        "answer": 3,
+        "fact": "Badgirs catch even faint winds and push out hot air, a form of natural air conditioning used for centuries.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Achaemenid highway, with relay stations for royal couriers, ran about 2,700 km from Sardis to Susa?",
+        "choices": ["The Royal Road", "The Silk Road", "The Spice Route", "The Amber Road"],
+        "answer": 0,
+        "fact": "Herodotus praised couriers whom neither snow nor rain could stop, words later carved on New York's main post office.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Tehran-born mathematician became the first woman to win the Fields Medal, in 2014?",
+        "choices": ["Cahit Arf", "Maryam Mirzakhani", "Emmy Noether", "Ingrid Daubechies"],
+        "answer": 1,
+        "fact": "As a teenager Mirzakhani won gold at the International Mathematical Olympiad twice, with a perfect score in 1995.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was a 'yakhchal' in the Iranian desert?",
+        "choices": ["A water clock", "A pigeon tower", "A domed ice house", "A salt mine"],
+        "answer": 2,
+        "fact": "Its thick conical walls of heat-resistant mud brick stored ice made on winter nights, keeping it frozen into summer.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Iranian-born engineer became the first woman to pay her own way to the International Space Station, in 2006?",
+        "choices": ["Christa McAuliffe", "Valentina Tereshkova", "Sarah Brightman", "Anousheh Ansari"],
+        "answer": 3,
+        "fact": "Born in Mashhad, Anousheh Ansari also co-sponsored the Ansari X Prize for private spaceflight.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which resource was first struck commercially in the Middle East at Masjed Soleyman, Iran, in 1908?",
+        "choices": ["Oil", "Gold", "Coal", "Uranium"],
+        "answer": 0,
+        "fact": "The find led to the creation of the Anglo-Persian Oil Company, which much later became BP.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which physician from Rey, near Tehran, wrote the first known clinical account distinguishing smallpox from measles?",
+        "choices": ["Avicenna", "Al-Razi (Rhazes)", "Nasir al-Din Tusi", "Al-Khwarizmi"],
+        "answer": 1,
+        "fact": "Al-Razi ran hospitals in Rey and Baghdad and reportedly chose a hospital site by hanging meat around the city to see where it rotted slowest.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which poet-mathematician from Nishapur helped devise the highly accurate Jalali calendar in the 11th century?",
+        "choices": ["Hafez", "Ferdowsi", "Omar Khayyam", "Saadi"],
+        "answer": 2,
+        "fact": "Khayyam also solved cubic equations geometrically, though abroad he is best known for the quatrains of the 'Rubaiyat'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Nasir al-Din Tusi founded a famous observatory in 1259 in which north-western Iranian town?",
+        "choices": ["Samarkand", "Isfahan", "Baghdad", "Maragheh"],
+        "answer": 3,
+        "fact": "Funded by Hulagu Khan, it had a great library, and its astronomers devised models later echoed in Copernicus's work.",
+        "difficulty": 2
+      },
+      {
+        "q": "Lotfi Zadeh, who grew up in Tehran, is famous for founding which field?",
+        "choices": ["Fuzzy logic", "Game theory", "Information theory", "Chaos theory"],
+        "answer": 0,
+        "fact": "Born in Baku in 1921, Zadeh studied at the University of Tehran before a long career at UC Berkeley.",
+        "difficulty": 2
+      },
+      {
+        "q": "Iran's South Pars is part of the world's largest natural gas field, shared with which country?",
+        "choices": ["Kuwait", "Qatar", "Iraq", "Oman"],
+        "answer": 1,
+        "fact": "Qatar calls its side the North Field; the whole reservoir lies beneath the waters of the Persian Gulf.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which car, based on the British Hillman Hunter, was Iran's best-known home-built car for decades?",
+        "choices": ["Saipa Pride", "Samand", "Paykan", "Peugeot 405"],
+        "answer": 2,
+        "fact": "Built by Iran Khodro from 1967 to 2005, the Paykan, meaning 'arrow', was a familiar sight in Tehran's taxi fleet.",
+        "difficulty": 2
+      },
+      {
+        "q": "The ancient windmills of Nashtifan in north-eastern Iran have what unusual feature?",
+        "choices": ["They are powered by water", "They are built entirely of stone", "They have metal sails", "They spin on a vertical axis"],
+        "answer": 3,
+        "fact": "Built of clay, straw and wood, these windmills still grind grain using the region's fierce '120-day winds'.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the name of the first satellite Iran launched on its own rocket, in 2009?",
+        "choices": ["Omid", "Noor", "Payam", "Zafar"],
+        "answer": 0,
+        "fact": "Omid, meaning 'hope', was carried into orbit by a Safir rocket in February 2009.",
+        "difficulty": 2
+      },
+      {
+        "q": "In traditional Iranian towns, what is an 'ab anbar'?",
+        "choices": ["A spice market", "A covered water cistern", "A caravanserai", "A windmill"],
+        "answer": 1,
+        "fact": "Often domed and cooled by windcatchers, ab anbars stored water underground; one in Yazd has six windcatchers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Tehran-born physicist co-invented the helium-neon gas laser in 1960?",
+        "choices": ["Charles Townes", "Theodore Maiman", "Ali Javan", "Gordon Gould"],
+        "answer": 2,
+        "fact": "Ali Javan's laser, built at Bell Labs, was the first to produce a continuous beam, paving the way for devices like barcode scanners.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Tabriz-born scientist explained the rainbow around 1300 by experimenting with a glass sphere filled with water?",
+        "choices": ["Ibn al-Haytham", "Al-Biruni", "Abu al-Wafa", "Kamal al-Din al-Farisi"],
+        "answer": 3,
+        "fact": "Al-Farisi showed that light is refracted twice and reflected once inside each raindrop to form the primary bow.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which mathematician from Kashan calculated pi to 16 decimal places in 1424?",
+        "choices": ["Jamshid al-Kashi", "Ulugh Beg", "Abu al-Wafa", "Al-Battani"],
+        "answer": 0,
+        "fact": "Al-Kashi worked at Ulugh Beg's observatory in Samarkand; his record for pi stood for about 170 years.",
+        "difficulty": 3
+      },
+      {
+        "q": "According to tradition, who built the Band-e Kaisar bridge-dam at Shushtar for Shapur I?",
+        "choices": ["Mongol engineers", "Roman prisoners of war", "Greek mercenaries", "Chinese artisans"],
+        "answer": 1,
+        "fact": "Part of Shushtar's UNESCO-listed hydraulic system, it carried traffic and raised river water for over 1,500 years.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which galaxy did Abd al-Rahman al-Sufi of Rey describe as a 'little cloud' in his Book of Fixed Stars of 964?",
+        "choices": ["Triangulum Galaxy", "Whirlpool Galaxy", "Andromeda Galaxy", "Sombrero Galaxy"],
+        "answer": 2,
+        "fact": "It is the earliest known written record of the Andromeda Galaxy; a lunar crater, Azophi, honours al-Sufi.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Sasanian city in Khuzestan was famed for its academy and hospital, a great centre of medical learning?",
+        "choices": ["Nishapur", "Merv", "Rey", "Gondeshapur"],
+        "answer": 3,
+        "fact": "Its scholars drew on Greek, Indian and Persian learning, and some of its physicians later served the Abbasid court in Baghdad.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 10th-century mathematician from Buzhgan in Khorasan advanced spherical trigonometry and the tangent function?",
+        "choices": ["Abu al-Wafa Buzjani", "Al-Battani", "Thabit ibn Qurra", "Al-Khazini"],
+        "answer": 0,
+        "fact": "Working in Baghdad, Abu al-Wafa also wrote practical arithmetic for scribes and a geometry handbook for craftsmen.",
+        "difficulty": 3
+      }
+    ]
+  }
+}
