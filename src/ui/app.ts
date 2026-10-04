@@ -25,9 +25,25 @@ import {
   type SaveData,
 } from '../game/progress';
 import { buildQuiz, isPass, requiredCorrect, sparesLeft } from '../game/quiz';
+import {
+  ACHIEVEMENTS,
+  checkAchievements,
+  COSMETIC_BY_ID,
+  fiftyFifty,
+  LIFELINES,
+  localPoll,
+  markTip,
+  recordAnswer,
+  recordFlight,
+  recordQuizEnd,
+  spendMiles,
+  type Achievement,
+  type LifelineId,
+} from '../game/rewards';
 import { assembleQuiz, distanceKm, isChronological, type QuizItem } from '../game/rounds';
 import { landmarkThumb } from '../three/thumbnails';
 import { Stage } from '../three/stage';
+import { openHangar } from './hangar';
 import { mountPinMap } from './pinMap';
 import { setMuted, sfx } from './sfx';
 
@@ -47,6 +63,9 @@ interface QuizState {
   correct: number;
   wrong: number;
   answered: boolean;
+  /** Lifelines used in this quiz (each once per quiz). */
+  lifelines: LifelineId[];
+  miles: number;
 }
 
 export class App {
@@ -65,13 +84,16 @@ export class App {
       <header id="hud"></header>
       <main id="screen"></main>
       <div id="curtain" aria-hidden="true"><div class="curtain-inner"></div></div>
-      <div id="toast" role="status" aria-live="polite"></div>`;
+      <div id="toast" role="status" aria-live="polite"></div>
+      <div id="toasts" aria-live="polite"></div>
+      <aside id="tip" hidden></aside>`;
     this.screen = $(root, '#screen');
     this.hud = $(root, '#hud');
     this.curtain = $(root, '#curtain');
     this.stage = new Stage($<HTMLCanvasElement>(root, '#scene'), $(root, '#labels'));
     this.stage.globe.onSelect = (id) => this.onGlobeSelect(id);
     setMuted(this.save.muted);
+    this.applyLivery();
     this.renderHud();
     this.showTitle();
   }
@@ -98,6 +120,8 @@ export class App {
 
   private mount(html: string, cls = ''): HTMLElement {
     this.setKeys(null);
+    // Tips belong to the screen they were shown on.
+    this.hideTip();
     this.screen.className = cls;
     this.screen.innerHTML = html;
     this.screen.scrollTop = 0;
@@ -116,6 +140,65 @@ export class App {
     t.classList.remove('show');
     void t.offsetWidth;
     t.classList.add('show');
+  }
+
+  private applyLivery(): void {
+    const [body, accent, trail] = COSMETIC_BY_ID[this.save.rewards.livery]?.colors ?? COSMETIC_BY_ID.classic.colors;
+    this.stage.globe.setLivery(body, accent, trail);
+  }
+
+  /** Grant any newly earned achievements and announce them. */
+  private award(): void {
+    const { save, unlocked } = checkAchievements(this.save);
+    if (!unlocked.length) return;
+    this.save = save;
+    this.persist();
+    unlocked.forEach((a, i) => setTimeout(() => this.achievementToast(a), 600 + i * 900));
+    this.updateMiles();
+  }
+
+  private achievementToast(a: Achievement): void {
+    const box = document.getElementById('toasts')!;
+    const el = document.createElement('div');
+    el.className = 'ach-toast';
+    el.innerHTML = `<span class="ach-icon">${a.icon}</span><span><small>Achievement unlocked</small><strong>${esc(a.name)}</strong><em>+${a.reward} ✈ air miles</em></span>`;
+    box.appendChild(el);
+    sfx.chime();
+    setTimeout(() => el.classList.add('out'), 4200);
+    setTimeout(() => el.remove(), 4800);
+  }
+
+  /** Refresh the HUD miles counter with a little bump. */
+  private updateMiles(): void {
+    const el = this.hud.querySelector<HTMLElement>('.miles-count');
+    if (!el) return;
+    el.textContent = this.save.rewards.miles.toLocaleString();
+    const btn = el.closest('.hud-btn')!;
+    btn.classList.remove('bump');
+    void (btn as HTMLElement).offsetWidth;
+    btn.classList.add('bump');
+  }
+
+  /** A one-time coaching card, shown the first time a screen is reached. */
+  private tip(key: string, html: string): void {
+    const box = document.getElementById('tip')!;
+    if (this.save.rewards.tips.includes(key)) {
+      if (box.dataset.key !== key) box.hidden = true;
+      return;
+    }
+    box.dataset.key = key;
+    box.innerHTML = `<span class="tip-icon">💡</span><p>${html}</p><button class="btn small" data-act="tip-ok">Got it</button>`;
+    box.hidden = false;
+    box.onclick = (e) => {
+      if (!(e.target as HTMLElement).closest('[data-act="tip-ok"]')) return;
+      this.save = markTip(this.save, key);
+      this.persist();
+      box.hidden = true;
+    };
+  }
+
+  private hideTip(): void {
+    document.getElementById('tip')!.hidden = true;
   }
 
   /** Colourful iris wipe; `swap` runs while the screen is covered. */
@@ -141,6 +224,7 @@ export class App {
       <button class="brand" data-act="home" aria-label="Get Around home"><span class="logo-globe">🌍</span><span>Get&nbsp;Around</span></button>
       <div class="hud-route">${r && j ? `<span class="chip" style="--c:${r.color}">${esc(r.code)} · ${esc(r.name)}</span>` : ''}</div>
       <div class="hud-actions">
+        <button class="hud-btn miles" data-act="hangar" aria-label="Air miles: open the hangar">✈ <span class="miles-count">${this.save.rewards.miles.toLocaleString()}</span></button>
         <button class="hud-btn" data-act="passport" aria-label="Open passport">🛂 <span>${stamps}</span></button>
         <button class="hud-btn" data-act="mute" aria-label="${this.save.muted ? 'Unmute' : 'Mute'}">${this.save.muted ? '🔇' : '🔊'}</button>
       </div>`;
@@ -148,6 +232,17 @@ export class App {
       const act = (e.target as HTMLElement).closest<HTMLElement>('[data-act]')?.dataset.act;
       if (act === 'home') this.showTitle();
       if (act === 'passport') this.showPassport();
+      if (act === 'hangar') {
+        openHangar(
+          () => this.save,
+          (next) => {
+            this.save = next;
+            this.persist();
+            this.applyLivery();
+            this.updateMiles();
+          },
+        );
+      }
       if (act === 'mute') {
         this.save.muted = !this.save.muted;
         setMuted(this.save.muted);
@@ -266,6 +361,7 @@ export class App {
       'screen-center',
     );
     el.querySelectorAll<HTMLElement>('.flap').forEach((f, i) => flap(f, i * 40));
+    this.tip('departures', 'Pick a route to start your journey. Routes marked <strong>RECOMMENDED</strong> match your interests; <strong>Open Skies</strong> lets you go anywhere.');
     el.onclick = (e) => {
       const t = e.target as HTMLElement;
       if (t.closest('[data-act="interests"]')) return this.showOnboarding();
@@ -327,6 +423,8 @@ export class App {
       </section>`,
       'screen-map',
     );
+    if (!here) this.tip('map', 'Tap the glowing <strong>✈️</strong> country on the globe (or its flag below) to board. Every flight earns <strong>air miles</strong>.');
+    else this.hideTip();
     el.onclick = (e) => {
       const t = e.target as HTMLElement;
       const act = t.closest<HTMLElement>('[data-act]')?.dataset.act;
@@ -397,17 +495,29 @@ export class App {
       void loadExtras(to).catch(() => {});
       await this.stage.globe.fly(from, to);
       this.setJourney(arrive(j, to));
-      this.enterCountry(to, true);
+      let flightMiles = 0;
+      if (from) {
+        const a = COUNTRY_BY_ID[from];
+        const km = distanceKm(a, dest);
+        const res = recordFlight(this.save, km);
+        this.save = res.save;
+        flightMiles = res.gained;
+        this.persist();
+        this.updateMiles();
+      }
+      this.award();
+      this.enterCountry(to, true, flightMiles);
     };
   }
 
   // ---------- country ----------
 
-  private async enterCountry(id: CountryId, landing = false): Promise<void> {
+  private async enterCountry(id: CountryId, landing = false, flightMiles = 0): Promise<void> {
     const c = COUNTRY_BY_ID[id];
+    this.hideTip();
     await this.curtainWipe(
       c.color,
-      `<div class="arrive"><span class="flag-big">${c.flag}</span><small>${landing ? 'Now arriving in' : 'Visiting'}</small><strong>${esc(c.name)}</strong><em>${esc(c.nickname)}</em></div>`,
+      `<div class="arrive"><span class="flag-big">${c.flag}</span><small>${landing ? 'Now arriving in' : 'Visiting'}</small><strong>${esc(c.name)}</strong><em>${esc(c.nickname)}</em>${flightMiles ? `<span class="arrive-miles">+${flightMiles} ✈ flight miles</span>` : ''}</div>`,
       async () => {
         this.stage.diorama.show(id);
         this.stage.setView('diorama');
@@ -463,6 +573,10 @@ export class App {
         </div>
       </section>`,
       'screen-country',
+    );
+    this.tip(
+      'country',
+      'Each subject has three levels: <strong>Explorer 🥉 → Voyager 🥈 → Legend 🥇</strong>. Score 9 of 10 to earn a stamp; any stamp unlocks your next flight.',
     );
     el.onclick = (e) => {
       const t = e.target as HTMLElement;
@@ -558,7 +672,7 @@ export class App {
     const ids = questions.filter((q) => q.kind === 'mcq' || q.kind === 'tf').map((q) => q.id);
     this.save = markSeen(this.save, country, topic, ids);
     this.persist();
-    this.quiz = { country, topic, level, questions, results: [], index: 0, correct: 0, wrong: 0, answered: false };
+    this.quiz = { country, topic, level, questions, results: [], index: 0, correct: 0, wrong: 0, answered: false, lifelines: [], miles: 0 };
     this.renderQuestion();
   }
 
@@ -577,6 +691,7 @@ export class App {
           <span class="chip" style="--c:${t.color}">${t.icon} ${t.label} · ${c.flag} ${esc(c.name)}</span>
           <span class="chip level-chip" style="--c:${LEVEL_BY_ID[qz.level].color}">${LEVEL_BY_ID[qz.level].icon} ${LEVEL_BY_ID[qz.level].label}</span>
           <span class="spares" title="Misses you can still afford">${sparesLabel(sparesLeft(qz.wrong, total))}</span>
+          <span class="streak" ${this.save.rewards.streak >= 2 ? '' : 'hidden'}>🔥 <b>${this.save.rewards.streak}</b></span>
         </div>
         <div class="pips">${pips}</div>
         <p class="q-count">Question ${qz.index + 1} of ${total}${kindTag ? ` <span class="kind-tag">${kindTag}</span>` : ''}${asOf}</p>
@@ -584,13 +699,23 @@ export class App {
         <div class="postcard" hidden></div>
         <div class="quiz-foot">
           <button class="btn ghost small" data-act="quit">Leave quiz</button>
+          <span class="lifelines">${(Object.keys(LIFELINES) as LifelineId[])
+            .map((id) => `<button class="lifeline" data-life="${id}" title="${LIFELINES[id].blurb}">${LIFELINES[id].icon} ${LIFELINES[id].label} <small>✈${LIFELINES[id].cost}</small></button>`)
+            .join('')}</span>
           <span class="target">Goal: ${requiredCorrect(total)}/${total}</span>
         </div>
       </section>`,
       'screen-quiz',
     );
     this.paintPips();
+    this.paintLifelines();
     if (item.kind === 'pin') this.mountPin(item);
+    if (qz.index === 0) {
+      this.tip(
+        'quiz',
+        'You can miss <strong>one</strong> question (🎟️). Stuck? Spend air miles on a <strong>lifeline</strong>. Answer streaks of 3+ earn bonus miles 🔥.',
+      );
+    }
 
     const order: number[] = [];
     el.onclick = (e) => {
@@ -598,6 +723,8 @@ export class App {
       if (tgt.closest('[data-act="quit"]')) return this.showLevels(qz.country, qz.topic);
       if (tgt.closest('[data-act="next"]')) return this.nextQuestion();
       if (qz.answered) return;
+      const life = tgt.closest<HTMLElement>('[data-life]')?.dataset.life as LifelineId | undefined;
+      if (life) return this.useLifeline(life);
       if (item.kind === 'mcq') {
         const a = tgt.closest<HTMLElement>('[data-i]');
         if (a) this.answerChoice(Number(a.dataset.i));
@@ -668,7 +795,7 @@ export class App {
       const d = Math.round(distanceKm(guess, item.place));
       const right = d <= item.radiusKm;
       map.reveal(item.place, guess, item.radiusKm, right);
-      this.resolve(right, `${right ? `Only ${d} km away!` : `${d} km away.`} ${item.place.clue}`);
+      this.resolve(right, `${right ? `Only ${d} km away!` : `${d} km away.`} ${item.place.clue}`, d);
     });
   }
 
@@ -693,6 +820,7 @@ export class App {
   private answerChoice(i: number): void {
     const item = this.quiz!.questions[this.quiz!.index];
     if (item.kind !== 'mcq') return;
+    if (this.screen.querySelector<HTMLButtonElement>(`.answer[data-i="${i}"]`)?.disabled) return;
     const right = i === item.correctIndex;
     this.screen.querySelectorAll<HTMLButtonElement>('.answer').forEach((b, k) => {
       if (k === item.correctIndex) b.classList.add('correct');
@@ -746,14 +874,70 @@ export class App {
     this.resolve(right, right ? 'Perfect chronology! Every event is in its place.' : 'Here’s the real order, oldest at the top.');
   }
 
+  private paintLifelines(): void {
+    const qz = this.quiz!;
+    const item = qz.questions[qz.index];
+    this.screen.querySelectorAll<HTMLButtonElement>('.lifeline').forEach((b) => {
+      const id = b.dataset.life as LifelineId;
+      const fits = item.kind === 'mcq' || (item.kind === 'tf' && id === 'local');
+      b.hidden = !fits;
+      b.disabled = qz.answered || qz.lifelines.includes(id) || this.save.rewards.miles < LIFELINES[id].cost;
+      b.classList.toggle('used', qz.lifelines.includes(id));
+    });
+  }
+
+  private useLifeline(id: LifelineId): void {
+    const qz = this.quiz!;
+    const item = qz.questions[qz.index];
+    if (qz.answered || qz.lifelines.includes(id)) return;
+    if (!(item.kind === 'mcq' || (item.kind === 'tf' && id === 'local'))) return;
+    const paid = spendMiles(this.save, LIFELINES[id].cost);
+    if (!paid) return this.toast('Not enough air miles yet. Keep answering to earn more!');
+    this.save = paid;
+    this.persist();
+    this.updateMiles();
+    qz.lifelines.push(id);
+    sfx.click();
+    if (id === 'fifty' && item.kind === 'mcq') {
+      for (const k of fiftyFifty(item.choices.length, item.correctIndex, Math.random)) {
+        const b = this.screen.querySelector<HTMLButtonElement>(`.answer[data-i="${k}"]`)!;
+        b.disabled = true;
+        b.classList.add('removed');
+      }
+    } else if (id === 'local') {
+      const buttons =
+        item.kind === 'mcq'
+          ? item.choices.map((_, k) => this.screen.querySelector<HTMLElement>(`.answer[data-i="${k}"]`)!)
+          : [this.screen.querySelector<HTMLElement>('[data-tf="1"]')!, this.screen.querySelector<HTMLElement>('[data-tf="0"]')!];
+      const correct = item.kind === 'mcq' ? item.correctIndex : item.kind === 'tf' && item.truth ? 0 : 1;
+      localPoll(buttons.length, correct, qz.level, Math.random).forEach((pct, k) => {
+        buttons[k].style.setProperty('--poll', `${pct}%`);
+        buttons[k].classList.add('polled');
+        buttons[k].insertAdjacentHTML('beforeend', `<span class="poll-pct">${pct}%</span>`);
+      });
+    }
+    this.paintLifelines();
+  }
+
   /** Shared ending for every round type: score it, show the postcard and the Next button. */
-  private resolve(right: boolean, fact: string): void {
+  private resolve(right: boolean, fact: string, distance?: number): void {
     const qz = this.quiz!;
     if (qz.answered) return;
     qz.answered = true;
     qz.results[qz.index] = right;
     if (right) qz.correct++;
     else qz.wrong++;
+    const kind = qz.questions[qz.index].kind;
+    const earned = recordAnswer(this.save, { right, kind, level: qz.level, distanceKm: distance });
+    this.save = earned.save;
+    qz.miles += earned.gained;
+    this.persist();
+    this.updateMiles();
+    this.award();
+    const streakEl = $(this.screen, '.streak');
+    streakEl.hidden = this.save.rewards.streak < 2;
+    streakEl.querySelector('b')!.textContent = String(this.save.rewards.streak);
+    this.paintLifelines();
     right ? sfx.correct() : sfx.wrong();
     if (right) this.stage.diorama.celebrate([TOPIC_BY_ID[qz.topic].color, COUNTRY_BY_ID[qz.country].color, '#ffffff'], 30);
 
@@ -767,7 +951,7 @@ export class App {
     pc.innerHTML = `
       <div class="pc-stamp">${right ? '✔' : '✘'}</div>
       <div class="pc-body">
-        <strong>${right ? pick(['Brilliant!', 'Spot on!', 'Correct!', 'Nailed it!']) : 'Not quite.'}</strong>
+        <strong>${right ? pick(['Brilliant!', 'Spot on!', 'Correct!', 'Nailed it!']) : 'Not quite.'}${earned.gained ? ` <span class="pc-miles">+${earned.gained} ✈</span>` : ''}</strong>
         <p>${esc(fact)}</p>
       </div>
       <button class="btn primary" data-act="next">${last ? (spare < 0 ? 'See result' : 'Finish') : 'Next →'}</button>`;
@@ -803,6 +987,20 @@ export class App {
     const up: Level | null = passed ? nextLevel(qz.level) : null;
     const dests = destinations(j, r);
     const routeDone = j.completed && !before.completed;
+    const end = recordQuizEnd(this.save, {
+      level: qz.level,
+      correct: qz.correct,
+      total,
+      passed,
+      newTier: passed && !hadLevel,
+      routeCompleted: routeDone,
+      usedLifeline: qz.lifelines.length > 0,
+    });
+    this.save = end.save;
+    qz.miles += end.gained;
+    this.persist();
+    this.updateMiles();
+    this.award();
 
     if (passed) {
       sfx.stamp();
@@ -825,6 +1023,7 @@ export class App {
         }
         <h2>${passed ? `${level.medal} stamp earned!` : 'So close — the gate is closed.'}</h2>
         <p class="score"><strong>${qz.correct}</strong> / ${total} correct${answered < total ? ` <small>(stopped after ${answered} — 90% was out of reach)</small>` : ''}</p>
+        ${qz.miles ? `<p class="miles-line">✈ <strong>+${qz.miles.toLocaleString()}</strong> air miles this quiz${end.gained ? ` <small>(incl. ${end.gained} bonus)</small>` : ''}</p>` : ''}
         ${lines.map((l) => `<p class="next-line">${l}</p>`).join('')}
         ${!passed ? `<p class="sub">You need ${requiredCorrect(total)} of ${total}. Next time you’ll mostly get questions you haven’t seen.</p>` : ''}
         <div class="result-actions">
@@ -852,6 +1051,10 @@ export class App {
     const counts = stampCounts(this.save);
     const dlg = document.createElement('dialog');
     dlg.className = 'passport';
+    const cover = COSMETIC_BY_ID[this.save.rewards.cover] ?? COSMETIC_BY_ID.burgundy;
+    dlg.style.setProperty('--cover-a', cover.colors[0]);
+    dlg.style.setProperty('--cover-b', cover.colors[1]);
+    const got = this.save.rewards.achievements;
     const total = COUNTRIES.length * TOPICS.length;
     dlg.innerHTML = `
       <div class="pp-head">
@@ -876,7 +1079,14 @@ export class App {
           </div>`;
         }).join('')}
       </div>
-      <p class="pp-legend">Stamp rims show your best level: <i style="--m:${LEVEL_BY_ID.explorer.color}"></i> Bronze <i style="--m:${LEVEL_BY_ID.voyager.color}"></i> Silver <i style="--m:${LEVEL_BY_ID.legend.color}"></i> Gold</p>`;
+      <p class="pp-legend">Stamp rims show your best level: <i style="--m:${LEVEL_BY_ID.explorer.color}"></i> Bronze <i style="--m:${LEVEL_BY_ID.voyager.color}"></i> Silver <i style="--m:${LEVEL_BY_ID.legend.color}"></i> Gold</p>
+      <h3 class="pp-sub">Badges <small>${Object.keys(got).length} / ${ACHIEVEMENTS.length}</small></h3>
+      <div class="pp-badges">${ACHIEVEMENTS.map(
+        (a) => `<div class="pp-badge ${got[a.id] ? 'on' : ''}" title="${esc(a.desc)}">
+          <span>${a.icon}</span><strong>${esc(a.name)}</strong><small>${esc(a.desc)}</small><em>${got[a.id] ? '✔ Earned' : `+${a.reward} ✈`}</em>
+        </div>`,
+      ).join('')}</div>
+      <p class="pp-stats">🔥 Best streak ${this.save.rewards.bestStreak} · ✈ ${this.save.rewards.stats.kmFlown.toLocaleString()} km flown · ✔ ${this.save.rewards.stats.correct.toLocaleString()} correct answers</p>`;
     document.body.appendChild(dlg);
     dlg.addEventListener('close', () => dlg.remove());
     dlg.addEventListener('click', (e) => {

@@ -87,6 +87,8 @@ function buildPlane(): THREE.Group {
     g.add(engine);
   }
   g.add(body, nose, cockpit, wings, tailWing, fin);
+  g.userData.body = white;
+  g.userData.accent = accent;
   g.scale.setScalar(0.09);
   return g;
 }
@@ -177,6 +179,7 @@ export class GlobeView {
   private arcs = new THREE.Group();
   private arcMaterials: THREE.ShaderMaterial[] = [];
   private plane = buildPlane();
+  private trailColor = GOLD;
   private flying = false;
   private camTween: { from: THREE.Vector3; to: THREE.Vector3; start: number; dur: number; resolve: () => void } | null = null;
   private offsetX = 0;
@@ -299,7 +302,7 @@ export class GlobeView {
       }
     }
     for (const [a, b, flown] of legs) {
-      this.arcs.add(this.makeArc(a, b, flown ? GOLD : '#ffffff', flown));
+      this.arcs.add(this.makeArc(a, b, flown ? this.trailColor : '#ffffff', flown));
     }
   }
 
@@ -312,6 +315,13 @@ export class GlobeView {
     const mat = makeArcMaterial(color, solid, Math.max(4, Math.round(len * 18)));
     this.arcMaterials.push(mat);
     return new THREE.Mesh(new THREE.TubeGeometry(curve, 128, solid ? 0.0045 : 0.003, 6, false), mat);
+  }
+
+  /** Paint the plane and its flight trail in the traveler's chosen livery. */
+  setLivery(body: string, accent: string, trail: string): void {
+    (this.plane.userData.body as THREE.MeshStandardMaterial).color.set(body);
+    (this.plane.userData.accent as THREE.MeshStandardMaterial).color.set(accent);
+    this.trailColor = trail;
   }
 
   setVisible(v: boolean): void {
@@ -352,7 +362,7 @@ export class GlobeView {
 
     const pts = flightArc(a, b, R * 1.005, 200);
     const curve = new THREE.CatmullRomCurve3(pts);
-    const trail = this.makeArc(from, to, GOLD, true);
+    const trail = this.makeArc(from, to, this.trailColor, true);
     const trailMat = trail.material as THREE.ShaderMaterial;
     trailMat.uniforms.uProgress.value = 0;
     this.arcs.add(trail);

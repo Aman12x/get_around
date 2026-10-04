@@ -3,6 +3,7 @@ import type { Route } from '../data/routes';
 import type { TopicId } from '../data/topics';
 import { LEVELS, levelRank, type LevelId } from './levels';
 import { isPass, QUIZ_LENGTH } from './quiz';
+import { emptyRewards, emptyStats, type RewardsState } from './rewards';
 
 /** Best score (correct answers out of QUIZ_LENGTH) per level. */
 export type LevelScores = Partial<Record<LevelId, number>>;
@@ -24,13 +25,14 @@ export interface SaveData {
   /** Recently asked question ids per "country:topic", newest last. */
   seen: Record<string, string[]>;
   muted: boolean;
+  rewards: RewardsState;
 }
 
 /** How many recent questions per country+topic to avoid repeating. */
 const SEEN_LIMIT = 40;
 
 export function emptySave(): SaveData {
-  return { version: 2, traveler: null, activeRouteId: null, journeys: {}, seen: {}, muted: false };
+  return { version: 2, traveler: null, activeRouteId: null, journeys: {}, seen: {}, muted: false, rewards: emptyRewards() };
 }
 
 export function newJourney(routeId: string): Journey {
@@ -185,12 +187,29 @@ export function migrateV1(old: SaveV1): SaveData {
   return { ...emptySave(), traveler: old.traveler ?? null, activeRouteId: old.activeRouteId ?? null, journeys, muted: !!old.muted };
 }
 
+/** Fill in fields added after a save was written (e.g. rewards), keeping everything else. */
+export function withDefaults(parsed: Partial<SaveData>): SaveData {
+  const base = emptySave();
+  const r = (parsed.rewards ?? {}) as Partial<RewardsState>;
+  return {
+    ...base,
+    ...parsed,
+    version: 2,
+    rewards: {
+      ...base.rewards,
+      ...r,
+      stats: { ...emptyStats(), ...r.stats },
+      owned: [...new Set([...base.rewards.owned, ...(r.owned ?? [])])],
+    },
+  };
+}
+
 export function loadSave(): SaveData {
   try {
     const raw = localStorage.getItem(KEY);
     if (raw) {
       const parsed = JSON.parse(raw) as SaveData;
-      if (parsed?.version === 2) return { ...emptySave(), ...parsed };
+      if (parsed?.version === 2) return withDefaults(parsed);
     }
     const legacy = localStorage.getItem(KEY_V1);
     if (legacy) {
