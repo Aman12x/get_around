@@ -1,0 +1,359 @@
+{
+  "country": "jordan",
+  "topics": {
+    "history": [
+      {
+        "q": "Which ancient Arab people carved the city of Petra into rose-red cliffs?",
+        "choices": ["Nabataeans", "Phoenicians", "Hittites", "Assyrians"],
+        "answer": 0,
+        "fact": "The Nabataeans grew rich controlling incense and spice caravans, and carved Petra's tombs straight into the sandstone.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which empire annexed the Nabataean kingdom in 106 CE?",
+        "choices": ["Achaemenid Persian Empire", "Roman Empire", "Ottoman Empire", "Mongol Empire"],
+        "answer": 1,
+        "fact": "Emperor Trajan turned the kingdom into the province of Arabia Petraea, and a new road, the Via Traiana Nova, soon ran to the Red Sea.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did Transjordan gain independence from Britain?",
+        "choices": ["1922", "1936", "1946", "1958"],
+        "answer": 2,
+        "fact": "Independence came on 25 May 1946, still celebrated as Independence Day; Emir Abdullah was proclaimed king the same day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which country administered Transjordan under a League of Nations mandate after the First World War?",
+        "choices": ["France", "Italy", "Ottoman Empire", "United Kingdom"],
+        "answer": 3,
+        "fact": "The British Mandate covered Palestine and Transjordan, but from 1921 Transjordan was run as a separate emirate under Abdullah.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which royal dynasty has ruled Jordan since the founding of the emirate in 1921?",
+        "choices": ["Hashemites", "Al Saud", "Al Thani", "Al Nahyan"],
+        "answer": 0,
+        "fact": "The Hashemites trace their descent to the Prophet Muhammad through his great-grandfather Hashim, from whom the family takes its name.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which British officer, known as 'Lawrence of Arabia', fought alongside Arab forces in the Arab Revolt of 1916-1918?",
+        "choices": ["Charles Gordon", "T. E. Lawrence", "Lord Kitchener", "Edmund Allenby"],
+        "answer": 1,
+        "fact": "A rock formation in Wadi Rum is nicknamed the Seven Pillars of Wisdom after Lawrence's memoir, and the 1962 film was partly shot there.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which king ruled Jordan from 1952 until his death in 1999?",
+        "choices": ["Abdullah I", "Talal", "Hussein", "Faisal II"],
+        "answer": 2,
+        "fact": "Hussein was proclaimed king at just 16 after his father Talal abdicated, and reigned for more than 46 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Roman-era city of Gerasa is known today by what name?",
+        "choices": ["Madaba", "Karak", "Aqaba", "Jerash"],
+        "answer": 3,
+        "fact": "Jerash is one of the best-preserved Roman provincial towns anywhere, with an oval plaza ringed by Ionic columns.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which empire controlled the lands of modern Jordan for about four centuries until the First World War?",
+        "choices": ["Ottoman Empire", "Safavid Empire", "Mughal Empire", "Habsburg Empire"],
+        "answer": 0,
+        "fact": "The Ottomans took the region in 1516-17 and held it for roughly 400 years, until the Arab Revolt and British forces pushed them out in 1918.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Mesha Stele, found at Dhiban in 1868, was set up by a king of which ancient kingdom?",
+        "choices": ["Edom", "Moab", "Ammon", "Philistia"],
+        "answer": 1,
+        "fact": "Carved around 840 BCE, the stele was broken soon after its discovery and pieced back together; it now stands in the Louvre.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was Amman called in the Greco-Roman era?",
+        "choices": ["Gerasa", "Gadara", "Philadelphia", "Pella"],
+        "answer": 2,
+        "fact": "The name honoured Egypt's Ptolemy II Philadelphus; the city's Roman Theatre, seating about 6,000, still sits in downtown Amman.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 636 CE, Arab Muslim armies decisively defeated the Byzantines at a battle named after which river?",
+        "choices": ["Jordan", "Zarqa", "Euphrates", "Yarmouk"],
+        "answer": 3,
+        "fact": "The Yarmouk, which today forms part of Jordan's northern border, gave its name to a battle that ended Byzantine rule over Syria.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became the first emir of Transjordan in 1921?",
+        "choices": ["Abdullah I", "Faisal I", "Talal", "Hussein bin Ali"],
+        "answer": 0,
+        "fact": "A son of Sharif Hussein of Mecca, Abdullah ruled as emir for 25 years before becoming Jordan's first king in 1946.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swiss explorer, travelling as 'Sheikh Ibrahim', became the first European in centuries to describe Petra, in 1812?",
+        "choices": ["Richard Burton", "Johann Ludwig Burckhardt", "David Livingstone", "Heinrich Schliemann"],
+        "answer": 1,
+        "fact": "Burckhardt said he wished to sacrifice a goat at Aaron's tomb so that his guide would lead him through the hidden city.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which leader launched the Arab Revolt against the Ottoman Empire in June 1916?",
+        "choices": ["Ibn Saud", "Muhammad Ali Pasha", "Sharif Hussein bin Ali", "Abd al-Qadir"],
+        "answer": 2,
+        "fact": "Sharif Hussein, Emir of Mecca, was King Abdullah II's great-great-grandfather; Jordan's flag echoes the revolt's banner.",
+        "difficulty": 2
+      },
+      {
+        "q": "Amman's name comes from which Iron Age people, whose capital stood on the city's citadel hill?",
+        "choices": ["Moabites", "Edomites", "Nabataeans", "Ammonites"],
+        "answer": 3,
+        "fact": "Their capital, Rabbath Ammon, stood on Jabal al-Qal'a, where the Amman Citadel now shows Roman, Byzantine and Umayyad ruins.",
+        "difficulty": 2
+      },
+      {
+        "q": "Gerasa (Jerash), Gadara (Umm Qais) and Philadelphia (Amman) belonged to which group of Greco-Roman cities?",
+        "choices": ["Decapolis", "Delian League", "Achaean League", "Hanseatic League"],
+        "answer": 0,
+        "fact": "'Decapolis' means 'ten cities'; most lay in today's Jordan and Syria, with Scythopolis just west of the Jordan River.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ajloun Castle in northern Jordan was built in the 1180s by a commander serving which leader?",
+        "choices": ["Baybars", "Saladin", "Suleiman the Magnificent", "Harun al-Rashid"],
+        "answer": 1,
+        "fact": "Built by Saladin's general Izz al-Din Usama, the hilltop fort watched over the Jordan Valley and routes contested with the Crusaders.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which crusader lord, notorious for raiding Muslim caravans, held Kerak Castle in the 1180s?",
+        "choices": ["Richard the Lionheart", "Godfrey of Bouillon", "Raynald of Châtillon", "Baldwin IV"],
+        "answer": 2,
+        "fact": "Saladin personally executed Raynald after the Battle of Hattin in 1187, and Kerak itself surrendered to Saladin's forces in 1188.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which British officer, nicknamed 'Abu Hunaik', commanded Jordan's Arab Legion until King Hussein dismissed him in 1956?",
+        "choices": ["Frederick Peake", "T. E. Lawrence", "Edmund Allenby", "John Bagot Glubb"],
+        "answer": 3,
+        "fact": "'Glubb Pasha' led the Legion from 1939; his dismissal marked the Arabisation of the army's command.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Neolithic site of 'Ain Ghazal, on the edge of Amman, is famous for which discovery?",
+        "choices": ["Lime-plaster human statues", "Clay cuneiform tablets", "Gold funerary masks", "Bronze chariots"],
+        "answer": 0,
+        "fact": "Made around 9,000 years ago, the statues are among the oldest large-scale human figures ever found; some are shown at the Jordan Museum.",
+        "difficulty": 3
+      },
+      {
+        "q": "Bozrah, the ancient capital at today's Buseira in southern Jordan, belonged to which Iron Age kingdom?",
+        "choices": ["Moab", "Edom", "Ammon", "Aram"],
+        "answer": 1,
+        "fact": "Edom lay south of the Dead Sea; the Hebrew Bible links its people to Esau, and its land later became Nabataean territory.",
+        "difficulty": 3
+      },
+      {
+        "q": "Under which king, who reigned from about 9 BCE to 40 CE, did Nabataean Petra reach its greatest splendour?",
+        "choices": ["Obodas I", "Rabbel II", "Aretas IV", "Malichus I"],
+        "answer": 2,
+        "fact": "Aretas IV called himself 'lover of his people'; many of Petra's grandest monuments, possibly including the Treasury, date from his reign.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 1878 the Ottomans settled which refugee people among the ruins of Amman, reviving it as a village?",
+        "choices": ["Armenians", "Albanians", "Bosnians", "Circassians"],
+        "answer": 3,
+        "fact": "Circassians from the Caucasus refounded Amman; their descendants still provide a ceremonial guard at the Royal Court.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Battle of Mu'tah in 629, near Karak, pitted early Muslim forces against which empire?",
+        "choices": ["Byzantine Empire", "Sasanian Empire", "Ottoman Empire", "Mongol Empire"],
+        "answer": 0,
+        "fact": "After three Muslim commanders fell, Khalid ibn al-Walid led the army's withdrawal and, by tradition, earned the title 'Sword of God'.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "How did the Nabataeans sustain a large city in Petra's arid valley?",
+        "choices": ["By channelling rainwater into rock-cut cisterns", "By pumping groundwater with steam engines", "By desalinating Red Sea water", "By importing ice from the mountains"],
+        "answer": 0,
+        "fact": "Petra's engineers built dams, terracotta pipes and cisterns to capture flash floods, enough to feed fountains and even a garden pool.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which mineral, harvested from vast Dead Sea evaporation ponds, makes Jordan one of the world's leading exporters?",
+        "choices": ["Copper", "Potash", "Lithium", "Bauxite"],
+        "answer": 1,
+        "fact": "Potash is a key fertiliser ingredient; the Arab Potash Company has produced it on the Dead Sea's southern shore since the 1980s.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Ottoman railway through Jordan did T. E. Lawrence and Arab forces repeatedly sabotage?",
+        "choices": ["Baghdad Railway", "Orient Express", "Hejaz Railway", "Anatolian Railway"],
+        "answer": 2,
+        "fact": "Opened to Medina in 1908, the line ran from Damascus via Amman and Ma'an to carry pilgrims, and troops, south to the holy cities.",
+        "difficulty": 1
+      },
+      {
+        "q": "How did Nabataean masons carve Petra's great façades, such as the Treasury?",
+        "choices": ["From the bottom up, on scaffolding", "From prefabricated stone blocks", "From cast concrete", "From the top down"],
+        "answer": 3,
+        "fact": "Masons cut a ledge at the cliff top and worked downward, so the finished upper sections never needed scaffolding.",
+        "difficulty": 1
+      },
+      {
+        "q": "Petra's tombs and temples are carved directly into what kind of rock?",
+        "choices": ["Sandstone", "Granite", "Marble", "Basalt"],
+        "answer": 0,
+        "fact": "Iron and other minerals streak Petra's sandstone in pinks, reds and yellows, earning it the nickname 'Rose City'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Why do swimmers float so effortlessly in the Dead Sea?",
+        "choices": ["It is fed by hot springs", "Its water is extremely salty and dense", "Its water is unusually cold", "It contains dissolved volcanic gases"],
+        "answer": 1,
+        "fact": "The Dead Sea is roughly 34% salt, nearly ten times saltier than the ocean, so its dense water pushes bathers up like corks.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of Jordan's national airline, founded in 1963?",
+        "choices": ["Gulf Air", "Middle East Airlines", "Royal Jordanian", "Saudia"],
+        "answer": 2,
+        "fact": "Its hub, Queen Alia International Airport, is named after King Hussein's third wife, who died in a helicopter crash in 1977.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which aromatic tree resin, carried by caravans through Petra, helped make the Nabataeans rich?",
+        "choices": ["Silk", "Saffron", "Tea", "Frankincense"],
+        "answer": 3,
+        "fact": "Frankincense and myrrh from southern Arabia were burned in temples across the Roman world, and Nabataean routes carried them north.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Tafila project in southern Jordan, opened in 2015, was the kingdom's first large farm of which energy source?",
+        "choices": ["Wind", "Solar", "Geothermal", "Wave"],
+        "answer": 0,
+        "fact": "Tafila's 38 turbines sit on windy highlands above the Dead Sea rift and generate about 117 megawatts.",
+        "difficulty": 1
+      },
+      {
+        "q": "Jordan is a major exporter of which rock, mined at Eshidiya and Al-Hasa to make fertilisers?",
+        "choices": ["Bauxite", "Phosphate", "Gypsum", "Iron ore"],
+        "answer": 1,
+        "fact": "Phosphate has been mined in Jordan since the 1930s, and much of it is shipped out through the Red Sea port of Aqaba.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which logistics company, founded in Amman in 1982, became the first Arab-based company listed on NASDAQ?",
+        "choices": ["Fetchr", "Careem", "Aramex", "Talabat"],
+        "answer": 2,
+        "fact": "Aramex was co-founded by Jordanian entrepreneur Fadi Ghandour and listed on NASDAQ in 1997; it is now headquartered in Dubai.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Arabic web portal and email service, founded in Jordan in 2000, was bought by Yahoo! in 2009?",
+        "choices": ["Souq.com", "Anghami", "Careem", "Maktoob"],
+        "answer": 3,
+        "fact": "Maktoob, meaning 'written' in Arabic, was co-founded by Samih Toukan and Hussam Khoury and was a pioneer of Arabic webmail.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which canal, begun in 1959, carries irrigation water along the east side of the Jordan Valley?",
+        "choices": ["King Abdullah Canal", "Hejaz Canal", "Al-Wehdah Canal", "Mujib Canal"],
+        "answer": 0,
+        "fact": "Originally called the East Ghor Canal, it draws on the Yarmouk River and turned the valley floor into Jordan's winter vegetable garden.",
+        "difficulty": 2
+      },
+      {
+        "q": "Since 2013, a pipeline of about 325 km has carried ancient groundwater to Amman from which aquifer?",
+        "choices": ["Azraq", "Disi", "Mujib", "Yarmouk"],
+        "answer": 1,
+        "fact": "The Disi aquifer, shared with Saudi Arabia, holds 'fossil' water that fell as rain thousands of years ago and is barely replenished.",
+        "difficulty": 2
+      },
+      {
+        "q": "Jordan holds some of the world's largest deposits of which fuel resource, now burned at the Attarat power plant?",
+        "choices": ["Natural gas", "Coal", "Oil shale", "Uranium ore"],
+        "answer": 2,
+        "fact": "Oil shale is rock rich in kerogen; the Attarat plant, south-east of Amman, is one of the largest power stations built to burn it directly.",
+        "difficulty": 2
+      },
+      {
+        "q": "Jordan's first satellite, the JY1-SAT CubeSat launched in 2018, was named after the radio call sign of which king?",
+        "choices": ["Abdullah I", "Talal", "Abdullah II", "Hussein"],
+        "answer": 3,
+        "fact": "King Hussein was a keen amateur radio operator who chatted with enthusiasts around the world under the call sign JY1.",
+        "difficulty": 2
+      },
+      {
+        "q": "To protect Petra's Siq from flash floods, how did Nabataean engineers divert the Wadi Musa stream?",
+        "choices": ["With a dam and a rock-cut tunnel", "Into a giant underground lake", "Over an arched Roman-style aqueduct", "Into the Dead Sea via a canal"],
+        "answer": 0,
+        "fact": "Their dam sent floodwater through a tunnel around the gorge; after a deadly flood in 1963 a modern dam was built on the same spot.",
+        "difficulty": 2
+      },
+      {
+        "q": "SESAME, opened near Allan in Jordan in 2017, was the Middle East's first what?",
+        "choices": ["Particle collider", "Synchrotron light source", "Nuclear power plant", "Space launch site"],
+        "answer": 1,
+        "fact": "Built under UNESCO's auspices, SESAME's members include Cyprus, Egypt, Iran, Israel, Jordan, Pakistan, Turkey and the Palestinian Authority.",
+        "difficulty": 2
+      },
+      {
+        "q": "Wadi Faynan in southern Jordan was one of the ancient world's great centres for producing which metal?",
+        "choices": ["Gold", "Tin", "Copper", "Silver"],
+        "answer": 2,
+        "fact": "Huge slag heaps at Khirbat en-Nahas reveal large-scale copper smelting in the Iron Age, and the Romans later worked mines here too.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Umayyad bathhouse of Qusayr Amra has a dome painted with what pioneering image?",
+        "choices": ["A world map", "A solar eclipse", "The phases of the Moon", "A map of the heavens with zodiac figures"],
+        "answer": 3,
+        "fact": "Its 8th-century dome is one of the earliest surviving depictions of the night sky on a hemispherical surface.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ancient city in northern Jordan was supplied by the longest known tunnel of antiquity, explored only in the 2000s?",
+        "choices": ["Gadara (Umm Qais)", "Petra", "Philadelphia (Amman)", "Aila (Aqaba)"],
+        "answer": 0,
+        "fact": "The Gadara Aqueduct's main tunnelled section runs for roughly 94 km, winding along the hills' contours like an underground canal.",
+        "difficulty": 3
+      },
+      {
+        "q": "Nabataean potters were famed for what kind of fine tableware?",
+        "choices": ["Blue-and-white porcelain", "Eggshell-thin painted bowls", "Black-figure amphorae", "Lustre-glazed tiles"],
+        "answer": 1,
+        "fact": "Thrown on fast wheels, the bowls had walls only a couple of millimetres thick and were painted with delicate leaves and palmettes.",
+        "difficulty": 3
+      },
+      {
+        "q": "Jordan's first nuclear reactor, a research reactor inaugurated in 2016, stands at which university?",
+        "choices": ["University of Jordan", "Yarmouk University", "Jordan University of Science and Technology", "Mutah University"],
+        "answer": 2,
+        "fact": "The 5-megawatt Jordan Research and Training Reactor near Irbid produces medical isotopes and trains the kingdom's nuclear scientists.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which prince founded Jordan's Royal Scientific Society in 1970?",
+        "choices": ["Ghazi bin Muhammad", "Faisal bin Hussein", "Ali bin Hussein", "El Hassan bin Talal"],
+        "answer": 3,
+        "fact": "Prince El Hassan, King Hussein's younger brother, was crown prince for 34 years and has long championed science and dialogue.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which German engineer directed construction of the Hejaz Railway?",
+        "choices": ["Heinrich August Meissner", "Wilhelm von Pressel", "Rudolf Diesel", "Werner von Siemens"],
+        "answer": 0,
+        "fact": "'Meissner Pasha' built the line largely with Ottoman soldiers as labour; work began in 1900 and the railhead reached Medina in 1908.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

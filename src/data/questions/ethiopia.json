@@ -13,7 +13,7 @@
         "q": "Which emperor ruled Ethiopia from his coronation in 1930 until he was deposed in 1974?",
         "choices": ["Menelik II", "Tewodros II", "Yohannes IV", "Haile Selassie"],
         "answer": 3,
-        "fact": "Before his coronation he was known as Ras Tafari Makonnen, a name that later inspired the Rastafari movement in Jamaica.",
+        "fact": "He had served as regent since 1916, and his November 1930 coronation in Addis Ababa drew dignitaries from around the world.",
         "difficulty": 1
       },
       {
@@ -41,7 +41,7 @@
         "q": "Ethiopia's Solomonic dynasty traced its descent to King Solomon and which legendary queen?",
         "choices": ["The Queen of Sheba", "Cleopatra", "Nefertiti", "Queen Amina"],
         "answer": 0,
-        "fact": "The 14th-century Kebra Nagast tells how Makeda, Queen of Sheba, bore Solomon a son, Menelik I.",
+        "fact": "Ethiopian tradition holds that Makeda, Queen of Sheba, bore Solomon a son, Menelik I, founder of the royal line.",
         "difficulty": 1
       },
       {
@@ -160,7 +160,7 @@
         "q": "Emperor Yohannes IV was killed in 1889 at the Battle of Metemma fighting the forces of which state?",
         "choices": ["Ottoman Egypt", "Kingdom of Italy", "Sultanate of Adal", "Mahdist Sudan"],
         "answer": 3,
-        "fact": "Yohannes died of a sniper's bullet just as his army seemed to be winning; his death opened the way for Menelik II.",
+        "fact": "Yohannes was mortally wounded just as his army appeared to be winning; his death opened the way for Menelik II.",
         "difficulty": 3
       },
       {
@@ -175,6 +175,360 @@
         "choices": ["Pedro Páez", "Jerónimo Lobo", "Francisco Álvares", "James Bruce"],
         "answer": 2,
         "fact": "Álvares wrote that he feared readers would not believe his descriptions of the rock-hewn churches.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "According to Ethiopian legend, how did the goatherd Kaldi discover coffee?",
+        "choices": ["His goats fell asleep under a coffee tree", "His goats became lively after eating the berries", "Coffee berries turned his goats' milk brown", "A monk roasted beans he found in a cave"],
+        "answer": 1,
+        "fact": "One version says local monks then brewed the berries into a drink to stay awake during long night prayers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Ethiopia is Africa's largest producer of which crop?",
+        "choices": ["Coffee", "Cocoa", "Tea", "Cotton"],
+        "answer": 0,
+        "fact": "Wild Coffea arabica still grows in the highland forests of south-western Ethiopia, the species' original home.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Grand Ethiopian Renaissance Dam was built on which river?",
+        "choices": ["White Nile", "Awash", "Omo", "Blue Nile"],
+        "answer": 3,
+        "fact": "With a planned capacity of over 5,000 megawatts, it is Africa's largest hydroelectric project.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which state-owned carrier, founded in 1945, has grown into Africa's largest airline group?",
+        "choices": ["Kenya Airways", "EgyptAir", "Ethiopian Airlines", "South African Airways"],
+        "answer": 2,
+        "fact": "Ethiopian Airlines' first international flight in 1946 went from Addis Ababa to Cairo using a Douglas C-47.",
+        "difficulty": 1
+      },
+      {
+        "q": "The electrified standard-gauge railway that opened in the late 2010s links Addis Ababa to a port in which country?",
+        "choices": ["Eritrea", "Somalia", "Djibouti", "Kenya"],
+        "answer": 2,
+        "fact": "Landlocked since 1993, Ethiopia sends most of its foreign trade through the port of Djibouti.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many months are there in Ethiopia's traditional calendar?",
+        "choices": ["12", "13", "10", "14"],
+        "answer": 1,
+        "fact": "Twelve 30-day months are followed by a short month of five or six days, hence the slogan '13 months of sunshine'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which source generates the vast majority of Ethiopia's electricity?",
+        "choices": ["Hydropower", "Coal", "Nuclear power", "Natural gas"],
+        "answer": 0,
+        "fact": "Rivers tumbling off the Ethiopian Highlands give the country one of the largest hydropower potentials in Africa.",
+        "difficulty": 1
+      },
+      {
+        "q": "For centuries, camel caravans have carried slabs of which commodity out of the Danakil Depression?",
+        "choices": ["Copper", "Gold", "Sulphur", "Salt"],
+        "answer": 3,
+        "fact": "Rectangular salt bars called amole were once used as currency across the Ethiopian Highlands.",
+        "difficulty": 1
+      },
+      {
+        "q": "Fossil sites in Ethiopia's Afar region are especially important to scientists studying what?",
+        "choices": ["Dinosaurs", "Marine reptiles", "Ice-age mammoths", "Human evolution"],
+        "answer": 3,
+        "fact": "The Middle Awash valley alone has yielded fossils of human ancestors spanning roughly six million years.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which American paleoanthropologist co-led the team that found the 'Lucy' skeleton in 1974?",
+        "choices": ["Louis Leakey", "Raymond Dart", "Donald Johanson", "Richard Leakey"],
+        "answer": 2,
+        "fact": "Johanson and his student Tom Gray spotted a fragment of arm bone in a gully at Hadar on 24 November 1974.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 'Lucy' skeleton belongs to which species of early human ancestor?",
+        "choices": ["Homo erectus", "Australopithecus afarensis", "Australopithecus africanus", "Paranthropus boisei"],
+        "answer": 1,
+        "fact": "The species is named after the Afar region; Lucy walked upright but stood only about 1.1 metres tall.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ethiopia's first satellite, ETRSS-1, was launched in December 2019 from which country?",
+        "choices": ["China", "Russia", "India", "United States"],
+        "answer": 0,
+        "fact": "The small Earth-observation satellite was designed to monitor crops, weather and the environment.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ethiopian Airlines' main hub is which airport?",
+        "choices": ["Bole International", "Jomo Kenyatta International", "Julius Nyerere International", "King Shaka International"],
+        "answer": 0,
+        "fact": "Bole sits at about 2,300 metres above sea level, one of the highest major international hubs in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 2012, Ethiopian Airlines became the first African airline to receive which new airliner?",
+        "choices": ["Airbus A380", "Concorde", "Boeing 747-8", "Boeing 787 Dreamliner"],
+        "answer": 3,
+        "fact": "The carbon-composite 787 suited Ethiopian's high-altitude hub, where thin air demands efficient long-haul jets.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Addis Ababa Light Rail, opened in 2015, was largely financed and built with help from which country?",
+        "choices": ["Japan", "Germany", "China", "Turkey"],
+        "answer": 2,
+        "fact": "It was hailed as the first modern light rail system in sub-Saharan Africa.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ethiopia has become one of Africa's leading exporters of which horticultural product, especially to Europe?",
+        "choices": ["Avocados", "Cut flowers", "Vanilla", "Bananas"],
+        "answer": 1,
+        "fact": "Roses grown in greenhouses around Addis Ababa are flown overnight to flower auctions in the Netherlands.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Hawassa Industrial Park, inaugurated in 2016, focuses on which industry?",
+        "choices": ["Car assembly", "Textiles and apparel", "Oil refining", "Steel production"],
+        "answer": 1,
+        "fact": "It was promoted as an eco-industrial park powered by hydroelectricity, with zero liquid discharge of wastewater.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ethiopian-born scientist Gebisa Ejeta won the 2009 World Food Prize for drought-resistant hybrids of which crop?",
+        "choices": ["Sorghum", "Teff", "Maize", "Barley"],
+        "answer": 0,
+        "fact": "His hybrids also resisted Striga, a parasitic weed that devastates cereal crops across Africa.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ethiopian scientist Aklilu Lemma found that the endod soapberry kills snails that spread which disease?",
+        "choices": ["Malaria", "Sleeping sickness", "Cholera", "Schistosomiasis"],
+        "answer": 3,
+        "fact": "He noticed dead snails downstream from where people washed clothes with endod berries; he won a Right Livelihood Award in 1989.",
+        "difficulty": 3
+      },
+      {
+        "q": "Some of the oldest known Oldowan stone tools, about 2.6 million years old, were found at which Ethiopian site?",
+        "choices": ["Hadar", "Konso", "Gona", "Melka Kunture"],
+        "answer": 2,
+        "fact": "The Gona finds pushed back the known start of systematic stone-tool making by hundreds of thousands of years.",
+        "difficulty": 3
+      },
+      {
+        "q": "The 4.4-million-year-old fossil skeleton 'Ardi', described in 2009, belongs to which genus?",
+        "choices": ["Australopithecus", "Paranthropus", "Ardipithecus", "Homo"],
+        "answer": 2,
+        "fact": "Ardi had a grasping big toe for climbing trees yet could also walk upright on the ground.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Ethiopian paleoanthropologist discovered the fossil child 'Selam' at Dikika?",
+        "choices": ["Berhane Asfaw", "Zeresenay Alemseged", "Yohannes Haile-Selassie", "Tim White"],
+        "answer": 1,
+        "fact": "Selam, about 3.3 million years old, is often called 'Lucy's baby', though she lived about 100,000 years before Lucy.",
+        "difficulty": 3
+      },
+      {
+        "q": "Since 2008, Ethiopia's Wollo region has become famous for which gemstones?",
+        "choices": ["Opals", "Emeralds", "Tanzanite", "Sapphires"],
+        "answer": 0,
+        "fact": "Welo opals often show vivid play-of-colour and are mined by hand from cliffs in the northern highlands.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Gilgel Gibe III hydroelectric dam, completed in the mid-2010s, stands on which river?",
+        "choices": ["Awash", "Tekezé", "Baro", "Omo"],
+        "answer": 3,
+        "fact": "The Omo flows south from the dam into Lake Turkana, which lies mostly in Kenya.",
+        "difficulty": 3
+      },
+      {
+        "q": "The original metre-gauge railway from Djibouti, completed to Addis Ababa in 1917, was built by a company from which country?",
+        "choices": ["Britain", "Italy", "Germany", "France"],
+        "answer": 3,
+        "fact": "The 'Chemin de fer franco-éthiopien' took about two decades to build and ran for roughly a century.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "How were the famous medieval churches of Lalibela created?",
+        "choices": ["Built from stacked stone blocks", "Built of timber and thatch", "Carved down into solid rock", "Made of sun-dried mud brick"],
+        "answer": 2,
+        "fact": "Each church was hewn from the living volcanic rock, so the builders worked downwards, removing stone rather than adding it.",
+        "difficulty": 1
+      },
+      {
+        "q": "Seen from above, Lalibela's Church of St George (Bete Giyorgis) is carved in what shape?",
+        "choices": ["A star", "A cross", "A circle", "A lion"],
+        "answer": 1,
+        "fact": "Bete Giyorgis sits about 12 metres down in a pit and is reached through a trench and tunnel cut into the rock.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which country returned the looted Obelisk of Aksum to Ethiopia in 2005?",
+        "choices": ["Italy", "Britain", "France", "Egypt"],
+        "answer": 0,
+        "fact": "Taken to Rome in 1937, the 24-metre stele was flown home in three pieces and re-erected in Aksum in 2008.",
+        "difficulty": 1
+      },
+      {
+        "q": "Eskista, Ethiopia's famous traditional dance, is known for rapid movements of which part of the body?",
+        "choices": ["Feet", "Hips", "Hands", "Shoulders"],
+        "answer": 3,
+        "fact": "Dancers bounce, roll and shake their shoulders at dazzling speed while keeping the rest of the body almost still.",
+        "difficulty": 1
+      },
+      {
+        "q": "King Lalibela is said to have built his rock churches as a 'New' version of which holy city?",
+        "choices": ["Rome", "Constantinople", "Alexandria", "Jerusalem"],
+        "answer": 3,
+        "fact": "The site even has a stream named the Yordanos, after the River Jordan.",
+        "difficulty": 1
+      },
+      {
+        "q": "The giant stelae of Aksum are carved to resemble what?",
+        "choices": ["Standing warriors", "Palm trees", "Multi-storey buildings", "Coiled serpents"],
+        "answer": 2,
+        "fact": "False doors, windows and beam-ends are carved into the granite, mimicking Aksumite palaces many storeys high.",
+        "difficulty": 1
+      },
+      {
+        "q": "The krar, a popular Ethiopian instrument, belongs to which family of instruments?",
+        "choices": ["Drum", "Lyre", "Flute", "Trumpet"],
+        "answer": 1,
+        "fact": "The five- or six-stringed krar is played by plucking or strumming and often accompanies singers at celebrations.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which musician is known as the father of Ethio-jazz?",
+        "choices": ["Mulatu Astatke", "Teddy Afro", "Tilahun Gessesse", "Aster Aweke"],
+        "answer": 0,
+        "fact": "Mulatu studied in London and Boston; his music featured in Jim Jarmusch's 2005 film 'Broken Flowers'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Ethiopian-born Haile Gerima is acclaimed for his work in which art form?",
+        "choices": ["Film", "Sculpture", "Opera", "Architecture"],
+        "answer": 0,
+        "fact": "His 1993 film 'Sankofa', about slavery in the Americas, became an independent hit in the United States.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many medieval monolithic churches make up the Lalibela complex?",
+        "choices": ["3", "25", "40", "11"],
+        "answer": 3,
+        "fact": "The churches were carved in the late 12th and early 13th centuries and became a UNESCO World Heritage Site in 1978.",
+        "difficulty": 2
+      },
+      {
+        "q": "King Lalibela, who gave his name to the rock churches, belonged to which dynasty?",
+        "choices": ["Solomonic", "Aksumite", "Zagwe", "Gondarine"],
+        "answer": 2,
+        "fact": "The Zagwe kings ruled from their capital at Roha, which was later renamed Lalibela in the king's honour.",
+        "difficulty": 2
+      },
+      {
+        "q": "Gondar's Debre Berhan Selassie church is famous for a ceiling painted with what?",
+        "choices": ["Stars and planets", "Rows of winged angel faces", "Lions of Judah", "Geometric patterns"],
+        "answer": 1,
+        "fact": "Legend says a swarm of bees drove away raiders who attacked Gondar in 1888, saving the church.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 14th-century Ge'ez text tells the story of the Queen of Sheba, King Solomon and their son Menelik I?",
+        "choices": ["Fetha Nagast", "Kebra Nagast", "Book of Enoch", "Mashafa Berhan"],
+        "answer": 1,
+        "fact": "Its title means 'Glory of the Kings', and it served for centuries as a founding epic of Ethiopia's monarchy.",
+        "difficulty": 2
+      },
+      {
+        "q": "Maaza Mengiste's novel 'The Shadow King', shortlisted for the 2020 Booker Prize, is set during which conflict?",
+        "choices": ["Italy's invasion of Ethiopia in 1935", "The Battle of Adwa", "World War I", "The Zemene Mesafint"],
+        "answer": 0,
+        "fact": "The novel highlights women who fought against the Italian invasion.",
+        "difficulty": 2
+      },
+      {
+        "q": "'Tizita', both a musical mode and a much-loved song genre in Ethiopia, expresses what feeling?",
+        "choices": ["Triumphant joy", "Anger", "Religious awe", "Nostalgic longing"],
+        "answer": 3,
+        "fact": "Tizita is often compared to the blues or Portuguese saudade; almost every major Ethiopian singer has recorded one.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which popular Ethiopian singer was born Tewodros Kassahun?",
+        "choices": ["Mahmoud Ahmed", "Alemayehu Eshete", "Teddy Afro", "Gigi"],
+        "answer": 2,
+        "fact": "Many of his songs draw on Ethiopian history; the title track of his 2012 album 'Tikur Sew' honours Menelik II and the victory at Adwa.",
+        "difficulty": 2
+      },
+      {
+        "q": "The masenqo, played by Ethiopian minstrels called azmari, is what kind of instrument?",
+        "choices": ["A double-reed pipe", "A giant kettle drum", "A single-stringed bowed fiddle", "A thumb piano"],
+        "answer": 2,
+        "fact": "Azmaris improvise witty, often teasing verses about their audience while playing in bars and at weddings.",
+        "difficulty": 2
+      },
+      {
+        "q": "In traditional Ethiopian church painting, how are holy figures usually shown, in contrast to evil ones?",
+        "choices": ["Always seated on thrones", "Facing forward with large eyes", "In silhouette only", "With their backs turned"],
+        "answer": 1,
+        "fact": "Villains and demons are typically painted in profile, showing only one eye.",
+        "difficulty": 2
+      },
+      {
+        "q": "Painter Afewerk Tekle created the huge stained-glass windows of which Addis Ababa building, home of the UN Economic Commission for Africa?",
+        "choices": ["Africa Hall", "Addis Ababa City Hall", "National Theatre", "Menelik II Mausoleum"],
+        "answer": 0,
+        "fact": "The triptych of windows, unveiled in the early 1960s, depicts Africa's past suffering, present struggle and hoped-for future.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Garima Gospels, kept in an Ethiopian monastery, are famous for being what?",
+        "choices": ["The first book printed in Africa", "Written entirely in gold ink", "The longest manuscript in Ge'ez", "Among the oldest illustrated Christian manuscripts"],
+        "answer": 3,
+        "fact": "Radiocarbon dating suggests they were made between roughly 330 and 650 CE.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is thought to have happened to the Great Stele of Aksum, about 33 metres long?",
+        "choices": ["It was shipped to Rome", "It was buried by a volcanic eruption", "It was cut up to build a church", "It collapsed during or soon after being raised"],
+        "answer": 3,
+        "fact": "Weighing around 500 tonnes, it may be the largest single block of stone humans ever tried to stand upright.",
+        "difficulty": 3
+      },
+      {
+        "q": "Haile Gerima's film 'Teza' won the Special Jury Prize at which 2008 film festival?",
+        "choices": ["Cannes", "Berlin", "Venice", "Toronto"],
+        "answer": 2,
+        "fact": "'Teza', meaning 'morning dew', also won the top prize, the Golden Stallion of Yennenga, at Burkina Faso's FESPACO in 2009.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who wrote 'Fikir Eske Mekabir' ('Love unto the Grave'), often called the greatest Amharic novel?",
+        "choices": ["Tsegaye Gabre-Medhin", "Haddis Alemayehu", "Bealu Girma", "Mengistu Lemma"],
+        "answer": 1,
+        "fact": "Published in the 1960s, the novel's love story is set against the rigid class system of rural Gojjam.",
+        "difficulty": 3
+      },
+      {
+        "q": "Yared Zeleke's 'Lamb' (2015) was the first Ethiopian film chosen for the official selection of which festival?",
+        "choices": ["Cannes", "Venice", "Sundance", "Berlin"],
+        "answer": 0,
+        "fact": "The film follows a boy who tries to save his beloved sheep from being sacrificed for a feast.",
+        "difficulty": 3
+      },
+      {
+        "q": "Addis Ababa-born artist Julie Mehretu is best known for what kind of work?",
+        "choices": ["Large, layered abstract paintings", "Bronze sculpture", "Documentary photography", "Glazed ceramics"],
+        "answer": 0,
+        "fact": "Her vast canvases layer architectural drawings, maps and gestural marks; she received a MacArthur 'genius' grant in 2005.",
         "difficulty": 3
       }
     ]
