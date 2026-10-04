@@ -71,6 +71,111 @@
         "answer": 1,
         "fact": "After his execution England was a republic for 11 years, until the monarchy was restored under his son Charles II in 1660.",
         "difficulty": 3
+      },
+      {
+        "q": "Which queen reigned over Britain from 1837 to 1901?",
+        "choices": ["Victoria", "Elizabeth I", "Anne", "Mary II"],
+        "answer": 0,
+        "fact": "Victoria reigned for 63 years, the longest of any British monarch until Elizabeth II overtook her record in 2015.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which British admiral was killed at the Battle of Trafalgar in 1805?",
+        "choices": ["Francis Drake", "Horatio Nelson", "Walter Raleigh", "John Jellicoe"],
+        "answer": 1,
+        "fact": "Nelson's body was brought home preserved in a cask of brandy. His statue has stood on top of Nelson's Column in Trafalgar Square since 1843.",
+        "difficulty": 1
+      },
+      {
+        "q": "What name is given to the failed 1605 conspiracy to blow up the Houses of Parliament?",
+        "choices": ["The Babington Plot", "The Rye House Plot", "The Gunpowder Plot", "The Cato Street Conspiracy"],
+        "answer": 2,
+        "fact": "Guy Fawkes was caught guarding the barrels of gunpowder under the House of Lords. Britain still marks the night with bonfires and fireworks every 5 November.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 9th-century king of Wessex, who fought off Viking invaders, is known as \"the Great\"?",
+        "choices": ["Æthelstan", "Cnut", "Edward the Confessor", "Alfred"],
+        "answer": 3,
+        "fact": "Legend says that while hiding from the Vikings in the Somerset marshes, Alfred was scolded by a peasant woman for letting her cakes burn.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which famous ocean liner, built in Belfast, sank on her maiden voyage in 1912?",
+        "choices": ["Titanic", "Lusitania", "Queen Mary", "Mauretania"],
+        "answer": 0,
+        "fact": "Titanic was built at the Harland and Wolff shipyard. The Titanic Belfast museum opened beside the old slipways in 2012, a century after she sank.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which queen of the Iceni led a revolt against Roman rule in Britain around AD 60?",
+        "choices": ["Cartimandua", "Boudica", "Æthelflæd", "Matilda"],
+        "answer": 1,
+        "fact": "Boudica's forces burned Camulodunum (Colchester), Londinium (London) and Verulamium (St Albans) before the Romans finally defeated them.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year was the Battle of Britain fought in the skies over southern England?",
+        "choices": ["1939", "1941", "1940", "1944"],
+        "answer": 2,
+        "fact": "Churchill praised the RAF pilots with the words: \"Never in the field of human conflict was so much owed by so many to so few.\"",
+        "difficulty": 2
+      },
+      {
+        "q": "Which pandemic reached England in 1348 and killed a huge share of the population?",
+        "choices": ["The Great Plague", "The sweating sickness", "Spanish flu", "The Black Death"],
+        "answer": 3,
+        "fact": "Historians estimate the Black Death killed between a third and a half of England's people. The labour shortage it caused helped spark the Peasants' Revolt of 1381.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who led the Scottish army that defeated Edward II at the Battle of Bannockburn in 1314?",
+        "choices": ["Robert the Bruce", "William Wallace", "James IV", "Macbeth"],
+        "answer": 0,
+        "fact": "In 1320 Scottish nobles sent the Declaration of Arbroath to the Pope, asking him to recognise Scotland's independence under Robert the Bruce.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Anglo-Saxon ship burial, uncovered in Suffolk in 1939, is famous for its ornate warrior's helmet?",
+        "choices": ["Vindolanda", "Sutton Hoo", "Skara Brae", "Jorvik"],
+        "answer": 1,
+        "fact": "Landowner Edith Pretty donated the Sutton Hoo treasures to the British Museum. The story of the excavation inspired the 2021 film \"The Dig\".",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1746 battle near Inverness is known as the last pitched battle fought on British soil?",
+        "choices": ["Prestonpans", "Sedgemoor", "Culloden", "Falkirk"],
+        "answer": 2,
+        "fact": "Culloden ended the Jacobite rising of Bonnie Prince Charlie. He escaped to France, famously helped by Flora MacDonald, who disguised him as her maid.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did the United Kingdom of Great Britain and Ireland come into being?",
+        "choices": ["1707", "1798", "1829", "1801"],
+        "answer": 3,
+        "fact": "When Ireland joined the union on 1 January 1801, the red saltire of St Patrick was added to the flag, creating the Union Flag we know today.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who led the Peasants' Revolt of 1381?",
+        "choices": ["Wat Tyler", "Jack Cade", "Robert Kett", "Perkin Warbeck"],
+        "answer": 0,
+        "fact": "Tyler was killed at Smithfield in London during a meeting with King Richard II, who was then only 14 years old.",
+        "difficulty": 3
+      },
+      {
+        "q": "Under which Roman emperor did the conquest of Britain begin in AD 43?",
+        "choices": ["Augustus", "Claudius", "Nero", "Caligula"],
+        "answer": 1,
+        "fact": "According to the historian Cassius Dio, Claudius spent only about 16 days in Britain, entering Camulodunum (Colchester) with war elephants.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which couple took the throne together after the Glorious Revolution of 1688?",
+        "choices": ["Charles II and Catherine of Braganza", "James II and Mary of Modena", "William III and Mary II", "George I and Sophia Dorothea"],
+        "answer": 2,
+        "fact": "William and Mary reigned as joint sovereigns, unique in British history. After Mary died in 1694, William ruled alone until 1702.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -142,6 +247,111 @@
         "choices": ["Humphry Davy", "Lord Kelvin", "James Clerk Maxwell", "Michael Faraday"],
         "answer": 3,
         "fact": "Faraday had little formal schooling. He started as a bookbinder's apprentice before becoming Humphry Davy's assistant at the Royal Institution.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Scottish-born inventor was granted the first US patent for the telephone in 1876?",
+        "choices": ["Thomas Edison", "Alexander Graham Bell", "Guglielmo Marconi", "Nikola Tesla"],
+        "answer": 1,
+        "fact": "Bell was born in Edinburgh in 1847. His family emigrated to Canada in 1870, and he later taught deaf students in Boston.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Victorian engineer built the Great Western Railway and the steamship SS Great Britain?",
+        "choices": ["Thomas Telford", "George Stephenson", "Isambard Kingdom Brunel", "Robert Stephenson"],
+        "answer": 2,
+        "fact": "In a 2002 BBC poll of the 100 Greatest Britons, Brunel came second, behind only Winston Churchill.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which British physicist wrote the bestselling book \"A Brief History of Time\" (1988)?",
+        "choices": ["Peter Higgs", "Paul Dirac", "Roger Penrose", "Stephen Hawking"],
+        "answer": 3,
+        "fact": "Hawking held Cambridge's Lucasian Professorship of Mathematics for 30 years, the same chair once held by Isaac Newton.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which famous RAF fighter plane of the Battle of Britain was designed by R. J. Mitchell?",
+        "choices": ["Spitfire", "Hurricane", "Lancaster", "Mosquito"],
+        "answer": 0,
+        "fact": "Mitchell died of cancer in 1937, aged 42, so he never saw his Spitfire go into battle.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which time standard is named after a district of London that is home to the Royal Observatory?",
+        "choices": ["Coordinated Universal Time", "Greenwich Mean Time", "Central European Time", "Eastern Standard Time"],
+        "answer": 1,
+        "fact": "At a conference in Washington in 1884, delegates chose the meridian through Greenwich as the world's Prime Meridian, longitude 0°.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which British scientist, with American James Watson, proposed the double-helix structure of DNA in 1953?",
+        "choices": ["Paul Nurse", "Frederick Sanger", "Francis Crick", "Peter Medawar"],
+        "answer": 2,
+        "fact": "A plaque at the Eagle pub in Cambridge marks where, by Watson's account, Crick announced they had found \"the secret of life\".",
+        "difficulty": 2
+      },
+      {
+        "q": "Which English engineer patented a design for the turbojet engine in 1930?",
+        "choices": ["Barnes Wallis", "R. J. Mitchell", "Frederick Lanchester", "Frank Whittle"],
+        "answer": 3,
+        "fact": "In Germany, Hans von Ohain developed a jet engine independently, and a German jet made the first jet-powered flight in 1939.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which railway, opened in 1825, was the world's first public railway to use steam locomotives?",
+        "choices": ["Stockton and Darlington Railway", "Liverpool and Manchester Railway", "Great Western Railway", "London and Birmingham Railway"],
+        "answer": 0,
+        "fact": "George Stephenson's Locomotion No. 1 hauled the opening train on 27 September 1825, and the line's bicentenary was celebrated in 2025.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Scottish physicist's equations showed that light is an electromagnetic wave?",
+        "choices": ["Lord Kelvin", "James Clerk Maxwell", "Michael Faraday", "Paul Dirac"],
+        "answer": 1,
+        "fact": "Maxwell's method also produced the first lasting colour photograph, an image of a tartan ribbon, shown in 1861.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which English doctor developed the first vaccine, against smallpox, in 1796?",
+        "choices": ["Joseph Lister", "William Harvey", "Edward Jenner", "John Snow"],
+        "answer": 2,
+        "fact": "Jenner used cowpox from a milkmaid to protect a boy named James Phipps. The word \"vaccine\" comes from the Latin \"vacca\", meaning cow.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which English physician described how the heart pumps blood around the body in 1628?",
+        "choices": ["Thomas Linacre", "Thomas Sydenham", "John Hunter", "William Harvey"],
+        "answer": 3,
+        "fact": "Harvey set out his discovery in the book \"De Motu Cordis\". He was physician to both James I and Charles I.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which London doctor traced an 1854 cholera outbreak to a water pump on Broad Street in Soho?",
+        "choices": ["John Snow", "Edwin Chadwick", "William Farr", "Thomas Sydenham"],
+        "answer": 0,
+        "fact": "A replica of the handle-less pump stands today on Broadwick Street, close to a pub named in Snow's honour.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which surgeon pioneered antiseptic surgery using carbolic acid in the 1860s?",
+        "choices": ["Robert Liston", "Joseph Lister", "James Young Simpson", "John Hunter"],
+        "answer": 1,
+        "fact": "Lister's work saved countless lives from infection. The mouthwash Listerine, created in 1879, was named in his honour.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which British engineer invented the hovercraft in the 1950s?",
+        "choices": ["Barnes Wallis", "Alec Issigonis", "Christopher Cockerell", "Frank Whittle"],
+        "answer": 2,
+        "fact": "The first full-size hovercraft, the SR.N1, crossed the English Channel in July 1959, exactly 50 years after Louis Blériot first flew across it.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Victorian engineer built London's great sewer network after the \"Great Stink\" of 1858?",
+        "choices": ["Thomas Telford", "John Rennie", "Isambard Kingdom Brunel", "Joseph Bazalgette"],
+        "answer": 3,
+        "fact": "Bazalgette hid his main sewers inside new Thames embankments. The Victoria Embankment also carries a London Underground line.",
         "difficulty": 3
       }
     ],
@@ -215,6 +425,111 @@
         "answer": 3,
         "fact": "Completed in 1998, the steel angel stands 20 metres tall. Its 54-metre wings are angled slightly forward to create a sense of embrace.",
         "difficulty": 3
+      },
+      {
+        "q": "Who wrote the 1843 novella \"A Christmas Carol\"?",
+        "choices": ["Thomas Hardy", "Anthony Trollope", "Charles Dickens", "William Makepeace Thackeray"],
+        "answer": 2,
+        "fact": "Dickens wrote \"A Christmas Carol\" in about six weeks, and the first 6,000 copies sold out by Christmas Eve 1843.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which British author created the Harry Potter books?",
+        "choices": ["Philip Pullman", "Roald Dahl", "C. S. Lewis", "J. K. Rowling"],
+        "answer": 3,
+        "fact": "Rowling has said the idea for Harry Potter came to her in 1990, on a delayed train from Manchester to London King's Cross.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which London rock band released \"Bohemian Rhapsody\" in 1975?",
+        "choices": ["Queen", "The Rolling Stones", "Led Zeppelin", "Pink Floyd"],
+        "answer": 0,
+        "fact": "Although it is about six minutes long and has no chorus, \"Bohemian Rhapsody\" spent nine weeks at number one in the UK in 1975-76.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which fictional spy, codenamed 007, was created by author Ian Fleming?",
+        "choices": ["George Smiley", "James Bond", "Harry Palmer", "Jason Bourne"],
+        "answer": 1,
+        "fact": "Fleming borrowed the name from an American ornithologist, James Bond, author of the book \"Birds of the West Indies\".",
+        "difficulty": 1
+      },
+      {
+        "q": "Who wrote \"Alice's Adventures in Wonderland\" (1865)?",
+        "choices": ["Edward Lear", "Kenneth Grahame", "Lewis Carroll", "Beatrix Potter"],
+        "answer": 2,
+        "fact": "Lewis Carroll was the pen name of Charles Dodgson, an Oxford mathematics lecturer who first told the story to young Alice Liddell.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Brontë sister wrote \"Jane Eyre\" (1847)?",
+        "choices": ["Emily Brontë", "Anne Brontë", "Elizabeth Brontë", "Charlotte Brontë"],
+        "answer": 3,
+        "fact": "Charlotte first published \"Jane Eyre\" under the male pen name Currer Bell. Her sisters wrote as Ellis and Acton Bell.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which artist painted \"The Hay Wain\" (1821)?",
+        "choices": ["John Constable", "Thomas Gainsborough", "J. M. W. Turner", "George Stubbs"],
+        "answer": 0,
+        "fact": "The painting shows a scene near Flatford Mill on the River Stour in Suffolk. Willy Lott's Cottage, seen on the left, still stands.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who wrote the dystopian novel \"Nineteen Eighty-Four\" (1949)?",
+        "choices": ["Aldous Huxley", "George Orwell", "H. G. Wells", "Anthony Burgess"],
+        "answer": 1,
+        "fact": "George Orwell was the pen name of Eric Arthur Blair. He finished the novel in a remote farmhouse on the Scottish island of Jura.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which German-born composer wrote the oratorio \"Messiah\", first performed in 1742?",
+        "choices": ["Johann Sebastian Bach", "Joseph Haydn", "George Frideric Handel", "Felix Mendelssohn"],
+        "answer": 2,
+        "fact": "Handel became a British subject in 1727 and spent most of his career in London. He is buried in Westminster Abbey.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which anonymous street artist's \"Girl with Balloon\" shredded itself moments after being sold at auction in 2018?",
+        "choices": ["Damien Hirst", "Tracey Emin", "Shepard Fairey", "Banksy"],
+        "answer": 3,
+        "fact": "The half-shredded work was renamed \"Love is in the Bin\". When it was resold in 2021, it fetched about £18.6 million.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which poet wrote \"The Rime of the Ancient Mariner\"?",
+        "choices": ["Samuel Taylor Coleridge", "William Wordsworth", "Lord Byron", "John Keats"],
+        "answer": 0,
+        "fact": "The poem first appeared in \"Lyrical Ballads\" (1798), a joint collection with Wordsworth that helped launch English Romanticism.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Pre-Raphaelite artist painted \"Ophelia\" (1851-52)?",
+        "choices": ["Dante Gabriel Rossetti", "John Everett Millais", "William Holman Hunt", "Edward Burne-Jones"],
+        "answer": 1,
+        "fact": "The model, Elizabeth Siddal, posed in a bath of water warmed by lamps. When they went out, she reportedly fell seriously ill.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which English composer wrote the orchestral suite \"The Planets\"?",
+        "choices": ["Ralph Vaughan Williams", "Benjamin Britten", "Gustav Holst", "William Walton"],
+        "answer": 2,
+        "fact": "Holst wrote \"The Planets\" in 1914-1916, so it has no movement for Pluto, which was not discovered until 1930.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which architect remodelled the Royal Pavilion in Brighton in an Indian-inspired style for the Prince Regent?",
+        "choices": ["Robert Adam", "John Soane", "Nicholas Hawksmoor", "John Nash"],
+        "answer": 3,
+        "fact": "Nash also laid out Regent Street and the terraces around Regent's Park, both named after his patron, the future George IV.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which English playwright wrote \"Look Back in Anger\" (1956)?",
+        "choices": ["John Osborne", "Harold Pinter", "Tom Stoppard", "Noël Coward"],
+        "answer": 0,
+        "fact": "After its premiere at London's Royal Court Theatre, critics began calling a new generation of writers the \"angry young men\".",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -286,6 +601,111 @@
         "choices": ["1918", "1945", "1928", "1969"],
         "answer": 2,
         "fact": "In 1918 only some women over 30 could vote. The Equal Franchise Act of 1928 lowered the voting age for women to 21, the same as for men.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which chamber of the UK Parliament do elected MPs sit?",
+        "choices": ["The House of Lords", "The Senate", "The National Assembly", "The House of Commons"],
+        "answer": 3,
+        "fact": "The Commons benches are green. Red lines on the floor, said to be two sword-lengths apart, mark where members may not cross during debates.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which party did Tony Blair lead to a landslide general election victory in 1997?",
+        "choices": ["Labour", "Conservative", "Liberal Democrats", "Scottish National Party"],
+        "answer": 0,
+        "fact": "Labour won 418 seats in 1997, giving it a majority of 179, the largest in the party's history.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which government minister presents the annual Budget to Parliament?",
+        "choices": ["The Home Secretary", "The Chancellor of the Exchequer", "The Foreign Secretary", "The Lord Chancellor"],
+        "answer": 1,
+        "fact": "By tradition, the Chancellor poses outside 11 Downing Street holding up a red despatch box before delivering the Budget speech.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Prime Minister called the 2016 EU referendum and resigned after the Leave vote?",
+        "choices": ["Theresa May", "Gordon Brown", "David Cameron", "Boris Johnson"],
+        "answer": 2,
+        "fact": "Cameron later returned to government as Foreign Secretary in 2023, after being made a member of the House of Lords as Lord Cameron.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the title of the person who chairs debates in the House of Commons?",
+        "choices": ["Black Rod", "The Chief Whip", "The Leader of the House", "The Speaker"],
+        "answer": 3,
+        "fact": "By tradition, a newly elected Speaker is dragged to the chair by other MPs, a reminder of days when the job could be dangerous.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the speech called in which the monarch sets out the government's plans at the State Opening of Parliament?",
+        "choices": ["The King's (or Queen's) Speech", "The Budget Statement", "The Royal Address", "The Throne Address"],
+        "answer": 0,
+        "fact": "Before the speech, Black Rod summons MPs to the Lords, but first has the Commons door slammed in their face, a symbol of the Commons' independence.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Prime Minister's government created the National Health Service in 1948?",
+        "choices": ["Harold Wilson", "Clement Attlee", "Ramsay MacDonald", "Winston Churchill"],
+        "answer": 1,
+        "fact": "The NHS was launched on 5 July 1948 by Health Minister Aneurin Bevan, offering care that was free at the point of use.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1998 peace deal set up a power-sharing government in Northern Ireland?",
+        "choices": ["The Anglo-Irish Treaty", "The Sunningdale Agreement", "The Good Friday Agreement", "The Downing Street Declaration"],
+        "answer": 2,
+        "fact": "The agreement was approved by voters in referendums held on the same day, 22 May 1998, in both Northern Ireland and the Republic of Ireland.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many MPs sit in the House of Commons?",
+        "choices": ["600", "635", "700", "650"],
+        "answer": 3,
+        "fact": "The Commons chamber has seats for only about 427 MPs, so members often stand or sit on the steps during busy debates.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Victorian politician served as Prime Minister four separate times?",
+        "choices": ["William Gladstone", "Benjamin Disraeli", "Lord Palmerston", "Lord Salisbury"],
+        "answer": 0,
+        "fact": "Gladstone was still Prime Minister at the age of 84 when he left office in 1894, making him the oldest person ever to hold the job.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1832 Act reformed the voting system and abolished many \"rotten boroughs\"?",
+        "choices": ["The Parliament Act", "The Great Reform Act", "The Ballot Act", "The Test Act"],
+        "answer": 1,
+        "fact": "Old Sarum in Wiltshire, an almost empty hilltop, elected two MPs until the Act abolished it.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1911 Act removed the House of Lords' power to veto most bills?",
+        "choices": ["The Septennial Act", "The Life Peerages Act", "The Parliament Act", "The House of Lords Act"],
+        "answer": 2,
+        "fact": "The same Act cut the maximum time between general elections from seven years to five.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became Britain's first Labour Prime Minister in 1924?",
+        "choices": ["Keir Hardie", "Arthur Henderson", "Clement Attlee", "Ramsay MacDonald"],
+        "answer": 3,
+        "fact": "MacDonald's first government lasted less than a year. He returned as Prime Minister from 1929 to 1935.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which British Prime Minister was assassinated in 1812?",
+        "choices": ["Spencer Perceval", "Lord Liverpool", "William Pitt the Younger", "George Canning"],
+        "answer": 0,
+        "fact": "Perceval was shot in the lobby of the House of Commons by John Bellingham. He is the only British Prime Minister to have been assassinated.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became the first woman Speaker of the House of Commons in 1992?",
+        "choices": ["Barbara Castle", "Betty Boothroyd", "Shirley Williams", "Harriet Harman"],
+        "answer": 1,
+        "fact": "Before entering politics, Betty Boothroyd danced professionally as one of the Tiller Girls.",
         "difficulty": 3
       }
     ],
@@ -369,6 +789,126 @@
         "fact": "Women's T20 cricket made its Commonwealth Games debut at Birmingham 2022. Cricket had last featured, for men only, in 1998.",
         "difficulty": 3,
         "asOf": "2022"
+      },
+      {
+        "q": "Which party leader won the UK general election of December 2019?",
+        "choices": ["Boris Johnson", "Jeremy Corbyn", "Theresa May", "Jo Swinson"],
+        "answer": 0,
+        "fact": "Campaigning on the slogan \"Get Brexit Done\", Johnson's Conservatives won an 80-seat majority.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which country beat England on penalties in the final of Euro 2020, played at Wembley in 2021?",
+        "choices": ["Spain", "Italy", "Germany", "France"],
+        "answer": 1,
+        "fact": "Euro 2020 was postponed by a year because of the COVID-19 pandemic but kept its original name.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which British teenager won the 2021 US Open women's singles title?",
+        "choices": ["Katie Boulter", "Johanna Konta", "Emma Raducanu", "Heather Watson"],
+        "answer": 2,
+        "fact": "Raducanu, aged 18, became the first qualifier ever to win a Grand Slam singles title, and she did it without dropping a set.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which royal couple announced in January 2020 that they would step back as senior working royals?",
+        "choices": ["Prince William and Catherine", "Prince Edward and Sophie", "Princess Anne and Timothy Laurence", "Prince Harry and Meghan"],
+        "answer": 3,
+        "fact": "The Duke and Duchess of Sussex later settled in Montecito, California.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In December 2020 the UK became the first country to approve which company's COVID-19 vaccine, made with BioNTech?",
+        "choices": ["Pfizer", "Moderna", "AstraZeneca", "Novavax"],
+        "answer": 0,
+        "fact": "Margaret Keenan, aged 90, was the first person to receive the approved vaccine, at a hospital in Coventry on 8 December 2020.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Oxford University developed a COVID-19 vaccine in partnership with which company?",
+        "choices": ["Moderna", "AstraZeneca", "Johnson & Johnson", "Sanofi"],
+        "answer": 1,
+        "fact": "AstraZeneca agreed to supply the Oxford vaccine on a not-for-profit basis during the pandemic.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "Who succeeded Nicola Sturgeon as First Minister of Scotland in March 2023?",
+        "choices": ["John Swinney", "Kate Forbes", "Humza Yousaf", "Anas Sarwar"],
+        "answer": 2,
+        "fact": "Yousaf was the first Muslim to lead a devolved UK government. He resigned in 2024 and was succeeded by John Swinney.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who became the UK's first female Chancellor of the Exchequer in July 2024?",
+        "choices": ["Yvette Cooper", "Angela Rayner", "Lisa Nandy", "Rachel Reeves"],
+        "answer": 3,
+        "fact": "The office of Chancellor of the Exchequer dates back to the 13th century, making Reeves the first woman in the job in roughly 800 years.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which party, led by Nigel Farage, won five seats at the July 2024 general election?",
+        "choices": ["Reform UK", "UKIP", "The Brexit Party", "The Green Party"],
+        "answer": 0,
+        "fact": "Farage won the Essex seat of Clacton, entering the House of Commons on his eighth attempt.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who became Northern Ireland's first nationalist First Minister in February 2024?",
+        "choices": ["Mary Lou McDonald", "Michelle O'Neill", "Arlene Foster", "Naomi Long"],
+        "answer": 1,
+        "fact": "The First Minister and deputy First Minister have equal powers. Emma Little-Pengelly of the DUP became deputy First Minister alongside O'Neill.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In July 2023 the UK signed up to join which Asia-Pacific trade agreement?",
+        "choices": ["RCEP", "ASEAN", "CPTPP", "USMCA"],
+        "answer": 2,
+        "fact": "The UK became the first new member of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, and its first European one, in December 2024.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who was elected Speaker of the House of Commons in November 2019, succeeding John Bercow?",
+        "choices": ["Harriet Harman", "Chris Bryant", "Eleanor Laing", "Lindsay Hoyle"],
+        "answer": 3,
+        "fact": "Hoyle is known for naming his pets after politicians, including a tortoise called Maggie and a parrot called Boris.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "Who became the first woman to serve as First Minister of Wales, in August 2024?",
+        "choices": ["Eluned Morgan", "Leanne Wood", "Jane Hutt", "Kirsty Williams"],
+        "answer": 0,
+        "fact": "Morgan succeeded Vaughan Gething, who resigned after only about four months as First Minister.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "At which historic site did the UK host the first global AI Safety Summit in November 2023?",
+        "choices": ["Hampton Court Palace", "Bletchley Park", "Blenheim Palace", "Lancaster House"],
+        "answer": 1,
+        "fact": "The summit produced the Bletchley Declaration on AI risks, signed by 28 countries and the European Union.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which club did Manchester City beat in the 2023 Champions League final to complete a treble?",
+        "choices": ["Real Madrid", "Bayern Munich", "Inter Milan", "Paris Saint-Germain"],
+        "answer": 2,
+        "fact": "Rodri scored the only goal in Istanbul. City became the second English men's club to win the treble, after Manchester United in 1999.",
+        "difficulty": 3,
+        "asOf": "2023"
       }
     ],
     "general": [
@@ -440,6 +980,111 @@
         "choices": ["Orkney", "Shetland", "The Outer Hebrides", "The Isles of Scilly"],
         "answer": 1,
         "fact": "Shetland is closer to Norway than to London. Its Norse heritage lives on in Up Helly Aa, a winter fire festival where a Viking longship is burned.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the capital city of Wales?",
+        "choices": ["Swansea", "Cardiff", "Newport", "Wrexham"],
+        "answer": 1,
+        "fact": "Cardiff only officially became the capital of Wales in 1955, making it one of the youngest capital cities in Europe.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which London palace is the official residence of the British monarch?",
+        "choices": ["Kensington Palace", "Hampton Court Palace", "Buckingham Palace", "St James's Palace"],
+        "answer": 2,
+        "fact": "Buckingham Palace has 775 rooms. When the monarch is in residence, the Royal Standard flies from its flagpole instead of the Union Flag.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which river flows through the heart of London?",
+        "choices": ["The Severn", "The Trent", "The Mersey", "The Thames"],
+        "answer": 3,
+        "fact": "The Thames Barrier, in use since 1982, can close its giant steel gates to protect London from flooding by storm surges from the North Sea.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which London stadium is home to the England national football team?",
+        "choices": ["Wembley Stadium", "Twickenham Stadium", "Old Trafford", "Stamford Bridge"],
+        "answer": 0,
+        "fact": "The new Wembley, opened in 2007, is crowned by a 133-metre steel arch that can be seen from across London.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which English city has the oldest university in the English-speaking world?",
+        "choices": ["Cambridge", "Oxford", "London", "Durham"],
+        "answer": 1,
+        "fact": "There is evidence of teaching at Oxford as early as 1096. Cambridge University was founded in 1209 by scholars who left Oxford.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the national animal of Scotland?",
+        "choices": ["The red deer", "The golden eagle", "The unicorn", "The Highland cow"],
+        "answer": 2,
+        "fact": "The royal coat of arms shows two supporters: a lion for England and a unicorn for Scotland.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Scottish town is known as the \"Home of Golf\"?",
+        "choices": ["Troon", "Gleneagles", "Carnoustie", "St Andrews"],
+        "answer": 3,
+        "fact": "St Andrews' Old Course has hosted The Open more often than any other venue, including the 150th Open in 2022.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the national flower of England?",
+        "choices": ["The rose", "The thistle", "The daffodil", "The shamrock"],
+        "answer": 0,
+        "fact": "The Tudor rose combined the red rose of Lancaster with the white rose of York after Henry VII married Elizabeth of York.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Northern Irish landmark is made up of about 40,000 interlocking basalt columns?",
+        "choices": ["The Mourne Mountains", "The Giant's Causeway", "Slieve League", "The Dark Hedges"],
+        "answer": 1,
+        "fact": "Legend says the giant Finn McCool built the causeway to cross the sea to Scotland. Geologists say the columns formed as lava cooled.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Scottish poet's birthday is celebrated with suppers every 25 January?",
+        "choices": ["Walter Scott", "Robert Louis Stevenson", "Robert Burns", "James Hogg"],
+        "answer": 2,
+        "fact": "Burns wrote down the words of \"Auld Lang Syne\", now sung around the world as the clock strikes midnight on New Year's Eve.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which lake in Northern Ireland is the largest lake by area in the UK?",
+        "choices": ["Loch Lomond", "Windermere", "Lough Erne", "Lough Neagh"],
+        "answer": 3,
+        "fact": "Lough Neagh covers about 390 km² and touches five of Northern Ireland's six counties.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which is the largest national park in the United Kingdom?",
+        "choices": ["Cairngorms", "Lake District", "Snowdonia (Eryri)", "Peak District"],
+        "answer": 0,
+        "fact": "The Cairngorms are home to Britain's only free-ranging herd of reindeer.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which narrow stretch of water separates the island of Anglesey from mainland Wales?",
+        "choices": ["The Bristol Channel", "The Menai Strait", "The Solent", "The Minch"],
+        "answer": 1,
+        "fact": "Thomas Telford's Menai Suspension Bridge, opened in 1826, was one of the first modern suspension bridges in the world.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which long-distance footpath became Britain's first National Trail in 1965?",
+        "choices": ["The South West Coast Path", "Offa's Dyke Path", "The Pennine Way", "The Thames Path"],
+        "answer": 2,
+        "fact": "The Pennine Way runs about 268 miles (431 km) from Edale in Derbyshire to Kirk Yetholm, just over the Scottish border.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Hebridean island is famous for peaty single-malt whiskies such as Laphroaig and Lagavulin?",
+        "choices": ["Skye", "Mull", "Arran", "Islay"],
+        "answer": 3,
+        "fact": "Islay is nicknamed the \"Queen of the Hebrides\". Its whiskies get their smoky taste from malted barley dried over peat fires.",
         "difficulty": 3
       }
     ]

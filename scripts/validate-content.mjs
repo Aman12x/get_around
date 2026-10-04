@@ -14,10 +14,16 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
   const seen = new Set();
   for (const t of TOPICS) {
     const qs = bank.topics?.[t];
-    if (!Array.isArray(qs) || qs.length < 10) {
-      errors.push(`${file} › ${t}: needs at least 10 questions (has ${qs?.length ?? 0})`);
+    if (!Array.isArray(qs) || qs.length < 25) {
+      errors.push(`${file} › ${t}: needs at least 25 questions (has ${qs?.length ?? 0})`);
       continue;
     }
+    // Enough of each difficulty for every level's mix (Explorer 6 easy, Legend 6 hard) plus variety on retries.
+    const byD = [1, 2, 3].map((d) => qs.filter((q) => q.difficulty === d).length);
+    const MIN = [9, 9, 7];
+    byD.forEach((n, i) => {
+      if (n < MIN[i]) errors.push(`${file} › ${t}: needs at least ${MIN[i]} difficulty-${i + 1} questions (has ${n})`);
+    });
     qs.forEach((q, i) => {
       total++;
       if (typeof q.q !== 'string' || !q.q.trim()) errors.push(`${where(t, i)}: missing question text`);
@@ -28,7 +34,7 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
       else if (q.fact.length > 240) errors.push(`${where(t, i)}: fact too long (${q.fact.length})`);
       if (![1, 2, 3].includes(q.difficulty)) errors.push(`${where(t, i)}: difficulty must be 1, 2 or 3`);
       if (t === 'current-affairs' && !/^\d{4}$/.test(q.asOf ?? '')) errors.push(`${where(t, i)}: current-affairs needs asOf year`);
-      const key = q.q?.trim().toLowerCase();
+      const key = q.q?.toLowerCase().replace(/[^a-z0-9]/g, '');
       if (seen.has(key)) errors.push(`${where(t, i)}: duplicate question`);
       seen.add(key);
     });

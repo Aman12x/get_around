@@ -71,6 +71,111 @@
         "answer": 0,
         "fact": "Maximilian was executed at Querétaro in 1867 after republican forces loyal to Benito Juárez regained control.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Aztec emperor ruled Tenochtitlan when Hernán Cortés arrived in 1519?",
+        "choices": ["Cuauhtémoc", "Itzcóatl", "Cuitláhuac", "Moctezuma II"],
+        "answer": 3,
+        "fact": "Moctezuma received Cortés in Tenochtitlan in November 1519 and died in 1520 while held captive by the Spanish.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which revolutionary leader led a 1916 raid on the town of Columbus, New Mexico?",
+        "choices": ["Emiliano Zapata", "Venustiano Carranza", "Pancho Villa", "Álvaro Obregón"],
+        "answer": 2,
+        "fact": "The US sent General John J. Pershing's Punitive Expedition into Mexico in response, but it never caught Villa.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient civilization carved the colossal stone heads found on Mexico's Gulf Coast?",
+        "choices": ["Maya", "Olmec", "Aztec", "Toltec"],
+        "answer": 1,
+        "fact": "Seventeen colossal heads are known; the largest stand nearly 3 m (10 ft) tall and were carved from single basalt boulders.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was the Spanish colony that included Mexico called?",
+        "choices": ["New Granada", "New Castile", "Río de la Plata", "New Spain"],
+        "answer": 3,
+        "fact": "At its height the Viceroyalty of New Spain stretched from Central America to present-day California and even governed the Philippines.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which territory broke away from Mexico in 1836 and was annexed by the United States in 1845?",
+        "choices": ["California", "New Mexico", "Arizona", "Texas"],
+        "answer": 3,
+        "fact": "For nearly a decade the independent Republic of Texas had its own president, currency and diplomatic representatives abroad.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Mexican general and president led the 1836 assault on the Alamo?",
+        "choices": ["Agustín de Iturbide", "Antonio López de Santa Anna", "Vicente Guerrero", "Guadalupe Victoria"],
+        "answer": 1,
+        "fact": "Santa Anna dominated Mexican politics for decades and served as president on as many as 11 separate occasions.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which priest took over leadership of the independence movement after Miguel Hidalgo's execution in 1811?",
+        "choices": ["Vicente Guerrero", "José María Morelos", "Ignacio Allende", "Agustín de Iturbide"],
+        "answer": 1,
+        "fact": "His birthplace, Valladolid, the capital of Michoacán, was renamed Morelia in his honor in 1828.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which former royalist officer was crowned Emperor of Mexico in 1822?",
+        "choices": ["Maximilian", "Guadalupe Victoria", "Agustín de Iturbide", "Antonio López de Santa Anna"],
+        "answer": 2,
+        "fact": "His empire lasted less than a year: Iturbide abdicated in March 1823 and Mexico became a republic.",
+        "difficulty": 2
+      },
+      {
+        "q": "What name is given to the six young cadets who died defending Chapultepec Castle in 1847?",
+        "choices": ["Las Adelitas", "Los Cristeros", "Los Rurales", "The Niños Héroes"],
+        "answer": 3,
+        "fact": "A great white monument at the entrance to Chapultepec Park honors the six cadets, who are remembered every 13 September.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Maya city in Chiapas contains the tomb of the ruler Pakal the Great?",
+        "choices": ["Palenque", "Tikal", "Uxmal", "Calakmul"],
+        "answer": 0,
+        "fact": "Archaeologist Alberto Ruz Lhuillier found Pakal's tomb deep inside the Temple of the Inscriptions in 1952.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1853-54 deal sold land in present-day southern Arizona and New Mexico from Mexico to the US?",
+        "choices": ["The Gadsden Purchase", "The Adams-Onís Treaty", "The Treaty of Velasco", "The Webster-Ashburton Treaty"],
+        "answer": 0,
+        "fact": "The US paid $10 million, largely to secure a flat southern route for a transcontinental railroad.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1926-1929 uprising in central Mexico opposed the government's anticlerical laws?",
+        "choices": ["The Cristero War", "The Caste War of Yucatán", "The Reform War", "The Pastry War"],
+        "answer": 0,
+        "fact": "It ended in 1929 through agreements brokered with help from the US ambassador, Dwight Morrow.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1838-39 conflict with France began partly over a French pastry cook's claim for damages?",
+        "choices": ["The Pastry War", "The Reform War", "The Caste War", "The War of the Triple Alliance"],
+        "answer": 0,
+        "fact": "Santa Anna lost a leg fighting the French at Veracruz in 1838 and later gave the leg a formal burial.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was the last Aztec emperor, captured by the Spanish when Tenochtitlan fell in 1521?",
+        "choices": ["Moctezuma II", "Cuauhtémoc", "Cuitláhuac", "Ahuitzotl"],
+        "answer": 1,
+        "fact": "Cortés had him executed in 1525; today Cuauhtémoc is honored as a symbol of Mexican resistance.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was the Indigenous woman who served as Hernán Cortés's interpreter during the conquest?",
+        "choices": ["Isabel Moctezuma", "Leona Vicario", "La Malinche", "Josefa Ortiz de Domínguez"],
+        "answer": 2,
+        "fact": "Also known as Malintzin or Doña Marina, she spoke both Nahuatl and a Maya language, which made her invaluable to the Spanish.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -142,6 +247,111 @@
         "choices": ["Franklin Chang-Díaz", "Arnaldo Tamayo Méndez", "Rodolfo Neri Vela", "Marcos Pontes"],
         "answer": 2,
         "fact": "Aboard Atlantis on mission STS-61-B, Neri Vela helped deploy Mexico's Morelos II communications satellite.",
+        "difficulty": 3
+      },
+      {
+        "q": "Chocolate comes from which plant, cultivated in Mesoamerica for thousands of years?",
+        "choices": ["Vanilla", "Coffee", "Cacao", "Carob"],
+        "answer": 2,
+        "fact": "The Aztecs valued cacao beans so highly that they used them as currency.",
+        "difficulty": 1
+      },
+      {
+        "q": "Mexico is the world's largest producer of which fruit, the main ingredient of guacamole?",
+        "choices": ["Mango", "Papaya", "Avocado", "Lime"],
+        "answer": 2,
+        "fact": "Most of Mexico's avocados are grown in the volcanic highlands of Michoacán.",
+        "difficulty": 1
+      },
+      {
+        "q": "The famous \"Sun Stone\" (Piedra del Sol) was carved by which civilization?",
+        "choices": ["Aztec", "Maya", "Olmec", "Zapotec"],
+        "answer": 0,
+        "fact": "The basalt disc weighs about 24 tonnes; it was rediscovered in 1790, buried beneath Mexico City's main square.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which German automaker built the classic Beetle at its plant in Puebla until 2003?",
+        "choices": ["BMW", "Mercedes-Benz", "Audi", "Volkswagen"],
+        "answer": 3,
+        "fact": "The last original Beetle rolled off the Puebla assembly line in July 2003; in Mexico the car is affectionately called the \"vocho.\"",
+        "difficulty": 1
+      },
+      {
+        "q": "The Dresden Codex, one of the few surviving pre-Columbian books, was made by which civilization?",
+        "choices": ["Aztec", "Olmec", "Maya", "Toltec"],
+        "answer": 2,
+        "fact": "Spanish friars burned most Maya books; only four Maya codices are known to survive.",
+        "difficulty": 1
+      },
+      {
+        "q": "More than 3,000 years ago, Mesoamerican peoples made bouncing balls for their ritual ballgame from what?",
+        "choices": ["Leather", "Rubber", "Cotton", "Wood"],
+        "answer": 1,
+        "fact": "The name \"Olmec\" comes from a Nahuatl word meaning \"rubber people.\"",
+        "difficulty": 2
+      },
+      {
+        "q": "Which round building at Chichén Itzá is believed to have served as an astronomical observatory?",
+        "choices": ["El Caracol", "El Castillo", "The Temple of the Warriors", "The Great Ball Court"],
+        "answer": 0,
+        "fact": "Its windows are thought to align with key positions of Venus, a planet central to Maya calendars.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Mexico City skyscraper, completed in 1956, was an early earthquake-resistant tower that survived the 1957 and 1985 quakes?",
+        "choices": ["Torre Mayor", "Torre Latinoamericana", "Torre Reforma", "Torre BBVA"],
+        "answer": 1,
+        "fact": "The tower rests on deep concrete piles driven into the soft clay of the old lakebed beneath the city.",
+        "difficulty": 2
+      },
+      {
+        "q": "What number base did the Maya use for counting?",
+        "choices": ["Base 10", "Base 12", "Base 60", "Base 20"],
+        "answer": 3,
+        "fact": "Maya numbers were written with dots for one, bars for five and a shell symbol for zero.",
+        "difficulty": 2
+      },
+      {
+        "q": "Alongside maize and squash, which crop domesticated in Mesoamerica completes the \"Three Sisters\"?",
+        "choices": ["Potatoes", "Rice", "Beans", "Wheat"],
+        "answer": 2,
+        "fact": "Maize stalks support the climbing beans, beans enrich the soil with nitrogen, and squash leaves shade out weeds.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Large Millimeter Telescope, a 50 m radio dish, stands atop which Mexican volcano?",
+        "choices": ["Sierra Negra", "Popocatépetl", "Nevado de Toluca", "Iztaccíhuatl"],
+        "answer": 0,
+        "fact": "Built with the University of Massachusetts, it is among the world's largest single-dish telescopes for millimeter waves.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which research center near Mexico City grew out of Norman Borlaug's wheat-breeding work?",
+        "choices": ["IRRI", "CIMMYT", "ICRISAT", "CIAT"],
+        "answer": 1,
+        "fact": "Borlaug's high-yield wheat, developed in Mexico, helped spark the Green Revolution and won him the 1970 Nobel Peace Prize.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which chemical element did Andrés Manuel del Río discover in Mexico in 1801?",
+        "choices": ["Vanadium", "Tungsten", "Platinum", "Chromium"],
+        "answer": 0,
+        "fact": "Del Río called it \"erythronium,\" but doubts were raised; it was rediscovered in Sweden in 1830 and named vanadium.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Zapotec capital in Oaxaca was built on an artificially leveled mountaintop?",
+        "choices": ["Mitla", "Monte Albán", "Palenque", "El Tajín"],
+        "answer": 1,
+        "fact": "Founded around 500 BCE, it overlooks the Oaxaca Valley and is a UNESCO World Heritage Site together with the city of Oaxaca.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ruler of Texcoco, also famed as a poet, designed a great dike in the 1440s to protect Tenochtitlan from floods?",
+        "choices": ["Itzcóatl", "Axayácatl", "Ahuitzotl", "Nezahualcóyotl"],
+        "answer": 3,
+        "fact": "The roughly 16 km dike also kept the lake's salty water away from the fresh water around Tenochtitlan.",
         "difficulty": 3
       }
     ],
@@ -215,6 +425,111 @@
         "answer": 3,
         "fact": "Barragán's own house and studio in Mexico City was declared a UNESCO World Heritage Site in 2004.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Mexican director won the Academy Award for Best Director for \"The Shape of Water\" (2017)?",
+        "choices": ["Alejandro G. Iñárritu", "Alfonso Cuarón", "Carlos Reygadas", "Guillermo del Toro"],
+        "answer": 3,
+        "fact": "Del Toro is also known for \"Pan's Labyrinth\" (2006), which won three Oscars.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Mexican actress produced and starred in the 2002 biopic \"Frida\"?",
+        "choices": ["Eiza González", "Kate del Castillo", "Salma Hayek", "Ana de la Reguera"],
+        "answer": 2,
+        "fact": "Her performance as Frida Kahlo earned her an Oscar nomination for Best Actress.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which tin-glazed pottery, famous in Puebla, shares its name with a town in Spain?",
+        "choices": ["Talavera", "Barro negro", "Mata Ortiz", "Delftware"],
+        "answer": 0,
+        "fact": "In 2019 UNESCO listed the Talavera craft of Puebla and Tlaxcala, together with that of Spain, as intangible cultural heritage.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are the colorful perforated tissue-paper banners hung at Mexican fiestas called?",
+        "choices": ["Amate", "Papel picado", "Sarape", "Huipil"],
+        "answer": 1,
+        "fact": "Artisans traditionally cut dozens of layers of tissue paper at once using a hammer and small chisels.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which art movement after the Revolution produced the public wall paintings of Rivera, Orozco and Siqueiros?",
+        "choices": ["Surrealism", "Cubism", "Mexican muralism", "Estridentismo"],
+        "answer": 2,
+        "fact": "In the 1920s, education minister José Vasconcelos commissioned murals on public buildings to tell Mexico's history to all citizens.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which muralist painted \"Man of Fire\" on the dome of Guadalajara's Hospicio Cabañas?",
+        "choices": ["David Alfaro Siqueiros", "Rufino Tamayo", "José Clemente Orozco", "Diego Rivera"],
+        "answer": 2,
+        "fact": "The Hospicio Cabañas, a 19th-century orphanage filled with Orozco's murals, became a UNESCO World Heritage Site in 1997.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which writer wrote \"The Death of Artemio Cruz\" (1962)?",
+        "choices": ["Juan Rulfo", "Carlos Fuentes", "Elena Poniatowska", "Octavio Paz"],
+        "answer": 1,
+        "fact": "Fuentes won the Cervantes Prize, the highest honor in Spanish-language literature, in 1987.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 17th-century nun and poet was called the \"Tenth Muse\"?",
+        "choices": ["Rosario Castellanos", "Elena Garro", "Sor Juana Inés de la Cruz", "Gabriela Mistral"],
+        "answer": 2,
+        "fact": "In her famous \"Reply to Sister Philothea\" (1691), she defended women's right to education.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Mexican director won back-to-back Best Director Oscars for \"Birdman\" and \"The Revenant\"?",
+        "choices": ["Guillermo del Toro", "Alfonso Cuarón", "Guillermo Arriaga", "Alejandro G. Iñárritu"],
+        "answer": 3,
+        "fact": "He was only the third director to win the award two years running, after John Ford and Joseph L. Mankiewicz.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which beloved singer and star of Mexico's Golden Age of cinema died in a 1957 plane crash?",
+        "choices": ["Jorge Negrete", "Pedro Infante", "Cantinflas", "Tin Tan"],
+        "answer": 1,
+        "fact": "The crash happened in Mérida, Yucatán; his films such as \"Nosotros los pobres\" (1948) remain hugely popular.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Oaxaca-born painter, who has a museum named after him in Chapultepec Park, kept his distance from political muralism?",
+        "choices": ["Rufino Tamayo", "Dr. Atl", "Juan O'Gorman", "José María Velasco"],
+        "answer": 0,
+        "fact": "The Museo Tamayo opened in 1981 to house the international modern art collection he donated to Mexico.",
+        "difficulty": 3
+      },
+      {
+        "q": "Juan O'Gorman covered which building at UNAM's main campus with a giant stone mosaic?",
+        "choices": ["The Central Library", "The Rectory Tower", "The Olympic Stadium", "The Faculty of Medicine"],
+        "answer": 0,
+        "fact": "The mosaic, made of colored stones gathered from across Mexico, covers about 4,000 m² of the library's walls.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 19th-century painter is celebrated for his panoramic landscapes of the Valley of Mexico?",
+        "choices": ["Saturnino Herrán", "José María Velasco", "Hermenegildo Bustos", "Dr. Atl"],
+        "answer": 1,
+        "fact": "Velasco taught at the Academy of San Carlos, where a young Diego Rivera studied under him.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which composer wrote \"Huapango\" (1941), a much-loved Mexican orchestral work?",
+        "choices": ["Carlos Chávez", "Silvestre Revueltas", "Manuel M. Ponce", "José Pablo Moncayo"],
+        "answer": 3,
+        "fact": "Based on folk sones from Veracruz, \"Huapango\" is often called Mexico's second national anthem.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which author, winner of the 2013 Cervantes Prize, wrote \"La noche de Tlatelolco\" about the 1968 student massacre?",
+        "choices": ["Rosario Castellanos", "Ángeles Mastretta", "Carlos Monsiváis", "Elena Poniatowska"],
+        "answer": 3,
+        "fact": "Poniatowska was born in Paris in 1932 to a family descended from Polish nobility and moved to Mexico as a child.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -286,6 +601,111 @@
         "choices": ["Emiliano Zapata", "Pancho Villa", "Venustiano Carranza", "Francisco I. Madero"],
         "answer": 3,
         "fact": "Madero became president in 1911 but was overthrown and killed in 1913 during the \"Decena Trágica\" (Ten Tragic Days).",
+        "difficulty": 3
+      },
+      {
+        "q": "Which former Coca-Cola executive served as Mexico's president from 2000 to 2006?",
+        "choices": ["Felipe Calderón", "Ernesto Zedillo", "Carlos Salinas de Gortari", "Vicente Fox"],
+        "answer": 3,
+        "fact": "Fox rose to head Coca-Cola's operations in Mexico and later served as governor of Guanajuato before winning the presidency.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many terms may a Mexican president serve?",
+        "choices": ["Two consecutive", "One", "Two non-consecutive", "Unlimited"],
+        "answer": 1,
+        "fact": "The ban on reelection, a legacy of the Revolution, is lifelong: no one who has held the office may ever hold it again.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which trade agreement among Mexico, the United States and Canada took effect in 1994?",
+        "choices": ["NAFTA", "Mercosur", "CAFTA-DR", "The Pacific Alliance"],
+        "answer": 0,
+        "fact": "It created one of the world's largest free-trade areas, phasing out most tariffs among the three countries.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which president nationalized Mexico's oil industry in 1938?",
+        "choices": ["Lázaro Cárdenas", "Plutarco Elías Calles", "Miguel Alemán", "Manuel Ávila Camacho"],
+        "answer": 0,
+        "fact": "Cárdenas also carried out sweeping land reform, distributing millions of hectares to rural communities.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the lower house of Mexico's Congress called?",
+        "choices": ["House of Representatives", "Chamber of Deputies", "National Assembly", "Federal Council"],
+        "answer": 1,
+        "fact": "It has 500 members: 300 elected in single-member districts and 200 chosen by proportional representation.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which party, registered in 2014, carried Andrés Manuel López Obrador to the presidency in 2018?",
+        "choices": ["PRD", "PAN", "PRI", "Morena"],
+        "answer": 3,
+        "fact": "López Obrador won the 2018 election with about 53% of the vote.",
+        "difficulty": 2
+      },
+      {
+        "q": "Not counting Mexico City, how many states does Mexico have?",
+        "choices": ["31", "27", "29", "35"],
+        "answer": 0,
+        "fact": "Mexico City, long known as the Federal District, became a federal entity of its own in 2016.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which president launched a military offensive against drug cartels in December 2006?",
+        "choices": ["Vicente Fox", "Enrique Peña Nieto", "Felipe Calderón", "Ernesto Zedillo"],
+        "answer": 2,
+        "fact": "Within days of taking office, Calderón sent thousands of troops and federal police to his home state of Michoacán.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which president, elected in 2012, returned the PRI to power after 12 years in opposition?",
+        "choices": ["Felipe Calderón", "Ernesto Zedillo", "Carlos Salinas de Gortari", "Enrique Peña Nieto"],
+        "answer": 3,
+        "fact": "His \"Pact for Mexico\" with the main opposition parties produced reforms in energy, education and telecommunications.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of Mexico's autonomous body that organizes federal elections?",
+        "choices": ["National Electoral Council", "Supreme Electoral Tribunal", "National Electoral Institute (INE)", "Federal Election Commission"],
+        "answer": 2,
+        "fact": "The voter ID card it issues is the most widely used form of official identification in Mexico.",
+        "difficulty": 2
+      },
+      {
+        "q": "Days before the 1968 Olympics, troops opened fire on a student rally in which Mexico City square?",
+        "choices": ["Plaza de las Tres Culturas", "Zócalo", "Plaza Garibaldi", "Plaza de la República"],
+        "answer": 0,
+        "fact": "The Tlatelolco massacre took place on 2 October 1968; the exact death toll remains disputed.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which former president founded the National Revolutionary Party in 1929, the forerunner of the PRI?",
+        "choices": ["Álvaro Obregón", "Venustiano Carranza", "Plutarco Elías Calles", "Adolfo de la Huerta"],
+        "answer": 2,
+        "fact": "Calles remained the power behind the presidency until 1934, a period known as the \"Maximato.\"",
+        "difficulty": 3
+      },
+      {
+        "q": "Which revolutionary leader called the convention that drafted Mexico's 1917 constitution?",
+        "choices": ["Álvaro Obregón", "Venustiano Carranza", "Pancho Villa", "Victoriano Huerta"],
+        "answer": 1,
+        "fact": "Delegates met in Querétaro; the 1917 text was among the first in the world to enshrine workers' social rights.",
+        "difficulty": 3
+      },
+      {
+        "q": "How many members sit in Mexico's Senate?",
+        "choices": ["96", "100", "150", "128"],
+        "answer": 3,
+        "fact": "Each state and Mexico City elect three senators, and the remaining 32 are chosen from national party lists.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which group launched an armed uprising in Chiapas on 1 January 1994?",
+        "choices": ["Popular Revolutionary Army (EPR)", "23rd of September Communist League", "Zapatista Army of National Liberation (EZLN)", "Party of the Poor"],
+        "answer": 2,
+        "fact": "Named after Emiliano Zapata, it rose up on the day NAFTA took effect; its masked spokesman, Subcomandante Marcos, became world famous.",
         "difficulty": 3
       }
     ],
@@ -369,6 +789,126 @@
         "fact": "Lithium is a key ingredient in rechargeable batteries for phones and electric cars.",
         "difficulty": 3,
         "asOf": "2022"
+      },
+      {
+        "q": "Which black-and-white film won Alfonso Cuarón the Oscar for Best Director in February 2019?",
+        "choices": ["Y Tu Mamá También", "Children of Men", "Birdman", "Roma"],
+        "answer": 3,
+        "fact": "Named after Mexico City's Colonia Roma, it also won Best Foreign Language Film, a first for Mexico.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Before winning the presidency, Claudia Sheinbaum served from 2018 to 2023 as head of government of which city?",
+        "choices": ["Mexico City", "Guadalajara", "Monterrey", "Puebla"],
+        "answer": 0,
+        "fact": "Sheinbaum is also a scientist with a PhD in energy engineering who contributed to reports of the UN's climate panel, the IPCC.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which trade agreement replaced NAFTA when it entered into force in July 2020?",
+        "choices": ["CPTPP", "Mercosur", "CAFTA-DR", "USMCA"],
+        "answer": 3,
+        "fact": "Known in Mexico as T-MEC, it updated NAFTA with new rules on car parts, labor rights and digital trade.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which Mexican drug lord was convicted by a US federal jury in New York in February 2019?",
+        "choices": ["Ismael \"El Mayo\" Zambada", "Rafael Caro Quintero", "Nemesio \"El Mencho\" Oseguera", "Joaquín \"El Chapo\" Guzmán"],
+        "answer": 3,
+        "fact": "He was sentenced to life in prison plus 30 years and is held at the ADX Florence supermax prison in Colorado.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which volcano near Mexico City erupted repeatedly in May 2023, briefly closing nearby airports?",
+        "choices": ["Popocatépetl", "Iztaccíhuatl", "Volcán de Colima", "Paricutín"],
+        "answer": 0,
+        "fact": "Its name means \"Smoking Mountain\" in Nahuatl; at about 5,400 m it is Mexico's second-highest peak.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which new national security force did Mexico create in 2019?",
+        "choices": ["The Federal Police", "The National Guard", "The Rurales", "The Federal Gendarmerie"],
+        "answer": 1,
+        "fact": "It absorbed the Federal Police, which was dissolved; a 2024 reform placed the Guard under the Defense Ministry.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Who finished second to Claudia Sheinbaum in Mexico's June 2024 presidential election?",
+        "choices": ["Xóchitl Gálvez", "Jorge Álvarez Máynez", "Marcelo Ebrard", "Beatriz Paredes"],
+        "answer": 0,
+        "fact": "Gálvez, a senator and engineer of Otomí heritage, ran for an opposition coalition of the PAN, PRI and PRD.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In June 2022, Katya Echazarreta became the first Mexican-born woman in space aboard a rocket from which company?",
+        "choices": ["SpaceX", "Virgin Galactic", "Blue Origin", "Rocket Lab"],
+        "answer": 2,
+        "fact": "The electrical engineer flew on a suborbital New Shepard flight from West Texas.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In June 2019, Andy Ruiz Jr. became the first boxer of Mexican descent to win a world heavyweight title by beating whom?",
+        "choices": ["Tyson Fury", "Anthony Joshua", "Deontay Wilder", "Oleksandr Usyk"],
+        "answer": 1,
+        "fact": "Ruiz, born in California to Mexican parents, won by seventh-round stoppage at Madison Square Garden.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which former Bolivian president received political asylum in Mexico in November 2019?",
+        "choices": ["Rafael Correa", "Nicolás Maduro", "Evo Morales", "Daniel Ortega"],
+        "answer": 2,
+        "fact": "Morales stayed in Mexico only about a month before moving on to Argentina in December 2019.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which new Pemex oil refinery in Paraíso, Tabasco, was inaugurated in July 2022?",
+        "choices": ["Tula", "Olmeca (Dos Bocas)", "Salina Cruz", "Cadereyta"],
+        "answer": 1,
+        "fact": "Tabasco, where the refinery was built, is the home state of then-president Andrés Manuel López Obrador.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Mexico won the 2023 CONCACAF Gold Cup by beating which team in the final?",
+        "choices": ["United States", "Panama", "Jamaica", "Canada"],
+        "answer": 1,
+        "fact": "Santiago Giménez scored the only goal at SoFi Stadium near Los Angeles, giving Mexico a record ninth Gold Cup title.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "A 2019 constitutional reform in Mexico required what across all branches and levels of government?",
+        "choices": ["Gender parity", "Term limits for legislators", "Compulsory voting", "Bilingual public officials"],
+        "answer": 0,
+        "fact": "Known as \"parity in everything,\" it covers cabinets, courts, legislatures and candidacies at every level of government.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "A constitutional reform approved in late 2024 abolished which Mexican autonomous transparency and data-protection institute?",
+        "choices": ["INE", "CNDH", "Banxico", "INAI"],
+        "answer": 3,
+        "fact": "Its duties were transferred to government bodies, including a new Anti-Corruption and Good Government ministry.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which historic airline was relaunched in December 2023 as a state-owned carrier run by the armed forces?",
+        "choices": ["Aeroméxico", "Volaris", "Mexicana de Aviación", "Interjet"],
+        "answer": 2,
+        "fact": "The original Mexicana, founded in 1921, was one of the world's oldest airlines before it stopped flying in 2010.",
+        "difficulty": 3,
+        "asOf": "2023"
       }
     ],
     "general": [
@@ -440,6 +980,111 @@
         "choices": ["Popocatépetl", "Pico de Orizaba", "Iztaccíhuatl", "Nevado de Toluca"],
         "answer": 1,
         "fact": "Also called Citlaltépetl, Pico de Orizaba (about 5,636 m) is North America's highest volcano and third-highest peak.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of Mexico's currency?",
+        "choices": ["Peso", "Real", "Colón", "Sol"],
+        "answer": 0,
+        "fact": "The \"$\" sign is thought to have originated as a symbol for the peso, centuries before the US dollar adopted it.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the candy-filled figure that blindfolded children break with a stick at Mexican parties?",
+        "choices": ["Papel picado", "Sarape", "Piñata", "Rebozo"],
+        "answer": 2,
+        "fact": "Piñatas are traditional at the Christmas-season Posadas; the classic seven-pointed star is said to represent the seven deadly sins.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Mexico's most popular sport?",
+        "choices": ["Baseball", "Boxing", "Football (soccer)", "Basketball"],
+        "answer": 2,
+        "fact": "Mexico hosted the men's World Cup in 1970 and 1986; co-hosting in 2026 makes it the first country to host three.",
+        "difficulty": 1
+      },
+      {
+        "q": "The city of Mérida is the capital of a state on which peninsula?",
+        "choices": ["Baja California", "Florida", "Nicoya", "Yucatán"],
+        "answer": 3,
+        "fact": "The Yucatán Peninsula separates the Gulf of Mexico from the Caribbean Sea.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which thin flatbread made from corn or wheat is the base of tacos?",
+        "choices": ["Arepa", "Pupusa", "Tortilla", "Bolillo"],
+        "answer": 2,
+        "fact": "Corn tortillas use nixtamalized maize, soaked in limewater, an ancient technique that makes the corn more nutritious.",
+        "difficulty": 1
+      },
+      {
+        "q": "Tacos al pastor were inspired by the spit-roasted meat brought by immigrants from which country?",
+        "choices": ["Greece", "Italy", "Spain", "Lebanon"],
+        "answer": 3,
+        "fact": "In Puebla, \"tacos árabes\" served in pita-style bread preserve an earlier form of the dish.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Mexico City host the Summer Olympics?",
+        "choices": ["1964", "1968", "1972", "1976"],
+        "answer": 1,
+        "fact": "The thin air at altitude is often credited with aiding Bob Beamon's long jump of 8.90 m, a world record that stood for nearly 23 years.",
+        "difficulty": 2
+      },
+      {
+        "q": "What are the natural limestone sinkholes of the Yucatán, sacred to the Maya, called?",
+        "choices": ["Chinampas", "Cenotes", "Barrancas", "Tepetates"],
+        "answer": 1,
+        "fact": "Many cenotes connect to vast flooded cave systems; Sac Actun near Tulum is among the longest known underwater caves.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which milky alcoholic drink, sacred to the Aztecs, is made by fermenting agave sap?",
+        "choices": ["Pulque", "Mezcal", "Tepache", "Horchata"],
+        "answer": 0,
+        "fact": "In Aztec times pulque was linked to Mayahuel, goddess of the maguey plant, and its use was strictly regulated.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which masked lucha libre wrestler starred in dozens of films and became a Mexican icon?",
+        "choices": ["El Santo", "Blue Demon", "Mil Máscaras", "Rey Mysterio"],
+        "answer": 0,
+        "fact": "El Santo kept his identity hidden for decades and was buried wearing his famous silver mask in 1984.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which is Mexico's largest state by area?",
+        "choices": ["Sonora", "Coahuila", "Durango", "Chihuahua"],
+        "answer": 3,
+        "fact": "Chihuahua's Copper Canyon system is larger than the Grand Canyon, with some gorges even deeper.",
+        "difficulty": 3
+      },
+      {
+        "q": "On which tree do millions of monarch butterflies cluster in their Mexican wintering grounds?",
+        "choices": ["Oyamel fir", "Ahuehuete", "Jacaranda", "Ceiba"],
+        "answer": 0,
+        "fact": "The Monarch Butterfly Biosphere Reserve in the mountains of central Mexico became a UNESCO World Heritage Site in 2008.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which equestrian tradition, inscribed by UNESCO in 2016, is officially Mexico's national sport?",
+        "choices": ["Lucha libre", "Charrería", "Pelota mixteca", "Frontón"],
+        "answer": 1,
+        "fact": "Mariachi musicians perform in the traje de charro, the ornate horseman's suit of charrería.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which city is the Guelaguetza, a July festival of regional dance, held?",
+        "choices": ["Guadalajara", "Oaxaca", "Puebla", "Morelia"],
+        "answer": 1,
+        "fact": "Delegations from across the state perform; the name comes from a Zapotec word for reciprocal giving.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which tiny porpoise, the world's most endangered marine mammal, lives only in Mexico's northern Gulf of California?",
+        "choices": ["Tucuxi", "Burmeister's porpoise", "Vaquita", "Finless porpoise"],
+        "answer": 2,
+        "fact": "Its name means \"little cow\"; recent surveys have estimated only around ten individuals remain.",
         "difficulty": 3
       }
     ]

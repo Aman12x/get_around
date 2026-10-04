@@ -71,6 +71,111 @@
         "answer": 3,
         "fact": "US President Theodore Roosevelt brokered the Treaty of Portsmouth and won the 1906 Nobel Peace Prize for his efforts.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Japanese city was the first to be struck by an atomic bomb, on 6 August 1945?",
+        "choices": ["Nagasaki", "Kokura", "Osaka", "Hiroshima"],
+        "answer": 3,
+        "fact": "The Genbaku Dome, one of the few buildings left standing near the blast's centre, is now a UNESCO World Heritage Site and peace memorial.",
+        "difficulty": 1
+      },
+      {
+        "q": "On 7 December 1941, Japan launched a surprise attack on which US naval base?",
+        "choices": ["Midway", "Guam", "Pearl Harbor", "Subic Bay"],
+        "answer": 2,
+        "fact": "The attacking planes flew from six aircraft carriers; a memorial now stands over the sunken battleship USS Arizona.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was the name of Japan's hereditary warrior class?",
+        "choices": ["Ninja", "Samurai", "Ashigaru", "Sohei"],
+        "answer": 1,
+        "fact": "The samurai lost their privileges in the Meiji reforms of the 1870s, and a decree of 1876 banned the wearing of swords in public.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which emperor reigned over Japan during World War II?",
+        "choices": ["Hirohito", "Akihito", "Yoshihito", "Mutsuhito"],
+        "answer": 0,
+        "fact": "Hirohito reigned from 1926 to 1989, the longest reign of any Japanese emperor in recorded history; his era is known as Showa.",
+        "difficulty": 1
+      },
+      {
+        "q": "Aboard which US battleship did Japan sign its formal surrender in September 1945?",
+        "choices": ["USS Arizona", "USS Iowa", "USS Enterprise", "USS Missouri"],
+        "answer": 3,
+        "fact": "The ceremony took place in Tokyo Bay on 2 September 1945; the Missouri is now a museum ship at Pearl Harbor.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city, founded as Japan's capital in 710, is home to the giant bronze Buddha of Todai-ji?",
+        "choices": ["Kyoto", "Kamakura", "Nara", "Osaka"],
+        "answer": 2,
+        "fact": "Nara's deer, long regarded as sacred messengers of the gods, roam freely through the city's parks and bow to visitors for special crackers.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which war of 1894-95 gave Japan control of Taiwan?",
+        "choices": ["Russo-Japanese War", "First Sino-Japanese War", "Boshin War", "Satsuma Rebellion"],
+        "answer": 1,
+        "fact": "Under the Treaty of Shimonoseki that ended the war, China ceded Taiwan to Japan and recognised Korea's independence.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1877 uprising, led by Saigo Takamori, was the last major samurai rebellion?",
+        "choices": ["Satsuma Rebellion", "Boshin War", "Shimabara Rebellion", "Onin War"],
+        "answer": 0,
+        "fact": "A famous bronze statue of Saigo Takamori walking his dog stands in Tokyo's Ueno Park.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which battle of June 1942 did Japan lose four aircraft carriers, a turning point of the Pacific War?",
+        "choices": ["Coral Sea", "Leyte Gulf", "Guadalcanal", "Midway"],
+        "answer": 3,
+        "fact": "US codebreakers had partly cracked Japan's naval code, giving the US Navy warning that Midway was the target.",
+        "difficulty": 2
+      },
+      {
+        "q": "What name is given to Japan's 'Warring States' era of near-constant civil war in the 15th and 16th centuries?",
+        "choices": ["Heian period", "Edo period", "Sengoku period", "Asuka period"],
+        "answer": 2,
+        "fact": "During the Sengoku period, in 1543, Portuguese traders landed on Tanegashima island and introduced the first firearms to Japan.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1637-38 uprising of largely Christian peasants in Kyushu led to tighter bans on Christianity?",
+        "choices": ["Onin War", "Shimabara Rebellion", "Boshin War", "Heiji Rebellion"],
+        "answer": 1,
+        "fact": "The rebels were led by Amakusa Shiro, a charismatic teenager; their stronghold at Hara Castle held out for months before it fell.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Jesuit missionary brought Christianity to Japan in 1549?",
+        "choices": ["Francis Xavier", "Matteo Ricci", "Alessandro Valignano", "Luis Frois"],
+        "answer": 0,
+        "fact": "Francis Xavier landed at Kagoshima in 1549 and spent about two years in Japan before leaving to plan a mission to China.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the name of the 1868-69 civil war between shogunate forces and supporters of imperial rule?",
+        "choices": ["Satsuma Rebellion", "Genpei War", "Onin War", "Boshin War"],
+        "answer": 3,
+        "fact": "The war's last stand came at Goryokaku, a star-shaped fort in Hakodate, where shogunate loyalists had declared a short-lived Republic of Ezo.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1180-1185 conflict ended with the naval Battle of Dan-no-ura?",
+        "choices": ["Onin War", "Boshin War", "Genpei War", "Hogen Rebellion"],
+        "answer": 2,
+        "fact": "At Dan-no-ura in 1185 the child emperor Antoku drowned; the story is retold in the epic 'Tale of the Heike'.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Meiji-era slogan, meaning 'rich country, strong army', guided Japan's modernisation?",
+        "choices": ["Sonno joi", "Fukoku kyohei", "Wakon yosai", "Bunmei kaika"],
+        "answer": 1,
+        "fact": "As part of the push for a strong army, Japan introduced universal male conscription in 1873.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -142,6 +247,111 @@
         "choices": ["LINE", "Mixi", "NTT Docomo's i-mode", "Nintendo DS"],
         "answer": 2,
         "fact": "Kurita's original set of 176 emoji, each just 12 by 12 pixels, was added to the collection of New York's Museum of Modern Art in 2016.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which games console did Sony first release in Japan in December 1994?",
+        "choices": ["PlayStation", "Sega Saturn", "Nintendo 64", "Dreamcast"],
+        "answer": 0,
+        "fact": "The PlayStation grew out of a cancelled CD-ROM add-on that Sony had been developing with Nintendo for the Super Nintendo.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Nintendo designer created Super Mario and The Legend of Zelda?",
+        "choices": ["Hideo Kojima", "Satoru Iwata", "Hironobu Sakaguchi", "Shigeru Miyamoto"],
+        "answer": 3,
+        "fact": "Mario first appeared in the 1981 arcade game Donkey Kong, where he was simply called 'Jumpman'.",
+        "difficulty": 1
+      },
+      {
+        "q": "What did Momofuku Ando invent in Japan in 1958?",
+        "choices": ["Monosodium glutamate", "Freeze-dried coffee", "Instant noodles", "Canned tuna"],
+        "answer": 2,
+        "fact": "Ando's first product, Chicken Ramen, was flash-fried to dry it; he went on to launch Cup Noodles in 1971.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Japanese carmaker produces the Civic and the Accord?",
+        "choices": ["Nissan", "Honda", "Mazda", "Toyota"],
+        "answer": 1,
+        "fact": "Soichiro Honda started out fitting small engines to bicycles after World War II; by 1959 Honda was the world's largest motorcycle maker.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of Japan's national space agency?",
+        "choices": ["JAXA", "CNSA", "ISRO", "ESA"],
+        "answer": 0,
+        "fact": "JAXA was formed in 2003 by merging three organisations, including the Institute of Space and Astronautical Science (ISAS).",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Japanese electronics giant was founded by Konosuke Matsushita in Osaka in 1918?",
+        "choices": ["Sharp", "Toshiba", "Sanyo", "Panasonic"],
+        "answer": 3,
+        "fact": "Matsushita's first hit product was an improved two-way light socket, and he became known in Japan as the 'god of management'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became Japan's first Nobel laureate, winning the Physics prize in 1949?",
+        "choices": ["Sin-Itiro Tomonaga", "Leo Esaki", "Hideki Yukawa", "Hantaro Nagaoka"],
+        "answer": 2,
+        "fact": "Yukawa predicted the meson, a particle carrying the strong nuclear force, in 1935; it was detected in cosmic rays in 1947.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Japanese company sold the world's first quartz wristwatch, the Astron, in 1969?",
+        "choices": ["Citizen", "Seiko", "Casio", "Orient"],
+        "answer": 1,
+        "fact": "The Seiko Quartz Astron went on sale on Christmas Day 1969 and cost about as much as a small car.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of Japan's laboratory module on the International Space Station?",
+        "choices": ["Kibo", "Columbus", "Destiny", "Zvezda"],
+        "answer": 0,
+        "fact": "Kibo means 'hope' and is the largest single module on the ISS; it even has an outdoor platform for experiments exposed to space.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which bacteriologist, pictured on Japan's 1,000-yen note from 2004, researched yellow fever?",
+        "choices": ["Kiyoshi Shiga", "Jokichi Takamine", "Umetaro Suzuki", "Hideyo Noguchi"],
+        "answer": 3,
+        "fact": "Hideyo Noguchi died of yellow fever in Accra, in present-day Ghana, in 1928 while studying the disease.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Japanese bacteriologist worked with Emil von Behring on serum therapy for tetanus and diphtheria?",
+        "choices": ["Kiyoshi Shiga", "Hideyo Noguchi", "Kitasato Shibasaburo", "Jokichi Takamine"],
+        "answer": 2,
+        "fact": "Kitasato founded the institute that grew into Kitasato University, and in 2024 his portrait appeared on Japan's new 1,000-yen note.",
+        "difficulty": 3
+      },
+      {
+        "q": "Hidetsugu Yagi and Shintaro Uda are known for inventing what in 1926?",
+        "choices": ["A vacuum tube", "A directional antenna", "A microwave oven", "A loudspeaker"],
+        "answer": 1,
+        "fact": "The Yagi-Uda antenna drew little attention in Japan at first but was widely used for radar in World War II and later for rooftop TV reception.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which engineer is called the 'father of Japanese television' for displaying an image electronically on a cathode-ray tube in 1926?",
+        "choices": ["Kenjiro Takayanagi", "Hidetsugu Yagi", "Masaru Ibuka", "Akio Morita"],
+        "answer": 0,
+        "fact": "Takayanagi's first electronically displayed image was the katakana character 'i' (イ), shown in December 1926.",
+        "difficulty": 3
+      },
+      {
+        "q": "Akira Yoshino shared the 2019 Nobel Prize in Chemistry for developing which technology?",
+        "choices": ["Nickel-metal hydride battery", "Hydrogen fuel cell", "Solid-state battery", "Lithium-ion battery"],
+        "answer": 3,
+        "fact": "Yoshino, who worked for the chemicals company Asahi Kasei, shared the prize with John Goodenough and Stanley Whittingham.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 2015, a Japanese superconducting maglev test train set the world speed record for a rail vehicle. How fast did it go?",
+        "choices": ["503 km/h", "574 km/h", "603 km/h", "431 km/h"],
+        "answer": 2,
+        "fact": "The record was set on the Yamanashi test line, part of the planned Chuo Shinkansen maglev route between Tokyo and Nagoya.",
         "difficulty": 3
       }
     ],
@@ -215,6 +425,111 @@
         "answer": 1,
         "fact": "Sen no Rikyu served as tea master to Oda Nobunaga and Toyotomi Hideyoshi, who ordered him to commit ritual suicide in 1591.",
         "difficulty": 3
+      },
+      {
+        "q": "Which giant monster first stomped through Tokyo in a 1954 film?",
+        "choices": ["Mothra", "Godzilla", "Rodan", "King Ghidorah"],
+        "answer": 1,
+        "fact": "Godzilla's Japanese name, Gojira, blends gorira (gorilla) and kujira (whale).",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the Japanese art of paper folding called?",
+        "choices": ["Origami", "Ikebana", "Bonsai", "Kintsugi"],
+        "answer": 0,
+        "fact": "The crane is the classic origami model; strings of 1,000 paper cranes, called senbazuru, are folded as wishes for luck or recovery.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which novelist wrote 'Norwegian Wood' and 'Kafka on the Shore'?",
+        "choices": ["Kazuo Ishiguro", "Banana Yoshimoto", "Kenzaburo Oe", "Haruki Murakami"],
+        "answer": 3,
+        "fact": "Haruki Murakami ran a jazz bar in Tokyo before becoming a writer; 'Norwegian Wood' takes its title from a Beatles song.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which animation studio, co-founded by Hayao Miyazaki in 1985, made 'My Neighbor Totoro'?",
+        "choices": ["Toei Animation", "Madhouse", "Studio Ghibli", "Kyoto Animation"],
+        "answer": 2,
+        "fact": "Totoro, the friendly forest spirit from the 1988 film, became Studio Ghibli's logo.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which manga and anime series follows Goku and the quest for seven magic balls?",
+        "choices": ["Naruto", "Dragon Ball", "One Piece", "Sailor Moon"],
+        "answer": 1,
+        "fact": "Dragon Ball's creator Akira Toriyama loosely based it on Journey to the West; Son Goku is the Japanese reading of Sun Wukong.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the Japanese art of mending broken pottery with lacquer dusted with gold?",
+        "choices": ["Kintsugi", "Raku", "Sashiko", "Shibori"],
+        "answer": 0,
+        "fact": "Kintsugi treats breakage as part of an object's history; legend links it to shogun Ashikaga Yoshimasa, who disliked a crude metal-staple repair.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which novelist wrote 'The Temple of the Golden Pavilion' and died after a failed coup attempt in 1970?",
+        "choices": ["Kobo Abe", "Kenzaburo Oe", "Junichiro Tanizaki", "Yukio Mishima"],
+        "answer": 3,
+        "fact": "The novel is based on the real 1950 arson of Kyoto's Kinkaku-ji by a young monk; the temple was rebuilt in 1955.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which self-taught architect, a former boxer, designed Osaka's Church of the Light?",
+        "choices": ["Kengo Kuma", "Kisho Kurokawa", "Tadao Ando", "Toyo Ito"],
+        "answer": 2,
+        "fact": "Tadao Ando won the Pritzker Prize in 1995; the cross in the Church of the Light is formed by slits cut into a concrete wall.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which composer has written the music for most of Hayao Miyazaki's films?",
+        "choices": ["Ryuichi Sakamoto", "Joe Hisaishi", "Toru Takemitsu", "Koji Kondo"],
+        "answer": 1,
+        "fact": "Joe Hisaishi's stage name is a tribute to Quincy Jones: 'Hisaishi' comes from a Japanese reading of 'Quincy', and 'Joe' from 'Jones'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Japanese musician shared the Oscar for Best Original Score for 'The Last Emperor' (1987)?",
+        "choices": ["Ryuichi Sakamoto", "Joe Hisaishi", "Isao Tomita", "Toru Takemitsu"],
+        "answer": 0,
+        "fact": "Sakamoto was a founding member of Yellow Magic Orchestra, the Tokyo band whose synth-pop helped shape electronic music.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which architect designed the Yoyogi National Gymnasium for the 1964 Tokyo Olympics?",
+        "choices": ["Tadao Ando", "Kengo Kuma", "Fumihiko Maki", "Kenzo Tange"],
+        "answer": 3,
+        "fact": "Kenzo Tange won the Pritzker Prize in 1987, the first Japanese architect to receive it.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which director made 'Tokyo Story' (1953)?",
+        "choices": ["Kenji Mizoguchi", "Mikio Naruse", "Yasujiro Ozu", "Akira Kurosawa"],
+        "answer": 2,
+        "fact": "In 2012, a Sight and Sound poll of film directors voted Tokyo Story the greatest film ever made.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which masked dance-drama was perfected by Zeami in the 14th and 15th centuries?",
+        "choices": ["Kabuki", "Noh", "Kyogen", "Bunraku"],
+        "answer": 1,
+        "fact": "Zeami and his father Kan'ami developed Noh under the patronage of shogun Ashikaga Yoshimitsu, builder of Kyoto's Golden Pavilion.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Heian-era court lady wrote 'The Pillow Book'?",
+        "choices": ["Sei Shonagon", "Murasaki Shikibu", "Izumi Shikibu", "Ono no Komachi"],
+        "answer": 0,
+        "fact": "The Pillow Book is full of lists, such as 'Things That Make One's Heart Beat Faster'; its author served Empress Teishi around the year 1000.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ukiyo-e master is best known for close-up portraits of beautiful women (bijin-ga)?",
+        "choices": ["Toshusai Sharaku", "Suzuki Harunobu", "Utagawa Kuniyoshi", "Kitagawa Utamaro"],
+        "answer": 3,
+        "fact": "In 1804 Utamaro was handcuffed for 50 days as punishment for prints depicting the warlord Toyotomi Hideyoshi, a banned subject.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -286,6 +601,111 @@
         "choices": ["Nobusuke Kishi", "Hayato Ikeda", "Ichiro Hatoyama", "Shigeru Yoshida"],
         "answer": 3,
         "fact": "The San Francisco Peace Treaty took effect on 28 April 1952, formally ending the Allied occupation of Japan.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Emperor of Japan abdicated in 2019, the first to step down in about two centuries?",
+        "choices": ["Hirohito", "Naruhito", "Akihito", "Yoshihito"],
+        "answer": 2,
+        "fact": "The previous abdication was by Emperor Kokaku in 1817; a special law had to be passed in 2017 to allow Akihito to step down.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which American general led the Allied occupation of Japan after World War II?",
+        "choices": ["Dwight Eisenhower", "Douglas MacArthur", "Chester Nimitz", "George Patton"],
+        "answer": 1,
+        "fact": "In February 1946 MacArthur's staff drafted much of Japan's postwar constitution in little more than a week.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are Japan's armed forces, established in 1954, called?",
+        "choices": ["Self-Defense Forces", "Imperial Army", "National Guard", "Coast Guard"],
+        "answer": 0,
+        "fact": "The Self-Defense Forces grew out of the National Police Reserve, created in 1950 during the Korean War.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which flower appears on the Imperial Seal of Japan?",
+        "choices": ["Cherry blossom", "Lotus", "Paulownia", "Chrysanthemum"],
+        "answer": 3,
+        "fact": "The government of Japan uses a different emblem, the paulownia (kiri) crest, which appears on official documents and the prime minister's lectern.",
+        "difficulty": 1
+      },
+      {
+        "q": "Japan is a member of which group of seven major industrialised democracies?",
+        "choices": ["BRICS", "OPEC", "G7", "ASEAN"],
+        "answer": 2,
+        "fact": "Japan has hosted the G7 summit seven times, most recently in Hiroshima in 2023.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became the first woman elected Governor of Tokyo, in 2016?",
+        "choices": ["Renho", "Yuriko Koike", "Seiko Noda", "Makiko Tanaka"],
+        "answer": 1,
+        "fact": "Before entering politics Yuriko Koike was a TV news anchor, and in 2007 she became Japan's first female Minister of Defence.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which prime minister of 2001-2006 championed the privatisation of Japan Post?",
+        "choices": ["Junichiro Koizumi", "Yoshiro Mori", "Ryutaro Hashimoto", "Taro Aso"],
+        "answer": 0,
+        "fact": "Koizumi called a snap election over postal privatisation in 2005 and won a landslide; he is also a famous fan of Elvis Presley.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Japanese prime minister shared the 1974 Nobel Peace Prize?",
+        "choices": ["Kakuei Tanaka", "Shigeru Yoshida", "Nobusuke Kishi", "Eisaku Sato"],
+        "answer": 3,
+        "fact": "Sato was honoured largely for his non-nuclear policy; his elder brother, Nobusuke Kishi, had also been prime minister.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which islands were returned to Japanese administration by the United States in 1972?",
+        "choices": ["Ogasawara Islands", "Amami Islands", "Okinawa", "Kuril Islands"],
+        "answer": 2,
+        "fact": "Okinawa switched from driving on the right to the left in 1978 in a one-night changeover known as '730', after its date, 30 July.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was Japan's prime minister at the time of the attack on Pearl Harbor?",
+        "choices": ["Fumimaro Konoe", "Hideki Tojo", "Kantaro Suzuki", "Koki Hirota"],
+        "answer": 1,
+        "fact": "Tojo was also War Minister; after the war he was tried by the International Military Tribunal for the Far East and executed in 1948.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which prime minister normalised Japan's diplomatic relations with the People's Republic of China in 1972?",
+        "choices": ["Kakuei Tanaka", "Eisaku Sato", "Takeo Fukuda", "Masayoshi Ohira"],
+        "answer": 0,
+        "fact": "To mark the occasion, China sent two giant pandas, Kang Kang and Lan Lan, to Tokyo's Ueno Zoo in 1972.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Japanese diplomatic mission of 1871-73 toured the United States and Europe to study Western institutions?",
+        "choices": ["Tensho Embassy", "Keicho Embassy", "Takenouchi Mission", "Iwakura Mission"],
+        "answer": 3,
+        "fact": "The mission took five young girls to study in the US, among them Tsuda Umeko, who later founded what is now Tsuda University.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did Japan join the United Nations?",
+        "choices": ["1945", "1952", "1956", "1964"],
+        "answer": 2,
+        "fact": "Japan's admission followed a joint declaration that restored diplomatic relations with the Soviet Union, which had previously blocked its membership.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was Japan's prime minister at the time of the March 2011 earthquake and Fukushima nuclear disaster?",
+        "choices": ["Yukio Hatoyama", "Naoto Kan", "Yoshihiko Noda", "Taro Aso"],
+        "answer": 1,
+        "fact": "The Democratic Party of Japan governed from 2009 to 2012 with three prime ministers: Yukio Hatoyama, Naoto Kan and Yoshihiko Noda.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the Japanese prime minister's official office in Tokyo commonly called?",
+        "choices": ["Kantei", "Kasumigaseki", "Akasaka Palace", "Kokkai"],
+        "answer": 0,
+        "fact": "The current Kantei opened in 2002; the original 1929 building next door was moved and converted into the prime minister's residence.",
         "difficulty": 3
       }
     ],
@@ -369,6 +789,126 @@
         "fact": "The new 1,000-yen note issued in 2024 features Hokusai's 'Great Wave off Kanagawa' on its reverse.",
         "difficulty": 3,
         "asOf": "2024"
+      },
+      {
+        "q": "Which former prime minister was assassinated while giving a campaign speech in Nara in July 2022?",
+        "choices": ["Yoshihide Suga", "Junichiro Koizumi", "Taro Aso", "Shinzo Abe"],
+        "answer": 3,
+        "fact": "Abe was given a state funeral in Tokyo in September 2022, the first for a former prime minister since Shigeru Yoshida's in 1967.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Japanese player won the women's singles title at the 2021 Australian Open?",
+        "choices": ["Kimiko Date", "Ai Sugiyama", "Naomi Osaka", "Misaki Doi"],
+        "answer": 2,
+        "fact": "Naomi Osaka lit the Olympic cauldron at the Tokyo Games in 2021; she has won four Grand Slam singles titles.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which country did Japan beat in the final of the 2023 World Baseball Classic?",
+        "choices": ["Mexico", "United States", "South Korea", "Dominican Republic"],
+        "answer": 1,
+        "fact": "The final ended with Shohei Ohtani striking out his Angels teammate Mike Trout, and Ohtani was named the tournament's MVP.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Japanese monster film won the Oscar for Best Visual Effects in 2024?",
+        "choices": ["Godzilla Minus One", "Shin Godzilla", "Gamera Rebirth", "Ultraman: Rising"],
+        "answer": 0,
+        "fact": "Director Takashi Yamazaki also supervised the film's visual effects, and accepted the award with his team.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Hayao Miyazaki film won the Oscar for Best Animated Feature in 2024?",
+        "choices": ["The Wind Rises", "Ponyo", "Suzume", "The Boy and the Heron"],
+        "answer": 3,
+        "fact": "The film's Japanese title, 'How Do You Live?', comes from a 1937 novel by Genzaburo Yoshino that Miyazaki loved as a boy.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Japanese prime minister hosted the G7 summit in his home constituency of Hiroshima in May 2023?",
+        "choices": ["Yoshihide Suga", "Shigeru Ishiba", "Fumio Kishida", "Taro Kono"],
+        "answer": 2,
+        "fact": "As a boy Fumio Kishida lived in New York, where his father was posted, and attended a public elementary school in Queens.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, which golfer became the first Japanese man to win the Masters?",
+        "choices": ["Ryo Ishikawa", "Hideki Matsuyama", "Isao Aoki", "Jumbo Ozaki"],
+        "answer": 1,
+        "fact": "After Matsuyama's win, his caddie Shota Hayafuji replaced the flag on the 18th green and bowed to the course, a gesture admired worldwide.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In August 2023 Japan began releasing treated water into the sea from which nuclear power plant?",
+        "choices": ["Fukushima Daiichi", "Kashiwazaki-Kariwa", "Onagawa", "Genkai"],
+        "answer": 0,
+        "fact": "The treated water is diluted with seawater and released through an undersea tunnel about one kilometre offshore.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which city hosted the World Athletics Championships held in September 2025?",
+        "choices": ["Osaka", "Nagoya", "Sapporo", "Tokyo"],
+        "answer": 3,
+        "fact": "Tokyo had hosted the championships once before, in 1991, when Mike Powell set a long-jump world record of 8.95 metres.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Who succeeded Shinzo Abe as Prime Minister of Japan in September 2020?",
+        "choices": ["Fumio Kishida", "Taro Aso", "Yoshihide Suga", "Shigeru Ishiba"],
+        "answer": 2,
+        "fact": "As chief cabinet secretary, Suga unveiled the 'Reiwa' era name in 2019, earning the nickname 'Uncle Reiwa'.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "Who won the men's individual all-around gymnastics gold at the Paris 2024 Olympics?",
+        "choices": ["Daiki Hashimoto", "Shinnosuke Oka", "Kohei Uchimura", "Zhang Boheng"],
+        "answer": 1,
+        "fact": "Shinnosuke Oka won three golds in Paris, in the all-around, team and horizontal bar events, keeping the all-around title in Japanese hands.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "What is the name of Japan's new flagship rocket, which first reached orbit in February 2024?",
+        "choices": ["H3", "H-IIA", "Epsilon", "Kairos"],
+        "answer": 0,
+        "fact": "The H3's first launch in March 2023 failed when its second stage did not ignite, so the February 2024 success was a big relief for JAXA.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Japanese organisation of atomic bomb survivors won the Nobel Peace Prize in 2024?",
+        "choices": ["Japanese Red Cross Society", "Peace Boat", "Mayors for Peace", "Nihon Hidankyo"],
+        "answer": 3,
+        "fact": "Nihon Hidankyo was founded in 1956 by hibakusha, survivors of the Hiroshima and Nagasaki bombings.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which wrestler was promoted to sumo's top rank of yokozuna in May 2025, the first Japanese-born yokozuna since 2017?",
+        "choices": ["Hoshoryu", "Terunofuji", "Onosato", "Kotozakura"],
+        "answer": 2,
+        "fact": "Onosato reached yokozuna just 13 tournaments after his professional debut in 2023, the fastest rise to sumo's top rank of the modern era.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In March 2024 the Bank of Japan ended a policy it had kept since 2016. What was it?",
+        "choices": ["A fixed exchange rate", "Negative interest rates", "A currency board", "The gold standard"],
+        "answer": 1,
+        "fact": "The move was the Bank of Japan's first interest rate rise in 17 years.",
+        "difficulty": 3,
+        "asOf": "2024"
       }
     ],
     "general": [
@@ -440,6 +980,111 @@
         "choices": ["Shinjuku", "Tokyo", "Shibuya", "Ikebukuro"],
         "answer": 0,
         "fact": "Shinjuku Station handles roughly 3.5 million passengers a day in normal times and has around 200 exits.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the currency of Japan?",
+        "choices": ["Yen", "Won", "Yuan", "Baht"],
+        "answer": 0,
+        "fact": "Yen means 'round' in Japanese; the currency was introduced by the Meiji government in 1871.",
+        "difficulty": 1
+      },
+      {
+        "q": "Hanami parties in spring celebrate the blooming of which flower?",
+        "choices": ["Lotus", "Chrysanthemum", "Wisteria", "Cherry blossom"],
+        "answer": 3,
+        "fact": "Japan's weather agency tracks the 'cherry blossom front' as blooms move north each year, from Okinawa in January to Hokkaido in May.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of Japan's traditional wrapped robe with wide sleeves?",
+        "choices": ["Hanbok", "Qipao", "Kimono", "Sari"],
+        "answer": 2,
+        "fact": "A lighter cotton kimono called a yukata is worn at summer festivals and is often provided to guests at hot-spring inns.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Japanese martial art's name means 'the gentle way'?",
+        "choices": ["Karate", "Judo", "Aikido", "Kendo"],
+        "answer": 1,
+        "fact": "Judo was founded by Jigoro Kano in 1882 and made its Olympic debut at the 1964 Tokyo Games.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which of Japan's main islands is home to the Sapporo Snow Festival?",
+        "choices": ["Hokkaido", "Honshu", "Kyushu", "Shikoku"],
+        "answer": 0,
+        "fact": "The Sapporo Snow Festival began in 1950, when local high school students built six snow statues in Odori Park.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are Japan's natural hot-spring baths called?",
+        "choices": ["Sento", "Ryokan", "Izakaya", "Onsen"],
+        "answer": 3,
+        "fact": "At Jigokudani in Nagano, wild Japanese macaques, known as snow monkeys, famously bathe in hot springs during the winter.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Shinto shrine on an island near Hiroshima is famous for a torii gate that seems to float at high tide?",
+        "choices": ["Ise Grand Shrine", "Meiji Shrine", "Itsukushima Shrine", "Izumo Taisha"],
+        "answer": 2,
+        "fact": "At high tide the great torii appears to float on the sea; at low tide visitors can walk out across the sand to touch it.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Kyoto shrine is famous for tunnels formed by thousands of orange torii gates?",
+        "choices": ["Yasaka Shrine", "Fushimi Inari Taisha", "Heian Shrine", "Kitano Tenmangu"],
+        "answer": 1,
+        "fact": "Fushimi Inari honours Inari, the god of rice, and each gate is donated by a business or person whose name is inscribed on the back.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of Japan's top professional football league?",
+        "choices": ["J.League", "K League", "Super League", "A-League"],
+        "answer": 0,
+        "fact": "The J.League kicked off in 1993 with ten clubs; Brazilian star Zico played for Kashima Antlers in its early seasons.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which seaweed, sold in thin dried sheets, is used to wrap sushi rolls?",
+        "choices": ["Kombu", "Wakame", "Hijiki", "Nori"],
+        "answer": 3,
+        "fact": "Nori farming took off after British scientist Kathleen Drew-Baker revealed the seaweed's life cycle in 1949; Japanese farmers honour her as 'Mother of the Sea'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which strait between Honshu and Hokkaido is crossed by the Seikan Tunnel?",
+        "choices": ["Kanmon Strait", "Tsushima Strait", "Tsugaru Strait", "Soya Strait"],
+        "answer": 2,
+        "fact": "The Seikan Tunnel, opened in 1988, is about 54 km long, with roughly 23 km running beneath the seabed.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is Japan's second-highest mountain, after Mount Fuji?",
+        "choices": ["Okuhotaka-dake", "Kita-dake", "Yari-ga-take", "Ontake-san"],
+        "answer": 1,
+        "fact": "Kita-dake rises 3,193 metres in the Southern Alps of Yamanashi Prefecture and is home to a flower found nowhere else, the Kitadake-so.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of the Indigenous people of Hokkaido, recognised in a 2019 law?",
+        "choices": ["Ainu", "Ryukyuans", "Nivkh", "Emishi"],
+        "answer": 0,
+        "fact": "Upopoy, the National Ainu Museum and Park, opened in 2020 on the shore of Lake Poroto in Shiraoi, Hokkaido.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Japanese city earned the nickname 'the nation's kitchen' as the hub of the Edo-period rice trade?",
+        "choices": ["Kyoto", "Nagoya", "Fukuoka", "Osaka"],
+        "answer": 3,
+        "fact": "Osaka is also famous for 'kuidaore', a local motto meaning roughly 'eat until you drop'.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the deepest lake in Japan?",
+        "choices": ["Lake Shikotsu", "Lake Towada", "Lake Tazawa", "Lake Biwa"],
+        "answer": 2,
+        "fact": "Lake Tazawa in Akita Prefecture is about 423 metres deep, and its clear blue water does not freeze even in the region's snowy winters.",
         "difficulty": 3
       }
     ]

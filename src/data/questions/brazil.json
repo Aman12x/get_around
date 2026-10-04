@@ -71,6 +71,111 @@
         "answer": 3,
         "fact": "Fleeing Napoleon's invasion of Portugal, the royal family sailed to Brazil, making Rio the seat of the Portuguese Empire.",
         "difficulty": 3
+      },
+      {
+        "q": "Which crop, grown on plantations in the Northeast, drove colonial Brazil's economy in the 16th and 17th centuries?",
+        "choices": ["Coffee", "Sugarcane", "Tobacco", "Cotton"],
+        "answer": 1,
+        "fact": "Plantation labor relied on enslaved Africans: Brazil received about 40% of all people carried across the Atlantic in the slave trade.",
+        "difficulty": 1
+      },
+      {
+        "q": "In the 19th century, which crop made São Paulo's planters rich and powered Brazil's economy?",
+        "choices": ["Cacao", "Cotton", "Coffee", "Tobacco"],
+        "answer": 2,
+        "fact": "Brazil has been the world's largest coffee producer since the mid-19th century.",
+        "difficulty": 1
+      },
+      {
+        "q": "A late-19th-century boom in which product paid for the lavish Teatro Amazonas opera house in Manaus?",
+        "choices": ["Gold", "Rubber", "Brazil nuts", "Cacao"],
+        "answer": 1,
+        "fact": "The opera house, deep in the Amazon, opened in 1896 and was built largely with materials imported from Europe.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was Brazil's second and last emperor, reigning for 58 years?",
+        "choices": ["Pedro I", "João VI", "Pedro II", "Deodoro da Fonseca"],
+        "answer": 2,
+        "fact": "A keen amateur scientist, Pedro II tried out Alexander Graham Bell's telephone at the 1876 Centennial Exhibition in Philadelphia.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city was colonial Brazil's first capital, from 1549 to 1763?",
+        "choices": ["Recife", "São Paulo", "Olinda", "Salvador"],
+        "answer": 3,
+        "fact": "The capital moved to Rio de Janeiro in 1763, closer to the gold-mining regions of Minas Gerais.",
+        "difficulty": 1
+      },
+      {
+        "q": "The discovery of gold in the 1690s sparked a rush to which region, whose name means \"General Mines\"?",
+        "choices": ["Goiás", "Mato Grosso", "Minas Gerais", "Bahia"],
+        "answer": 2,
+        "fact": "Its rich colonial capital, Ouro Preto (\"Black Gold\"), is now a UNESCO World Heritage Site full of baroque churches.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which European power controlled much of northeastern Brazil, including Recife, from 1630 to 1654?",
+        "choices": ["France", "England", "Denmark", "The Dutch Republic"],
+        "answer": 3,
+        "fact": "Governor John Maurice of Nassau brought painters and naturalists to Recife, which flourished under Dutch rule.",
+        "difficulty": 2
+      },
+      {
+        "q": "In the 1864-1870 War of the Triple Alliance, Brazil, Argentina and Uruguay fought which country?",
+        "choices": ["Paraguay", "Bolivia", "Chile", "Peru"],
+        "answer": 0,
+        "fact": "It was the deadliest interstate war in South American history and devastated Paraguay's population.",
+        "difficulty": 2
+      },
+      {
+        "q": "During World War II, Brazilian troops fought in which European country?",
+        "choices": ["Italy", "France", "Germany", "Greece"],
+        "answer": 0,
+        "fact": "About 25,000 soldiers of the Brazilian Expeditionary Force fought in the Italian campaign, notably at Monte Castello.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which large community of escaped enslaved people, led by Zumbi, resisted colonial forces for most of the 17th century?",
+        "choices": ["Canudos", "Palmares", "Contestado", "Cabanagem"],
+        "answer": 1,
+        "fact": "Zumbi was killed on 20 November 1695; that date is now celebrated as Black Consciousness Day, a national holiday.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1896-97 conflict in the Bahia backlands centered on a community led by the preacher Antônio Conselheiro?",
+        "choices": ["The Contestado War", "The Cabanagem", "The War of Canudos", "The Ragamuffin War"],
+        "answer": 2,
+        "fact": "Euclides da Cunha's 1902 book \"Os Sertões\" (Rebellion in the Backlands), a classic of Brazilian literature, chronicled the war.",
+        "difficulty": 3
+      },
+      {
+        "q": "What did Pedro I reputedly proclaim on the banks of the Ipiranga stream on 7 September 1822?",
+        "choices": ["\"Order and progress!\"", "\"I will stay!\"", "\"Long live the Republic!\"", "\"Independence or death!\""],
+        "answer": 3,
+        "fact": "Pedro Américo's huge 1888 painting of the scene hangs in the Museu do Ipiranga in São Paulo.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1835-1845 revolt in Rio Grande do Sul declared a breakaway Riograndense Republic?",
+        "choices": ["The Cabanagem", "The Ragamuffin War (Farroupilha)", "The Sabinada", "The Balaiada"],
+        "answer": 1,
+        "fact": "Italian revolutionary Giuseppe Garibaldi fought for the rebels and met his wife, Anita, in southern Brazil.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who led the 1889 coup that proclaimed the republic and became Brazil's first president?",
+        "choices": ["Floriano Peixoto", "Prudente de Morais", "Rui Barbosa", "Deodoro da Fonseca"],
+        "answer": 3,
+        "fact": "Marshal Deodoro resigned in November 1891 amid a political crisis, after less than two years in office.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the 1932 São Paulo uprising against Getúlio Vargas's provisional government called?",
+        "choices": ["The Constitutionalist Revolution", "The Tenentista Revolt", "The Communist Uprising", "The Vaccine Revolt"],
+        "answer": 0,
+        "fact": "It began on 9 July, now a state holiday in São Paulo, where the major Avenida 9 de Julho is named for it.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -142,6 +247,111 @@
         "choices": ["Kourou", "Baikonur", "Cape Canaveral", "Alcântara"],
         "answer": 3,
         "fact": "Lying about 2 degrees south of the equator, Alcântara lets rockets gain extra speed from Earth's rotation, saving fuel.",
+        "difficulty": 3
+      },
+      {
+        "q": "Lúcio Costa's master plan for Brasília is often likened to the shape of what?",
+        "choices": ["A star", "A spiral", "A circle", "An airplane"],
+        "answer": 3,
+        "fact": "Costa said his plan began with two axes crossing at right angles; the curved residential wings give it its airplane look.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which renewable source generates most of Brazil's electricity?",
+        "choices": ["Wind", "Solar", "Nuclear", "Hydropower"],
+        "answer": 3,
+        "fact": "Hydropower supplies over half of Brazil's electricity, from rivers such as the Paraná, São Francisco and Tocantins.",
+        "difficulty": 1
+      },
+      {
+        "q": "Brazil is the world's largest producer of which crop, widely grown for animal feed and cooking oil?",
+        "choices": ["Wheat", "Rice", "Barley", "Soybeans"],
+        "answer": 3,
+        "fact": "China buys the majority of Brazil's soybean exports, largely to feed livestock.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which rubber flip-flop brand was launched in Brazil in 1962?",
+        "choices": ["Havaianas", "Crocs", "Birkenstock", "Teva"],
+        "answer": 0,
+        "fact": "Their design was inspired by Japanese zori sandals, and the textured sole echoes a pattern of rice grains.",
+        "difficulty": 1
+      },
+      {
+        "q": "Brazil is the world's largest producer and exporter of which fruit juice?",
+        "choices": ["Apple juice", "Orange juice", "Grape juice", "Pineapple juice"],
+        "answer": 1,
+        "fact": "Most of it comes from São Paulo state's citrus belt, and Brazil supplies roughly three-quarters of the world's orange juice exports.",
+        "difficulty": 1
+      },
+      {
+        "q": "Christ the Redeemer's reinforced-concrete frame is covered in small tiles of which stone?",
+        "choices": ["Soapstone", "Marble", "Granite", "Limestone"],
+        "answer": 0,
+        "fact": "Millions of small triangular soapstone tiles coat the statue, which was completed in 1931 atop Corcovado mountain.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which physician led Rio de Janeiro's campaigns against yellow fever and smallpox in the early 1900s?",
+        "choices": ["Carlos Chagas", "Vital Brazil", "Oswaldo Cruz", "Adolfo Lutz"],
+        "answer": 2,
+        "fact": "His 1904 mandatory smallpox vaccination drive sparked the \"Vaccine Revolt\" riots; Brazil's top health research foundation bears his name.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Brazilian digital bank, founded in 2013, became one of the largest digital banks in the world?",
+        "choices": ["Itaú", "Bradesco", "Nubank", "PagSeguro"],
+        "answer": 2,
+        "fact": "Nubank listed on the New York Stock Exchange in December 2021, with Warren Buffett's Berkshire Hathaway among its investors.",
+        "difficulty": 2
+      },
+      {
+        "q": "Around 1904, Louis Cartier designed what for his friend Alberto Santos-Dumont, so he could keep his hands on the controls while flying?",
+        "choices": ["Flying goggles", "A leather helmet", "A wristwatch", "A compass"],
+        "answer": 2,
+        "fact": "Cartier still sells the \"Santos\" watch, which was first offered to the public in 1911.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which state research company, founded in 1973, helped make Brazil an agricultural superpower?",
+        "choices": ["Eletrobras", "Petrobras", "Embrapa", "Vale"],
+        "answer": 2,
+        "fact": "Its scientists bred crops adapted to tropical latitudes and acidic soils, opening the Cerrado savanna to large-scale farming.",
+        "difficulty": 2
+      },
+      {
+        "q": "Brazilian physicist César Lattes co-discovered which subatomic particle in 1947?",
+        "choices": ["Muon", "Pion", "Positron", "Neutrino"],
+        "answer": 1,
+        "fact": "Brazil's national database of researchers' CVs, the Lattes Platform, is named after him.",
+        "difficulty": 3
+      },
+      {
+        "q": "Brazil's only nuclear power plants, Angra 1 and Angra 2, are in which state?",
+        "choices": ["São Paulo", "Minas Gerais", "Bahia", "Rio de Janeiro"],
+        "answer": 3,
+        "fact": "Angra 1 began commercial operation in 1985 on the coast at Angra dos Reis.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 2014 law, often called Brazil's \"Internet Constitution,\" set rules on net neutrality and users' rights online?",
+        "choices": ["Marco Civil da Internet", "Lei Geral de Proteção de Dados", "Lei Rouanet", "Lei Maria da Penha"],
+        "answer": 0,
+        "fact": "President Dilma Rousseff signed it at the NETmundial internet governance conference in São Paulo in April 2014.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which São Paulo institute, founded by Vital Brazil, is famous for snake antivenoms and vaccines?",
+        "choices": ["Butantan Institute", "Oswaldo Cruz Foundation", "Adolfo Lutz Institute", "Evandro Chagas Institute"],
+        "answer": 0,
+        "fact": "During the COVID-19 pandemic, Butantan produced the CoronaVac vaccine in Brazil in partnership with China's Sinovac.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which hydroelectric dam, one of the world's largest, was built on the Xingu River in Pará?",
+        "choices": ["Tucuruí", "Belo Monte", "Jirau", "Santo Antônio"],
+        "answer": 1,
+        "fact": "With over 11 GW of capacity it is among the world's largest, though it faced long opposition over environmental and Indigenous impacts.",
         "difficulty": 3
       }
     ],
@@ -215,6 +425,111 @@
         "answer": 3,
         "fact": "\"Abaporu\" (Tupi for \"man who eats people\") inspired Oswald de Andrade's 1928 Anthropophagic Manifesto on \"devouring\" foreign culture.",
         "difficulty": 3
+      },
+      {
+        "q": "Who composed \"The Girl from Ipanema\" with lyricist Vinicius de Moraes?",
+        "choices": ["João Gilberto", "Caetano Veloso", "Chico Buarque", "Antônio Carlos Jobim"],
+        "answer": 3,
+        "fact": "Rio de Janeiro's main international airport is officially named after \"Tom\" Jobim.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Brazilian singer and actress, famed for her fruit-covered hats, became a Hollywood star in the 1940s?",
+        "choices": ["Carmen Miranda", "Elis Regina", "Gal Costa", "Astrud Gilberto"],
+        "answer": 0,
+        "fact": "Despite becoming a symbol of Brazil, Carmen Miranda was born in Portugal and moved to Brazil as a baby.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 2002 Brazilian film set in a Rio de Janeiro favela earned four Oscar nominations?",
+        "choices": ["Central Station", "Elite Squad", "City of God", "Pixote"],
+        "answer": 2,
+        "fact": "Directed by Fernando Meirelles and Kátia Lund, it cast many non-professional actors from Rio's favelas.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are the groups that compete in Rio's Carnival parades at the Sambadrome called?",
+        "choices": ["Samba schools", "Frevo clubs", "Maracatu nations", "Capoeira groups"],
+        "answer": 0,
+        "fact": "Each school prepares all year; a single parade can feature thousands of performers and giant allegorical floats.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Escadaria Selarón, a stairway covered in tiles from around the world, is in which city?",
+        "choices": ["São Paulo", "Salvador", "Recife", "Rio de Janeiro"],
+        "answer": 3,
+        "fact": "Chilean-born artist Jorge Selarón began tiling the 215 steps in 1990 as a tribute to the Brazilian people.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Bahian singer-songwriter led the Tropicália movement alongside Gilberto Gil?",
+        "choices": ["Chico Buarque", "Caetano Veloso", "Milton Nascimento", "Jorge Ben Jor"],
+        "answer": 1,
+        "fact": "Both men were arrested by the military government in 1968 and later spent years in exile in London.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Bahian novelist wrote \"Dona Flor and Her Two Husbands\"?",
+        "choices": ["Graciliano Ramos", "Jorge Amado", "Érico Veríssimo", "Rachel de Queiroz"],
+        "answer": 1,
+        "fact": "Amado's colorful tales of Bahia have been translated into dozens of languages and adapted for film and TV.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Brazilian photographer is famous for black-and-white documentary series such as \"Workers\" and \"Genesis\"?",
+        "choices": ["Vik Muniz", "Sebastião Salgado", "Candido Portinari", "Hélio Oiticica"],
+        "answer": 1,
+        "fact": "With his wife Lélia, Salgado replanted millions of trees on his family's former cattle ranch in Minas Gerais.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Ukrainian-born writer, author of \"The Hour of the Star,\" is a giant of Brazilian literature?",
+        "choices": ["Cecília Meireles", "Clarice Lispector", "Rachel de Queiroz", "Hilda Hilst"],
+        "answer": 1,
+        "fact": "Born in 1920 in Ukraine, Lispector arrived in Brazil as an infant with her Jewish family fleeing persecution.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which accordion-driven music and dance style from Brazil's Northeast features the zabumba drum and the triangle?",
+        "choices": ["Forró", "Frevo", "Axé", "Sertanejo"],
+        "answer": 0,
+        "fact": "Accordionist Luiz Gonzaga, the \"King of Baião,\" carried the sound of the Northeast to the whole country.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which modernist painter created \"War and Peace,\" the huge murals at UN headquarters in New York?",
+        "choices": ["Di Cavalcanti", "Anita Malfatti", "Lasar Segall", "Candido Portinari"],
+        "answer": 3,
+        "fact": "The two giant panels were a gift from Brazil to the United Nations, installed in 1957.",
+        "difficulty": 3
+      },
+      {
+        "q": "The 1922 Modern Art Week, which launched Brazilian modernism, was held in which city?",
+        "choices": ["São Paulo", "Rio de Janeiro", "Belo Horizonte", "Salvador"],
+        "answer": 0,
+        "fact": "It took place at the Theatro Municipal in February 1922, the centenary year of Brazil's independence.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the nickname of Antônio Francisco Lisboa, the great baroque sculptor of colonial Minas Gerais?",
+        "choices": ["Mestre Ataíde", "Mestre Valentim", "Aleijadinho", "Tiradentes"],
+        "answer": 2,
+        "fact": "His twelve soapstone prophets at the Sanctuary of Bom Jesus in Congonhas are part of a UNESCO World Heritage Site.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who wrote the 1956 novel \"Grande Sertão: Veredas\" (The Devil to Pay in the Backlands)?",
+        "choices": ["Graciliano Ramos", "Carlos Drummond de Andrade", "João Guimarães Rosa", "Jorge Amado"],
+        "answer": 2,
+        "fact": "Guimarães Rosa was also a doctor and a diplomat, and his inventive language is famously hard to translate.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which modernist landscape architect designed Rio's Flamengo Park and the mosaic promenades of Copacabana?",
+        "choices": ["Lúcio Costa", "Lina Bo Bardi", "Affonso Reidy", "Roberto Burle Marx"],
+        "answer": 3,
+        "fact": "A passionate botanist, Burle Marx collected tropical plants on expeditions, and several species bear his name.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -286,6 +601,111 @@
         "choices": ["Supreme Federal Court", "Superior Electoral Court", "Federal Court of Accounts", "Superior Military Court"],
         "answer": 0,
         "fact": "The Supreme Federal Court (STF) has 11 justices, nominated by the president and approved by the Senate.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which party did Luiz Inácio Lula da Silva help found in 1980?",
+        "choices": ["Brazilian Social Democracy Party (PSDB)", "Brazilian Democratic Movement (MDB)", "Workers' Party (PT)", "Liberal Party (PL)"],
+        "answer": 2,
+        "fact": "Before politics, Lula was a metalworker and union leader in the industrial suburbs of São Paulo.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Brazil's official name today?",
+        "choices": ["United States of Brazil", "Federative Republic of Brazil", "Republic of Brazil", "Brazilian Federation"],
+        "answer": 1,
+        "fact": "For much of the 20th century, until 1967, the country's official name was the \"United States of Brazil.\"",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the lower house of Brazil's National Congress called?",
+        "choices": ["House of Representatives", "Federal Assembly", "Legislative Council", "Chamber of Deputies"],
+        "answer": 3,
+        "fact": "It has 513 deputies, elected by proportional representation from each state.",
+        "difficulty": 1
+      },
+      {
+        "q": "Brazil is a founding member of which group of major emerging economies, alongside Russia, India and China?",
+        "choices": ["G7", "OPEC", "ASEAN", "BRICS"],
+        "answer": 3,
+        "fact": "South Africa's admission, announced in December 2010, turned BRIC into BRICS.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which South American trade bloc did Brazil co-found with Argentina, Paraguay and Uruguay in 1991?",
+        "choices": ["Mercosur", "Andean Community", "ALBA", "Pacific Alliance"],
+        "answer": 0,
+        "fact": "It was created by the Treaty of Asunción, signed in Paraguay's capital in March 1991.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which president, in office 1995-2002, had earlier launched the Real Plan as finance minister?",
+        "choices": ["Itamar Franco", "José Sarney", "Fernando Collor", "Fernando Henrique Cardoso"],
+        "answer": 3,
+        "fact": "A sociologist by training, he was the first Brazilian president re-elected to a consecutive term, after a 1997 amendment allowed it.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became president of Brazil after Dilma Rousseff's impeachment in 2016?",
+        "choices": ["Hamilton Mourão", "Itamar Franco", "Michel Temer", "Aécio Neves"],
+        "answer": 2,
+        "fact": "Temer had been Rousseff's vice president and served out the term until the end of 2018.",
+        "difficulty": 2
+      },
+      {
+        "q": "From what age may Brazilians vote on a voluntary basis?",
+        "choices": ["14", "16", "17", "21"],
+        "answer": 1,
+        "fact": "Voting is optional for 16- and 17-year-olds and for people over 70.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which Brasília building, designed by Oscar Niemeyer, does Brazil's president work?",
+        "choices": ["Alvorada Palace", "Planalto Palace", "Itamaraty Palace", "Jaburu Palace"],
+        "answer": 1,
+        "fact": "The president lives in a separate Niemeyer building, the Alvorada Palace, beside Lake Paranoá.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which conditional cash-transfer program, launched in 2003, pays low-income families who keep their children in school?",
+        "choices": ["Minha Casa, Minha Vida", "Mais Médicos", "Bolsa Família", "Prouni"],
+        "answer": 2,
+        "fact": "It grew into one of the largest conditional cash-transfer programs in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who won Brazil's indirect presidential election in 1985 but fell ill and died before taking office?",
+        "choices": ["Tancredo Neves", "José Sarney", "Ulysses Guimarães", "Paulo Maluf"],
+        "answer": 0,
+        "fact": "His running mate, José Sarney, was sworn in instead and became the first civilian president since 1964.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which president resigned in December 1992 as the Senate tried him in an impeachment case?",
+        "choices": ["José Sarney", "Fernando Collor de Mello", "Itamar Franco", "João Goulart"],
+        "answer": 1,
+        "fact": "Collor had been the first president directly elected after the military regime, in 1989.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which president was ousted by the 1964 military coup?",
+        "choices": ["João Goulart", "Jânio Quadros", "Juscelino Kubitschek", "Castelo Branco"],
+        "answer": 0,
+        "fact": "Known as \"Jango,\" Goulart died in exile in Argentina in 1976.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which decree of December 1968 gave Brazil's military regime sweeping powers, including closing Congress?",
+        "choices": ["Institutional Act No. 5 (AI-5)", "Institutional Act No. 1 (AI-1)", "Institutional Act No. 2 (AI-2)", "Institutional Act No. 3 (AI-3)"],
+        "answer": 0,
+        "fact": "AI-5 also suspended habeas corpus for political crimes and imposed censorship; it was revoked at the end of 1978.",
+        "difficulty": 3
+      },
+      {
+        "q": "How many senators does each Brazilian state elect?",
+        "choices": ["2", "4", "3", "5"],
+        "answer": 2,
+        "fact": "Senators serve eight-year terms, with elections alternately renewing one-third and two-thirds of the seats every four years.",
         "difficulty": 3
       }
     ],
@@ -369,6 +789,126 @@
         "fact": "Brazil's best-known tennis star before him, Gustavo \"Guga\" Kuerten, won the French Open in 1997, 2000 and 2001.",
         "difficulty": 3,
         "asOf": "2024"
+      },
+      {
+        "q": "On 8 January 2023, rioters stormed the headquarters of all three branches of government in which city?",
+        "choices": ["Brasília", "Rio de Janeiro", "São Paulo", "Belo Horizonte"],
+        "answer": 0,
+        "fact": "The Congress, Planalto Palace and Supreme Court buildings were damaged, and many participants were later prosecuted.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Brazilian footballer won FIFA's The Best Men's Player award for 2024?",
+        "choices": ["Neymar", "Rodrygo", "Vinícius Júnior", "Raphinha"],
+        "answer": 2,
+        "fact": "Earlier that year he scored in Real Madrid's Champions League final win over Borussia Dortmund.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Brazilian pop star's song \"Envolver\" reached No. 1 on Spotify's global daily chart in March 2022?",
+        "choices": ["Ludmilla", "Anitta", "Marília Mendonça", "Pabllo Vittar"],
+        "answer": 1,
+        "fact": "She became the first Brazilian artist to top Spotify's global chart.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which team knocked Brazil out of the 2022 FIFA World Cup in the quarter-finals?",
+        "choices": ["Argentina", "Croatia", "France", "Morocco"],
+        "answer": 1,
+        "fact": "Croatia won on penalties after a 1-1 draw; Neymar's goal in the match equaled Pelé's record of 77 for Brazil.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Neymar left Paris Saint-Germain in August 2023 to join a club in which country?",
+        "choices": ["United States", "Qatar", "Saudi Arabia", "Spain"],
+        "answer": 2,
+        "fact": "He joined Al-Hilal; his 2017 move from Barcelona to PSG had set a world-record transfer fee of €222 million.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In January 2019, a mining tailings dam collapsed near which town in Minas Gerais?",
+        "choices": ["Brumadinho", "Mariana", "Ouro Preto", "Itabira"],
+        "answer": 0,
+        "fact": "The collapse of the Vale-owned dam killed about 270 people, one of Brazil's worst industrial disasters.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Who was elected as Lula's vice president in October 2022, despite having once run against him?",
+        "choices": ["Fernando Haddad", "Geraldo Alckmin", "Simone Tebet", "Ciro Gomes"],
+        "answer": 1,
+        "fact": "A former governor of São Paulo, Alckmin was Lula's opponent in the 2006 presidential runoff.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Brazilian city hosted the BRICS leaders' summit in July 2025?",
+        "choices": ["Brasília", "São Paulo", "Salvador", "Rio de Janeiro"],
+        "answer": 3,
+        "fact": "Indonesia, which joined the group in January 2025, took part as a full member for the first time.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which veteran environmentalist returned as Brazil's environment minister in January 2023?",
+        "choices": ["Sônia Guajajara", "Simone Tebet", "Gleisi Hoffmann", "Marina Silva"],
+        "answer": 3,
+        "fact": "She first held the post from 2003 to 2008; she grew up in a family of rubber tappers in Acre.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which 13-year-old Brazilian skateboarder won silver at the Tokyo Olympics in July 2021?",
+        "choices": ["Pâmela Rosa", "Rayssa Leal", "Letícia Bufoni", "Gabriela Mazetto"],
+        "answer": 1,
+        "fact": "As a 7-year-old she went viral skating in a fairy costume; she later won bronze at Paris 2024.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Who became the head of Brazil's first Ministry of Indigenous Peoples in January 2023?",
+        "choices": ["Sônia Guajajara", "Marina Silva", "Joenia Wapichana", "Raoni Metuktire"],
+        "answer": 0,
+        "fact": "A member of the Guajajara people of Maranhão, she was named one of Time's 100 most influential people in 2022.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Brazilian surfer won the men's gold medal when surfing made its Olympic debut at Tokyo in July 2021?",
+        "choices": ["Gabriel Medina", "Filipe Toledo", "Ítalo Ferreira", "Adriano de Souza"],
+        "answer": 2,
+        "fact": "He learned to surf as a boy in Baía Formosa using the lid of a styrofoam fish cooler as a board.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In August 2024, Brazil's Supreme Court ordered a nationwide suspension of which social network?",
+        "choices": ["Telegram", "TikTok", "WhatsApp", "X (formerly Twitter)"],
+        "answer": 3,
+        "fact": "Service was restored in October 2024 after the company complied with the court's orders.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In October 2023, which river hit its lowest level since records began in 1902, as measured at the port of Manaus?",
+        "choices": ["Madeira", "Tapajós", "Rio Negro", "Xingu"],
+        "answer": 2,
+        "fact": "A severe Amazon drought drove the record; the river broke it again in 2024.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which judoka won Brazil's first gold medal of the Paris 2024 Olympics?",
+        "choices": ["Rafaela Silva", "Mayra Aguiar", "Larissa Pimenta", "Beatriz Souza"],
+        "answer": 3,
+        "fact": "Brazil won three golds in Paris: Souza, gymnast Rebeca Andrade, and beach volleyball pair Ana Patrícia and Duda.",
+        "difficulty": 3,
+        "asOf": "2024"
       }
     ],
     "general": [
@@ -440,6 +980,111 @@
         "choices": ["Recife", "Salvador", "Ouro Preto", "São Luís"],
         "answer": 1,
         "fact": "Founded in 1549, Salvador was Brazil's first colonial capital and is a vibrant center of Afro-Brazilian culture.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which motto, inspired by the philosopher Auguste Comte, appears on Brazil's flag?",
+        "choices": ["Liberty and Union", "Unity and Work", "Faith and Homeland", "Order and Progress"],
+        "answer": 3,
+        "fact": "The flag's 27 stars show the sky over Rio on the morning of 15 November 1889, one for each state and the Federal District.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which cocktail, Brazil's national drink, is made with cachaça, lime and sugar?",
+        "choices": ["Mojito", "Pisco sour", "Caipirinha", "Margarita"],
+        "answer": 2,
+        "fact": "Cachaça is distilled from fresh sugarcane juice, unlike most rum, which is made from molasses.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Brazilian Formula One driver won three world titles before his fatal crash at Imola in 1994?",
+        "choices": ["Nelson Piquet", "Emerson Fittipaldi", "Rubens Barrichello", "Ayrton Senna"],
+        "answer": 3,
+        "fact": "Senna won his three championships with McLaren, in 1988, 1990 and 1991.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is a Brazilian steakhouse serving skewered, carved-at-the-table meats called?",
+        "choices": ["Parrilla", "Churrascaria", "Botequim", "Tasca"],
+        "answer": 1,
+        "fact": "Picanha, the prized cap of the top sirloin, is the star cut at most churrascarias.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which river carries more water than any other river on Earth?",
+        "choices": ["The Nile", "The Congo", "The Yangtze", "The Amazon"],
+        "answer": 3,
+        "fact": "The Amazon discharges roughly a fifth of all the river water flowing into the world's oceans.",
+        "difficulty": 1
+      },
+      {
+        "q": "Brazil borders every South American country except which two?",
+        "choices": ["Chile and Peru", "Ecuador and Colombia", "Bolivia and Chile", "Chile and Ecuador"],
+        "answer": 3,
+        "fact": "Brazil also shares a border with France, through the overseas region of French Guiana.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of Rio de Janeiro's famous football stadium, which hosted the 2014 World Cup final?",
+        "choices": ["Morumbi", "Mineirão", "Maracanã", "Arena Corinthians"],
+        "answer": 2,
+        "fact": "Brazil's shock 1950 defeat to Uruguay there, before a crowd often estimated at around 200,000, is remembered as the \"Maracanaço.\"",
+        "difficulty": 2
+      },
+      {
+        "q": "Pão de queijo, chewy cheese bread made with cassava flour, comes from which Brazilian state?",
+        "choices": ["Minas Gerais", "Bahia", "Pernambuco", "Rio Grande do Sul"],
+        "answer": 0,
+        "fact": "Because it's made with cassava (tapioca) starch rather than wheat flour, traditional pão de queijo is naturally gluten-free.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which archipelago off Brazil's northeast coast is famed for its dolphins, beaches and diving?",
+        "choices": ["Abrolhos", "Fernando de Noronha", "Ilha Grande", "Ilhabela"],
+        "answer": 1,
+        "fact": "A UNESCO World Heritage Site, it limits visitor numbers and charges a daily environmental fee.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which June festival honors Catholic saints with bonfires, corn dishes and square dancing?",
+        "choices": ["Festa Junina", "Carnaval", "Círio de Nazaré", "Oktoberfest"],
+        "answer": 0,
+        "fact": "Revelers dress in stylized country clothes and dance the quadrilha, which comes from the European quadrille.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the stretch of the Amazon River upstream of its meeting with the Rio Negro called in Brazil?",
+        "choices": ["Madeira", "Solimões", "Ucayali", "Japurá"],
+        "answer": 1,
+        "fact": "Near Manaus, the dark Rio Negro and sandy Solimões flow side by side for kilometers before mixing, the \"Meeting of the Waters.\"",
+        "difficulty": 3
+      },
+      {
+        "q": "What is Brazil's highest mountain?",
+        "choices": ["Pico da Bandeira", "Monte Roraima", "Pico da Neblina", "Pico Paraná"],
+        "answer": 2,
+        "fact": "The peak near the Venezuelan border is often wrapped in cloud, which gave it its name, \"Peak of the Mist.\"",
+        "difficulty": 3
+      },
+      {
+        "q": "Which is Brazil's largest state by area?",
+        "choices": ["Amazonas", "Pará", "Mato Grosso", "Minas Gerais"],
+        "answer": 0,
+        "fact": "At about 1.56 million km², Amazonas is larger than France, Spain and Germany combined.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Afro-Brazilian street food from Bahia is a black-eyed-pea fritter fried in palm oil?",
+        "choices": ["Coxinha", "Pastel", "Acarajé", "Tapioca"],
+        "answer": 2,
+        "fact": "The craft of Bahia's baianas de acarajé, who sell it in traditional white dress, is registered as national cultural heritage.",
+        "difficulty": 3
+      },
+      {
+        "q": "Lençóis Maranhenses National Park is famous for what landscape?",
+        "choices": ["Sand dunes dotted with rainwater lagoons", "Giant waterfalls", "Salt flats", "Limestone caves"],
+        "answer": 0,
+        "fact": "Each rainy season, clear blue-green lagoons fill the hollows between its white dunes; it became a UNESCO site in 2024.",
         "difficulty": 3
       }
     ]

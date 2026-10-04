@@ -121,6 +121,186 @@
         "answer": 0,
         "fact": "Ioannis Kapodistrias, independent Greece's first head of state, was assassinated outside a church in Nafplio in 1831.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Athenian philosopher was sentenced to death in 399 BCE and made to drink hemlock?",
+        "choices": [
+          "Socrates",
+          "Plato",
+          "Aristotle",
+          "Diogenes"
+        ],
+        "answer": 0,
+        "fact": "Socrates wrote nothing himself; we know his ideas mainly through the dialogues of his student Plato.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Persian king led the great invasion of Greece in 480 BCE?",
+        "choices": [
+          "Darius I",
+          "Xerxes I",
+          "Cyrus the Great",
+          "Artaxerxes I"
+        ],
+        "answer": 1,
+        "fact": "For the invasion, Xerxes had a bridge of boats built across the Hellespont and a canal dug through the Athos peninsula.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which sanctuary was home to the most famous oracle of ancient Greece, the Oracle of Apollo?",
+        "choices": [
+          "Dodona",
+          "Olympia",
+          "Delphi",
+          "Corinth"
+        ],
+        "answer": 2,
+        "fact": "Greeks believed Delphi was the centre of the world, marked by a sacred stone called the omphalos, or 'navel'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Greek writer is often called the 'Father of History'?",
+        "choices": [
+          "Plutarch",
+          "Thucydides",
+          "Xenophon",
+          "Herodotus"
+        ],
+        "answer": 3,
+        "fact": "Herodotus came from Halicarnassus, modern Bodrum in Turkey, and his Histories chronicle the wars between the Greeks and Persians.",
+        "difficulty": 1
+      },
+      {
+        "q": "The ancient Olympic Games were held in honour of which god?",
+        "choices": [
+          "Zeus",
+          "Apollo",
+          "Poseidon",
+          "Hermes"
+        ],
+        "answer": 0,
+        "fact": "Olympia's gold-and-ivory statue of Zeus, made by the sculptor Phidias, was one of the Seven Wonders of the Ancient World.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Macedonian king, father of Alexander the Great, was assassinated in 336 BCE?",
+        "choices": [
+          "Perdiccas III",
+          "Philip II",
+          "Amyntas III",
+          "Archelaus I"
+        ],
+        "answer": 1,
+        "fact": "Philip was stabbed by his bodyguard Pausanias during his daughter's wedding celebrations at Aegae, the old Macedonian royal capital.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which country invaded Greece on 28 October 1940, after Greece rejected its ultimatum?",
+        "choices": [
+          "Bulgaria",
+          "Germany",
+          "Italy",
+          "Yugoslavia"
+        ],
+        "answer": 2,
+        "fact": "Greeks celebrate 'Ochi Day' ('No Day') every 28 October, recalling Prime Minister Metaxas's refusal of Mussolini's ultimatum.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Bronze Age civilisation, named after a citadel with a famous Lion Gate, dominated mainland Greece?",
+        "choices": [
+          "Hittite",
+          "Minoan",
+          "Cycladic",
+          "Mycenaean"
+        ],
+        "answer": 3,
+        "fact": "Heinrich Schliemann found the gold 'Mask of Agamemnon' at Mycenae in 1876, though it predates the legendary king by centuries.",
+        "difficulty": 2
+      },
+      {
+        "q": "Under the 1923 Treaty of Lausanne, Greece agreed a compulsory population exchange with which country?",
+        "choices": [
+          "Turkey",
+          "Bulgaria",
+          "Albania",
+          "Italy"
+        ],
+        "answer": 0,
+        "fact": "About 1.2 million Orthodox Christians left Anatolia for Greece, and around 400,000 Muslims moved from Greece to Turkey.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did German occupation forces withdraw from Athens during the Second World War?",
+        "choices": [
+          "1942",
+          "1944",
+          "1943",
+          "1945"
+        ],
+        "answer": 1,
+        "fact": "Athens was liberated on 12 October 1944, after three and a half years of occupation marked by a terrible famine.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Theban general broke Sparta's military power at the Battle of Leuctra in 371 BCE?",
+        "choices": [
+          "Lysander",
+          "Pelopidas",
+          "Epaminondas",
+          "Alcibiades"
+        ],
+        "answer": 2,
+        "fact": "Epaminondas went on to free the Messenians, long held as helots by Sparta, and founded the city of Messene for them.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did the Greek Civil War end?",
+        "choices": [
+          "1952",
+          "1945",
+          "1946",
+          "1949"
+        ],
+        "answer": 3,
+        "fact": "Fought between the government army and Communist-led forces, it was one of the first conflicts of the Cold War.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which King of Greece was assassinated in Thessaloniki in 1913?",
+        "choices": [
+          "George I",
+          "Otto",
+          "Constantine I",
+          "Alexander"
+        ],
+        "answer": 0,
+        "fact": "Born a Danish prince, George I had reigned for almost 50 years; he was shot while out walking in the newly won city.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which island group did Britain hand over to Greece in 1864?",
+        "choices": [
+          "The Dodecanese",
+          "The Ionian Islands",
+          "The Cyclades",
+          "The Sporades"
+        ],
+        "answer": 1,
+        "fact": "The islands had been a British protectorate since 1815; Britain ceded them partly to support Greece's new king, George I.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 146 BCE, the same year Carthage was razed, Rome destroyed which Greek city?",
+        "choices": [
+          "Argos",
+          "Thebes",
+          "Corinth",
+          "Megara"
+        ],
+        "answer": 2,
+        "fact": "Julius Caesar refounded Corinth as a Roman colony in 44 BCE, and it later became the capital of the province of Achaea.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -242,6 +422,186 @@
         ],
         "answer": 0,
         "fact": "Born in Kymi on the island of Euboea, Papanikolaou did his research in New York; his 'Pap test' has saved countless lives.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which philosopher, a student of Plato, wrote pioneering works on biology, logic and physics?",
+        "choices": [
+          "Socrates",
+          "Aristotle",
+          "Diogenes",
+          "Zeno"
+        ],
+        "answer": 1,
+        "fact": "Aristotle founded the Lyceum in Athens; his followers were called Peripatetics, perhaps from his habit of walking while teaching.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Greek letter stands for the ratio of a circle's circumference to its diameter?",
+        "choices": [
+          "Sigma (Σ)",
+          "Phi (φ)",
+          "Pi (π)",
+          "Theta (θ)"
+        ],
+        "answer": 2,
+        "fact": "Archimedes showed that pi lies between 3 10/71 and 3 1/7, though the symbol π itself was only popularised by Euler in the 1700s.",
+        "difficulty": 1
+      },
+      {
+        "q": "Democritus taught that all matter is made of tiny, indivisible particles. What did he call them?",
+        "choices": [
+          "Quarks",
+          "Molecules",
+          "Electrons",
+          "Atoms"
+        ],
+        "answer": 3,
+        "fact": "'Atom' comes from the Greek 'atomos', meaning 'uncuttable'; Democritus came from Abdera in Thrace.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which device for raising water, a helix turning inside a tube, is traditionally credited to Archimedes?",
+        "choices": [
+          "The screw pump",
+          "The waterwheel",
+          "The shaduf",
+          "The siphon"
+        ],
+        "answer": 0,
+        "fact": "Archimedes' screws are still used today, from sewage works to fish-friendly hydropower turbines.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which giant bronze statue of the sun god Helios, one of the Seven Wonders, stood on a Greek island harbour?",
+        "choices": [
+          "Lighthouse of Alexandria",
+          "Colossus of Rhodes",
+          "Mausoleum at Halicarnassus",
+          "Statue of Zeus at Olympia"
+        ],
+        "answer": 1,
+        "fact": "About 33 m tall, the Colossus stood for only around half a century before an earthquake toppled it, around 226 BCE.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Alexandrian scholar's 'Almagest' set out the Earth-centred model of the cosmos that dominated astronomy for centuries?",
+        "choices": [
+          "Aristarchus",
+          "Hipparchus",
+          "Ptolemy",
+          "Eratosthenes"
+        ],
+        "answer": 2,
+        "fact": "Written around 150 CE, the Almagest remained the standard astronomy text in Europe and the Islamic world for over 1,400 years.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Greek physician from Pergamon treated gladiators before becoming doctor to Emperor Marcus Aurelius?",
+        "choices": [
+          "Asclepiades",
+          "Herophilus",
+          "Dioscorides",
+          "Galen"
+        ],
+        "answer": 3,
+        "fact": "Galen's writings, partly based on dissecting animals, dominated European medicine until Andreas Vesalius challenged them in the 1500s.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which philosopher of Miletus is said to have predicted a solar eclipse in 585 BCE?",
+        "choices": [
+          "Thales",
+          "Anaximander",
+          "Heraclitus",
+          "Parmenides"
+        ],
+        "answer": 0,
+        "fact": "Often called the first Greek philosopher, Thales proposed that everything is ultimately made of water.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Alexandrian mathematician is often called the 'father of algebra' for his work 'Arithmetica'?",
+        "choices": [
+          "Apollonius",
+          "Diophantus",
+          "Pappus",
+          "Hypatia"
+        ],
+        "answer": 1,
+        "fact": "Pierre de Fermat scribbled his famous 'Last Theorem' in the margin of his copy of Diophantus' Arithmetica, around 1637.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Alexandrian scholar, killed in 415 CE, is the earliest female mathematician whose life is reasonably well recorded?",
+        "choices": [
+          "Aspasia",
+          "Theano",
+          "Hypatia",
+          "Sappho"
+        ],
+        "answer": 2,
+        "fact": "Hypatia's father Theon produced an edition of Euclid's Elements; she taught philosophy and astronomy in Alexandria.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Greek astronomer discovered the precession of the equinoxes and compiled an early star catalogue?",
+        "choices": [
+          "Meton",
+          "Ptolemy",
+          "Aristarchus",
+          "Hipparchus"
+        ],
+        "answer": 3,
+        "fact": "Hipparchus is often called the father of trigonometry, and the European Space Agency's star-mapping satellite Hipparcos was named after him.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Tunnel of Eupalinos, a 6th-century BCE aqueduct dug from both ends at once, is on which island?",
+        "choices": [
+          "Samos",
+          "Rhodes",
+          "Naxos",
+          "Chios"
+        ],
+        "answer": 0,
+        "fact": "The two digging teams met near the middle of the 1,036 m tunnel with only a small error, an astonishing feat of ancient surveying.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Rio-Antirrio Bridge, opened in 2004, spans which body of water?",
+        "choices": [
+          "Saronic Gulf",
+          "Gulf of Corinth",
+          "Thermaic Gulf",
+          "Argolic Gulf"
+        ],
+        "answer": 1,
+        "fact": "At about 2.9 km, it is one of the world's longest multi-span cable-stayed bridges, designed to survive earthquakes and shifting tectonic plates.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which engineer of 3rd-century BCE Alexandria invented the hydraulis, a water-powered organ?",
+        "choices": [
+          "Philo of Byzantium",
+          "Hero of Alexandria",
+          "Ctesibius",
+          "Archytas"
+        ],
+        "answer": 2,
+        "fact": "Often called the father of pneumatics, Ctesibius also built greatly improved water clocks.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which geometer wrote 'Conics', giving us the names ellipse, parabola and hyperbola?",
+        "choices": [
+          "Pappus",
+          "Archimedes",
+          "Euclid",
+          "Apollonius of Perga"
+        ],
+        "answer": 3,
+        "fact": "The three names come from Greek words meaning roughly 'falling short', 'comparison' and 'excess'.",
         "difficulty": 3
       }
     ],
@@ -365,6 +725,186 @@
         "answer": 3,
         "fact": "Seferis was also a career diplomat who served as Greek ambassador in London; Odysseas Elytis became Greece's second literature laureate in 1979.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Greek composer won an Oscar for his score for 'Chariots of Fire'?",
+        "choices": [
+          "Manos Hadjidakis",
+          "Mikis Theodorakis",
+          "Vangelis",
+          "Yanni"
+        ],
+        "answer": 2,
+        "fact": "Vangelis, born Evangelos Papathanassiou, also composed the electronic score for Ridley Scott's 'Blade Runner' (1982).",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient Athenian playwright wrote the comedies 'The Frogs' and 'Lysistrata'?",
+        "choices": [
+          "Menander",
+          "Euripides",
+          "Aeschylus",
+          "Aristophanes"
+        ],
+        "answer": 3,
+        "fact": "In 'The Clouds', Aristophanes mocked Socrates, who is said to have stood up in the theatre so the audience could compare him with his mask.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Hellenistic statue of a winged goddess, found on Samothrace in 1863, towers over a staircase in the Louvre?",
+        "choices": [
+          "Nike of Samothrace",
+          "Venus de Milo",
+          "Laocoön",
+          "Discobolus"
+        ],
+        "answer": 0,
+        "fact": "The statue shows Nike, goddess of victory, alighting on a ship's prow; her name was later borrowed by the sportswear brand.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient Greek storyteller is credited with fables such as 'The Tortoise and the Hare'?",
+        "choices": [
+          "Homer",
+          "Aesop",
+          "Hesiod",
+          "Pindar"
+        ],
+        "answer": 1,
+        "fact": "According to Herodotus, Aesop was an enslaved man on the island of Samos; his fables were passed down orally for centuries.",
+        "difficulty": 1
+      },
+      {
+        "q": "Myron's famous ancient sculpture 'Discobolus' shows an athlete doing what?",
+        "choices": [
+          "Wrestling",
+          "Throwing a javelin",
+          "Throwing a discus",
+          "Driving a chariot"
+        ],
+        "answer": 2,
+        "fact": "Myron's original 5th-century BCE bronze is lost; we know it today through Roman marble copies.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which composer wrote the music for the 1964 film 'Zorba the Greek'?",
+        "choices": [
+          "Stavros Xarchakos",
+          "Manos Hadjidakis",
+          "Vangelis",
+          "Mikis Theodorakis"
+        ],
+        "answer": 3,
+        "fact": "The film's famous sirtaki dance was choreographed for the movie rather than being a traditional folk dance, yet it became a symbol of Greece.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Athenian tragedian wrote 'Medea'?",
+        "choices": [
+          "Euripides",
+          "Aeschylus",
+          "Sophocles",
+          "Aristophanes"
+        ],
+        "answer": 0,
+        "fact": "Euripides won relatively few prizes in his lifetime, yet more of his plays survive than those of Aeschylus and Sophocles combined.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which sculptor oversaw the Parthenon's decoration and made its giant gold-and-ivory statue of Athena?",
+        "choices": [
+          "Praxiteles",
+          "Phidias",
+          "Polykleitos",
+          "Myron"
+        ],
+        "answer": 1,
+        "fact": "The Athena Parthenos stood about 12 m tall; a full-size modern replica stands in a Parthenon replica in Nashville, Tennessee.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Erechtheion on the Acropolis has a porch held up by statues of young women. What are these figures called?",
+        "choices": [
+          "Metopes",
+          "Atlantes",
+          "Caryatids",
+          "Triglyphs"
+        ],
+        "answer": 2,
+        "fact": "One of the six original Caryatids was taken by Lord Elgin and is in the British Museum; the other five are in Athens' Acropolis Museum.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Greek director made the films 'The Lobster' and 'Poor Things'?",
+        "choices": [
+          "Michael Cacoyannis",
+          "Theo Angelopoulos",
+          "Costa-Gavras",
+          "Yorgos Lanthimos"
+        ],
+        "answer": 3,
+        "fact": "Lanthimos first won international attention with 'Dogtooth' (2009), which won a prize at Cannes and was nominated for an Oscar.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Alexandria-based poet wrote 'Ithaka' and 'Waiting for the Barbarians'?",
+        "choices": [
+          "Constantine Cavafy",
+          "Giorgos Seferis",
+          "Odysseas Elytis",
+          "Yannis Ritsos"
+        ],
+        "answer": 0,
+        "fact": "Cavafy spent most of his life in Alexandria, Egypt, working as a civil servant, and shared his poems mainly in privately printed sheets.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Greek director's 'Eternity and a Day' won the Palme d'Or at Cannes in 1998?",
+        "choices": [
+          "Michael Cacoyannis",
+          "Theo Angelopoulos",
+          "Costa-Gavras",
+          "Yorgos Lanthimos"
+        ],
+        "answer": 1,
+        "fact": "Angelopoulos, known for long, slow takes, died in 2012 after being struck by a motorcycle while filming near Piraeus.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Athenian dramatist wrote the 'Oresteia' trilogy?",
+        "choices": [
+          "Euripides",
+          "Sophocles",
+          "Aeschylus",
+          "Menander"
+        ],
+        "answer": 2,
+        "fact": "Aeschylus fought at Marathon, and his epitaph is said to have mentioned only his soldiering, not his plays.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which bouzouki-based urban music, linked to refugees from Asia Minor, was added to UNESCO's cultural heritage list in 2017?",
+        "choices": [
+          "Dimotiko",
+          "Laïko",
+          "Entechno",
+          "Rebetiko"
+        ],
+        "answer": 3,
+        "fact": "Rebetiko flourished after 1922 in port cities like Piraeus, and was long frowned upon for songs about hashish dens and prison.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which pioneer of 'metaphysical painting' was born in Volos, Greece, to Italian parents?",
+        "choices": [
+          "Giorgio de Chirico",
+          "Amedeo Modigliani",
+          "Nikos Engonopoulos",
+          "Yannis Tsarouchis"
+        ],
+        "answer": 0,
+        "fact": "De Chirico's eerie, empty piazzas and long shadows had a deep influence on the Surrealists.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -486,6 +1026,186 @@
         ],
         "answer": 2,
         "fact": "Otto arrived in Greece in 1833 aged just 17; he was deposed in 1862 and returned to Bavaria.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Athenian lawgiver's code was so harsh that it gave English the word for 'excessively severe'?",
+        "choices": [
+          "Pisistratus",
+          "Solon",
+          "Cleisthenes",
+          "Draco"
+        ],
+        "answer": 3,
+        "fact": "Draco's laws of around 621 BCE were Athens' first written code; a later orator quipped they were written in blood, not ink.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which philosopher wrote 'The Republic', describing an ideal state ruled by philosopher-kings?",
+        "choices": [
+          "Plato",
+          "Aristotle",
+          "Socrates",
+          "Epicurus"
+        ],
+        "answer": 0,
+        "fact": "Plato founded the Academy in Athens around 387 BCE, the school that gave us the word 'academic'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which currency did Greece replace with the euro?",
+        "choices": [
+          "Lira",
+          "Drachma",
+          "Lev",
+          "Dinar"
+        ],
+        "answer": 1,
+        "fact": "The drachma's name goes back about 2,500 years to ancient Greek coins; euro notes and coins replaced it in 2002.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was the ancient Greek word for a self-governing city-state?",
+        "choices": [
+          "Acropolis",
+          "Agora",
+          "Polis",
+          "Demos"
+        ],
+        "answer": 2,
+        "fact": "The English word 'politics' comes from polis, through the Greek 'politika', meaning the affairs of the city.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Greek-derived word means 'rule by a few'?",
+        "choices": [
+          "Theocracy",
+          "Monarchy",
+          "Anarchy",
+          "Oligarchy"
+        ],
+        "answer": 3,
+        "fact": "In 411 BCE an oligarchic regime known as the Four Hundred briefly overthrew Athenian democracy.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many kings ruled ancient Sparta at the same time?",
+        "choices": [
+          "Two",
+          "One",
+          "Three",
+          "Five"
+        ],
+        "answer": 0,
+        "fact": "Sparta's two kings came from two royal houses, the Agiads and Eurypontids, and were overseen by five elected ephors.",
+        "difficulty": 2
+      },
+      {
+        "q": "What are the ceremonial guards at Athens' Tomb of the Unknown Soldier called?",
+        "choices": [
+          "Janissaries",
+          "Evzones",
+          "Hoplites",
+          "Palikari"
+        ],
+        "answer": 1,
+        "fact": "Each guard's pleated kilt, the fustanella, is said to have 400 pleats, one for each year of Ottoman rule.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Cretan-born statesman served as Greek Prime Minister several times between 1910 and 1933 and gives his name to Athens' airport?",
+        "choices": [
+          "Ioannis Metaxas",
+          "Charilaos Trikoupis",
+          "Eleftherios Venizelos",
+          "Konstantinos Karamanlis"
+        ],
+        "answer": 2,
+        "fact": "Venizelos led Greece through the Balkan Wars of 1912-13, which greatly enlarged the country's territory.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Athenian lawgiver abolished debt slavery around 594 BCE?",
+        "choices": [
+          "Ephialtes",
+          "Draco",
+          "Pisistratus",
+          "Solon"
+        ],
+        "answer": 3,
+        "fact": "Solon, also a poet, is counted among the Seven Sages of Greece; after his reforms he reportedly left Athens for ten years.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who returned from exile in 1974 to lead Greece's transition back to democracy after the junta fell?",
+        "choices": [
+          "Konstantinos Karamanlis",
+          "Andreas Papandreou",
+          "Georgios Papandreou",
+          "Georgios Papadopoulos"
+        ],
+        "answer": 0,
+        "fact": "Karamanlis founded the New Democracy party in 1974 and later served two terms as President of Greece.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which party did Andreas Papandreou found in 1974?",
+        "choices": [
+          "New Democracy",
+          "PASOK",
+          "SYRIZA",
+          "KKE"
+        ],
+        "answer": 1,
+        "fact": "PASOK won the 1981 election, forming Greece's first socialist government; Andreas's father and son also became Prime Ministers.",
+        "difficulty": 3
+      },
+      {
+        "q": "Ioannis Metaxas established his authoritarian regime on 4 August of which year?",
+        "choices": [
+          "1928",
+          "1922",
+          "1936",
+          "1940"
+        ],
+        "answer": 2,
+        "fact": "Known as the '4th of August Regime', it lasted beyond Metaxas himself, who died in January 1941.",
+        "difficulty": 3
+      },
+      {
+        "q": "In ancient Athens, which council of 500 citizens chosen by lot prepared business for the Assembly?",
+        "choices": [
+          "The Heliaia",
+          "The Areopagus",
+          "The Ekklesia",
+          "The Boule"
+        ],
+        "answer": 3,
+        "fact": "Its members served for one year, 50 from each of Athens' ten tribes, and no one could serve more than twice in a lifetime.",
+        "difficulty": 3
+      },
+      {
+        "q": "Modern Greece's Supreme Civil and Criminal Court takes its name from which ancient Athenian council?",
+        "choices": [
+          "Areopagus",
+          "Boule",
+          "Ekklesia",
+          "Gerousia"
+        ],
+        "answer": 0,
+        "fact": "The ancient council met on a rocky hill below the Acropolis, where in myth the god Ares himself was put on trial.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 19th-century Prime Minister, a champion of railways and the Corinth Canal, told Parliament in 1893 that Greece was bankrupt?",
+        "choices": [
+          "Theodoros Deligiannis",
+          "Charilaos Trikoupis",
+          "Alexandros Koumoundouros",
+          "Ioannis Kolettis"
+        ],
+        "answer": 1,
+        "fact": "Trikoupis' long rivalry with Theodoros Deligiannis dominated Greek politics for two decades.",
         "difficulty": 3
       }
     ],
@@ -619,6 +1339,201 @@
         "fact": "In Tokyo he tied Cuba's Juan Miguel Echevarría at 8.41 m with his final jump and took gold thanks to a better second-best leap.",
         "difficulty": 3,
         "asOf": "2024"
+      },
+      {
+        "q": "In 2021, which player became the first Greek man to reach a Grand Slam singles final, at the French Open?",
+        "choices": [
+          "Stefanos Tsitsipas",
+          "Michail Pervolarakis",
+          "Stefanos Sakellaridis",
+          "Konstantinos Economidis"
+        ],
+        "answer": 0,
+        "fact": "Tsitsipas led Novak Djokovic by two sets to love in the final before losing in five sets.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In July 2023, wildfires forced around 19,000 people to evacuate on which Greek holiday island?",
+        "choices": [
+          "Santorini",
+          "Rhodes",
+          "Mykonos",
+          "Zakynthos"
+        ],
+        "answer": 1,
+        "fact": "Many of those moved to safety were tourists, in what officials described as Greece's largest-ever wildfire evacuation.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In February 2025, thousands of residents and workers left which famous Cycladic island amid an intense earthquake swarm?",
+        "choices": [
+          "Paros",
+          "Mykonos",
+          "Santorini",
+          "Naxos"
+        ],
+        "answer": 2,
+        "fact": "Thousands of tremors were recorded in the sea between Santorini and Amorgos, and schools closed on several islands as a precaution.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Athens basketball club won the EuroLeague in 2024?",
+        "choices": [
+          "Panionios",
+          "Olympiacos",
+          "AEK Athens",
+          "Panathinaikos"
+        ],
+        "answer": 3,
+        "fact": "It was Panathinaikos' seventh EuroLeague crown, won against Real Madrid in the final in Berlin.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Under a deal with Greece that took effect in 2019, Greece's northern neighbour changed its name to what?",
+        "choices": [
+          "North Macedonia",
+          "Upper Macedonia",
+          "Vardar Macedonia",
+          "Republic of Skopje"
+        ],
+        "answer": 0,
+        "fact": "The Prespa Agreement, named after the lake where it was signed in 2018, ended a naming dispute dating back to 1991.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Greece's deadliest rail accident, a head-on train collision in February 2023, happened near which valley?",
+        "choices": [
+          "Meteora",
+          "Tempi",
+          "Samaria",
+          "Vikos"
+        ],
+        "answer": 1,
+        "fact": "The crash killed 57 people and sparked mass protests across Greece over rail safety.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In September 2023, Storm Daniel caused catastrophic flooding across which Greek farming region?",
+        "choices": [
+          "Epirus",
+          "Attica",
+          "Thessaly",
+          "Macedonia"
+        ],
+        "answer": 2,
+        "fact": "Storm Daniel then crossed the Mediterranean and devastated the Libyan city of Derna, where two dams collapsed.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In August 2021, wildfires devastated the north of which large island, Greece's second largest?",
+        "choices": [
+          "Rhodes",
+          "Crete",
+          "Lesbos",
+          "Evia (Euboea)"
+        ],
+        "answer": 3,
+        "fact": "Ferries evacuated hundreds of residents and tourists from Evia's beaches as the flames reached the shore.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In October 2024, Greece's footballers won at Wembley for the first time, beating which country?",
+        "choices": [
+          "England",
+          "Scotland",
+          "Wales",
+          "Republic of Ireland"
+        ],
+        "answer": 0,
+        "fact": "Vangelis Pavlidis scored both goals in a 2-1 win, days after the death of Greek international defender George Baldock.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2021, Greece took delivery of its first Rafale fighter jets from which country?",
+        "choices": [
+          "United States",
+          "France",
+          "Germany",
+          "Italy"
+        ],
+        "answer": 1,
+        "fact": "Greece became the Rafale's first European export customer, eventually ordering 24 of the jets.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In August 2023, the largest wildfire ever recorded in the EU burned in which Greek region near the Turkish border?",
+        "choices": [
+          "Epirus",
+          "Chalkidiki",
+          "Evros",
+          "Thessaly"
+        ],
+        "answer": 2,
+        "fact": "The fire burned over 80,000 hectares, including much of the Dadia Forest, an important refuge for vultures.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In March 2023, which state returned three fragments of the Parthenon sculptures to Greece?",
+        "choices": [
+          "Germany",
+          "United Kingdom",
+          "France",
+          "Vatican City"
+        ],
+        "answer": 3,
+        "fact": "The fragments, the heads of a horse, a boy and a bearded man, went on display in Athens' Acropolis Museum.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who was elected leader of SYRIZA in September 2023, succeeding Alexis Tsipras?",
+        "choices": [
+          "Stefanos Kasselakis",
+          "Effie Achtsioglou",
+          "Sokratis Famellos",
+          "Nikos Pappas"
+        ],
+        "answer": 0,
+        "fact": "A former Goldman Sachs trader who had lived in the United States, Kasselakis was little known in Greek politics before his election.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Greek tennis player reached the semi-finals of both the French Open and the US Open in 2021?",
+        "choices": [
+          "Despina Papamichail",
+          "Maria Sakkari",
+          "Valentini Grammatikopoulou",
+          "Eleni Daniilidou"
+        ],
+        "answer": 1,
+        "fact": "Sakkari's mother, Angeliki Kanellopoulou, was also a professional tennis player who ranked in the world's top 50 in the 1980s.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In April 2022, Greece repaid its remaining loans from which lender, about two years early?",
+        "choices": [
+          "World Bank",
+          "European Central Bank",
+          "International Monetary Fund",
+          "European Investment Bank"
+        ],
+        "answer": 2,
+        "fact": "The IMF had been part of the 'troika' that oversaw Greece's bailouts from 2010, alongside the European Commission and the ECB.",
+        "difficulty": 3,
+        "asOf": "2022"
       }
     ],
     "general": [
@@ -740,6 +1655,186 @@
         ],
         "answer": 0,
         "fact": "About 300 km long, the Aliakmonas runs from the Pindus mountains to the Thermaic Gulf near Thessaloniki.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the largest island in Greece?",
+        "choices": [
+          "Evia",
+          "Crete",
+          "Rhodes",
+          "Corfu"
+        ],
+        "answer": 1,
+        "fact": "Crete's Samaria Gorge, about 16 km long, is one of Europe's most popular hikes.",
+        "difficulty": 1
+      },
+      {
+        "q": "What prize did winners receive at the ancient Olympic Games?",
+        "choices": [
+          "A laurel crown",
+          "A gold medal",
+          "An olive wreath",
+          "A bronze tripod"
+        ],
+        "answer": 2,
+        "fact": "Olympic wreaths were cut from a sacred wild olive tree; laurel wreaths were the prize at the Pythian Games in Delphi instead.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which rocky hill in Athens is crowned by the Parthenon?",
+        "choices": [
+          "Philopappos Hill",
+          "Lycabettus",
+          "The Pnyx",
+          "The Acropolis"
+        ],
+        "answer": 3,
+        "fact": "Acropolis means 'high city'; many Greek cities had one, but Athens' is by far the most famous.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Greek dish layers aubergine and spiced minced meat under a thick béchamel topping?",
+        "choices": [
+          "Moussaka",
+          "Souvlaki",
+          "Spanakopita",
+          "Dolmades"
+        ],
+        "answer": 0,
+        "fact": "Moussaka's béchamel crust was popularised in the 1920s by chef Nikolaos Tselementes, who brought French techniques into Greek cooking.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the last letter of the Greek alphabet?",
+        "choices": [
+          "Zeta",
+          "Omega",
+          "Psi",
+          "Chi"
+        ],
+        "answer": 1,
+        "fact": "Omega means 'big O' and omicron 'little o'; together, alpha and omega came to mean the beginning and the end.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which group of monasteries in Thessaly is perched on top of towering rock pillars?",
+        "choices": [
+          "Hosios Loukas",
+          "Mystras",
+          "Meteora",
+          "Daphni"
+        ],
+        "answer": 2,
+        "fact": "Meteora means 'suspended in the air'; monks once reached some monasteries only by ladders or by nets hauled up with a winch.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which traditional Greek wine is flavoured with pine resin?",
+        "choices": [
+          "Mastiha",
+          "Ouzo",
+          "Tsipouro",
+          "Retsina"
+        ],
+        "answer": 3,
+        "fact": "The taste is thought to date back to ancient times, when wine jars were sealed with pine resin to keep the air out.",
+        "difficulty": 2
+      },
+      {
+        "q": "What do Greeks call their own country?",
+        "choices": [
+          "Hellas",
+          "Achaea",
+          "Ionia",
+          "Arcadia"
+        ],
+        "answer": 0,
+        "fact": "The country's official name is the Hellenic Republic; the English word 'Greece' comes from the Latin 'Graecia'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which port, linked to Athens since ancient times, is Greece's busiest?",
+        "choices": [
+          "Patras",
+          "Piraeus",
+          "Rafina",
+          "Lavrio"
+        ],
+        "answer": 1,
+        "fact": "Themistocles fortified Piraeus in the 5th century BCE, and the Long Walls once joined it to Athens.",
+        "difficulty": 2
+      },
+      {
+        "q": "The White Tower is the best-known landmark of which Greek city's waterfront?",
+        "choices": [
+          "Heraklion",
+          "Patras",
+          "Thessaloniki",
+          "Kavala"
+        ],
+        "answer": 2,
+        "fact": "Once a notorious Ottoman prison nicknamed the 'Tower of Blood', it was whitewashed in the 1890s and renamed the White Tower.",
+        "difficulty": 2
+      },
+      {
+        "q": "Mastic, a resin harvested from shrubs, is produced on the southern part of which Greek island?",
+        "choices": [
+          "Rhodes",
+          "Lesbos",
+          "Samos",
+          "Chios"
+        ],
+        "answer": 3,
+        "fact": "Southern Chios has around two dozen 'mastic villages'; in Pyrgi, houses are covered in black-and-white geometric patterns called xysta.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the highest mountain on Crete?",
+        "choices": [
+          "Mount Ida (Psiloritis)",
+          "Mount Dikti",
+          "Mount Taygetus",
+          "Mount Parnassus"
+        ],
+        "answer": 0,
+        "fact": "The Idaean Cave on its slopes is one of two Cretan caves that myth claims as the childhood hideaway of the god Zeus.",
+        "difficulty": 3
+      },
+      {
+        "q": "Kalamata olives come from which region of the Peloponnese?",
+        "choices": [
+          "Argolis",
+          "Messenia",
+          "Arcadia",
+          "Laconia"
+        ],
+        "answer": 1,
+        "fact": "These almond-shaped, dark purple olives are named after Kalamata, Messenia's capital and largest city.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which mountain, sacred to Apollo and the Muses, rises above the sanctuary of Delphi?",
+        "choices": [
+          "Mount Ossa",
+          "Mount Pelion",
+          "Mount Parnassus",
+          "Mount Taygetus"
+        ],
+        "answer": 2,
+        "fact": "Today Mount Parnassus is a national park and also hosts one of Greece's largest ski centres.",
+        "difficulty": 3
+      },
+      {
+        "q": "On which island was much of the 2008 film 'Mamma Mia!' shot?",
+        "choices": [
+          "Paros",
+          "Skiathos",
+          "Kefalonia",
+          "Skopelos"
+        ],
+        "answer": 3,
+        "fact": "Scenes were filmed at the clifftop chapel of Agios Ioannis Kastri, which has since become a popular wedding spot.",
         "difficulty": 3
       }
     ]

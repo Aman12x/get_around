@@ -121,6 +121,186 @@
         "answer": 0,
         "fact": "During the sack, Pope Clement VII fled along a fortified passage to Castel Sant'Angelo while the Swiss Guard fought a heroic rearguard.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Roman leader was assassinated on the Ides of March, 44 BCE?",
+        "choices": [
+          "Julius Caesar",
+          "Augustus",
+          "Nero",
+          "Caligula"
+        ],
+        "answer": 0,
+        "fact": "Caesar was stabbed 23 times at a Senate meeting held in the Curia of Pompey, because the usual Senate House was being rebuilt.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Carthaginian general crossed the Alps with war elephants to invade Italy in 218 BCE?",
+        "choices": [
+          "Hamilcar Barca",
+          "Hannibal",
+          "Hanno the Great",
+          "Mago Barca"
+        ],
+        "answer": 1,
+        "fact": "Hannibal crushed a much larger Roman army at Cannae in 216 BCE, yet he never captured Rome itself.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which emperor ruled Rome when much of the city burned in the Great Fire of 64 CE?",
+        "choices": [
+          "Hadrian",
+          "Trajan",
+          "Nero",
+          "Vespasian"
+        ],
+        "answer": 2,
+        "fact": "The tale that Nero 'fiddled while Rome burned' is legend: the fiddle did not exist yet, and Tacitus says he was at Antium when the fire began.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Venetian merchant described his travels to the court of Kublai Khan in China?",
+        "choices": [
+          "John Cabot",
+          "Christopher Columbus",
+          "Amerigo Vespucci",
+          "Marco Polo"
+        ],
+        "answer": 3,
+        "fact": "Marco Polo dictated his travels to a writer of romances, Rustichello da Pisa, while both were prisoners of war in Genoa.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which Italian port city was Christopher Columbus born?",
+        "choices": [
+          "Genoa",
+          "Venice",
+          "Naples",
+          "Pisa"
+        ],
+        "answer": 0,
+        "fact": "Columbus sailed for Spain: his 1492 voyage was sponsored by Ferdinand and Isabella, and he died in 1506 still believing he had reached Asia.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which emperor, together with his co-emperor Licinius, issued the Edict of Milan in 313 CE granting tolerance to Christians?",
+        "choices": [
+          "Diocletian",
+          "Constantine the Great",
+          "Theodosius I",
+          "Justinian"
+        ],
+        "answer": 1,
+        "fact": "Constantine later refounded the old Greek city of Byzantium as Constantinople, dedicating it as his new capital in 330 CE.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Roman emperor ordered a defensive wall built across northern Britain from 122 CE?",
+        "choices": [
+          "Claudius",
+          "Trajan",
+          "Hadrian",
+          "Antoninus Pius"
+        ],
+        "answer": 2,
+        "fact": "Hadrian's Wall ran about 117 km from coast to coast; his successor Antoninus Pius later built a second wall further north.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Italian maritime republic was led by an elected Doge for over a thousand years?",
+        "choices": [
+          "Amalfi",
+          "Genoa",
+          "Pisa",
+          "Venice"
+        ],
+        "answer": 3,
+        "fact": "The last Doge, Ludovico Manin, abdicated in 1797 when Napoleon's army brought the Venetian Republic to an end.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Dominican friar organised the 'Bonfire of the Vanities' in Florence in 1497?",
+        "choices": [
+          "Girolamo Savonarola",
+          "Giordano Bruno",
+          "Thomas Aquinas",
+          "Francis of Assisi"
+        ],
+        "answer": 0,
+        "fact": "Savonarola was himself executed and burned in Florence's Piazza della Signoria in 1498; a plaque in the square marks the spot.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Italy enter the Second World War on Germany's side?",
+        "choices": [
+          "1939",
+          "1940",
+          "1941",
+          "1943"
+        ],
+        "answer": 1,
+        "fact": "Italy declared war on 10 June 1940; after Mussolini's fall it signed an armistice with the Allies, announced on 8 September 1943.",
+        "difficulty": 2
+      },
+      {
+        "q": "At which 1176 battle did the Lombard League defeat Emperor Frederick Barbarossa?",
+        "choices": [
+          "Benevento",
+          "Pavia",
+          "Legnano",
+          "Montaperti"
+        ],
+        "answer": 2,
+        "fact": "The victory is remembered in Italy's national anthem, which declares that from the Alps to Sicily 'everywhere is Legnano'.",
+        "difficulty": 3
+      },
+      {
+        "q": "What name is given to the 1282 uprising in Sicily against the rule of Charles of Anjou?",
+        "choices": [
+          "The Five Days",
+          "The Ciompi Revolt",
+          "The Pazzi Conspiracy",
+          "The Sicilian Vespers"
+        ],
+        "answer": 3,
+        "fact": "The revolt reputedly began outside a Palermo church at the hour of vespers on Easter Monday, and later inspired an opera by Verdi.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which secret 1915 treaty brought Italy into the First World War on the Allied side?",
+        "choices": [
+          "Treaty of London",
+          "Treaty of Rapallo",
+          "Treaty of Saint-Germain",
+          "Treaty of Versailles"
+        ],
+        "answer": 0,
+        "fact": "Italy had been in the Triple Alliance with Germany and Austria-Hungary, but stayed neutral in 1914 before switching sides in May 1915.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Roman general defeated Hannibal at the Battle of Zama in 202 BCE?",
+        "choices": [
+          "Fabius Maximus",
+          "Scipio Africanus",
+          "Claudius Marcellus",
+          "Gaius Marius"
+        ],
+        "answer": 1,
+        "fact": "Scipio took the name 'Africanus' from his victory; his adoptive grandson, Scipio Aemilianus, destroyed Carthage in 146 BCE.",
+        "difficulty": 3
+      },
+      {
+        "q": "The 'Five Days of Milan' in March 1848 was an uprising against which power?",
+        "choices": [
+          "Spain",
+          "France",
+          "The Austrian Empire",
+          "The Papal States"
+        ],
+        "answer": 2,
+        "fact": "Field Marshal Radetzky withdrew from Milan but retook it that August; Johann Strauss I's Radetzky March was written in his honour.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -242,6 +422,186 @@
         ],
         "answer": 0,
         "fact": "Barred from university by Fascist racial laws, she ran experiments on chick embryos in a lab in her bedroom; she lived to 103.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Italian carmaker uses a black prancing horse as its emblem?",
+        "choices": [
+          "Lamborghini",
+          "Ferrari",
+          "Maserati",
+          "Alfa Romeo"
+        ],
+        "answer": 1,
+        "fact": "The prancing horse was the emblem of First World War fighter ace Francesco Baracca; his mother suggested Enzo Ferrari use it for luck.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which medieval mathematician from Pisa gives his name to the sequence 1, 1, 2, 3, 5, 8, 13...?",
+        "choices": [
+          "Niccolò Tartaglia",
+          "Gerolamo Cardano",
+          "Fibonacci",
+          "Luca Pacioli"
+        ],
+        "answer": 2,
+        "fact": "In his 1202 book Liber Abaci, Fibonacci used the sequence to model breeding rabbits, and helped spread Hindu-Arabic numerals across Europe.",
+        "difficulty": 1
+      },
+      {
+        "q": "What material did the Romans use to build the Pantheon's great dome, the largest unreinforced dome of its kind?",
+        "choices": [
+          "Bronze",
+          "Marble",
+          "Granite",
+          "Concrete"
+        ],
+        "answer": 3,
+        "fact": "Roman concrete used volcanic ash called pozzolana; harbour structures built with it have survived 2,000 years of pounding seawater.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Italian scooter, launched by Piaggio in 1946, takes its name from the Italian word for 'wasp'?",
+        "choices": [
+          "Vespa",
+          "Lambretta",
+          "Ape",
+          "Ciao"
+        ],
+        "answer": 0,
+        "fact": "Enrico Piaggio reportedly named it after its buzzing engine; Audrey Hepburn and Gregory Peck rode one in the film 'Roman Holiday' (1953).",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Italian company created Nutella, the hazelnut and cocoa spread?",
+        "choices": [
+          "Barilla",
+          "Ferrero",
+          "Lavazza",
+          "Perugina"
+        ],
+        "answer": 1,
+        "fact": "Nutella grew out of Pietro Ferrero's 1946 'Giandujot', which stretched scarce cocoa with Piedmont hazelnuts; the Nutella name arrived in 1964.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Bologna scientist's experiments with twitching frogs' legs led him to propose 'animal electricity'?",
+        "choices": [
+          "Amedeo Avogadro",
+          "Alessandro Volta",
+          "Luigi Galvani",
+          "Lazzaro Spallanzani"
+        ],
+        "answer": 2,
+        "fact": "The word 'galvanise' comes from his name; his rival Volta argued the electricity came from the metals, not the frog.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Turin scientist proposed in 1811 that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?",
+        "choices": [
+          "Alessandro Volta",
+          "Stanislao Cannizzaro",
+          "Luigi Galvani",
+          "Amedeo Avogadro"
+        ],
+        "answer": 3,
+        "fact": "Avogadro's idea was largely ignored until Stanislao Cannizzaro championed it at the 1860 Karlsruhe Congress, four years after Avogadro's death.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Italian company launched the Programma 101, one of the first desktop programmable computers, in 1965?",
+        "choices": [
+          "Olivetti",
+          "Pirelli",
+          "Fiat",
+          "Ansaldo"
+        ],
+        "answer": 0,
+        "fact": "NASA used Programma 101 machines for calculations while planning the 1969 Apollo 11 Moon landing.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Milan company Pirelli, founded in 1872, is best known for making what?",
+        "choices": [
+          "Typewriters",
+          "Tyres",
+          "Coffee machines",
+          "Motorcycles"
+        ],
+        "answer": 1,
+        "fact": "Pirelli has been the sole tyre supplier to Formula One since 2011, and also publishes a famous annual photography calendar.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Fallopian tubes are named after which 16th-century Italian anatomist?",
+        "choices": [
+          "Marcello Malpighi",
+          "Bartolomeo Eustachi",
+          "Gabriele Falloppio",
+          "Giovanni Morgagni"
+        ],
+        "answer": 2,
+        "fact": "Falloppio held the chair of anatomy at the University of Padua, where the great Andreas Vesalius had lectured before him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Italian scientist first observed capillaries, through a microscope, in 1661?",
+        "choices": [
+          "Lazzaro Spallanzani",
+          "Gabriele Falloppio",
+          "Giovanni Morgagni",
+          "Marcello Malpighi"
+        ],
+        "answer": 3,
+        "fact": "Seeing capillaries in a frog's lung supplied the missing link between arteries and veins in William Harvey's theory of blood circulation.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Milanese polymath published methods for solving cubic and quartic equations in his 1545 book 'Ars Magna'?",
+        "choices": [
+          "Gerolamo Cardano",
+          "Niccolò Tartaglia",
+          "Luca Pacioli",
+          "Rafael Bombelli"
+        ],
+        "answer": 0,
+        "fact": "Cardano had promised Niccolò Tartaglia to keep his cubic method secret, sparking a bitter feud when it appeared in print.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who invented the stovetop moka pot in 1933?",
+        "choices": [
+          "Achille Gaggia",
+          "Alfonso Bialetti",
+          "Luigi Bezzera",
+          "Angelo Moriondo"
+        ],
+        "answer": 1,
+        "fact": "The Bialetti logo's moustachioed little man is a caricature of Alfonso's son Renato, whose ashes were buried in a giant moka pot in 2016.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Italian-born physicist shared the 1959 Nobel Prize in Physics for discovering the antiproton?",
+        "choices": [
+          "Bruno Pontecorvo",
+          "Carlo Rubbia",
+          "Emilio Segrè",
+          "Edoardo Amaldi"
+        ],
+        "answer": 2,
+        "fact": "Segrè also co-discovered technetium in 1937, the first chemical element to be produced artificially.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Italian-born engineer designed the chip of the Intel 4004 (1971), the first commercially available microprocessor?",
+        "choices": [
+          "Guglielmo Marconi",
+          "Pier Giorgio Perotto",
+          "Adriano Olivetti",
+          "Federico Faggin"
+        ],
+        "answer": 3,
+        "fact": "Faggin etched his initials 'F.F.' onto the 4004's silicon; he later co-founded Zilog, maker of the hugely popular Z80 chip.",
         "difficulty": 3
       }
     ],
@@ -365,6 +725,186 @@
         "answer": 3,
         "fact": "Caravaggio's life was as dramatic as his art: he fled Rome in 1606 after killing a man in a brawl.",
         "difficulty": 3
+      },
+      {
+        "q": "In which city can visitors see Michelangelo's original marble statue of David?",
+        "choices": [
+          "Milan",
+          "Rome",
+          "Florence",
+          "Venice"
+        ],
+        "answer": 2,
+        "fact": "Carved from a block of marble other sculptors had abandoned, David stood outdoors in Piazza della Signoria until 1873; a replica stands there now.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which composer wrote the operas 'La Bohème' and 'Madama Butterfly'?",
+        "choices": [
+          "Vincenzo Bellini",
+          "Gioachino Rossini",
+          "Gaetano Donizetti",
+          "Giacomo Puccini"
+        ],
+        "answer": 3,
+        "fact": "Puccini came from a long line of church musicians in Lucca; a festival of his operas is held each summer at Torre del Lago, where he lived.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Renaissance artist painted 'The School of Athens' in the Vatican?",
+        "choices": [
+          "Raphael",
+          "Titian",
+          "Giotto",
+          "Donatello"
+        ],
+        "answer": 0,
+        "fact": "Raphael is widely thought to have used Leonardo da Vinci as his model for Plato, and he painted his own face among the crowd.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which tenor from Modena sang as one of the 'Three Tenors' with Plácido Domingo and José Carreras?",
+        "choices": [
+          "Andrea Bocelli",
+          "Luciano Pavarotti",
+          "Enrico Caruso",
+          "Mario Lanza"
+        ],
+        "answer": 1,
+        "fact": "At New York's Met in 1972, Pavarotti hit nine high Cs in a single aria, earning the nickname 'King of the High Cs'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Milan opera house, opened in 1778, is one of the most famous in the world?",
+        "choices": [
+          "Teatro San Carlo",
+          "La Fenice",
+          "La Scala",
+          "Teatro Massimo"
+        ],
+        "answer": 2,
+        "fact": "La Scala takes its name from the church of Santa Maria alla Scala, which was demolished to make way for the theatre.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who wrote 'The Adventures of Pinocchio'?",
+        "choices": [
+          "Edmondo De Amicis",
+          "Italo Calvino",
+          "Gianni Rodari",
+          "Carlo Collodi"
+        ],
+        "answer": 3,
+        "fact": "Collodi was a pen name taken from his mother's Tuscan village; the author's real name was Carlo Lorenzini.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Venetian master painted the 'Venus of Urbino'?",
+        "choices": [
+          "Titian",
+          "Tintoretto",
+          "Paolo Veronese",
+          "Giorgione"
+        ],
+        "answer": 0,
+        "fact": "Titian worked for over 60 years and was still painting when he died in Venice during the plague of 1576.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Baroque sculptor created 'The Ecstasy of Saint Teresa' and Rome's Fountain of the Four Rivers?",
+        "choices": [
+          "Francesco Borromini",
+          "Gian Lorenzo Bernini",
+          "Antonio Canova",
+          "Donatello"
+        ],
+        "answer": 1,
+        "fact": "Bernini also designed the sweeping colonnades that embrace St Peter's Square like a pair of open arms.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who directed and starred in the 1997 film 'Life Is Beautiful'?",
+        "choices": [
+          "Nanni Moretti",
+          "Giuseppe Tornatore",
+          "Roberto Benigni",
+          "Bernardo Bertolucci"
+        ],
+        "answer": 2,
+        "fact": "Benigni won the Best Actor Oscar for the role, famously clambering over the seats of the audience on his way to the stage.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which composer wrote the opera 'The Barber of Seville' (1816)?",
+        "choices": [
+          "Giuseppe Verdi",
+          "Gaetano Donizetti",
+          "Vincenzo Bellini",
+          "Gioachino Rossini"
+        ],
+        "answer": 3,
+        "fact": "Rossini retired from opera aged 37 after 'William Tell' and devoted himself to food; the dish tournedos Rossini is named after him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which painter decorated Padua's Scrovegni Chapel with a celebrated fresco cycle in the early 1300s?",
+        "choices": [
+          "Giotto",
+          "Cimabue",
+          "Masaccio",
+          "Duccio"
+        ],
+        "answer": 0,
+        "fact": "Giotto also designed Florence Cathedral's bell tower, still known today as Giotto's Campanile.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who wrote the novel 'The Leopard' (Il Gattopardo), published in 1958?",
+        "choices": [
+          "Alberto Moravia",
+          "Giuseppe Tomasi di Lampedusa",
+          "Italo Calvino",
+          "Umberto Eco"
+        ],
+        "answer": 1,
+        "fact": "Published after its author's death, it became a bestseller and was filmed by Luchino Visconti in 1963 with Burt Lancaster.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which director made the Neorealist classic 'Bicycle Thieves' (1948)?",
+        "choices": [
+          "Luchino Visconti",
+          "Roberto Rossellini",
+          "Vittorio De Sica",
+          "Michelangelo Antonioni"
+        ],
+        "answer": 2,
+        "fact": "De Sica cast non-professional actors; his lead, Lamberto Maggiorani, was a factory worker.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Neoclassical sculptor created 'Psyche Revived by Cupid's Kiss', now in the Louvre?",
+        "choices": [
+          "Giambologna",
+          "Gian Lorenzo Bernini",
+          "Benvenuto Cellini",
+          "Antonio Canova"
+        ],
+        "answer": 3,
+        "fact": "Canova also sculpted Napoleon's sister Pauline Bonaparte reclining as Venus, now in Rome's Galleria Borghese.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which composer's 'L'Orfeo' (1607) is the earliest opera still regularly performed today?",
+        "choices": [
+          "Claudio Monteverdi",
+          "Giovanni Pierluigi da Palestrina",
+          "Alessandro Scarlatti",
+          "Arcangelo Corelli"
+        ],
+        "answer": 0,
+        "fact": "L'Orfeo was first performed at the court of the Gonzaga family in Mantua.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -486,6 +1026,186 @@
         ],
         "answer": 2,
         "fact": "Moro, five times Prime Minister, was seized in Rome in March 1978; his body was found in a car on Via Caetani that May.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which media tycoon served as Italy's Prime Minister four times between 1994 and 2011?",
+        "choices": [
+          "Giulio Andreotti",
+          "Romano Prodi",
+          "Matteo Renzi",
+          "Silvio Berlusconi"
+        ],
+        "answer": 3,
+        "fact": "Berlusconi also owned AC Milan from 1986 to 2017, during which the club won five European Cup and Champions League titles.",
+        "difficulty": 1
+      },
+      {
+        "q": "In the Roman Republic, what title was given to a magistrate granted supreme power for a short emergency?",
+        "choices": [
+          "Dictator",
+          "Censor",
+          "Praetor",
+          "Quaestor"
+        ],
+        "answer": 0,
+        "fact": "According to tradition, Cincinnatus left his plough to serve as dictator in 458 BCE, then resigned after about two weeks.",
+        "difficulty": 1
+      },
+      {
+        "q": "Italy was a founding member of which military alliance in 1949?",
+        "choices": [
+          "Warsaw Pact",
+          "NATO",
+          "SEATO",
+          "CENTO"
+        ],
+        "answer": 1,
+        "fact": "Italy hosts NATO's Allied Joint Force Command Naples, based near the city.",
+        "difficulty": 1
+      },
+      {
+        "q": "What were the armed squads of Mussolini's Fascist movement commonly called?",
+        "choices": [
+          "Redshirts",
+          "Brownshirts",
+          "Blackshirts",
+          "Blueshirts"
+        ],
+        "answer": 2,
+        "fact": "Officially the Voluntary Militia for National Security, the Blackshirts copied the black uniform of the elite Arditi assault troops of the First World War.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which river did Julius Caesar cross with his army in 49 BCE, defying the Senate and starting a civil war?",
+        "choices": [
+          "Po",
+          "Tiber",
+          "Arno",
+          "Rubicon"
+        ],
+        "answer": 3,
+        "fact": "Roman law forbade a general to lead his army into Italy proper; Caesar reportedly declared 'alea iacta est', 'the die is cast'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Roman statesman and orator exposed the Catiline conspiracy in 63 BCE?",
+        "choices": [
+          "Cicero",
+          "Cato the Younger",
+          "Pompey",
+          "Seneca"
+        ],
+        "answer": 0,
+        "fact": "Cicero's famous cry 'O tempora, o mores!' ('Oh the times, oh the customs!') comes from his first speech against Catiline.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which patriot founded the 'Young Italy' movement in 1831 to campaign for a united Italian republic?",
+        "choices": [
+          "Camillo Cavour",
+          "Giuseppe Mazzini",
+          "Giuseppe Garibaldi",
+          "Francesco Crispi"
+        ],
+        "answer": 1,
+        "fact": "Mazzini spent much of his life in exile, largely in London, and remained a committed republican even after Italy united as a monarchy.",
+        "difficulty": 2
+      },
+      {
+        "q": "How long is the term of office of the President of the Italian Republic?",
+        "choices": [
+          "5 years",
+          "4 years",
+          "7 years",
+          "6 years"
+        ],
+        "answer": 2,
+        "fact": "Presidents are elected by Parliament in joint session together with regional delegates, and must be at least 50 years old.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Roman office was created to protect the plebeians and could veto the acts of magistrates?",
+        "choices": [
+          "Quaestor",
+          "Censor",
+          "Aedile",
+          "Tribune of the Plebs"
+        ],
+        "answer": 3,
+        "fact": "Tribunes were sacrosanct, so harming one was a capital crime; the Gracchus brothers used the office to push land reform.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which party took part in every Italian government from 1946 until its dissolution in 1994?",
+        "choices": [
+          "Christian Democracy",
+          "Italian Communist Party",
+          "Italian Socialist Party",
+          "Italian Liberal Party"
+        ],
+        "answer": 0,
+        "fact": "The 'Tangentopoli' bribery scandal, uncovered by Milan's 'Clean Hands' investigation, helped bring about the party's collapse.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who became the first Prime Minister of the Kingdom of Italy in 1861?",
+        "choices": [
+          "Bettino Ricasoli",
+          "Camillo Benso, Count of Cavour",
+          "Francesco Crispi",
+          "Agostino Depretis"
+        ],
+        "answer": 1,
+        "fact": "Cavour died in June 1861, less than three months after the Kingdom of Italy was proclaimed.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which liberal statesman served as Prime Minister five times between 1892 and 1921, giving his name to an era?",
+        "choices": [
+          "Antonio Salandra",
+          "Francesco Crispi",
+          "Giovanni Giolitti",
+          "Francesco Saverio Nitti"
+        ],
+        "answer": 2,
+        "fact": "Giolitti's government introduced near-universal male suffrage in 1912.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Italian Prime Minister was one of the 'Big Four' at the 1919 Paris Peace Conference?",
+        "choices": [
+          "Luigi Facta",
+          "Giovanni Giolitti",
+          "Antonio Salandra",
+          "Vittorio Emanuele Orlando"
+        ],
+        "answer": 3,
+        "fact": "Orlando walked out of the conference in protest when Italy's claim to the Adriatic port of Fiume was rejected.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Communist leader proposed a 'historic compromise' with the Christian Democrats in the 1970s?",
+        "choices": [
+          "Enrico Berlinguer",
+          "Palmiro Togliatti",
+          "Antonio Gramsci",
+          "Bettino Craxi"
+        ],
+        "answer": 0,
+        "fact": "Under Berlinguer, the Italian Communist Party won about 34% of the vote in 1976, its best result ever.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the name of Rome's first written law code, drawn up around 450 BCE?",
+        "choices": [
+          "The Code of Justinian",
+          "The Twelve Tables",
+          "The Theodosian Code",
+          "The Lex Hortensia"
+        ],
+        "answer": 1,
+        "fact": "Cicero recalled that as a boy he had to learn the Twelve Tables by heart, though the original tablets were later lost.",
         "difficulty": 3
       }
     ],
@@ -619,6 +1339,201 @@
         "fact": "Italy beat Australia in the 2023 final in Málaga, with Jannik Sinner winning his key matches.",
         "difficulty": 3,
         "asOf": "2023"
+      },
+      {
+        "q": "Which two Italian locations were chosen in June 2019 to host the 2026 Winter Olympics?",
+        "choices": [
+          "Milan and Cortina d'Ampezzo",
+          "Turin and Sestriere",
+          "Rome and Bolzano",
+          "Venice and Trento"
+        ],
+        "answer": 0,
+        "fact": "The IOC picked Milan-Cortina over Sweden's Stockholm-Åre; Cortina had previously hosted the 1956 Winter Games.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "In 2023, which club won Italy's Serie A title for the first time since 1990?",
+        "choices": [
+          "Lazio",
+          "Napoli",
+          "Roma",
+          "Fiorentina"
+        ],
+        "answer": 1,
+        "fact": "Napoli's two earlier titles came in the Diego Maradona era; the club's stadium was renamed after him in 2020.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, Italy banned large cruise ships from sailing into the historic centre of which city?",
+        "choices": [
+          "Genoa",
+          "Naples",
+          "Venice",
+          "Trieste"
+        ],
+        "answer": 2,
+        "fact": "The ban took effect in August 2021, shortly before UNESCO was due to consider adding the city to its list of World Heritage in Danger.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Italian city hosted the Eurovision Song Contest in 2022?",
+        "choices": [
+          "Sanremo",
+          "Milan",
+          "Rome",
+          "Turin"
+        ],
+        "answer": 3,
+        "fact": "The contest was held in an arena built for the 2006 Winter Olympics, and was won by Ukraine's Kalush Orchestra.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Milan fashion designer, founder of his own world-famous label, died in September 2025 aged 91?",
+        "choices": [
+          "Giorgio Armani",
+          "Gianni Versace",
+          "Domenico Dolce",
+          "Miuccia Prada"
+        ],
+        "answer": 0,
+        "fact": "He founded his company in 1975 with partner Sergio Galeotti, and dressed Richard Gere in the 1980 film 'American Gigolo'.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Italian sprinter won the men's 100 m at the Tokyo 2020 Olympics, held in 2021?",
+        "choices": [
+          "Filippo Tortu",
+          "Marcell Jacobs",
+          "Fausto Desalu",
+          "Lorenzo Patta"
+        ],
+        "answer": 1,
+        "fact": "Born in El Paso, Texas, to an American father and an Italian mother, Jacobs had been a long jumper before switching to sprinting.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which country knocked Italy, the reigning European champions, out of World Cup qualifying in a March 2022 play-off?",
+        "choices": [
+          "Sweden",
+          "Switzerland",
+          "North Macedonia",
+          "Portugal"
+        ],
+        "answer": 2,
+        "fact": "Having lost a play-off to Sweden for the 2018 tournament, Italy missed two World Cups in a row for the first time.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which country did Italy beat in the final to win the women's volleyball gold at the Paris 2024 Olympics?",
+        "choices": [
+          "China",
+          "Brazil",
+          "Türkiye",
+          "United States"
+        ],
+        "answer": 3,
+        "fact": "Coached by Julio Velasco, Italy won the final in straight sets, and Paola Egonu was named the tournament's most valuable player.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Italian astronaut commanded the International Space Station in 2019, the first Italian to do so?",
+        "choices": [
+          "Luca Parmitano",
+          "Samantha Cristoforetti",
+          "Paolo Nespoli",
+          "Roberto Vittori"
+        ],
+        "answer": 0,
+        "fact": "Samantha Cristoforetti followed him in 2022, becoming the first European woman to command the space station.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which Italian city hosted the G20 leaders' summit in October 2021?",
+        "choices": [
+          "Milan",
+          "Rome",
+          "Naples",
+          "Florence"
+        ],
+        "answer": 1,
+        "fact": "Leaders at the summit endorsed a global minimum corporate tax rate of 15%.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In a September 2020 referendum, Italians approved cutting the number of elected members of Parliament from 945 to how many?",
+        "choices": [
+          "700",
+          "500",
+          "600",
+          "800"
+        ],
+        "answer": 2,
+        "fact": "From the 2022 election, the Chamber of Deputies shrank from 630 to 400 seats and the elected Senate from 315 to 200.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which two Lombard cities shared the title of Italian Capital of Culture in 2023?",
+        "choices": [
+          "Pavia and Cremona",
+          "Como and Lecco",
+          "Milan and Monza",
+          "Bergamo and Brescia"
+        ],
+        "answer": 3,
+        "fact": "Both cities were among the hardest hit by COVID-19 in 2020, and the shared title was awarded as a symbol of their recovery.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which club beat Inter Milan 5-0 in the 2025 UEFA Champions League final?",
+        "choices": [
+          "Paris Saint-Germain",
+          "Real Madrid",
+          "Manchester City",
+          "Barcelona"
+        ],
+        "answer": 0,
+        "fact": "Played in Munich, it was the biggest winning margin ever recorded in a European Cup or Champions League final.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "At the Tokyo 2020 Olympics, Italian Gianmarco Tamberi agreed to share the high jump gold with an athlete from which country?",
+        "choices": [
+          "Belarus",
+          "Qatar",
+          "Ukraine",
+          "United States"
+        ],
+        "answer": 1,
+        "fact": "Offered a jump-off, Qatar's Mutaz Essa Barshim asked if they could both have gold, and the two friends embraced in celebration.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "A strong earthquake swarm in May 2024 shook which volcanic caldera just west of Naples?",
+        "choices": [
+          "Stromboli",
+          "Vesuvius",
+          "Campi Flegrei",
+          "Vulcano"
+        ],
+        "answer": 2,
+        "fact": "Campi Flegrei is known for 'bradyseism', the slow rise and fall of the ground; parts of Pozzuoli have risen over a metre since 2005.",
+        "difficulty": 3,
+        "asOf": "2024"
       }
     ],
     "general": [
@@ -740,6 +1655,186 @@
         ],
         "answer": 0,
         "fact": "Of the five villages, only Corniglia does not sit directly on the sea; it perches on a clifftop instead.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ancient amphitheatre in Rome hosted gladiator fights?",
+        "choices": [
+          "The Pantheon",
+          "The Colosseum",
+          "The Circus Maximus",
+          "The Baths of Caracalla"
+        ],
+        "answer": 1,
+        "fact": "Officially the Flavian Amphitheatre, the Colosseum opened in 80 CE and could hold an estimated 50,000 spectators.",
+        "difficulty": 1
+      },
+      {
+        "q": "Into which Rome fountain do visitors traditionally toss a coin to ensure they will return?",
+        "choices": [
+          "Triton Fountain",
+          "Fountain of the Four Rivers",
+          "Trevi Fountain",
+          "Fountain of the Bees"
+        ],
+        "answer": 2,
+        "fact": "The coins, often worth more than a million euros a year, are collected and given to the Catholic charity Caritas.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which mountain range runs along Italy's northern border?",
+        "choices": [
+          "The Carpathians",
+          "The Apennines",
+          "The Pyrenees",
+          "The Alps"
+        ],
+        "answer": 3,
+        "fact": "Mont Blanc, on the Italian-French border, is the highest peak in the Alps at about 4,800 metres.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which two football clubs share Milan's San Siro stadium?",
+        "choices": [
+          "AC Milan and Inter",
+          "Juventus and Torino",
+          "Roma and Lazio",
+          "Genoa and Sampdoria"
+        ],
+        "answer": 0,
+        "fact": "San Siro is officially the Stadio Giuseppe Meazza, named after a 1930s star who played for both Milan clubs.",
+        "difficulty": 1
+      },
+      {
+        "q": "Italy's national sports teams are nicknamed 'Gli Azzurri' after the colour of their shirts. What colour is it?",
+        "choices": [
+          "Green",
+          "Blue",
+          "White",
+          "Red"
+        ],
+        "answer": 1,
+        "fact": "The blue comes from the royal House of Savoy, which ruled Italy from unification until 1946.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Tuscan city holds the Palio horse race around its Piazza del Campo?",
+        "choices": [
+          "Lucca",
+          "Florence",
+          "Siena",
+          "Pisa"
+        ],
+        "answer": 2,
+        "fact": "The Palio is run twice each summer, on 2 July and 16 August, and a horse can win even if it has lost its rider.",
+        "difficulty": 2
+      },
+      {
+        "q": "Chianti wine comes from which Italian region?",
+        "choices": [
+          "Sicily",
+          "Piedmont",
+          "Veneto",
+          "Tuscany"
+        ],
+        "answer": 3,
+        "fact": "Chianti Classico bottles carry a black rooster emblem, recalling a legend about settling a border dispute between Florence and Siena.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the second-largest island in the Mediterranean Sea?",
+        "choices": [
+          "Sardinia",
+          "Corsica",
+          "Cyprus",
+          "Crete"
+        ],
+        "answer": 0,
+        "fact": "Sardinia is dotted with thousands of nuraghi, Bronze Age stone towers found nowhere else in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the largest lake in Italy?",
+        "choices": [
+          "Lake Como",
+          "Lake Garda",
+          "Lake Maggiore",
+          "Lake Trasimeno"
+        ],
+        "answer": 1,
+        "fact": "Lake Garda's shores touch three regions, and its mild climate even lets lemons grow in terraced lemon houses.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Sicilian port gives its name to a famous fortified wine?",
+        "choices": [
+          "Catania",
+          "Palermo",
+          "Marsala",
+          "Syracuse"
+        ],
+        "answer": 2,
+        "fact": "English merchant John Woodhouse popularised Marsala in the 1770s, and Nelson's fleet later bought it in large quantities.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which Italian region is French an official language alongside Italian?",
+        "choices": [
+          "Trentino-Alto Adige",
+          "Piedmont",
+          "Liguria",
+          "Aosta Valley"
+        ],
+        "answer": 3,
+        "fact": "Italy has other protected languages too: German is co-official in South Tyrol, and Slovene is protected around Trieste.",
+        "difficulty": 3
+      },
+      {
+        "q": "Stromboli and Vulcano belong to which volcanic island group off Sicily?",
+        "choices": [
+          "Aeolian Islands",
+          "Egadi Islands",
+          "Pelagie Islands",
+          "Pontine Islands"
+        ],
+        "answer": 0,
+        "fact": "The island of Vulcano, which Romans believed was the forge of the god Vulcan, gave the world the word 'volcano'.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of the hot, often dusty wind that blows from North Africa across southern Italy?",
+        "choices": [
+          "Mistral",
+          "Scirocco",
+          "Bora",
+          "Tramontana"
+        ],
+        "answer": 1,
+        "fact": "The scirocco can carry Saharan dust across the sea, which sometimes falls in Italy as reddish 'blood rain'.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ear-shaped pasta is the signature shape of Apulia (Puglia)?",
+        "choices": [
+          "Strozzapreti",
+          "Trofie",
+          "Orecchiette",
+          "Pici"
+        ],
+        "answer": 2,
+        "fact": "In Bari's old town, women still make orecchiette by hand at tables in the street, shaping each one with a thumb.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Giro d'Italia leader's pink jersey matches the pink pages of which newspaper, which founded the race?",
+        "choices": [
+          "La Repubblica",
+          "Corriere della Sera",
+          "La Stampa",
+          "La Gazzetta dello Sport"
+        ],
+        "answer": 3,
+        "fact": "The first Giro, in 1909, was won by Luigi Ganna; the leader's pink jersey, the maglia rosa, was introduced in 1931.",
         "difficulty": 3
       }
     ]

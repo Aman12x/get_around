@@ -71,6 +71,111 @@
         "answer": 3,
         "fact": "The Grand Canal, a UNESCO World Heritage Site since 2014, runs roughly 1,800 km between Beijing and Hangzhou and is among the world's longest artificial waterways.",
         "difficulty": 3
+      },
+      {
+        "q": "Which philosopher, born in the state of Lu around 551 BCE, became China's most influential teacher of ethics?",
+        "choices": ["Laozi", "Mencius", "Mozi", "Confucius"],
+        "answer": 3,
+        "fact": "Confucius's sayings were compiled by his followers in the Analects; his hometown of Qufu still holds a vast temple and family cemetery in his honour.",
+        "difficulty": 1
+      },
+      {
+        "q": "What name is given to the Red Army's epic 1934-35 retreat that helped bring Mao Zedong to the leadership?",
+        "choices": ["The Northern Expedition", "The Autumn Harvest Uprising", "The Long March", "The Hundred Days' Reform"],
+        "answer": 2,
+        "fact": "The Long March took the Red Army about a year and thousands of kilometres across rivers and snowy mountain passes, ending in Shaanxi province in October 1935.",
+        "difficulty": 1
+      },
+      {
+        "q": "Most of the Great Wall that visitors walk on today was built during which dynasty?",
+        "choices": ["Tang", "Ming", "Han", "Song"],
+        "answer": 1,
+        "fact": "A 2012 Chinese government survey measured all historical sections of the Great Wall together at about 21,196 km, far longer than the Ming wall alone.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which dynasty, ruling from 206 BCE to 220 CE, gave its name to China's majority ethnic group?",
+        "choices": ["Han", "Tang", "Zhou", "Song"],
+        "answer": 0,
+        "fact": "Chinese characters are called hanzi, 'Han characters', after the same dynasty; in Japanese they became known as kanji.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was the name of the political campaign launched by Mao Zedong in 1966 that lasted until 1976?",
+        "choices": ["Great Leap Forward", "Hundred Flowers Campaign", "May Fourth Movement", "Cultural Revolution"],
+        "answer": 3,
+        "fact": "During the Cultural Revolution, millions of urban 'educated youth' were sent to live and work in the countryside in the 'Up to the Mountains and Down to the Villages' movement.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 1958-1962 campaign aimed to rapidly industrialise China through communes and mass steel production?",
+        "choices": ["Cultural Revolution", "Hundred Flowers Campaign", "Great Leap Forward", "Four Modernisations"],
+        "answer": 2,
+        "fact": "The campaign encouraged villages to make steel in backyard furnaces; it was followed by a severe famine in which tens of millions of people died.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1919 student protest movement in Beijing was sparked by the Treaty of Versailles?",
+        "choices": ["Xinhai Revolution", "May Fourth Movement", "Boxer Rebellion", "Hundred Days' Reform"],
+        "answer": 1,
+        "fact": "The protests began on 4 May 1919, when some 3,000 students gathered at Tiananmen against the transfer of Germany's rights in Shandong to Japan.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1850-1864 rebellion was led by Hong Xiuquan, who claimed to be the younger brother of Jesus?",
+        "choices": ["Taiping Rebellion", "Boxer Rebellion", "White Lotus Rebellion", "Nian Rebellion"],
+        "answer": 0,
+        "fact": "The Taiping set up their 'Heavenly Kingdom' with its capital at Nanjing; the war was one of the deadliest conflicts of the 19th century.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which anti-foreign uprising of 1899-1901 ended when an eight-nation force relieved the besieged foreign legations in Beijing?",
+        "choices": ["Nian Rebellion", "White Lotus Rebellion", "Dungan Revolt", "Boxer Rebellion"],
+        "answer": 3,
+        "fact": "The Boxers got their English name from their martial-arts practices; in Chinese they called themselves the Yihetuan, 'Militia United in Righteousness'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which empress dowager effectively controlled the Qing government for nearly half a century until her death in 1908?",
+        "choices": ["Longyu", "Xiaozhuang", "Cixi", "Empress Lu"],
+        "answer": 2,
+        "fact": "Cixi entered the palace as a low-ranking concubine of the Xianfeng Emperor; her son became the Tongzhi Emperor in 1861.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which dynasty left the earliest known Chinese writing, carved on 'oracle bones'?",
+        "choices": ["Zhou", "Shang", "Xia", "Qin"],
+        "answer": 1,
+        "fact": "Oracle bones were often ox shoulder blades or turtle shells; diviners heated them, read the cracks, then carved the questions and answers into them.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Han dynasty historian wrote the 'Records of the Grand Historian' (Shiji)?",
+        "choices": ["Sima Qian", "Ban Gu", "Sima Guang", "Zuo Qiuming"],
+        "answer": 0,
+        "fact": "Sima Qian was castrated as punishment for defending a disgraced general; he accepted the sentence rather than suicide so he could finish his history.",
+        "difficulty": 3
+      },
+      {
+        "q": "The 1689 Treaty of Nerchinsk was the Qing dynasty's first treaty with which European power?",
+        "choices": ["Portugal", "Netherlands", "Britain", "Russia"],
+        "answer": 3,
+        "fact": "The Treaty of Nerchinsk had an official Latin text, drafted with help from Jesuit interpreters serving at the Qing court.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the capital of the Tang dynasty, then one of the largest cities in the world?",
+        "choices": ["Luoyang", "Kaifeng", "Chang'an", "Nanjing"],
+        "answer": 2,
+        "fact": "Chang'an sat at the eastern end of the Silk Road; the modern city on the site is Xi'an, home of the Tang-era Big Wild Goose Pagoda.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which rebellion of 755-763 severely weakened the Tang dynasty?",
+        "choices": ["Yellow Turban Rebellion", "An Lushan Rebellion", "Red Turban Rebellion", "Huang Chao Rebellion"],
+        "answer": 1,
+        "fact": "An Lushan, a frontier general of Sogdian-Turkic descent, declared himself emperor in 756 but was murdered by his own son the following year.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -142,6 +247,111 @@
         "choices": ["e", "The golden ratio", "Square root of 2", "Pi"],
         "answer": 3,
         "fact": "Zu Chongzhi also gave the fraction 355/113 for pi, an approximation so good it was not bettered anywhere for nearly a millennium.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which navigation instrument, using a magnetised needle, was first described in China?",
+        "choices": ["Compass", "Astrolabe", "Sextant", "Telescope"],
+        "answer": 0,
+        "fact": "Shen Kuo described a magnetised needle compass in 1088, and by the early 1100s Chinese sailors were recorded using compasses at sea.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Chinese technology company was founded by Ren Zhengfei in Shenzhen in 1987?",
+        "choices": ["Xiaomi", "Lenovo", "ZTE", "Huawei"],
+        "answer": 3,
+        "fact": "Huawei began by reselling telephone switches and grew into one of the world's largest makers of telecoms equipment.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which e-commerce giant was founded by Jack Ma in Hangzhou in 1999?",
+        "choices": ["Tencent", "JD.com", "Alibaba", "Baidu"],
+        "answer": 2,
+        "fact": "Alibaba turned Singles' Day on 11 November, a date chosen because 11/11 looks like four 'bare sticks', into the world's biggest shopping festival.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which counting device, with beads sliding on rods, has been used in China for centuries?",
+        "choices": ["Slide rule", "Abacus", "Quipu", "Astrolabe"],
+        "answer": 1,
+        "fact": "The traditional Chinese abacus, or suanpan, has two beads above the bar and five below; abacus calculation joined UNESCO's heritage list in 2013.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Chinese company owns the short-video app TikTok?",
+        "choices": ["ByteDance", "Tencent", "Baidu", "Alibaba"],
+        "answer": 0,
+        "fact": "ByteDance launched Douyin, its Chinese short-video app, in 2016, a year before the international version that became TikTok.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of China's satellite navigation system, an alternative to GPS?",
+        "choices": ["Galileo", "GLONASS", "NavIC", "BeiDou"],
+        "answer": 3,
+        "fact": "BeiDou is named after the Big Dipper constellation, long used to find north; its global system was completed in 2020.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which sea crossing, opened in 2018, links Hong Kong, Macau and Zhuhai across the Pearl River estuary?",
+        "choices": ["Hangzhou Bay Bridge", "Jiaozhou Bay Bridge", "Hong Kong-Zhuhai-Macau Bridge", "Donghai Bridge"],
+        "answer": 2,
+        "fact": "The 55-km crossing includes a 6.7-km undersea tunnel between two artificial islands, leaving the shipping lanes above it clear.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of the 500-metre radio telescope completed in Guizhou province in 2016?",
+        "choices": ["LAMOST", "FAST", "Arecibo", "ALMA"],
+        "answer": 1,
+        "fact": "FAST, nicknamed Tianyan ('Eye of Heaven'), sits in a natural karst hollow; its dish is about the size of 30 football pitches.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Chinese city's maglev, in service since the early 2000s, was the world's first commercial high-speed maglev line?",
+        "choices": ["Shanghai", "Beijing", "Guangzhou", "Shenzhen"],
+        "answer": 0,
+        "fact": "Built with German Transrapid technology, the Shanghai Maglev has carried passengers at up to 431 km/h on its 30-km route to Pudong Airport.",
+        "difficulty": 2
+      },
+      {
+        "q": "Under which dynasty did the Chinese government first issue paper money, in the 11th century?",
+        "choices": ["Tang", "Ming", "Han", "Song"],
+        "answer": 3,
+        "fact": "The first paper notes, called jiaozi, began among Sichuan merchants who found iron coins too heavy; the Song government took over issuing them in the 1020s.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Qin-state official designed the Dujiangyan irrigation system, still in use after more than 2,000 years?",
+        "choices": ["Su Song", "Shen Kuo", "Li Bing", "Mozi"],
+        "answer": 2,
+        "fact": "Built around 256 BCE, Dujiangyan divides the Min River without a dam and still waters the Chengdu Plain; it became a UNESCO World Heritage Site in 2000.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Song dynasty polymath built a water-powered astronomical clock tower in Kaifeng around 1090?",
+        "choices": ["Shen Kuo", "Su Song", "Guo Shoujing", "Zhang Heng"],
+        "answer": 1,
+        "fact": "Su Song's clock tower used an early escapement mechanism, and his illustrated manual was detailed enough for modern engineers to build working replicas.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Chinese scientist is known as the 'father of hybrid rice'?",
+        "choices": ["Yuan Longping", "Qian Xuesen", "Deng Jiaxian", "Hua Luogeng"],
+        "answer": 0,
+        "fact": "Yuan Longping developed the first high-yielding hybrid rice in the 1970s; varieties based on his work are now grown across Asia, Africa and the Americas.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which scientist, a co-founder of the Jet Propulsion Laboratory in California, returned to China in 1955 to lead its rocket programme?",
+        "choices": ["Yuan Longping", "Deng Jiaxian", "Hua Luogeng", "Qian Xuesen"],
+        "answer": 3,
+        "fact": "Qian Xuesen spent about five years under house arrest in the US during the McCarthy era before he was allowed to leave for China in 1955.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Chinese supercomputer topped the world's TOP500 ranking from 2016 to 2018?",
+        "choices": ["Tianhe-2", "Summit", "Sunway TaihuLight", "Fugaku"],
+        "answer": 2,
+        "fact": "Sunway TaihuLight, in Wuxi, was the first supercomputer to top the world rankings using only Chinese-designed processors.",
         "difficulty": 3
       }
     ],
@@ -215,6 +425,111 @@
         "answer": 3,
         "fact": "Dream of the Red Chamber is so intensively studied that its scholarship has a name of its own: 'Redology' (hongxue).",
         "difficulty": 3
+      },
+      {
+        "q": "Which martial-arts star led the 1973 film 'Enter the Dragon'?",
+        "choices": ["Jackie Chan", "Bruce Lee", "Jet Li", "Donnie Yen"],
+        "answer": 1,
+        "fact": "Bruce Lee was born in San Francisco in 1940 but grew up in Hong Kong, where he worked as a child film actor.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient military treatise is attributed to Sun Tzu?",
+        "choices": ["The Art of War", "Tao Te Ching", "The Analects", "The Book of Five Rings"],
+        "answer": 0,
+        "fact": "The Art of War has 13 chapters; its best-known line says that if you know the enemy and know yourself, you need not fear a hundred battles.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which classic novel, set at the end of the Han dynasty, tells of heroes such as Liu Bei, Guan Yu and Cao Cao?",
+        "choices": ["Water Margin", "Dream of the Red Chamber", "The Scholars", "Romance of the Three Kingdoms"],
+        "answer": 3,
+        "fact": "Attributed to Luo Guanzhong, the novel opens: 'The empire, long divided, must unite; long united, must divide.'",
+        "difficulty": 1
+      },
+      {
+        "q": "Beijing's Temple of Heaven was where emperors prayed for what?",
+        "choices": ["Victory in war", "A long life", "Good harvests", "Male heirs"],
+        "answer": 2,
+        "fact": "The Temple of Heaven's grounds have a rounded northern wall and a square southern one, reflecting the old belief that heaven is round and earth is square.",
+        "difficulty": 1
+      },
+      {
+        "q": "Chinese calligraphers traditionally write with which tool?",
+        "choices": ["Quill", "Brush", "Reed pen", "Stylus"],
+        "answer": 1,
+        "fact": "The brush is one of the 'Four Treasures of the Study', alongside ink, paper and the inkstone on which the ink is ground.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which pianist, born in Shenyang in 1982, performed at the opening ceremony of the 2008 Beijing Olympics?",
+        "choices": ["Lang Lang", "Yundi Li", "Yuja Wang", "Fou Ts'ong"],
+        "answer": 0,
+        "fact": "At the 2008 opening ceremony Lang Lang shared the piano with Li Muzi, a five-year-old girl.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which giant Buddha was carved into a cliff above three rivers in Sichuan during the Tang dynasty?",
+        "choices": ["Tian Tan Buddha", "Spring Temple Buddha", "Ushiku Daibutsu", "Leshan Giant Buddha"],
+        "answer": 3,
+        "fact": "The Leshan Giant Buddha is about 71 metres tall; carving began in 713 and took around 90 years to complete.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Tang dynasty poet, a friend of Li Bai, is revered as the 'Sage Poet'?",
+        "choices": ["Wang Wei", "Bai Juyi", "Du Fu", "Su Shi"],
+        "answer": 2,
+        "fact": "Du Fu's thatched cottage in Chengdu, where he lived for several years and wrote hundreds of poems, is now a museum and park.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which classic novel follows 108 outlaws who gather at Mount Liang?",
+        "choices": ["Journey to the West", "Water Margin", "The Scholars", "Flowers in the Mirror"],
+        "answer": 1,
+        "fact": "Water Margin is one of the Four Great Classical Novels of Chinese literature and has inspired countless films, comics and video games.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which director's 'Farewell My Concubine' shared the Palme d'Or at Cannes in 1993?",
+        "choices": ["Chen Kaige", "Zhang Yimou", "Jia Zhangke", "Wong Kar-wai"],
+        "answer": 0,
+        "fact": "Farewell My Concubine follows two Peking opera performers across half a century; it shared the 1993 Palme d'Or with Jane Campion's 'The Piano'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Yuan dynasty painter created the landscape scroll 'Dwelling in the Fuchun Mountains'?",
+        "choices": ["Ni Zan", "Wu Zhen", "Wang Meng", "Huang Gongwang"],
+        "answer": 3,
+        "fact": "The scroll was partly burned in 1650 and split in two; its halves, kept in Hangzhou and Taipei, were shown together in 2011.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Song dynasty poet and statesman wrote the 'Former Ode on the Red Cliff'?",
+        "choices": ["Ouyang Xiu", "Lu You", "Su Shi", "Li Qingzhao"],
+        "answer": 2,
+        "fact": "Su Shi's pen name was Dongpo, and Dongpo pork, a slow-braised pork belly dish, is named after him.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 20th-century painter was famed for lively ink paintings of shrimp?",
+        "choices": ["Xu Beihong", "Qi Baishi", "Zhang Daqian", "Wu Guanzhong"],
+        "answer": 1,
+        "fact": "Qi Baishi trained as a carpenter before becoming a painter; in 2017 a set of his landscape screens sold at auction for about US$140 million.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Ming dynasty play by Tang Xianzu is the best-known work of Kunqu opera?",
+        "choices": ["The Peony Pavilion", "The Peach Blossom Fan", "The West Chamber", "The Palace of Eternal Youth"],
+        "answer": 0,
+        "fact": "Tang Xianzu completed The Peony Pavilion in 1598 and died in 1616, the same year as Shakespeare.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Mogao Caves, famed for Buddhist murals, lie near which Silk Road oasis city?",
+        "choices": ["Turpan", "Kashgar", "Jiayuguan", "Dunhuang"],
+        "answer": 3,
+        "fact": "A sealed 'Library Cave' at Mogao held tens of thousands of manuscripts, including a Diamond Sutra of 868, the oldest dated printed book.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -286,6 +601,111 @@
         "choices": ["5", "9", "11", "7"],
         "answer": 3,
         "fact": "From 2002 to 2012 the Politburo Standing Committee had nine members; the 18th Party Congress in 2012 reduced it to seven.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which revolutionary became the first provisional president of the Republic of China in 1912?",
+        "choices": ["Yuan Shikai", "Chiang Kai-shek", "Sun Yat-sen", "Liang Qichao"],
+        "answer": 2,
+        "fact": "Sun Yat-sen is honoured in both mainland China and Taiwan; his mausoleum stands on Purple Mountain in Nanjing.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many yellow stars appear on the flag of the People's Republic of China?",
+        "choices": ["3", "5", "4", "6"],
+        "answer": 1,
+        "fact": "The Five-star Red Flag was designed by Zeng Liansong, an ordinary citizen who entered a public design competition held in 1949.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Nationalist leader moved his Republic of China government to Taiwan in 1949?",
+        "choices": ["Chiang Kai-shek", "Sun Yat-sen", "Yuan Shikai", "Wang Jingwei"],
+        "answer": 0,
+        "fact": "Chiang Kai-shek succeeded Sun Yat-sen as leader of the Kuomintang and led the Northern Expedition of 1926-28 to unify China under the Nationalists.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which large public square in central Beijing contains Mao Zedong's mausoleum?",
+        "choices": ["Wangfujing", "Jingshan Park", "Beihai Park", "Tiananmen Square"],
+        "answer": 3,
+        "fact": "The Great Hall of the People, where the National People's Congress meets, lines the western side of Tiananmen Square.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which principle, proposed by Deng Xiaoping, governs Hong Kong's relationship with mainland China?",
+        "choices": ["Socialism with Chinese characteristics", "Three Represents", "One country, two systems", "Peaceful rise"],
+        "answer": 2,
+        "fact": "The principle allowed Hong Kong to keep its own legal system, currency and capitalist economy after the 1997 handover.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which city was the Chinese Communist Party founded in 1921?",
+        "choices": ["Beijing", "Shanghai", "Guangzhou", "Wuhan"],
+        "answer": 1,
+        "fact": "The first Party congress met in Shanghai's French Concession in July 1921 but moved to a boat on South Lake in Jiaxing to finish.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who served as General Secretary of the Chinese Communist Party from 1989 to 2002?",
+        "choices": ["Jiang Zemin", "Hu Jintao", "Zhao Ziyang", "Hu Yaobang"],
+        "answer": 0,
+        "fact": "Jiang Zemin had previously been mayor and Party Secretary of Shanghai; his signature theory was the 'Three Represents'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was President of the People's Republic of China from 2003 to 2013?",
+        "choices": ["Jiang Zemin", "Wen Jiabao", "Li Peng", "Hu Jintao"],
+        "answer": 3,
+        "fact": "Hu Jintao's guiding idea was the 'Scientific Outlook on Development'; his Premier for both terms was Wen Jiabao.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the popular name for the annual March meetings of the National People's Congress and the CPPCC?",
+        "choices": ["Third Plenum", "Party Congress", "Two Sessions", "Beidaihe meeting"],
+        "answer": 2,
+        "fact": "The CPPCC is a political advisory body whose members include the eight minor parties legally recognised in China.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which body commands China's armed forces, including the People's Liberation Army?",
+        "choices": ["State Council", "Central Military Commission", "Ministry of National Defense", "Central Committee Secretariat"],
+        "answer": 1,
+        "fact": "Technically there are two Central Military Commissions, one of the Party and one of the state, but their membership is identical.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who succeeded Mao Zedong as Chairman of the Chinese Communist Party in 1976?",
+        "choices": ["Hua Guofeng", "Deng Xiaoping", "Hu Yaobang", "Lin Biao"],
+        "answer": 0,
+        "fact": "Hua Guofeng had been chosen by Mao; within weeks of Mao's death he oversaw the arrest of the 'Gang of Four'.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1898 reform programme, backed by the Guangxu Emperor, was ended by a conservative coup after about three months?",
+        "choices": ["Self-Strengthening Movement", "Tongzhi Restoration", "New Policies", "Hundred Days' Reform"],
+        "answer": 3,
+        "fact": "After the reform failed, the Guangxu Emperor spent the rest of his life under palace confinement, while reformer Kang Youwei fled abroad.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did the People's Republic of China take China's seat at the United Nations?",
+        "choices": ["1949", "1965", "1971", "1979"],
+        "answer": 2,
+        "fact": "UN General Assembly Resolution 2758 of October 1971 gave the China seat, including its permanent place on the Security Council, to the People's Republic.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which city was the capital of the Republic of China for most of the period from 1927 to 1949?",
+        "choices": ["Beijing", "Nanjing", "Chongqing", "Wuhan"],
+        "answer": 1,
+        "fact": "During the war with Japan, the Nationalist government moved to Chongqing, which served as its wartime capital until 1946.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of Hong Kong's constitutional document, in force since 1997?",
+        "choices": ["Basic Law", "Joint Declaration", "Letters Patent", "Bill of Rights Ordinance"],
+        "answer": 0,
+        "fact": "The Basic Law was adopted by the National People's Congress in 1990; the 1984 Sino-British Joint Declaration had set out the handover terms.",
         "difficulty": 3
       }
     ],
@@ -369,6 +789,126 @@
         "fact": "At Paris 2024 China's divers won all eight Olympic diving events, the first clean sweep of the sport at a single Games.",
         "difficulty": 3,
         "asOf": "2024"
+      },
+      {
+        "q": "In which Chinese city were the first cases of COVID-19 reported in December 2019?",
+        "choices": ["Shanghai", "Guangzhou", "Chongqing", "Wuhan"],
+        "answer": 3,
+        "fact": "Wuhan straddles the Yangtze and Han rivers and is known for re gan mian, 'hot dry noodles', a popular breakfast dish.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which Chinese animated film became the highest-grossing animated film of all time in 2025?",
+        "choices": ["Jiang Ziya", "White Snake", "Ne Zha 2", "Big Fish & Begonia"],
+        "answer": 2,
+        "fact": "Ne Zha 2 overtook Disney's Inside Out 2 to become the top-grossing animated film ever, earning over US$2 billion, mostly in China.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Shenzhen-based carmaker overtook Tesla in the last quarter of 2023 as the world's top seller of fully electric cars?",
+        "choices": ["NIO", "BYD", "Geely", "Xpeng"],
+        "answer": 1,
+        "fact": "BYD began in 1995 as a maker of rechargeable batteries; its initials were later given the slogan 'Build Your Dreams'.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "China's seventh national census, carried out in 2020, recorded a mainland population of roughly how many people?",
+        "choices": ["1.41 billion", "1.21 billion", "1.31 billion", "1.51 billion"],
+        "answer": 0,
+        "fact": "The 2020 census found Guangdong to be China's most populous province, with more than 126 million residents.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In 2024, which animals did China send to San Diego Zoo and Washington's National Zoo under new conservation agreements?",
+        "choices": ["Red pandas", "Golden snub-nosed monkeys", "South China tigers", "Giant pandas"],
+        "answer": 3,
+        "fact": "Washington's National Zoo welcomed pandas Bao Li and Qing Bao in October 2024, less than a year after its previous pandas returned to China.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Chinese player won the women's singles tennis gold medal at the Paris 2024 Olympics?",
+        "choices": ["Li Na", "Wang Xinyu", "Zheng Qinwen", "Zhang Shuai"],
+        "answer": 2,
+        "fact": "Zheng Qinwen's victory made her the first Asian player, man or woman, to win an Olympic singles tennis title.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Chinese city hosted the Asian Winter Games held in February 2025?",
+        "choices": ["Shenyang", "Harbin", "Changchun", "Zhangjiakou"],
+        "answer": 1,
+        "fact": "Harbin is famed for its Ice and Snow Festival, where huge sculptures and buildings are carved from blocks of ice cut from the Songhua River.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which Chinese mission brought lunar samples back to Earth in December 2020?",
+        "choices": ["Chang'e 5", "Chang'e 3", "Chang'e 4", "Yutu 2"],
+        "answer": 0,
+        "fact": "Chang'e 5 returned about 1.7 kg of lunar rock and soil, the first Moon samples brought to Earth since the Soviet Luna 24 in 1976.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which Chinese swimmer set a world record while winning the men's 100 m freestyle at the Paris 2024 Olympics?",
+        "choices": ["Sun Yang", "Wang Shun", "Ning Zetao", "Pan Zhanle"],
+        "answer": 3,
+        "fact": "Pan Zhanle won in 46.40 seconds, becoming the first Chinese man to win Olympic gold in the 100 m freestyle.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which video game from Chinese studio Game Science, starring the Monkey King, sold over 10 million copies within days of its August 2024 release?",
+        "choices": ["Genshin Impact", "Wuthering Waves", "Black Myth: Wukong", "Naraka: Bladepoint"],
+        "answer": 2,
+        "fact": "Many of Black Myth: Wukong's settings were modelled on real Chinese temples and pagodas, which saw a surge of visitors after the game's release.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Sichuan city hosted the Summer World University Games held in 2023?",
+        "choices": ["Chongqing", "Chengdu", "Xi'an", "Kunming"],
+        "answer": 1,
+        "fact": "Chengdu is home to the Giant Panda Breeding Research Base, which opened in 1987 with six pandas rescued from the wild.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "What name was given to China's third aircraft carrier, launched in Shanghai in June 2022?",
+        "choices": ["Fujian", "Liaoning", "Shandong", "Hainan"],
+        "answer": 0,
+        "fact": "Fujian was China's first carrier designed with electromagnetic catapults, a launch system previously used only on the US Navy's Gerald R. Ford class.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Chinese diver won the Olympic women's 10 m platform gold in 2021 and again in 2024?",
+        "choices": ["Chen Yuxi", "Ren Qian", "Si Yajie", "Quan Hongchan"],
+        "answer": 3,
+        "fact": "Quan Hongchan was just 14 in Tokyo, where three of her five dives drew perfect 10s from every judge; Chen Yuxi took silver both times.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "On which mission did Wang Yaping become the first Chinese woman to walk in space, in November 2021?",
+        "choices": ["Shenzhou 10", "Shenzhou 12", "Shenzhou 13", "Shenzhou 14"],
+        "answer": 2,
+        "fact": "The Shenzhou 13 crew spent about six months aboard the Tiangong station, China's longest crewed mission at the time.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In which capital city did Saudi Arabia and Iran sign their March 2023 agreement to restore diplomatic relations?",
+        "choices": ["Baghdad", "Beijing", "Muscat", "Doha"],
+        "answer": 1,
+        "fact": "The agreement ended a seven-year rift: Saudi Arabia and Iran had cut diplomatic ties in 2016.",
+        "difficulty": 3,
+        "asOf": "2023"
       }
     ],
     "general": [
@@ -440,6 +980,111 @@
         "choices": ["Harbin", "Chongqing", "Wuhan", "Kunming"],
         "answer": 3,
         "fact": "Kunming, capital of Yunnan, sits about 1,900 metres above sea level, which keeps it from getting very hot in summer or very cold in winter.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which animal comes first in the 12-year cycle of the Chinese zodiac?",
+        "choices": ["Rat", "Ox", "Dragon", "Tiger"],
+        "answer": 0,
+        "fact": "Legend says the zodiac order was set by a great race; the clever Rat rode on the Ox's back and leapt ahead at the finish line.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which slow, flowing martial art, practised by millions in parks for exercise, joined UNESCO's heritage list in 2020?",
+        "choices": ["Wing Chun", "Shaolin kung fu", "Sanda", "Tai chi"],
+        "answer": 3,
+        "fact": "Tai chi is traditionally traced to Chenjiagou, the Chen family village in Henan province, where the Chen style developed in the 17th century.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Chinese city is famous for the Bund waterfront and the Oriental Pearl Tower?",
+        "choices": ["Beijing", "Guangzhou", "Shanghai", "Tianjin"],
+        "answer": 2,
+        "fact": "Across the river from the Bund, Pudong was largely farmland before the 1990s; it is now home to Shanghai Tower, China's tallest building at 632 m.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which river is the longest in Asia?",
+        "choices": ["Yellow River", "Yangtze", "Mekong", "Amur"],
+        "answer": 1,
+        "fact": "The Yangtze runs about 6,300 km from the Tibetan Plateau to the East China Sea at Shanghai, making it the third-longest river in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which crescent-shaped dumplings are traditionally eaten on Chinese New Year's Eve in northern China?",
+        "choices": ["Jiaozi", "Baozi", "Xiaolongbao", "Zongzi"],
+        "answer": 0,
+        "fact": "Jiaozi are said to resemble ancient silver ingots, so eating them at New Year is a wish for wealth in the year ahead.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which region is the largest province-level division of China by area?",
+        "choices": ["Tibet", "Inner Mongolia", "Qinghai", "Xinjiang"],
+        "answer": 3,
+        "fact": "Xinjiang covers about one-sixth of China's territory and borders eight countries, more than any other province-level region.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which mountain range in Anhui, famed for granite peaks, twisted pines and seas of cloud, inspired generations of landscape painters?",
+        "choices": ["Tai Shan", "Emei Shan", "Huangshan", "Wudang Shan"],
+        "answer": 2,
+        "fact": "Huangshan, a UNESCO World Heritage Site since 1990, has 72 named peaks; the tallest, Lotus Peak, rises 1,864 metres.",
+        "difficulty": 2
+      },
+      {
+        "q": "Weiqi, the ancient Chinese board game of surrounding territory, is better known in the West by which Japanese-derived name?",
+        "choices": ["Shogi", "Go", "Renju", "Othello"],
+        "answer": 1,
+        "fact": "In 2016 Google DeepMind's AlphaGo beat champion Lee Sedol 4-1, a landmark for AI in a game long thought too complex for computers.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is China's best-known clear spirit, usually distilled from sorghum?",
+        "choices": ["Baijiu", "Huangjiu", "Soju", "Shochu"],
+        "answer": 0,
+        "fact": "Moutai, a sorghum baijiu from Guizhou province, is served at Chinese state banquets and its maker is among the world's most valuable drinks companies.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Chinese player became the first from an Asian country to win a Grand Slam singles title, at the 2011 French Open?",
+        "choices": ["Peng Shuai", "Zheng Jie", "Zheng Qinwen", "Li Na"],
+        "answer": 3,
+        "fact": "Li Na added the 2014 Australian Open title and in 2019 became the first Asian-born player inducted into the International Tennis Hall of Fame.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is China's largest freshwater lake?",
+        "choices": ["Dongting Lake", "Lake Tai", "Poyang Lake", "Qinghai Lake"],
+        "answer": 2,
+        "fact": "Poyang Lake in Jiangxi swells in the summer rainy season and shrinks in winter, when it becomes a key wintering ground for Siberian cranes.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which mountain in Shandong was the most revered of China's Five Great Mountains, where emperors performed sacrifices to heaven?",
+        "choices": ["Mount Hua", "Mount Tai", "Mount Song", "Mount Heng"],
+        "answer": 1,
+        "fact": "Climbing Mount Tai's more than 6,000 stone steps to the summit has been a pilgrimage for centuries; it was listed by UNESCO in 1987.",
+        "difficulty": 3
+      },
+      {
+        "q": "The karst scenery on the back of China's 20-yuan banknote shows the Li River near which city?",
+        "choices": ["Guilin", "Zhangjiajie", "Kunming", "Chongqing"],
+        "answer": 0,
+        "fact": "The Li River's limestone peaks between Guilin and Yangshuo are among China's most painted and photographed landscapes.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which famous pan-fired green tea comes from the hills around Hangzhou?",
+        "choices": ["Tieguanyin", "Pu'er", "Da Hong Pao", "Longjing"],
+        "answer": 3,
+        "fact": "Longjing, or 'Dragon Well', tea is pressed by hand in hot woks, which gives its leaves their distinctive flat, smooth shape.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which gorge, among the deepest in the world, is cut by the Jinsha River in Yunnan?",
+        "choices": ["Qutang Gorge", "Wu Gorge", "Tiger Leaping Gorge", "Xiling Gorge"],
+        "answer": 2,
+        "fact": "Legend says a tiger escaping a hunter leapt across the river at the gorge's narrowest point, using a large rock in mid-stream.",
         "difficulty": 3
       }
     ]

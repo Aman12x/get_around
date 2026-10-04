@@ -121,6 +121,186 @@
         "answer": 1,
         "fact": "The Fatimids also founded Al-Azhar Mosque in 970-972; its university is one of the oldest continuously operating in the world.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Roman general was Cleopatra's ally and partner when their fleet was defeated at Actium in 31 BCE?",
+        "choices": [
+          "Julius Caesar",
+          "Pompey",
+          "Mark Antony",
+          "Brutus"
+        ],
+        "answer": 2,
+        "fact": "After Actium, Octavian pursued the pair to Alexandria, where both died in 30 BCE and Egypt became Roman.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which European power occupied Egypt in 1882?",
+        "choices": [
+          "Britain",
+          "France",
+          "Italy",
+          "Germany"
+        ],
+        "answer": 0,
+        "fact": "British troops landed in 1882 and stayed in parts of Egypt for 74 years, until the last soldiers left the Suez Canal zone in 1956.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which sultan, founder of the Ayyubid dynasty, ruled Egypt and captured Jerusalem in 1187?",
+        "choices": [
+          "Baybars",
+          "Qutuz",
+          "Nur ad-Din",
+          "Saladin"
+        ],
+        "answer": 3,
+        "fact": "Saladin began building the Cairo Citadel in 1176; it remained the seat of Egypt's rulers for nearly 700 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "Egypt's 2011 revolution centred on mass protests in which Cairo square?",
+        "choices": [
+          "Ramses Square",
+          "Tahrir Square",
+          "Opera Square",
+          "Abdeen Square"
+        ],
+        "answer": 1,
+        "fact": "\"Tahrir\" means \"liberation\" in Arabic; the square was originally named after the 19th-century ruler Khedive Ismail.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was the main purpose of the pyramids of ancient Egypt?",
+        "choices": [
+          "Grain stores",
+          "Royal tombs",
+          "Astronomical observatories",
+          "Military forts"
+        ],
+        "answer": 1,
+        "fact": "Egypt has more than 100 known pyramids, built over about a thousand years as burial monuments for kings and queens.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which empire conquered Egypt from the Mamluks in 1517?",
+        "choices": [
+          "Safavid Empire",
+          "Byzantine Empire",
+          "Abbasid Caliphate",
+          "Ottoman Empire"
+        ],
+        "answer": 3,
+        "fact": "Sultan Selim I took Cairo in 1517, and Egypt stayed formally part of the Ottoman Empire until 1914.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Arab general led the Muslim conquest of Egypt in the 640s?",
+        "choices": [
+          "Amr ibn al-As",
+          "Khalid ibn al-Walid",
+          "Tariq ibn Ziyad",
+          "Uqba ibn Nafi"
+        ],
+        "answer": 0,
+        "fact": "Amr founded the garrison city of Fustat, whose mosque, the Mosque of Amr ibn al-As, was the first built in Egypt.",
+        "difficulty": 2
+      },
+      {
+        "q": "At which 1260 battle did Egypt's Mamluks halt the advance of the Mongols?",
+        "choices": [
+          "Hattin",
+          "Manzikert",
+          "Ain Jalut",
+          "Yarmouk"
+        ],
+        "answer": 2,
+        "fact": "Ain Jalut, in Palestine, was one of the first major battles the Mongols lost, and it made the Mamluks the leading power of the region.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which general of Alexander the Great founded the dynasty that ruled Egypt until Cleopatra?",
+        "choices": [
+          "Seleucus I Nicator",
+          "Antigonus I",
+          "Cassander",
+          "Ptolemy I Soter"
+        ],
+        "answer": 3,
+        "fact": "Ptolemy I is said to have hijacked Alexander's body on its way to Macedonia and buried it in Egypt to boost his own legitimacy.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1942 battle in Egypt's Western Desert was a turning point of the North African campaign?",
+        "choices": [
+          "Battle of Tobruk",
+          "Second Battle of El Alamein",
+          "Battle of Kasserine Pass",
+          "Battle of Gazala"
+        ],
+        "answer": 1,
+        "fact": "Churchill later said, \"Before Alamein we never had a victory. After Alamein we never had a defeat.\"",
+        "difficulty": 2
+      },
+      {
+        "q": "Which foreign rulers controlled northern Egypt before being driven out by Ahmose I around 1550 BCE?",
+        "choices": [
+          "The Hittites",
+          "The Sea Peoples",
+          "The Hyksos",
+          "The Assyrians"
+        ],
+        "answer": 2,
+        "fact": "The Hyksos are credited with bringing the horse-drawn chariot into wide use in Egypt.",
+        "difficulty": 3
+      },
+      {
+        "q": "Rulers of Egypt's 25th Dynasty came from which kingdom to the south?",
+        "choices": [
+          "Kush",
+          "Punt",
+          "Mitanni",
+          "Axum"
+        ],
+        "answer": 0,
+        "fact": "Kushite kings from what is now Sudan ruled Egypt for about a century and built their own pyramids at Nuri and Meroe.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Persian king conquered Egypt in 525 BCE?",
+        "choices": [
+          "Cambyses II",
+          "Darius I",
+          "Xerxes I",
+          "Cyrus the Great"
+        ],
+        "answer": 0,
+        "fact": "Cambyses won at the Battle of Pelusium, and Egypt became a province, or satrapy, of the Achaemenid Persian Empire.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which army officer led the nationalist revolt defeated by the British at Tel el-Kebir in 1882?",
+        "choices": [
+          "Mustafa Kamil",
+          "Ibrahim Pasha",
+          "Ahmed Urabi",
+          "Abbas Hilmi"
+        ],
+        "answer": 2,
+        "fact": "After his defeat Urabi was exiled to Ceylon (Sri Lanka), where he lived for almost 20 years before returning to Egypt.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which woman ruled Egypt as sultana in 1250, between the Ayyubid and Mamluk eras?",
+        "choices": [
+          "Razia Sultana",
+          "Shajar al-Durr",
+          "Arwa al-Sulayhi",
+          "Zenobia"
+        ],
+        "answer": 1,
+        "fact": "Shajar al-Durr had coins struck in her own name, a rare honour for a woman ruler in the medieval Islamic world.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -242,6 +422,186 @@
         ],
         "answer": 1,
         "fact": "It describes 48 injury cases, each with an examination, diagnosis and treatment, in a remarkably practical style.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Wonder of the Ancient World stood on the island of Pharos at Alexandria?",
+        "choices": [
+          "The Colossus",
+          "The Mausoleum",
+          "The Hanging Gardens",
+          "The Lighthouse"
+        ],
+        "answer": 3,
+        "fact": "The lighthouse was so famous that \"pharos\" became the word for lighthouse in Greek, French (phare) and Italian (faro).",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of the picture-based writing system of ancient Egypt?",
+        "choices": [
+          "Cuneiform",
+          "Hieroglyphs",
+          "Runes",
+          "Linear B"
+        ],
+        "answer": 1,
+        "fact": "The word hieroglyph comes from Greek for \"sacred carvings\"; the system used several hundred signs.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French diplomat led the company that built the Suez Canal?",
+        "choices": [
+          "Ferdinand de Lesseps",
+          "Gustave Eiffel",
+          "Auguste Mariette",
+          "Jean-Francois Champollion"
+        ],
+        "answer": 0,
+        "fact": "De Lesseps later tried to build a canal in Panama too, but the French effort failed amid disease and financial scandal.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Greek mathematician, known as the \"father of geometry\", worked in Alexandria around 300 BCE?",
+        "choices": [
+          "Pythagoras",
+          "Archimedes",
+          "Euclid",
+          "Thales"
+        ],
+        "answer": 2,
+        "fact": "Euclid's Elements was used as a geometry textbook for over 2,000 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "What ancient Egyptian unit of length was based on the forearm?",
+        "choices": [
+          "Foot",
+          "Fathom",
+          "Cubit",
+          "League"
+        ],
+        "answer": 2,
+        "fact": "The royal cubit was about 52 cm long and was divided into seven palms of four fingers each.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which astronomer working in Alexandria wrote the Almagest, which placed Earth at the centre of the universe?",
+        "choices": [
+          "Claudius Ptolemy",
+          "Hipparchus",
+          "Aristarchus",
+          "Copernicus"
+        ],
+        "answer": 0,
+        "fact": "The Almagest's Earth-centred model remained the standard astronomy text in Europe and the Islamic world for about 1,400 years.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which mathematician and philosopher taught in Alexandria until her death in 415 CE?",
+        "choices": [
+          "Sappho",
+          "Hypatia",
+          "Aspasia",
+          "Theano"
+        ],
+        "answer": 1,
+        "fact": "Hypatia's father Theon was also a mathematician, and she is believed to have helped edit his work on Ptolemy's astronomy.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of the pivoting pole-and-bucket device used in Egypt since ancient times to lift water?",
+        "choices": [
+          "Noria",
+          "Qanat",
+          "Sakia",
+          "Shaduf"
+        ],
+        "answer": 3,
+        "fact": "Tomb paintings show the shaduf over 3,000 years ago, and farmers along the Nile still used it in the 20th century.",
+        "difficulty": 2
+      },
+      {
+        "q": "The ancient Egyptian year was linked to the dawn rising of which star, just before the Nile flood?",
+        "choices": [
+          "Sirius",
+          "Polaris",
+          "Vega",
+          "Betelgeuse"
+        ],
+        "answer": 0,
+        "fact": "Egyptians called Sirius Sopdet; its reappearance before sunrise each summer heralded the life-giving inundation.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which inventor in Roman-era Alexandria described the aeolipile, a spinning steam-powered sphere?",
+        "choices": [
+          "Archimedes",
+          "Ctesibius",
+          "Hero of Alexandria",
+          "Philo of Byzantium"
+        ],
+        "answer": 2,
+        "fact": "Hero also described a coin-operated holy water dispenser, often called the world's first vending machine.",
+        "difficulty": 2
+      },
+      {
+        "q": "Egyptian blue, made by heating silica, lime, copper and an alkali, is often called the earliest known synthetic what?",
+        "choices": [
+          "Plastic",
+          "Cement",
+          "Perfume",
+          "Pigment"
+        ],
+        "answer": 3,
+        "fact": "Egyptian blue glows in infrared light, which lets scientists detect faint traces of it on ancient objects.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Alexandrian engineer of the 3rd century BCE is credited with inventing the force pump and an improved water clock?",
+        "choices": [
+          "Archimedes",
+          "Ctesibius",
+          "Euclid",
+          "Aristarchus"
+        ],
+        "answer": 1,
+        "fact": "Ctesibius is also credited with the hydraulis, a water-powered pipe organ that was an ancestor of the church organ.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which scholar, working in Fatimid Cairo in the 11th century, wrote the influential Book of Optics?",
+        "choices": [
+          "Ibn Sina",
+          "Ibn al-Haytham",
+          "Al-Khwarizmi",
+          "Al-Biruni"
+        ],
+        "answer": 1,
+        "fact": "Ibn al-Haytham argued that we see because light enters the eye, overturning the old idea that eyes send out rays.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Moscow Mathematical Papyrus contains a famous calculation of the volume of which shape?",
+        "choices": [
+          "Sphere",
+          "Cylinder",
+          "Cone",
+          "Truncated pyramid"
+        ],
+        "answer": 3,
+        "fact": "The papyrus is about 3,800 years old, yet its method for a truncated pyramid, or frustum, matches the modern formula.",
+        "difficulty": 3
+      },
+      {
+        "q": "Egyptian-born Sir Magdi Yacoub is a world-renowned pioneer in which field?",
+        "choices": [
+          "Neurosurgery",
+          "Eye surgery",
+          "Heart surgery",
+          "Bone surgery"
+        ],
+        "answer": 2,
+        "fact": "Yacoub led a pioneering heart transplant programme at Harefield Hospital in Britain and later founded a heart centre in Aswan.",
         "difficulty": 3
       }
     ],
@@ -365,6 +725,186 @@
         "answer": 1,
         "fact": "Its founder, Ahmad ibn Tulun, grew up in Samarra, Iraq, and the spiral minaret echoes the famous Great Mosque of Samarra.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Verdi opera, set in ancient Egypt, premiered in Cairo in 1871?",
+        "choices": [
+          "Aida",
+          "Nabucco",
+          "Rigoletto",
+          "La Traviata"
+        ],
+        "answer": 0,
+        "fact": "Aida was commissioned by Khedive Ismail; its plot was sketched by the French Egyptologist Auguste Mariette.",
+        "difficulty": 1
+      },
+      {
+        "q": "In ancient Egyptian painting, a person's head is usually shown from which angle?",
+        "choices": [
+          "From the front",
+          "From above",
+          "In profile",
+          "From behind"
+        ],
+        "answer": 2,
+        "fact": "Artists combined the most recognizable views: the head in profile, but the eye and shoulders drawn as if seen from the front.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which vast temple complex at Luxor, dedicated chiefly to Amun, is famous for its Great Hypostyle Hall?",
+        "choices": [
+          "Edfu",
+          "Karnak",
+          "Philae",
+          "Dendera"
+        ],
+        "answer": 1,
+        "fact": "The Great Hypostyle Hall at Karnak has 134 massive columns, some about 21 m tall.",
+        "difficulty": 1
+      },
+      {
+        "q": "In hieroglyphic inscriptions, what does an oval ring called a cartouche enclose?",
+        "choices": [
+          "A prayer to the gods",
+          "A date",
+          "A place name",
+          "A royal name"
+        ],
+        "answer": 3,
+        "fact": "The cartouches on the Rosetta Stone, holding the name Ptolemy, were a key to cracking hieroglyphs.",
+        "difficulty": 1
+      },
+      {
+        "q": "What kind of ancient Egyptian monument stands in the centre of Paris's Place de la Concorde?",
+        "choices": [
+          "A sphinx",
+          "A pyramid",
+          "A sarcophagus",
+          "An obelisk"
+        ],
+        "answer": 3,
+        "fact": "The 3,000-year-old Luxor Obelisk was a gift from Egypt's ruler and was raised in Paris in 1836.",
+        "difficulty": 1
+      },
+      {
+        "q": "Whose tomb in the Valley of the Queens is celebrated as one of the most beautifully painted in Egypt?",
+        "choices": [
+          "Hatshepsut",
+          "Nefertari",
+          "Tiye",
+          "Ankhesenamun"
+        ],
+        "answer": 1,
+        "fact": "Nefertari was the chief wife of Ramesses II, who also dedicated the smaller temple at Abu Simbel to her.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the Arabic name for the solo dance style known in the West as belly dance?",
+        "choices": [
+          "Dabke",
+          "Tanoura",
+          "Raqs sharqi",
+          "Zaffa"
+        ],
+        "answer": 2,
+        "fact": "Raqs sharqi means \"oriental dance\"; Egyptian films of the 1930s-50s made its star dancers famous across the Arab world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Egyptian poet was hailed as the \"Prince of Poets\" in 1927?",
+        "choices": [
+          "Ahmed Shawqi",
+          "Hafez Ibrahim",
+          "Khalil Gibran",
+          "Nizar Qabbani"
+        ],
+        "answer": 0,
+        "fact": "Shawqi also wrote verse dramas, including one on Cleopatra, which helped bring theatre into modern Arabic poetry.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Egyptian singer and actor was nicknamed \"the Dark Nightingale\"?",
+        "choices": [
+          "Farid al-Atrash",
+          "Abdel Halim Hafez",
+          "Mohamed Mounir",
+          "Amr Diab"
+        ],
+        "answer": 1,
+        "fact": "Abdel Halim's 1977 funeral in Cairo drew huge crowds, and his romantic songs remain staples of Arabic radio.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Egyptian novelist wrote \"The Yacoubian Building\" (2002)?",
+        "choices": [
+          "Naguib Mahfouz",
+          "Nawal El Saadawi",
+          "Tawfiq al-Hakim",
+          "Alaa Al Aswany"
+        ],
+        "answer": 3,
+        "fact": "The novel follows the residents of a real downtown Cairo apartment block and became one of the best-selling Arabic novels.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Colossi of Memnon near Luxor depict which pharaoh?",
+        "choices": [
+          "Amenhotep III",
+          "Thutmose III",
+          "Seti I",
+          "Ramesses II"
+        ],
+        "answer": 0,
+        "fact": "After an earthquake cracked one statue, it \"sang\" at dawn, drawing Roman tourists who carved graffiti on its legs.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which sculptor created \"Egypt's Awakening\", the granite monument near Cairo University?",
+        "choices": [
+          "Adam Henein",
+          "Mahmoud Said",
+          "Mahmoud Mokhtar",
+          "Ragheb Ayad"
+        ],
+        "answer": 2,
+        "fact": "The statue shows a peasant woman lifting her veil beside a rising sphinx, a symbol of the nation after 1919.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which poet from Alexandria wrote \"Ithaka\" and \"Waiting for the Barbarians\"?",
+        "choices": [
+          "George Seferis",
+          "Odysseas Elytis",
+          "Constantine Cavafy",
+          "Nikos Kazantzakis"
+        ],
+        "answer": 2,
+        "fact": "Cavafy wrote in Greek and spent most of his life in Alexandria, working as a clerk for decades.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which composer wrote the music for Umm Kulthum's famous 1964 song \"Enta Omri\"?",
+        "choices": [
+          "Mohamed Abdel Wahab",
+          "Baligh Hamdi",
+          "Riad Al Sunbati",
+          "Sayed Darwish"
+        ],
+        "answer": 0,
+        "fact": "Enta Omri was nicknamed \"the meeting of the giants\" because it united Egypt's greatest singer and greatest composer.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who directed the 1969 Egyptian film \"The Night of Counting the Years\" (Al-Mummia)?",
+        "choices": [
+          "Salah Abu Seif",
+          "Henry Barakat",
+          "Kamal El Sheikh",
+          "Shadi Abdel Salam"
+        ],
+        "answer": 3,
+        "fact": "The film is about the 1881 discovery of a royal mummy cache and is often voted among the best Arab films ever made.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -486,6 +1026,186 @@
         ],
         "answer": 2,
         "fact": "His dynasty ruled Egypt until 1952, and his domed mosque crowns the skyline of Cairo's Citadel.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which king of Egypt was forced to abdicate after the 1952 revolution?",
+        "choices": [
+          "Hussein Kamel",
+          "Farouk",
+          "Abbas II",
+          "Tewfik"
+        ],
+        "answer": 1,
+        "fact": "Farouk sailed into exile from Alexandria on the royal yacht; his infant son Fuad II was nominally king for under a year.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was the group of army officers that overthrew Egypt's monarchy in 1952 called?",
+        "choices": [
+          "Young Turks",
+          "Wafdists",
+          "Mamluks",
+          "Free Officers"
+        ],
+        "answer": 3,
+        "fact": "The coup of 23 July 1952 is still marked as Revolution Day, a national holiday in Egypt.",
+        "difficulty": 1
+      },
+      {
+        "q": "In the October War of 1973, Egypt and Syria fought against which country?",
+        "choices": [
+          "Jordan",
+          "Libya",
+          "Israel",
+          "Lebanon"
+        ],
+        "answer": 2,
+        "fact": "Egyptian forces crossed the Suez Canal on 6 October 1973; the date gives its name to a Cairo bridge and a city near Giza.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who won Egypt's 2012 presidential election, the first held after the 2011 revolution?",
+        "choices": [
+          "Mohamed Morsi",
+          "Ahmed Shafik",
+          "Amr Moussa",
+          "Hamdeen Sabahi"
+        ],
+        "answer": 0,
+        "fact": "The 2012 vote went to a run-off, which Morsi won with about 52% against Ahmed Shafik.",
+        "difficulty": 1
+      },
+      {
+        "q": "During the 1956 Suez Crisis, Egypt was invaded by Israel, Britain and which other country?",
+        "choices": [
+          "France",
+          "Italy",
+          "United States",
+          "Greece"
+        ],
+        "answer": 0,
+        "fact": "Pressure from the US and USSR forced a withdrawal, and the first armed UN peacekeeping force was sent in.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which political union did Egypt form with Syria from 1958 to 1961?",
+        "choices": [
+          "Arab Federation",
+          "Federation of Arab Republics",
+          "United Arab Republic",
+          "Gulf Cooperation Council"
+        ],
+        "answer": 2,
+        "fact": "Egypt kept the name United Arab Republic for a decade after Syria left, until 1971.",
+        "difficulty": 2
+      },
+      {
+        "q": "From 1899 to 1956, Sudan was jointly governed by Britain and Egypt under what arrangement?",
+        "choices": [
+          "Mandate",
+          "Commonwealth",
+          "Caliphate",
+          "Condominium"
+        ],
+        "answer": 3,
+        "fact": "Under the Anglo-Egyptian Condominium both flags flew over Khartoum, though Britain held most real power.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which movement was founded in Ismailia in 1928 by Hassan al-Banna?",
+        "choices": [
+          "Wafd Party",
+          "Muslim Brotherhood",
+          "Ba'ath Party",
+          "Arab Socialist Union"
+        ],
+        "answer": 1,
+        "fact": "Ismailia, the Suez Canal town where al-Banna taught school, was founded by the Suez Canal Company in the 1860s.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which 1967 war did Egypt lose control of the Sinai Peninsula?",
+        "choices": [
+          "Suez Crisis",
+          "War of Attrition",
+          "Six-Day War",
+          "October War"
+        ],
+        "answer": 2,
+        "fact": "Most of Sinai was returned by 1982 under the 1979 peace treaty; the small resort of Taba followed in 1989 after arbitration.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which former Egyptian foreign minister served as Secretary-General of the Arab League from 2001 to 2011?",
+        "choices": [
+          "Amr Moussa",
+          "Ahmed Aboul Gheit",
+          "Nabil Elaraby",
+          "Esmat Abdel Meguid"
+        ],
+        "answer": 0,
+        "fact": "Amr Moussa later chaired the committee that drafted Egypt's 2014 constitution.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which British consul-general effectively ran Egypt's government from 1883 to 1907?",
+        "choices": [
+          "Lord Kitchener",
+          "Lord Cromer",
+          "Lord Allenby",
+          "Lord Curzon"
+        ],
+        "answer": 1,
+        "fact": "Evelyn Baring, Lord Cromer, came from the Barings banking family and was sent to sort out Egypt's debts.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did Britain declare Egypt a protectorate, formally ending Ottoman sovereignty?",
+        "choices": [
+          "1882",
+          "1922",
+          "1936",
+          "1914"
+        ],
+        "answer": 3,
+        "fact": "Britain made the move at the outbreak of the First World War, as the Ottoman Empire joined Germany's side.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which head of the Supreme Constitutional Court served as Egypt's interim president from July 2013 to June 2014?",
+        "choices": [
+          "Hazem el-Beblawi",
+          "Mohamed Hussein Tantawi",
+          "Essam Sharaf",
+          "Adly Mansour"
+        ],
+        "answer": 3,
+        "fact": "A judge by career, Mansour did not run for president himself and returned to the judiciary after his interim term.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the name of the nationalist party that grew out of Saad Zaghloul's 1918 delegation to the British?",
+        "choices": [
+          "Umma",
+          "Wafd",
+          "Ahrar",
+          "Watani"
+        ],
+        "answer": 1,
+        "fact": "Wafd simply means \"delegation\" in Arabic, after the group that asked to plead Egypt's case for independence.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which khedive sold Egypt's shares in the Suez Canal Company to Britain in 1875?",
+        "choices": [
+          "Ismail Pasha",
+          "Said Pasha",
+          "Tewfik Pasha",
+          "Abbas Hilmi II"
+        ],
+        "answer": 0,
+        "fact": "Ismail dreamed of making Egypt \"part of Europe\" and rebuilt central Cairo in Parisian style, but sank into huge debts.",
         "difficulty": 3
       }
     ],
@@ -619,6 +1339,201 @@
         "fact": "The ScanPyramids project detected it using muons, particles created by cosmic rays, then confirmed it with an endoscope camera.",
         "difficulty": 3,
         "asOf": "2023"
+      },
+      {
+        "q": "Which giant museum beside the Giza plateau held its official grand opening in November 2025?",
+        "choices": [
+          "Egyptian Museum in Tahrir",
+          "Coptic Museum",
+          "Grand Egyptian Museum",
+          "Luxor Museum"
+        ],
+        "answer": 2,
+        "fact": "The museum displays Tutankhamun's complete treasure together for the first time, and a colossal Ramesses II greets visitors.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2024, Suez Canal revenues fell sharply as many ships avoided attacks on shipping in which sea?",
+        "choices": [
+          "Red Sea",
+          "Black Sea",
+          "Caspian Sea",
+          "Aegean Sea"
+        ],
+        "answer": 0,
+        "fact": "Many container lines rerouted around Africa's Cape of Good Hope, a detour adding roughly 10 days to Asia-Europe trips.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Cairo football club won the CAF Champions League in both 2023 and 2024?",
+        "choices": [
+          "Zamalek",
+          "Pyramids FC",
+          "Ismaily",
+          "Al Ahly"
+        ],
+        "answer": 3,
+        "fact": "Al Ahly's 2024 victory was its 12th African title, a record for the competition.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which country began filling the reservoir of the Grand Renaissance Dam on the Blue Nile in 2020?",
+        "choices": [
+          "Sudan",
+          "Ethiopia",
+          "Uganda",
+          "South Sudan"
+        ],
+        "answer": 1,
+        "fact": "The Blue Nile supplies most of the water that reaches Egypt, which is why the dam has been a long-running regional issue.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which crossing on Egypt's border with the Gaza Strip became a focus of international aid efforts from October 2023?",
+        "choices": [
+          "Taba",
+          "Rafah",
+          "Erez",
+          "Allenby"
+        ],
+        "answer": 1,
+        "fact": "Rafah was Gaza's only crossing that did not lead into Israel, which made it a vital gateway for people and supplies.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which skyscraper in Egypt's New Administrative Capital, about 394 m tall, became Africa's tallest building in the early 2020s?",
+        "choices": [
+          "Cairo Tower",
+          "Mohammed VI Tower",
+          "The Leonardo",
+          "Iconic Tower"
+        ],
+        "answer": 3,
+        "fact": "The New Administrative Capital is being built in the desert about 45 km east of Cairo as a new seat of government.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Egypt hosted the 2019 Africa Cup of Nations; which country won it?",
+        "choices": [
+          "Algeria",
+          "Senegal",
+          "Nigeria",
+          "Tunisia"
+        ],
+        "answer": 0,
+        "fact": "Algeria beat Senegal 1-0 in the Cairo final for its second continental title, 29 years after its first.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In which sport did Egypt's Ahmed Elgendy win Olympic gold at Paris 2024?",
+        "choices": [
+          "Fencing",
+          "Weightlifting",
+          "Modern pentathlon",
+          "Taekwondo"
+        ],
+        "answer": 2,
+        "fact": "Elgendy had already won silver at the Tokyo Games; modern pentathlon combines fencing, swimming, riding, running and shooting.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2020, Egypt unveiled more than 100 sealed wooden coffins, about 2,500 years old, found at which necropolis?",
+        "choices": [
+          "Dahshur",
+          "Abydos",
+          "Tanis",
+          "Saqqara"
+        ],
+        "answer": 3,
+        "fact": "Some of the painted coffins were opened in front of the press, revealing well-preserved mummies inside.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "In April 2021, which Egyptologist announced the discovery of a 3,000-year-old \"lost golden city\" near Luxor?",
+        "choices": [
+          "Mostafa Waziri",
+          "Zahi Hawass",
+          "Salima Ikram",
+          "Kent Weeks"
+        ],
+        "answer": 1,
+        "fact": "The city dates to the reign of Amenhotep III and was nicknamed \"the Rise of Aten\".",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In February 2024, investors from which country agreed a $35 billion deal to develop Egypt's Ras El-Hekma peninsula?",
+        "choices": [
+          "Saudi Arabia",
+          "Qatar",
+          "United Arab Emirates",
+          "China"
+        ],
+        "answer": 2,
+        "fact": "Ras El-Hekma is a stretch of Mediterranean coast west of Alexandria, planned as a new resort and business city.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "At which site did Egypt begin building its first nuclear power plant in 2022?",
+        "choices": [
+          "El Dabaa",
+          "Benban",
+          "Zafarana",
+          "El Alamein"
+        ],
+        "answer": 0,
+        "fact": "The plant, built with Russia's Rosatom on the Mediterranean coast, is designed to have four large reactors.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "At the Tokyo Olympics held in 2021, Feryal Abdelaziz became the first Egyptian woman to win Olympic gold, in which sport?",
+        "choices": [
+          "Karate",
+          "Judo",
+          "Taekwondo",
+          "Wrestling"
+        ],
+        "answer": 0,
+        "fact": "Karate was making its Olympic debut in Tokyo, so Abdelaziz was among the sport's very first Olympic champions.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Egyptian club won its first CAF Champions League title in 2025?",
+        "choices": [
+          "Zamalek",
+          "Al Masry",
+          "Pyramids FC",
+          "Ismaily"
+        ],
+        "answer": 2,
+        "fact": "The club, which took its current name only in 2018, beat South Africa's Mamelodi Sundowns in the final.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "The Benban solar park, one of the world's largest when completed in 2019, lies near which Egyptian city?",
+        "choices": [
+          "Hurghada",
+          "Aswan",
+          "Siwa",
+          "Port Said"
+        ],
+        "answer": 1,
+        "fact": "Benban spreads millions of solar panels over roughly 37 square km of desert, among the sunniest land on Earth.",
+        "difficulty": 3,
+        "asOf": "2019"
       }
     ],
     "general": [
@@ -740,6 +1655,186 @@
         ],
         "answer": 1,
         "fact": "Many of Siwa's people speak Siwi, a Berber (Amazigh) language, reflecting the oasis's long ties to North Africa's west.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the capital city of Egypt?",
+        "choices": [
+          "Alexandria",
+          "Giza",
+          "Luxor",
+          "Cairo"
+        ],
+        "answer": 3,
+        "fact": "Greater Cairo is home to over 20 million people, making it one of the largest urban areas in Africa and the Middle East.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which of the Seven Wonders of the Ancient World is the only one still standing?",
+        "choices": [
+          "Lighthouse of Alexandria",
+          "Great Pyramid of Giza",
+          "Colossus of Rhodes",
+          "Hanging Gardens of Babylon"
+        ],
+        "answer": 1,
+        "fact": "The Great Pyramid was originally covered in polished white limestone casing stones that would have gleamed in the sun.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which jackal-headed Egyptian god was associated with mummification and the dead?",
+        "choices": [
+          "Anubis",
+          "Horus",
+          "Thoth",
+          "Sobek"
+        ],
+        "answer": 0,
+        "fact": "Jackals prowled desert cemeteries, so Egyptians may have made a jackal god the protector of the dead.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the official language of Egypt?",
+        "choices": [
+          "Coptic",
+          "French",
+          "Arabic",
+          "Berber"
+        ],
+        "answer": 2,
+        "fact": "Egyptian Arabic is widely understood across the Arab world, thanks largely to Egypt's films and TV series.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which desert covers most of Egypt?",
+        "choices": [
+          "Gobi",
+          "Kalahari",
+          "Sahara",
+          "Namib"
+        ],
+        "answer": 2,
+        "fact": "About 95% of Egyptians live on roughly 5% of the land, mostly along the Nile and in its delta.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Cairo mosque, founded in 970, is home to one of the world's oldest continuously operating universities?",
+        "choices": [
+          "Al-Azhar",
+          "Mosque of Muhammad Ali",
+          "Sultan Hassan Mosque",
+          "Al-Hakim Mosque"
+        ],
+        "answer": 0,
+        "fact": "Al-Azhar was founded by the Fatimids and has drawn students from across the Muslim world for over a thousand years.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which slow-cooked fava bean dish is a classic Egyptian breakfast?",
+        "choices": [
+          "Shakshuka",
+          "Ful medames",
+          "Hummus",
+          "Molokhia"
+        ],
+        "answer": 1,
+        "fact": "Ful has been simmered overnight in big copper pots for centuries, and street carts sell it across Cairo each morning.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Mediterranean port is Egypt's second-largest city?",
+        "choices": [
+          "Port Said",
+          "Damietta",
+          "Mersa Matruh",
+          "Alexandria"
+        ],
+        "answer": 3,
+        "fact": "The modern Bibliotheca Alexandrina, opened in 2002, honours the city's famous ancient library.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city lies at the northern, Mediterranean end of the Suez Canal?",
+        "choices": [
+          "Port Said",
+          "Suez",
+          "Ismailia",
+          "Damietta"
+        ],
+        "answer": 0,
+        "fact": "Port Said was founded in 1859 when canal work began and is named after Said Pasha, the ruler who granted the concession.",
+        "difficulty": 2
+      },
+      {
+        "q": "Egyptian players have dominated the world rankings since the 2010s in which racket sport?",
+        "choices": [
+          "Badminton",
+          "Table tennis",
+          "Squash",
+          "Tennis"
+        ],
+        "answer": 2,
+        "fact": "Egypt has often held the top spots in both the men's and women's world squash rankings at the same time.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Egyptian spring festival, dating back to pharaonic times, is traditionally celebrated with salted fish and coloured eggs?",
+        "choices": [
+          "Mawlid",
+          "Wafaa el-Nil",
+          "Eid al-Adha",
+          "Sham el-Nessim"
+        ],
+        "answer": 3,
+        "fact": "Sham el-Nessim, meaning \"smelling the breeze\", falls on the Monday after Coptic Easter and is celebrated by Egyptians of all faiths.",
+        "difficulty": 3
+      },
+      {
+        "q": "Saint Catherine's Monastery, one of the oldest working Christian monasteries, lies at the foot of which mountain?",
+        "choices": [
+          "Mount Tabor",
+          "Mount Sinai",
+          "Mount Nebo",
+          "Mount Hermon"
+        ],
+        "answer": 1,
+        "fact": "Built in the 6th century, the monastery holds one of the oldest continually used libraries in the world.",
+        "difficulty": 3
+      },
+      {
+        "q": "What famous unfinished monument still lies in an ancient granite quarry at Aswan?",
+        "choices": [
+          "A colossal statue",
+          "An obelisk",
+          "A sphinx",
+          "A temple gateway"
+        ],
+        "answer": 1,
+        "fact": "Had it been completed, the Unfinished Obelisk would have stood about 42 m tall; it was abandoned after cracks appeared.",
+        "difficulty": 3
+      },
+      {
+        "q": "What did ancient Egyptians call their country, meaning \"black land\" after the dark Nile soil?",
+        "choices": [
+          "Deshret",
+          "Punt",
+          "Nubia",
+          "Kemet"
+        ],
+        "answer": 3,
+        "fact": "Deshret, the \"red land\", was their word for the desert that surrounded the fertile black land of the valley.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which lake does the Suez Canal pass through between Ismailia and Suez?",
+        "choices": [
+          "Lake Manzala",
+          "Lake Qarun",
+          "Great Bitter Lake",
+          "Lake Mariout"
+        ],
+        "answer": 2,
+        "fact": "During the canal's closure from 1967 to 1975, more than a dozen ships were trapped in the Great Bitter Lake and became known as the \"Yellow Fleet\".",
         "difficulty": 3
       }
     ]

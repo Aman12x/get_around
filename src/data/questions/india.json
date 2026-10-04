@@ -121,6 +121,186 @@
         "answer": 3,
         "fact": "Some of his gold coins show him playing a veena, hinting at a ruler who prized music as well as conquest.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Mughal emperor, famed for religious tolerance, built the city of Fatehpur Sikri?",
+        "choices": [
+          "Humayun",
+          "Jahangir",
+          "Akbar",
+          "Aurangzeb"
+        ],
+        "answer": 2,
+        "fact": "Akbar held debates among scholars of many faiths at Fatehpur Sikri's Ibadat Khana, or \"House of Worship\".",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Maratha ruler was crowned Chhatrapati in 1674?",
+        "choices": [
+          "Shivaji",
+          "Baji Rao I",
+          "Sambhaji",
+          "Shahu"
+        ],
+        "answer": 0,
+        "fact": "Shivaji built and captured a network of hill and sea forts, and is often credited with founding a Maratha navy.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Portuguese navigator reached Calicut by sea in 1498?",
+        "choices": [
+          "Ferdinand Magellan",
+          "Bartolomeu Dias",
+          "Afonso de Albuquerque",
+          "Vasco da Gama"
+        ],
+        "answer": 3,
+        "fact": "Da Gama's voyage opened the first all-sea route from Europe to India, around Africa's Cape of Good Hope.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which queen of Jhansi became a celebrated heroine of the 1857 rebellion?",
+        "choices": [
+          "Rani Durgavati",
+          "Rani Lakshmibai",
+          "Ahilyabai Holkar",
+          "Rani Chennamma"
+        ],
+        "answer": 1,
+        "fact": "Lakshmibai died fighting near Gwalior in 1858; a British officer described her as the most dangerous of the rebel leaders.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which city did the Jallianwala Bagh massacre take place in 1919?",
+        "choices": [
+          "Lahore",
+          "Amritsar",
+          "Lucknow",
+          "Delhi"
+        ],
+        "answer": 1,
+        "fact": "Rabindranath Tagore gave up his British knighthood in protest at the massacre.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who founded the Maurya Empire around 321 BCE?",
+        "choices": [
+          "Bindusara",
+          "Bimbisara",
+          "Chandragupta I",
+          "Chandragupta Maurya"
+        ],
+        "answer": 3,
+        "fact": "According to Jain tradition, Chandragupta gave up his throne and became an ascetic at Shravanabelagola in Karnataka.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Mughal emperor, who died in 1707, ruled the empire at its greatest territorial extent?",
+        "choices": [
+          "Aurangzeb",
+          "Akbar",
+          "Shah Jahan",
+          "Bahadur Shah I"
+        ],
+        "answer": 0,
+        "fact": "Aurangzeb reigned for 49 years; his simple tomb at Khuldabad in Maharashtra is open to the sky.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which South Indian empire had its capital at Hampi, now a UNESCO World Heritage Site?",
+        "choices": [
+          "Chola",
+          "Pallava",
+          "Vijayanagara",
+          "Hoysala"
+        ],
+        "answer": 2,
+        "fact": "Foreign visitors in the 1500s compared Vijayanagara to Rome and described its markets heaped with diamonds and rubies.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year was the Indian National Congress founded?",
+        "choices": [
+          "1857",
+          "1905",
+          "1920",
+          "1885"
+        ],
+        "answer": 3,
+        "fact": "The first session met in Bombay with 72 delegates; one of its founders was a retired British civil servant, Allan Octavian Hume.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Gandhi launch the Quit India Movement?",
+        "choices": [
+          "1920",
+          "1942",
+          "1930",
+          "1946"
+        ],
+        "answer": 1,
+        "fact": "Gandhi's Quit India speech in Bombay urged Indians to \"Do or Die\"; most Congress leaders were arrested the next morning.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Delhi Sultanate ruler moved his capital from Delhi to Daulatabad in the Deccan?",
+        "choices": [
+          "Alauddin Khalji",
+          "Iltutmish",
+          "Muhammad bin Tughluq",
+          "Firuz Shah Tughluq"
+        ],
+        "answer": 2,
+        "fact": "Muhammad bin Tughluq also tried a token currency of brass and copper coins, which was soon undone by mass forgery.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who ruled the Delhi Sultanate from 1236 to 1240, the only woman to do so?",
+        "choices": [
+          "Razia Sultana",
+          "Nur Jahan",
+          "Chand Bibi",
+          "Rani Rudrama Devi"
+        ],
+        "answer": 0,
+        "fact": "Razia was chosen as heir by her father Iltutmish, who reportedly judged her more capable than her brothers.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Governor-General applied the \"Doctrine of Lapse\" to annex states such as Satara and Jhansi?",
+        "choices": [
+          "Lord Dalhousie",
+          "Lord Cornwallis",
+          "Lord Wellesley",
+          "Lord Canning"
+        ],
+        "answer": 0,
+        "fact": "Dalhousie also oversaw India's first passenger railway, which ran from Bombay to Thane in 1853.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Chalukya king defeated the emperor Harsha on the banks of the Narmada?",
+        "choices": [
+          "Vikramaditya II",
+          "Mahendravarman I",
+          "Pulakeshin II",
+          "Dantidurga"
+        ],
+        "answer": 2,
+        "fact": "Pulakeshin's victories are recorded in the Aihole inscription, composed in Sanskrit by the poet Ravikirti.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1916 agreement brought the Indian National Congress and the Muslim League together on reform demands?",
+        "choices": [
+          "Poona Pact",
+          "Lucknow Pact",
+          "Gandhi-Irwin Pact",
+          "Simla Accord"
+        ],
+        "answer": 1,
+        "fact": "The Lucknow Pact was agreed at sessions of both parties held in the same city in December 1916.",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -242,6 +422,186 @@
         ],
         "answer": 1,
         "fact": "He was also a pioneer of radio and microwave research in the 1890s, and founded Kolkata's Bose Institute in 1917.",
+        "difficulty": 3
+      },
+      {
+        "q": "India's Mars Orbiter Mission, launched in 2013, is popularly known by what name?",
+        "choices": [
+          "Chandrayaan",
+          "Gaganyaan",
+          "Shukrayaan",
+          "Mangalyaan"
+        ],
+        "answer": 3,
+        "fact": "It made India the first Asian nation to reach Mars orbit, and the first to succeed on its first attempt.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of India's national space agency?",
+        "choices": [
+          "DRDO",
+          "ISRO",
+          "BARC",
+          "HAL"
+        ],
+        "answer": 1,
+        "fact": "ISRO was founded in 1969; in India's first rocket launches at Thumba, parts were famously carried to the pad on bicycles.",
+        "difficulty": 1
+      },
+      {
+        "q": "The place-value number system used worldwide today, including zero, is commonly called what?",
+        "choices": [
+          "Hindu-Arabic numerals",
+          "Roman numerals",
+          "Babylonian numerals",
+          "Greek numerals"
+        ],
+        "answer": 0,
+        "fact": "The system reached Europe via Arabic texts; Fibonacci promoted it in his 1202 book Liber Abaci.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Indian company launched the Nano, marketed as the world's cheapest car, in 2009?",
+        "choices": [
+          "Mahindra",
+          "Maruti Suzuki",
+          "Tata Motors",
+          "Bajaj Auto"
+        ],
+        "answer": 2,
+        "fact": "The Nano launched at a base price of 1 lakh rupees, about US$2,000 at the time.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which India-born executive became CEO of Google in 2015?",
+        "choices": [
+          "Satya Nadella",
+          "Arvind Krishna",
+          "Sundar Pichai",
+          "Shantanu Narayen"
+        ],
+        "answer": 2,
+        "fact": "Pichai grew up in Chennai and studied metallurgical engineering at IIT Kharagpur.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which physicist is known as the father of India's nuclear programme?",
+        "choices": [
+          "Homi J. Bhabha",
+          "Meghnad Saha",
+          "Raja Ramanna",
+          "Shanti Swarup Bhatnagar"
+        ],
+        "answer": 0,
+        "fact": "India's main nuclear research centre in Mumbai, the Bhabha Atomic Research Centre, is named after him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which India-born astrophysicist shared the 1983 Nobel Prize in Physics for work on the evolution of stars?",
+        "choices": [
+          "Meghnad Saha",
+          "Subrahmanyan Chandrasekhar",
+          "Jayant Narlikar",
+          "Har Gobind Khorana"
+        ],
+        "answer": 1,
+        "fact": "NASA's Chandra X-ray Observatory, launched in 1999, is named in his honour.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which agricultural scientist is known as the father of India's Green Revolution?",
+        "choices": [
+          "Verghese Kurien",
+          "Salim Ali",
+          "C. Subramaniam",
+          "M. S. Swaminathan"
+        ],
+        "answer": 3,
+        "fact": "High-yield wheat and rice helped India move from food shortages to self-sufficiency in grain by the 1970s.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which dairy cooperative brand is associated with Verghese Kurien and India's \"White Revolution\"?",
+        "choices": [
+          "Amul",
+          "Mother Dairy",
+          "Nandini",
+          "Britannia"
+        ],
+        "answer": 0,
+        "fact": "Amul began in Anand, Gujarat, in 1946; Operation Flood helped make India the world's largest milk producer.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of India's instant mobile payment system, launched in 2016?",
+        "choices": [
+          "RuPay",
+          "Paytm",
+          "UPI",
+          "NEFT"
+        ],
+        "answer": 2,
+        "fact": "UPI, the Unified Payments Interface, lets people pay by scanning a QR code, and even small street vendors display one.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the code name of India's first nuclear test, conducted at Pokhran in 1974?",
+        "choices": [
+          "Shakti",
+          "Operation Vijay",
+          "Agni",
+          "Smiling Buddha"
+        ],
+        "answer": 3,
+        "fact": "The test was carried out on 18 May 1974, which that year was Buddha Purnima, the festival marking the Buddha's birth.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 14th-century mathematician, founder of the Kerala school, developed infinite series for trigonometric functions?",
+        "choices": [
+          "Bhaskara II",
+          "Madhava of Sangamagrama",
+          "Varahamihira",
+          "Mahavira"
+        ],
+        "answer": 1,
+        "fact": "Madhava's series for pi and sine predate similar European results by around 250 years.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which statistician founded the Indian Statistical Institute in 1931?",
+        "choices": [
+          "C. R. Rao",
+          "P. C. Mahalanobis",
+          "Harish-Chandra",
+          "D. R. Kaprekar"
+        ],
+        "answer": 1,
+        "fact": "The Mahalanobis distance, still used in machine learning, is named after him; his birthday is India's Statistics Day.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which India-born scientist shared the 2009 Nobel Prize in Chemistry for studies of the ribosome?",
+        "choices": [
+          "Har Gobind Khorana",
+          "Amartya Sen",
+          "Abhijit Banerjee",
+          "Venkatraman Ramakrishnan"
+        ],
+        "answer": 3,
+        "fact": "Ribosomes are the cell's protein factories; mapping them helps in designing new antibiotics.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the name of the high-carbon crucible steel from South India prized for sword blades?",
+        "choices": [
+          "Sheffield steel",
+          "Bessemer steel",
+          "Wootz steel",
+          "Toledo steel"
+        ],
+        "answer": 2,
+        "fact": "Wootz ingots were traded to the Middle East, where smiths forged them into the famous rippled \"Damascus\" blades.",
         "difficulty": 3
       }
     ],
@@ -365,6 +725,186 @@
         "answer": 2,
         "fact": "William Jones's 1789 English translation enchanted European readers, including the German poet Goethe.",
         "difficulty": 3
+      },
+      {
+        "q": "Which Sanskrit epic tells the story of Prince Rama and his wife Sita?",
+        "choices": [
+          "Ramayana",
+          "Mahabharata",
+          "Bhagavad Gita",
+          "Panchatantra"
+        ],
+        "answer": 0,
+        "fact": "The Ramayana is traditionally attributed to the sage Valmiki and is retold in versions across Southeast Asia.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which classical dance-drama from Kerala is known for elaborate green face make-up and huge headdresses?",
+        "choices": [
+          "Kathak",
+          "Odissi",
+          "Kathakali",
+          "Manipuri"
+        ],
+        "answer": 2,
+        "fact": "Kathakali performers train their eye muscles for years so they can express emotions without speaking.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 13th-century temple in Odisha is designed as a giant chariot for the sun god?",
+        "choices": [
+          "Jagannath Temple",
+          "Konark Sun Temple",
+          "Meenakshi Temple",
+          "Brihadeeswarar Temple"
+        ],
+        "answer": 1,
+        "fact": "The temple's 24 carved stone wheels work as sundials; you can read the time from their shadows.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which pair of hand drums is central to Hindustani classical music?",
+        "choices": [
+          "Mridangam",
+          "Dhol",
+          "Djembe",
+          "Tabla"
+        ],
+        "answer": 3,
+        "fact": "Ustad Zakir Hussain, the most famous tabla player of recent times, won several Grammy Awards.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Hindi film star is nicknamed \"Big B\"?",
+        "choices": [
+          "Shah Rukh Khan",
+          "Dilip Kumar",
+          "Raj Kapoor",
+          "Amitabh Bachchan"
+        ],
+        "answer": 3,
+        "fact": "Bachchan's 1970s \"angry young man\" roles made him a superstar; he also hosts India's version of Who Wants to Be a Millionaire.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which author won the 1981 Booker Prize for \"Midnight's Children\"?",
+        "choices": [
+          "Vikram Seth",
+          "Salman Rushdie",
+          "Arundhati Roy",
+          "R. K. Narayan"
+        ],
+        "answer": 1,
+        "fact": "The novel's narrator is born at the exact moment of India's independence, midnight on 15 August 1947.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which playback singer, awarded the Bharat Ratna in 2001, sang the patriotic song \"Ae Mere Watan Ke Logon\"?",
+        "choices": [
+          "Asha Bhosle",
+          "Shreya Ghoshal",
+          "Lata Mangeshkar",
+          "Alka Yagnik"
+        ],
+        "answer": 2,
+        "fact": "When she sang it in 1963, Prime Minister Nehru was reportedly moved to tears.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 16th-century garden tomb in Delhi is often seen as a forerunner of the Taj Mahal?",
+        "choices": [
+          "Humayun's Tomb",
+          "Safdarjung's Tomb",
+          "Akbar's Tomb",
+          "Itimad-ud-Daulah's Tomb"
+        ],
+        "answer": 0,
+        "fact": "It was the first grand garden tomb in India, built for Humayun on the orders of his widow, Bega Begum.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swiss-French architect planned the city of Chandigarh in the 1950s?",
+        "choices": [
+          "Edwin Lutyens",
+          "Le Corbusier",
+          "Louis Kahn",
+          "Frank Lloyd Wright"
+        ],
+        "answer": 1,
+        "fact": "Chandigarh's symbol, the Open Hand Monument, was designed by Le Corbusier as a sign of peace and reconciliation.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which composer won two Oscars for \"Slumdog Millionaire\" in 2009?",
+        "choices": [
+          "Ilaiyaraaja",
+          "R. D. Burman",
+          "Shankar Mahadevan",
+          "A. R. Rahman"
+        ],
+        "answer": 3,
+        "fact": "Rahman began as a session keyboard player and jingle composer before his breakthrough film score for Roja in 1992.",
+        "difficulty": 2
+      },
+      {
+        "q": "Madhubani painting comes from the Mithila region, mostly in which Indian state?",
+        "choices": [
+          "Bihar",
+          "Odisha",
+          "Rajasthan",
+          "West Bengal"
+        ],
+        "answer": 0,
+        "fact": "Madhubani art was traditionally painted by women on freshly plastered mud walls for weddings and festivals.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ancient Tamil epic tells the story of Kannagi, who avenges her husband's wrongful execution?",
+        "choices": [
+          "Manimekalai",
+          "Tirukkural",
+          "Silappatikaram",
+          "Kamba Ramayanam"
+        ],
+        "answer": 2,
+        "fact": "Its title means \"the tale of the anklet\", after the jewelled anklet at the heart of the plot.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which composer, one of the \"Trinity\" of Carnatic music, wrote thousands of devotional songs in Telugu?",
+        "choices": [
+          "Purandara Dasa",
+          "Annamacharya",
+          "Tyagaraja",
+          "Jayadeva"
+        ],
+        "answer": 2,
+        "fact": "Every January, musicians gather at his shrine in Thiruvaiyaru to sing his five most famous compositions together.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Indian architect won the Pritzker Prize in 2018?",
+        "choices": [
+          "Balkrishna Doshi",
+          "Charles Correa",
+          "Laurie Baker",
+          "Raj Rewal"
+        ],
+        "answer": 0,
+        "fact": "Doshi worked with Le Corbusier in Paris and Ahmedabad and designed low-cost housing for tens of thousands of people.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1957 film was India's first nominee for the Academy Award for Best Foreign Language Film?",
+        "choices": [
+          "Pyaasa",
+          "Do Bigha Zamin",
+          "Awaara",
+          "Mother India"
+        ],
+        "answer": 3,
+        "fact": "Mother India lost the Oscar by a single vote to Fellini's \"Nights of Cabiria\", according to its director.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -486,6 +1026,186 @@
         ],
         "answer": 2,
         "fact": "The original copies, hand-calligraphed in English and Hindi, are kept in helium-filled cases in the Parliament library.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of the upper house of India's Parliament?",
+        "choices": [
+          "Vidhan Sabha",
+          "Rajya Sabha",
+          "Lok Sabha",
+          "Gram Sabha"
+        ],
+        "answer": 1,
+        "fact": "The Rajya Sabha is never fully dissolved; about a third of its members retire every two years.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Indian Prime Minister was assassinated in 1991?",
+        "choices": [
+          "Indira Gandhi",
+          "V. P. Singh",
+          "Chandra Shekhar",
+          "Rajiv Gandhi"
+        ],
+        "answer": 3,
+        "fact": "Rajiv Gandhi became Prime Minister at 40 in 1984, the youngest person to hold the office.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the capital of India?",
+        "choices": [
+          "Mumbai",
+          "Kolkata",
+          "New Delhi",
+          "Chennai"
+        ],
+        "answer": 2,
+        "fact": "Calcutta was the capital of British India until 1911; New Delhi, designed by Edwin Lutyens, was inaugurated in 1931.",
+        "difficulty": 1
+      },
+      {
+        "q": "Narendra Modi belongs to which political party?",
+        "choices": [
+          "Bharatiya Janata Party",
+          "Indian National Congress",
+          "Aam Aadmi Party",
+          "Samajwadi Party"
+        ],
+        "answer": 0,
+        "fact": "Before becoming Prime Minister in 2014, Modi was Chief Minister of Gujarat for more than 12 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which economist served as India's Prime Minister from 2004 to 2014?",
+        "choices": [
+          "Manmohan Singh",
+          "P. V. Narasimha Rao",
+          "Atal Bihari Vajpayee",
+          "Pranab Mukherjee"
+        ],
+        "answer": 0,
+        "fact": "As finance minister in 1991, Singh launched the reforms that opened up India's economy.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became India's first woman President in 2007?",
+        "choices": [
+          "Sarojini Naidu",
+          "Sushma Swaraj",
+          "Pratibha Patil",
+          "Meira Kumar"
+        ],
+        "answer": 2,
+        "fact": "Pratibha Patil was also the first woman Governor of Rajasthan before becoming President.",
+        "difficulty": 2
+      },
+      {
+        "q": "India's national motto \"Satyameva Jayate\" means what?",
+        "choices": [
+          "Unity in diversity",
+          "Work is worship",
+          "Victory to the motherland",
+          "Truth alone triumphs"
+        ],
+        "answer": 3,
+        "fact": "The phrase comes from the ancient Mundaka Upanishad and is inscribed below the Lion Capital emblem.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Prime Minister coined the slogan \"Jai Jawan Jai Kisan\" (Hail the soldier, hail the farmer)?",
+        "choices": [
+          "Jawaharlal Nehru",
+          "Lal Bahadur Shastri",
+          "Morarji Desai",
+          "Charan Singh"
+        ],
+        "answer": 1,
+        "fact": "Shastri raised the slogan in 1965, during war and food shortages; he died in Tashkent in 1966 after signing a peace accord.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which constitutional body conducts national and state elections in India?",
+        "choices": [
+          "Supreme Court of India",
+          "Union Public Service Commission",
+          "Election Commission of India",
+          "NITI Aayog"
+        ],
+        "answer": 2,
+        "fact": "For the 1951-52 first general election, symbols were put on ballot boxes so voters who could not read could take part.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ancient scholar is traditionally credited with the Arthashastra, a Sanskrit treatise on statecraft and economics?",
+        "choices": [
+          "Kautilya",
+          "Panini",
+          "Patanjali",
+          "Banabhatta"
+        ],
+        "answer": 0,
+        "fact": "The Arthashastra was rediscovered in 1905 when a palm-leaf manuscript was identified in Mysore.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was the only Indian to serve as Governor-General of independent India?",
+        "choices": [
+          "Rajendra Prasad",
+          "C. Rajagopalachari",
+          "Sarvepalli Radhakrishnan",
+          "Zakir Husain"
+        ],
+        "answer": 1,
+        "fact": "He held the post from 1948 until the office was abolished when India became a republic in 1950.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did the States Reorganisation Act redraw India's state boundaries largely along linguistic lines?",
+        "choices": [
+          "1947",
+          "1950",
+          "1966",
+          "1956"
+        ],
+        "answer": 3,
+        "fact": "The push began after Potti Sriramulu's 1952 fast for a Telugu-speaking state, which led to Andhra State in 1953.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which constitutional amendment gave constitutional status to panchayati raj, India's rural local government?",
+        "choices": [
+          "42nd Amendment",
+          "44th Amendment",
+          "61st Amendment",
+          "73rd Amendment"
+        ],
+        "answer": 3,
+        "fact": "It also reserved at least one-third of panchayat seats for women, bringing over a million women into local office.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1976 constitutional amendment added the words \"socialist\" and \"secular\" to India's Preamble?",
+        "choices": [
+          "24th Amendment",
+          "42nd Amendment",
+          "52nd Amendment",
+          "86th Amendment"
+        ],
+        "answer": 1,
+        "fact": "The 42nd Amendment was so sweeping that it is sometimes nicknamed the \"mini-Constitution\".",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was the first Speaker of the Lok Sabha?",
+        "choices": [
+          "G. V. Mavalankar",
+          "Hukam Singh",
+          "M. A. Ayyangar",
+          "Neelam Sanjiva Reddy"
+        ],
+        "answer": 0,
+        "fact": "Mavalankar is often called the father of the Lok Sabha for setting many of its rules and traditions.",
         "difficulty": 3
       }
     ],
@@ -619,6 +1339,201 @@
         "fact": "The same year, Telangana's Ramappa Temple, a 13th-century Kakatiya masterpiece, also joined the World Heritage list.",
         "difficulty": 3,
         "asOf": "2021"
+      },
+      {
+        "q": "The song \"Naatu Naatu\", which won the Oscar for Best Original Song in March 2023, comes from which Telugu film?",
+        "choices": [
+          "Baahubali 2",
+          "Pushpa",
+          "RRR",
+          "KGF: Chapter 2"
+        ],
+        "answer": 2,
+        "fact": "It was the first song from an Indian-made film to win an Academy Award.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In August 2019, India ended the special constitutional status of which region under Article 370?",
+        "choices": [
+          "Jammu and Kashmir",
+          "Nagaland",
+          "Sikkim",
+          "Goa"
+        ],
+        "answer": 0,
+        "fact": "The former state was reorganised into two union territories: Jammu and Kashmir, and Ladakh.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which team beat India in the final of the 2023 Men's Cricket World Cup in Ahmedabad?",
+        "choices": [
+          "England",
+          "New Zealand",
+          "Pakistan",
+          "Australia"
+        ],
+        "answer": 3,
+        "fact": "Travis Head's century won Australia its sixth men's World Cup, in front of a crowd of over 90,000.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2020, India banned which hugely popular short-video app along with dozens of other apps?",
+        "choices": [
+          "WhatsApp",
+          "TikTok",
+          "Instagram",
+          "Snapchat"
+        ],
+        "answer": 1,
+        "fact": "India had been TikTok's largest market by users; Instagram Reels and Indian apps rushed to fill the gap.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Who became India's President in July 2022, the first person from a tribal community to hold the office?",
+        "choices": [
+          "Pratibha Patil",
+          "Droupadi Murmu",
+          "Ram Nath Kovind",
+          "Smriti Irani"
+        ],
+        "answer": 1,
+        "fact": "Murmu, from Odisha's Santal community, was earlier the first woman to serve as Governor of Jharkhand.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which team did India beat in the final of the 2025 ICC Champions Trophy?",
+        "choices": [
+          "Australia",
+          "South Africa",
+          "Pakistan",
+          "New Zealand"
+        ],
+        "answer": 3,
+        "fact": "The final was played in Dubai, and the win gave India a record third Champions Trophy title.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2022, Delhi's ceremonial avenue Rajpath was renamed what?",
+        "choices": [
+          "Kartavya Path",
+          "Janpath",
+          "Rashtrapati Marg",
+          "Swaraj Path"
+        ],
+        "answer": 0,
+        "fact": "The avenue runs from Rashtrapati Bhavan to India Gate and hosts the Republic Day parade each January.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In which sport did Manu Bhaker win two bronze medals at the Paris 2024 Olympics?",
+        "choices": [
+          "Archery",
+          "Badminton",
+          "Shooting",
+          "Boxing"
+        ],
+        "answer": 2,
+        "fact": "She became the first Indian since independence to win two medals at a single Olympic Games.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "A 2023 law reserves what share of seats in the Lok Sabha and state assemblies for women?",
+        "choices": [
+          "One-quarter",
+          "One-half",
+          "One-fifth",
+          "One-third"
+        ],
+        "answer": 3,
+        "fact": "The idea had been debated for nearly three decades before the law, called the Nari Shakti Vandan Adhiniyam, was passed.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In June 2025, Shubhanshu Shukla became the first Indian astronaut to visit which orbiting station?",
+        "choices": [
+          "Tiangong",
+          "International Space Station",
+          "Mir",
+          "Salyut 7"
+        ],
+        "answer": 1,
+        "fact": "He was the first Indian in space since Rakesh Sharma flew to the Soviet station Salyut 7 in 1984.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "The Bharatiya Nyaya Sanhita, in force from July 2024, replaced which colonial-era law?",
+        "choices": [
+          "Government of India Act",
+          "Indian Evidence Act",
+          "Indian Penal Code",
+          "Rowlatt Act"
+        ],
+        "answer": 2,
+        "fact": "The Indian Penal Code had been in force since 1862 and was drafted under the historian Thomas Babington Macaulay.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Indian player won the FIDE Women's World Cup in chess in July 2025?",
+        "choices": [
+          "Divya Deshmukh",
+          "Koneru Humpy",
+          "Harika Dronavalli",
+          "Vaishali Rameshbabu"
+        ],
+        "answer": 0,
+        "fact": "The final was an all-Indian match against Koneru Humpy, and victory also earned the 19-year-old the grandmaster title.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "The new Pamban Bridge, India's first vertical-lift sea bridge, opened in April 2025 to link the mainland with which island town?",
+        "choices": [
+          "Rameswaram",
+          "Port Blair",
+          "Kavaratti",
+          "Diu"
+        ],
+        "answer": 0,
+        "fact": "It replaced a 1914 railway bridge whose two central leaves were raised by hand to let ships pass.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In January 2025, which state became the first since independence to enact and implement its own Uniform Civil Code?",
+        "choices": [
+          "Gujarat",
+          "Assam",
+          "Uttarakhand",
+          "Madhya Pradesh"
+        ],
+        "answer": 2,
+        "fact": "Goa already had a common civil code inherited from Portuguese rule, which it kept after joining India in 1961.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2023, India's \"Operation Kaveri\" evacuated its citizens from which country?",
+        "choices": [
+          "Ukraine",
+          "Sudan",
+          "Afghanistan",
+          "Yemen"
+        ],
+        "answer": 1,
+        "fact": "Indian Navy ships and Air Force planes ferried evacuees from Port Sudan to Jeddah in Saudi Arabia.",
+        "difficulty": 3,
+        "asOf": "2023"
       }
     ],
     "general": [
@@ -740,6 +1655,186 @@
         ],
         "answer": 3,
         "fact": "Inland from Gujarat's long coast lies Gir forest, the last wild home of the Asiatic lion.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is India's national bird?",
+        "choices": [
+          "Great hornbill",
+          "Sarus crane",
+          "Indian roller",
+          "Indian peafowl (peacock)"
+        ],
+        "answer": 3,
+        "fact": "Only the male peafowl has the famous train of feathers, which can make up more than 60% of its body length.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Golden Temple in Amritsar is the holiest shrine of which religion?",
+        "choices": [
+          "Jainism",
+          "Sikhism",
+          "Buddhism",
+          "Zoroastrianism"
+        ],
+        "answer": 1,
+        "fact": "The Golden Temple's community kitchen serves free meals to tens of thousands of visitors every day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which board game is generally traced back to the ancient Indian game chaturanga?",
+        "choices": [
+          "Chess",
+          "Backgammon",
+          "Go",
+          "Checkers"
+        ],
+        "answer": 0,
+        "fact": "Chaturanga means \"four divisions\" of an army: infantry, cavalry, elephants and chariots, the ancestors of chess pieces.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which small Indian state, a Portuguese colony until 1961, is famous for its beaches?",
+        "choices": [
+          "Kerala",
+          "Sikkim",
+          "Goa",
+          "Puducherry"
+        ],
+        "answer": 2,
+        "fact": "Portuguese rule in Goa lasted about 450 years, longer than British rule anywhere in India.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which spring festival is celebrated by throwing coloured powder and water?",
+        "choices": [
+          "Pongal",
+          "Onam",
+          "Holi",
+          "Navratri"
+        ],
+        "answer": 2,
+        "fact": "Holi bonfires are lit on the night before the colours, recalling the legend of Prahlad and Holika.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which desert lies mostly in the state of Rajasthan?",
+        "choices": [
+          "Thar Desert",
+          "Gobi Desert",
+          "Karakum Desert",
+          "Dasht-e Kavir"
+        ],
+        "answer": 0,
+        "fact": "The Thar is one of the most densely populated deserts in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which part of India is famous for growing saffron?",
+        "choices": [
+          "Kerala",
+          "Kashmir",
+          "Assam",
+          "Punjab"
+        ],
+        "answer": 1,
+        "fact": "It takes about 150,000 crocus flowers, each picked by hand, to produce one kilogram of saffron.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Indian state is the country's largest tea-producing region, known for its strong, malty black tea?",
+        "choices": [
+          "Kerala",
+          "Sikkim",
+          "Himachal Pradesh",
+          "Assam"
+        ],
+        "answer": 3,
+        "fact": "In 1823 Robert Bruce was shown tea plants growing wild in Assam, used by local Singpho people.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Indian city is known as the \"Pink City\"?",
+        "choices": [
+          "Jaipur",
+          "Jodhpur",
+          "Udaipur",
+          "Bikaner"
+        ],
+        "answer": 0,
+        "fact": "Jaipur was painted pink, a colour of hospitality, to welcome the Prince of Wales in 1876, and the tradition stuck.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which town lies at the southern tip of mainland India, where three seas meet?",
+        "choices": [
+          "Rameswaram",
+          "Thiruvananthapuram",
+          "Kanyakumari",
+          "Madurai"
+        ],
+        "answer": 2,
+        "fact": "At Kanyakumari the Arabian Sea, Indian Ocean and Bay of Bengal meet, and on full-moon evenings the sun can set as the moon rises.",
+        "difficulty": 2
+      },
+      {
+        "q": "Chilika, Asia's largest brackish-water lagoon, lies in which Indian state?",
+        "choices": [
+          "Andhra Pradesh",
+          "West Bengal",
+          "Tamil Nadu",
+          "Odisha"
+        ],
+        "answer": 3,
+        "fact": "Chilika is a winter home to huge flocks of migratory birds and to rare Irrawaddy dolphins.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of India's southernmost point, on Great Nicobar Island?",
+        "choices": [
+          "Cape Comorin",
+          "Indira Point",
+          "Point Calimere",
+          "Ross Point"
+        ],
+        "answer": 1,
+        "fact": "Indira Point lies closer to Indonesia's Sumatra than to mainland India.",
+        "difficulty": 3
+      },
+      {
+        "q": "Loktak Lake, famous for its floating islands called phumdis, is in which state?",
+        "choices": [
+          "Assam",
+          "Manipur",
+          "Mizoram",
+          "Tripura"
+        ],
+        "answer": 1,
+        "fact": "Keibul Lamjao, the world's only floating national park, sits on Loktak's phumdis and protects the rare sangai deer.",
+        "difficulty": 3
+      },
+      {
+        "q": "Majuli, one of the world's largest river islands, lies in which river?",
+        "choices": [
+          "Ganges",
+          "Godavari",
+          "Indus",
+          "Brahmaputra"
+        ],
+        "answer": 3,
+        "fact": "Majuli is home to centuries-old Vaishnavite monasteries called satras, known for dance, drama and mask-making.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which river is often called the \"Dakshin Ganga\", or Ganges of the South?",
+        "choices": [
+          "Kaveri",
+          "Krishna",
+          "Godavari",
+          "Narmada"
+        ],
+        "answer": 2,
+        "fact": "The Godavari rises near Nashik in Maharashtra and flows about 1,465 km east to the Bay of Bengal.",
         "difficulty": 3
       }
     ]

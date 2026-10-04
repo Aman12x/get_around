@@ -71,6 +71,111 @@
         "answer": 3,
         "fact": "Capetian kings and their branches, the Valois and the Bourbons, ruled France for most of the next 800 years.",
         "difficulty": 3
+      },
+      {
+        "q": "What name is given to the period of the French Revolution, in 1793-94, when thousands were executed by guillotine?",
+        "choices": ["The Reign of Terror", "The Fronde", "The Restoration", "The Hundred Days"],
+        "answer": 0,
+        "fact": "Maximilien Robespierre, one of the Terror's leading figures, was himself guillotined in July 1794.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French king was guillotined in January 1793?",
+        "choices": ["Louis XV", "Louis XVI", "Louis XVIII", "Charles X"],
+        "answer": 1,
+        "fact": "Louis XVI was executed on the Place de la Révolution in Paris, the square now known as the Place de la Concorde.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year was Paris liberated from German occupation in the Second World War?",
+        "choices": ["1942", "1943", "1944", "1945"],
+        "answer": 2,
+        "fact": "Paris was liberated on 25 August 1944. General Leclerc's Free French 2nd Armoured Division was among the first troops to enter the city.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Scandinavian raiders settled in northern France and gave Normandy its name?",
+        "choices": ["The Saxons", "The Goths", "The Huns", "The Vikings"],
+        "answer": 3,
+        "fact": "In 911 the Viking leader Rollo was granted land around Rouen by King Charles the Simple. His descendants included William the Conqueror.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which long conflict between England and France lasted, on and off, from 1337 to 1453?",
+        "choices": ["The Hundred Years' War", "The Thirty Years' War", "The Seven Years' War", "The Wars of Religion"],
+        "answer": 0,
+        "fact": "Despite its name, the Hundred Years' War actually lasted 116 years, with long truces between the bouts of fighting.",
+        "difficulty": 1
+      },
+      {
+        "q": "To which Mediterranean island was Napoleon first exiled in 1814?",
+        "choices": ["Corsica", "Elba", "Sardinia", "Malta"],
+        "answer": 1,
+        "fact": "Napoleon escaped from Elba in February 1815 and returned to power in Paris, beginning the period known as the Hundred Days.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which marshal headed the collaborationist Vichy regime from 1940 to 1944?",
+        "choices": ["Ferdinand Foch", "Joseph Joffre", "Philippe Pétain", "Hubert Lyautey"],
+        "answer": 2,
+        "fact": "Pétain was sentenced to death after the war, but de Gaulle commuted the sentence to life imprisonment. He died on the Île d'Yeu in 1951.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1916 First World War battle in north-eastern France became a lasting symbol of French resistance?",
+        "choices": ["The Marne", "Ypres", "Arras", "Verdun"],
+        "answer": 3,
+        "fact": "The Battle of Verdun lasted about ten months, from February to December 1916, making it one of the longest battles in history.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French explorer founded Quebec City in 1608?",
+        "choices": ["Samuel de Champlain", "Jacques Cartier", "René-Robert Cavelier de La Salle", "Jacques Marquette"],
+        "answer": 0,
+        "fact": "Champlain is often called the \"Father of New France\". He crossed the Atlantic more than 20 times during his career.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which vast North American territory did Napoleon sell to the United States in 1803?",
+        "choices": ["Florida", "Louisiana", "Quebec", "Texas"],
+        "answer": 1,
+        "fact": "The Louisiana Purchase cost about $15 million and roughly doubled the size of the young United States.",
+        "difficulty": 2
+      },
+      {
+        "q": "What name is given to the 1572 massacre of Protestants that began in Paris?",
+        "choices": ["The September Massacres", "The Sicilian Vespers", "The St Bartholomew's Day massacre", "The Massacre of Vassy"],
+        "answer": 2,
+        "fact": "The killings began on 24 August 1572, only days after the wedding of the Protestant Henry of Navarre to the Catholic Margaret of Valois.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which revolutionary government briefly ruled Paris in the spring of 1871?",
+        "choices": ["The Directory", "The Consulate", "The National Convention", "The Paris Commune"],
+        "answer": 3,
+        "fact": "The Commune lasted about two months before government troops crushed it during \"la Semaine sanglante\" (Bloody Week) in May 1871.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which army officer was wrongly convicted of treason in 1894, sparking a scandal that divided France?",
+        "choices": ["Alfred Dreyfus", "Georges Boulanger", "Ferdinand Esterhazy", "Georges Picquart"],
+        "answer": 0,
+        "fact": "In 1898 the novelist Émile Zola defended Dreyfus in a famous open letter headlined \"J'accuse...!\". Dreyfus was fully cleared in 1906.",
+        "difficulty": 3
+      },
+      {
+        "q": "At which 1415 battle did Henry V's English army defeat a much larger French force?",
+        "choices": ["Crécy", "Agincourt", "Poitiers", "Castillon"],
+        "answer": 1,
+        "fact": "The battle was fought on St Crispin's Day, 25 October, and English longbowmen played a decisive part in the victory.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who reigned from 1830 to 1848 as the last king to rule France?",
+        "choices": ["Charles X", "Louis XVIII", "Louis-Philippe I", "Louis XVI"],
+        "answer": 2,
+        "fact": "Louis-Philippe was styled \"King of the French\". Overthrown in 1848, he fled to England under the name \"Mr Smith\".",
+        "difficulty": 3
       }
     ],
     "technology": [
@@ -142,6 +247,111 @@
         "choices": ["TGV", "ICE", "AVE", "Shinkansen"],
         "answer": 0,
         "fact": "TGV stands for Train à Grande Vitesse (\"high-speed train\"). Its first passenger service began in 1981, between Paris and Lyon.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which French ocean explorer co-invented the Aqua-Lung, an early scuba diving system, in 1943?",
+        "choices": ["Auguste Piccard", "Jacques Cousteau", "Paul-Émile Victor", "Éric Tabarly"],
+        "answer": 1,
+        "fact": "Cousteau developed the Aqua-Lung with the engineer Émile Gagnan. His documentary \"The Silent World\" won the top prize at Cannes in 1956.",
+        "difficulty": 1
+      },
+      {
+        "q": "Whose engineering company designed and built the Eiffel Tower?",
+        "choices": ["Georges-Eugène Haussmann", "Charles Garnier", "Gustave Eiffel", "Hector Guimard"],
+        "answer": 2,
+        "fact": "Gustave Eiffel's company also designed the iron framework hidden inside the Statue of Liberty in New York.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which European aircraft manufacturer has its main base in Toulouse?",
+        "choices": ["Boeing", "Embraer", "Bombardier", "Airbus"],
+        "answer": 3,
+        "fact": "The Airbus A380, the world's largest passenger airliner, made its first flight from Toulouse in April 2005.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which system of measurement, based on the metre and the kilogram, was developed in Revolutionary France?",
+        "choices": ["The metric system", "The imperial system", "US customary units", "The Troy system"],
+        "answer": 0,
+        "fact": "The metre was first defined as one ten-millionth of the distance from the North Pole to the Equator, measured along the meridian through Paris.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French thinker, famous for \"I think, therefore I am\", gave his name to Cartesian coordinates?",
+        "choices": ["Blaise Pascal", "René Descartes", "Pierre de Fermat", "Voltaire"],
+        "answer": 1,
+        "fact": "Descartes died in Stockholm in 1650, during a cold winter spent tutoring Queen Christina of Sweden.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French artist and inventor announced the daguerreotype photographic process in 1839?",
+        "choices": ["Nicéphore Niépce", "Nadar", "Louis Daguerre", "Henri Cartier-Bresson"],
+        "answer": 2,
+        "fact": "Daguerre's late partner Nicéphore Niépce made the oldest surviving camera photograph, a view from a window, in about 1826-27.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French mathematician built an early mechanical calculator, the Pascaline, in the 1640s?",
+        "choices": ["René Descartes", "Pierre-Simon Laplace", "Joseph-Louis Lagrange", "Blaise Pascal"],
+        "answer": 3,
+        "fact": "Pascal built his calculator as a teenager to help his father, a tax official. The SI unit of pressure, the pascal, is named after him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which energy source produces most of France's electricity?",
+        "choices": ["Nuclear power", "Hydroelectric power", "Natural gas", "Coal"],
+        "answer": 0,
+        "fact": "France has more than 50 nuclear reactors, which usually supply around two-thirds of its electricity.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French mathematician's \"Last Theorem\" remained unproven for more than 350 years?",
+        "choices": ["Évariste Galois", "Pierre de Fermat", "Joseph Fourier", "Henri Poincaré"],
+        "answer": 1,
+        "fact": "Fermat wrote in a book margin that he had a proof too large to fit there. Andrew Wiles finally proved the theorem in 1994.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French carmaker launched the 2CV in 1948?",
+        "choices": ["Renault", "Peugeot", "Citroën", "Simca"],
+        "answer": 2,
+        "fact": "The 2CV was designed for farmers. The brief reportedly asked for a car that could cross a ploughed field carrying a basket of eggs without breaking them.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French physician invented the stethoscope in 1816?",
+        "choices": ["Claude Bernard", "Jean-Martin Charcot", "Ambroise Paré", "René Laennec"],
+        "answer": 3,
+        "fact": "Laennec's first stethoscope was a rolled-up tube of paper, which he used so he would not have to press his ear to a young patient's chest.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which French physicist laid the foundations of thermodynamics in his 1824 work on the motive power of heat?",
+        "choices": ["Sadi Carnot", "Pierre-Simon Laplace", "Gaspard-Gustave Coriolis", "Augustin Fresnel"],
+        "answer": 0,
+        "fact": "Sadi Carnot published only one book in his lifetime. He died of cholera in 1832 at the age of 36.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which physicist demonstrated the rotation of the Earth with a giant pendulum in Paris in 1851?",
+        "choices": ["Hippolyte Fizeau", "Léon Foucault", "François Arago", "Augustin Fresnel"],
+        "answer": 1,
+        "fact": "Foucault hung a 67-metre pendulum from the dome of the Panthéon. A replica still swings there today.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which French mathematician, known for his work on heat flow, is credited with first describing the greenhouse effect in the 1820s?",
+        "choices": ["Joseph-Louis Lagrange", "Adrien-Marie Legendre", "Joseph Fourier", "Siméon Denis Poisson"],
+        "answer": 2,
+        "fact": "Fourier also served as a scientist on Napoleon's expedition to Egypt in 1798 and later became a prefect of the department of Isère.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which French inventor built the first self-propelled road vehicle, a steam-powered carriage, in 1769?",
+        "choices": ["Denis Papin", "Étienne Lenoir", "Amédée Bollée", "Nicolas-Joseph Cugnot"],
+        "answer": 3,
+        "fact": "Cugnot's \"fardier à vapeur\" was designed to haul artillery. A version of it is preserved in the Musée des Arts et Métiers in Paris.",
         "difficulty": 3
       }
     ],
@@ -215,6 +425,111 @@
         "answer": 3,
         "fact": "After an obscenity trial in 1857, six of its poems were banned. The ban was not officially lifted until 1949.",
         "difficulty": 3
+      },
+      {
+        "q": "Which French author and pilot wrote \"The Little Prince\" (1943)?",
+        "choices": ["Albert Camus", "Jules Verne", "Antoine de Saint-Exupéry", "Jean-Paul Sartre"],
+        "answer": 2,
+        "fact": "Saint-Exupéry disappeared in July 1944 while flying a reconnaissance mission over the Mediterranean, a year after the book came out.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Montmartre cabaret, famous for its cancan dancers, has a red windmill on its roof?",
+        "choices": ["Folies Bergère", "Le Lido", "Le Chat Noir", "Moulin Rouge"],
+        "answer": 3,
+        "fact": "The Moulin Rouge opened in 1889. Henri de Toulouse-Lautrec made posters for it and painted many of its dancers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French author wrote \"Around the World in Eighty Days\"?",
+        "choices": ["Jules Verne", "Victor Hugo", "Alexandre Dumas", "Émile Zola"],
+        "answer": 0,
+        "fact": "Jules Verne is one of the most translated authors in history. In the novel, Phileas Fogg wins his bet because travelling east gained him a day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which film festival on the French Riviera awards the Palme d'Or?",
+        "choices": ["Nice", "Cannes", "Deauville", "Saint-Tropez"],
+        "answer": 1,
+        "fact": "The first Cannes Film Festival was planned for 1939 but was cancelled when war broke out. It was finally held in 1946.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which French Impressionist is famous for his paintings and sculptures of ballet dancers?",
+        "choices": ["Pierre-Auguste Renoir", "Camille Pissarro", "Edgar Degas", "Alfred Sisley"],
+        "answer": 2,
+        "fact": "When Degas showed his sculpture \"Little Dancer Aged Fourteen\" in 1881, its real fabric tutu and real hair shocked many critics.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Paris opera house is the setting of Gaston Leroux's novel \"The Phantom of the Opera\"?",
+        "choices": ["Opéra Bastille", "Théâtre du Châtelet", "Opéra-Comique", "Palais Garnier"],
+        "answer": 3,
+        "fact": "The Palais Garnier sits above an underground water tank that inspired the Phantom's lake. Marc Chagall painted its ceiling in 1964.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which playwright wrote the comedy \"Tartuffe\" (1664)?",
+        "choices": ["Molière", "Jean Racine", "Pierre Corneille", "Pierre de Marivaux"],
+        "answer": 0,
+        "fact": "Molière fell ill on stage in 1673 while playing the lead in his own play \"The Imaginary Invalid\", and he died a few hours later.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French Post-Impressionist is famous for his paintings of Tahiti?",
+        "choices": ["Paul Cézanne", "Paul Gauguin", "Georges Seurat", "Henri Rousseau"],
+        "answer": 1,
+        "fact": "In 1888 Gauguin lived with Vincent van Gogh in Arles. Their stormy weeks together ended with Van Gogh cutting off part of his ear.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which composer wrote \"Boléro\" (1928)?",
+        "choices": ["Claude Debussy", "Erik Satie", "Maurice Ravel", "Camille Saint-Saëns"],
+        "answer": 2,
+        "fact": "British ice dancers Torvill and Dean skated to \"Boléro\" when they won Olympic gold in 1984, earning a string of perfect 6.0 scores.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which composer wrote the opera \"Carmen\" (1875)?",
+        "choices": ["Charles Gounod", "Jules Massenet", "Jacques Offenbach", "Georges Bizet"],
+        "answer": 3,
+        "fact": "Bizet died at just 36, about three months after \"Carmen\" opened, so he never knew it would become one of the most performed operas in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who painted \"Liberty Leading the People\" (1830)?",
+        "choices": ["Eugène Delacroix", "Jacques-Louis David", "Théodore Géricault", "Jean-Auguste-Dominique Ingres"],
+        "answer": 0,
+        "fact": "The painting celebrates the July Revolution of 1830. Its bare-breasted figure of Liberty helped shape the image of Marianne.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who wrote the novel \"Madame Bovary\" (1857)?",
+        "choices": ["Honoré de Balzac", "Gustave Flaubert", "Stendhal", "Guy de Maupassant"],
+        "answer": 1,
+        "fact": "Flaubert was put on trial for offending public morals in 1857, the same year as Baudelaire, but unlike the poet he was acquitted.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which author wrote the vast novel \"In Search of Lost Time\"?",
+        "choices": ["André Gide", "Colette", "Marcel Proust", "Romain Rolland"],
+        "answer": 2,
+        "fact": "Its most famous scene has the narrator dip a madeleine cake in tea, and the taste brings back a flood of childhood memories.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which painter was the leading figure of Fauvism, known for bold, unnatural colour?",
+        "choices": ["André Derain", "Maurice de Vlaminck", "Georges Braque", "Henri Matisse"],
+        "answer": 3,
+        "fact": "Late in life, unable to stand for long after surgery, Matisse created his famous paper cut-outs, \"painting with scissors\".",
+        "difficulty": 3
+      },
+      {
+        "q": "Which architect designed the Villa Savoye at Poissy, a landmark of modernism completed in 1931?",
+        "choices": ["Le Corbusier", "Auguste Perret", "Robert Mallet-Stevens", "Jean Nouvel"],
+        "answer": 0,
+        "fact": "Le Corbusier was born Charles-Édouard Jeanneret in Switzerland. He also designed the Unité d'Habitation housing block in Marseille.",
+        "difficulty": 3
       }
     ],
     "politics": [
@@ -286,6 +601,111 @@
         "choices": ["The Council of State", "The Constitutional Council", "The Court of Cassation", "The Senate"],
         "answer": 1,
         "fact": "Its members are nicknamed \"les Sages\" (the wise ones). Former Presidents of the Republic are entitled to sit on it for life.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was President of France from 2012 to 2017?",
+        "choices": ["Nicolas Sarkozy", "Jacques Chirac", "Emmanuel Macron", "François Hollande"],
+        "answer": 3,
+        "fact": "Hollande became the first President of the Fifth Republic not to seek a second term when he decided not to run again in 2017.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are the three colours of the French flag?",
+        "choices": ["Blue, white and red", "Red, white and green", "Blue, white and yellow", "Black, red and gold"],
+        "answer": 0,
+        "fact": "The tricolour dates from the Revolution and is traditionally said to combine the blue and red of Paris with the white of the monarchy.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of the female figure who symbolises the French Republic?",
+        "choices": ["Joan", "Marianne", "Liberté", "Gallia"],
+        "answer": 1,
+        "fact": "Busts of Marianne stand in town halls across France. Some have been modelled on famous women, including Brigitte Bardot and Catherine Deneuve.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the upper house of the French Parliament called?",
+        "choices": ["The Council of State", "The National Assembly", "The Senate", "The Constitutional Council"],
+        "answer": 2,
+        "fact": "French senators are not elected directly by the public but by an electoral college made up mostly of local councillors.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city in Alsace is the official seat of the European Parliament?",
+        "choices": ["Lyon", "Lille", "Metz", "Strasbourg"],
+        "answer": 3,
+        "fact": "Strasbourg is also home to the Council of Europe and the European Court of Human Rights.",
+        "difficulty": 1
+      },
+      {
+        "q": "France was one of the six founding members of which organisation created by the 1957 Treaty of Rome?",
+        "choices": ["The European Economic Community", "NATO", "The United Nations", "The Council of Europe"],
+        "answer": 0,
+        "fact": "The idea grew from French foreign minister Robert Schuman's declaration of 9 May 1950. The EU still marks 9 May as Europe Day.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was President of France from 1974 to 1981?",
+        "choices": ["Georges Pompidou", "Valéry Giscard d'Estaing", "François Mitterrand", "Jacques Chirac"],
+        "answer": 1,
+        "fact": "In his first year in office, Giscard d'Estaing lowered the voting age in France from 21 to 18.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French philosopher's \"The Spirit of the Laws\" (1748) argued for a separation of powers?",
+        "choices": ["Voltaire", "Jean-Jacques Rousseau", "Montesquieu", "Denis Diderot"],
+        "answer": 2,
+        "fact": "Montesquieu's ideas strongly influenced the framers of the United States Constitution.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1789 document begins \"Men are born and remain free and equal in rights\"?",
+        "choices": ["The Tennis Court Oath", "The Napoleonic Code", "The Constitution of 1791", "The Declaration of the Rights of Man and of the Citizen"],
+        "answer": 3,
+        "fact": "The Marquis de Lafayette drafted the Declaration with advice from Thomas Jefferson, then the American envoy in Paris.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French President died in office in 1974?",
+        "choices": ["Georges Pompidou", "Charles de Gaulle", "René Coty", "Vincent Auriol"],
+        "answer": 0,
+        "fact": "The Centre Pompidou in Paris, the modern art centre with its pipes on the outside, is named after him. It opened in 1977.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did France pass its law separating the churches and the state?",
+        "choices": ["1789", "1905", "1871", "1946"],
+        "answer": 1,
+        "fact": "The 1905 law is the cornerstone of \"laïcité\", the French principle that the state is neutral and does not recognise or fund any religion.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became France's first female Prime Minister in 1991?",
+        "choices": ["Élisabeth Borne", "Martine Aubry", "Édith Cresson", "Michèle Alliot-Marie"],
+        "answer": 2,
+        "fact": "Cresson served for less than a year. More than 30 years later, Élisabeth Borne became the second woman to hold the post, in 2022.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Auschwitz survivor became the first President of the directly elected European Parliament in 1979?",
+        "choices": ["Christine Lagarde", "Ségolène Royal", "Anne Hidalgo", "Simone Veil"],
+        "answer": 3,
+        "fact": "In 2018 Simone Veil was laid to rest in the Panthéon in Paris, only the fifth woman to be honoured there.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Socialist served as Prime Minister under President Jacques Chirac from 1997 to 2002?",
+        "choices": ["Lionel Jospin", "Laurent Fabius", "Michel Rocard", "Pierre Mauroy"],
+        "answer": 0,
+        "fact": "Jospin's government introduced the 35-hour working week in France.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the French term for when the President and the Prime Minister come from opposing political camps?",
+        "choices": ["Alternance", "Cohabitation", "Laïcité", "Dirigisme"],
+        "answer": 1,
+        "fact": "The first cohabitation began in 1986, when Socialist President François Mitterrand appointed the Gaullist Jacques Chirac as Prime Minister.",
         "difficulty": 3
       }
     ],
@@ -369,6 +789,126 @@
         "fact": "Barnier's government fell to a no-confidence vote in December 2024, after about three months. It was the first successful no-confidence vote since 1962.",
         "difficulty": 3,
         "asOf": "2024"
+      },
+      {
+        "q": "Which French footballer won the 2022 Ballon d'Or?",
+        "choices": ["Karim Benzema", "Kylian Mbappé", "Antoine Griezmann", "N'Golo Kanté"],
+        "answer": 0,
+        "fact": "Benzema was the first Frenchman to win the Ballon d'Or since Zinedine Zidane in 1998.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which club did Kylian Mbappé join in 2024 after leaving Paris Saint-Germain?",
+        "choices": ["Barcelona", "Real Madrid", "Liverpool", "Bayern Munich"],
+        "answer": 1,
+        "fact": "Mbappé joined Real Madrid as a free agent when his PSG contract ended, and was welcomed by a packed crowd at the Bernabéu.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Along which river was the opening ceremony of the Paris 2024 Olympics held?",
+        "choices": ["The Loire", "The Rhône", "The Seine", "The Marne"],
+        "answer": 2,
+        "fact": "It was the first opening ceremony of a Summer Games held outside a stadium. Athletes sailed about 6 km along the river on boats.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Canadian singer performed Édith Piaf's \"Hymne à l'amour\" from the Eiffel Tower at the Paris 2024 opening ceremony?",
+        "choices": ["Shania Twain", "Alanis Morissette", "Avril Lavigne", "Céline Dion"],
+        "answer": 3,
+        "fact": "It was Dion's first live performance since she revealed in 2022 that she has stiff-person syndrome, a rare neurological disorder.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023 Forbes ranked Bernard Arnault as the world's richest person. Which luxury group does he head?",
+        "choices": ["LVMH", "Kering", "Hermès", "Chanel"],
+        "answer": 0,
+        "fact": "LVMH owns brands such as Louis Vuitton, Dior and Moët & Chandon, and in 2021 it bought the jeweller Tiffany & Co.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which striker overtook Thierry Henry in December 2022 to become France's all-time top goalscorer?",
+        "choices": ["Antoine Griezmann", "Olivier Giroud", "Kylian Mbappé", "Michel Platini"],
+        "answer": 1,
+        "fact": "Giroud retired from international football after Euro 2024 with 57 goals for France.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In June 2024, President Macron dissolved the National Assembly after his camp's heavy defeat in which vote?",
+        "choices": ["The municipal elections", "The Senate elections", "The European Parliament elections", "The regional elections"],
+        "answer": 2,
+        "fact": "It was the first dissolution of the National Assembly since Jacques Chirac dissolved it in 1997.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which French film won the Palme d'Or at the 2023 Cannes Film Festival?",
+        "choices": ["Titane", "Saint Omer", "Portrait of a Lady on Fire", "Anatomy of a Fall"],
+        "answer": 3,
+        "fact": "Director Justine Triet became the third woman to win the Palme d'Or. The film later won the Oscar for Best Original Screenplay.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which two French sporting legends lit the Olympic cauldron at the Paris 2024 opening ceremony?",
+        "choices": ["Teddy Riner and Marie-José Pérec", "Zinedine Zidane and Amélie Mauresmo", "Tony Parker and Laure Manaudou", "Thierry Henry and Marie-Amélie Le Fur"],
+        "answer": 0,
+        "fact": "The cauldron was a ring lifted into the sky by a balloon in the Tuileries Garden. It used light and water mist instead of a real flame.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which left-wing alliance won the most seats in France's snap legislative elections of July 2024?",
+        "choices": ["National Rally", "The New Popular Front", "Ensemble", "The Republicans"],
+        "answer": 1,
+        "fact": "No group came close to a majority of the 577 seats, leaving France with a deeply divided National Assembly.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who was appointed French Prime Minister in December 2024, after the fall of Michel Barnier's government?",
+        "choices": ["Bernard Cazeneuve", "Sébastien Lecornu", "François Bayrou", "Xavier Bertrand"],
+        "answer": 2,
+        "fact": "Bayrou, the founder of the centrist MoDem party, had run for President three times: in 2002, 2007 and 2012.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which French writer won the 2022 Nobel Prize in Literature?",
+        "choices": ["Michel Houellebecq", "Patrick Modiano", "Leïla Slimani", "Annie Ernaux"],
+        "answer": 3,
+        "fact": "Ernaux became the first French woman to win the Nobel Prize in Literature. Her books draw closely on her own life and memories.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which French scientist shared the 2020 Nobel Prize in Chemistry for developing CRISPR gene editing?",
+        "choices": ["Emmanuelle Charpentier", "Françoise Barré-Sinoussi", "Anne L'Huillier", "Claudine Hermann"],
+        "answer": 0,
+        "fact": "Charpentier shared the prize with American Jennifer Doudna, the first time a science Nobel was shared by two women alone.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Who was appointed French Prime Minister in July 2020, succeeding Édouard Philippe?",
+        "choices": ["Élisabeth Borne", "Jean Castex", "Gabriel Attal", "Bernard Cazeneuve"],
+        "answer": 1,
+        "fact": "Castex had coordinated France's plan for lifting the first COVID-19 lockdown, earning him the nickname \"Monsieur Déconfinement\".",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which French physicist shared the 2022 Nobel Prize in Physics for experiments on quantum entanglement?",
+        "choices": ["Gérard Mourou", "Serge Haroche", "Alain Aspect", "Albert Fert"],
+        "answer": 2,
+        "fact": "Aspect shared the prize with John Clauser and Anton Zeilinger. Their experiments confirmed that entangled particles behave as quantum theory predicts.",
+        "difficulty": 3,
+        "asOf": "2022"
       }
     ],
     "general": [
@@ -440,6 +980,111 @@
         "choices": ["Spain", "Belgium", "Brazil", "Germany"],
         "answer": 2,
         "fact": "France's longest border, about 730 km, runs between its overseas region of French Guiana and Brazil in South America.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which famous Paris avenue runs from the Place de la Concorde to the Arc de Triomphe?",
+        "choices": ["The Boulevard Saint-Germain", "The Champs-Élysées", "The Rue de Rivoli", "The Boulevard Haussmann"],
+        "answer": 1,
+        "fact": "Every 14 July, France's national day, a grand military parade marches down the Champs-Élysées.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which mountain range forms most of the border between France and Spain?",
+        "choices": ["The Alps", "The Vosges", "The Pyrenees", "The Jura"],
+        "answer": 2,
+        "fact": "The tiny country of Andorra sits in the Pyrenees. The French President is one of its two co-princes.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which white-domed basilica stands on top of the hill of Montmartre in Paris?",
+        "choices": ["Notre-Dame", "Sainte-Chapelle", "La Madeleine", "Sacré-Cœur"],
+        "answer": 3,
+        "fact": "Montmartre is the highest natural point in Paris, about 130 metres above sea level, so the basilica can be seen from all over the city.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the French name for a long, thin loaf of bread with a crisp crust?",
+        "choices": ["Baguette", "Brioche", "Croissant", "Fougasse"],
+        "answer": 0,
+        "fact": "In 2022 UNESCO added the craft and culture of the French baguette to its list of Intangible Cultural Heritage.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which rocky island off the coast of Normandy is crowned by a medieval abbey?",
+        "choices": ["Belle-Île", "Mont-Saint-Michel", "Île de Ré", "Île d'Oléron"],
+        "answer": 1,
+        "fact": "The bay around Mont-Saint-Michel has some of the biggest tides in Europe, and the sea can sweep in across the sands very quickly.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which city on the Mediterranean is France's largest seaport?",
+        "choices": ["Toulon", "Nice", "Marseille", "Montpellier"],
+        "answer": 2,
+        "fact": "Marseille was founded around 600 BC by Greek sailors from Phocaea, who called it Massalia. It is often called France's oldest city.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city, where the Rhône and Saône rivers meet, is often called the capital of French gastronomy?",
+        "choices": ["Bordeaux", "Dijon", "Toulouse", "Lyon"],
+        "answer": 3,
+        "fact": "Lyon's old town is threaded with \"traboules\", hidden passageways through buildings once used by silk workers to carry their cloth.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of the strong, cold wind that blows down the Rhône valley to the Mediterranean?",
+        "choices": ["The Mistral", "The Sirocco", "The Foehn", "The Bora"],
+        "answer": 0,
+        "fact": "The Mistral often clears the sky of clouds, and painters have long praised the bright light it leaves behind in Provence.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Grand Slam tennis tournament is played on red clay in Paris each year?",
+        "choices": ["The Australian Open", "The French Open", "The US Open", "Wimbledon"],
+        "answer": 1,
+        "fact": "Its stadium, Roland-Garros, is named after the aviator Roland Garros, the first person to fly across the Mediterranean, in 1913.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which wine-growing city on the Garonne gives its name to wines from the Médoc and Saint-Émilion?",
+        "choices": ["Bergerac", "Cognac", "Bordeaux", "Toulouse"],
+        "answer": 2,
+        "fact": "Bordeaux's elegant riverside, curved like a crescent, earned it the name \"Port of the Moon\". Much of the city is a UNESCO World Heritage Site.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which landmark near Arcachon is the tallest sand dune in Europe?",
+        "choices": ["Cap Ferret", "Pointe du Raz", "Cap Gris-Nez", "The Dune du Pilat"],
+        "answer": 3,
+        "fact": "The Dune du Pilat rises more than 100 metres above the Atlantic, and the wind pushes it slowly inland every year.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the number of the Paris département, still used at the start of Paris postcodes?",
+        "choices": ["75", "13", "69", "01"],
+        "answer": 0,
+        "fact": "France's original départements were numbered roughly in alphabetical order, which is why Ain, in eastern France, is number 01.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Gothic cathedral south-west of Paris is famous for the deep \"blue\" of its medieval stained glass?",
+        "choices": ["Amiens", "Chartres", "Bourges", "Beauvais"],
+        "answer": 1,
+        "fact": "Chartres still has most of its original 12th- and 13th-century stained glass, one of the largest such collections in the world.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 17th-century canal links Toulouse to the Mediterranean, forming part of a waterway between the Atlantic and the Mediterranean?",
+        "choices": ["The Canal de Bourgogne", "The Canal Saint-Martin", "The Canal du Midi", "The Canal du Rhône au Rhin"],
+        "answer": 2,
+        "fact": "Built between 1666 and 1681 by Pierre-Paul Riquet, the Canal du Midi became a UNESCO World Heritage Site in 1996.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of the Celtic language traditionally spoken in Brittany?",
+        "choices": ["Occitan", "Basque", "Alsatian", "Breton"],
+        "answer": 3,
+        "fact": "Breton is closely related to Cornish and Welsh. It was brought to Brittany by Celtic settlers from Britain in the early Middle Ages.",
         "difficulty": 3
       }
     ]
