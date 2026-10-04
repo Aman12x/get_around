@@ -1,0 +1,39 @@
+{
+  "country": "sweden",
+  "timeline": [
+    { "event": "The Viking trading town of Birka is founded on Lake Mälaren", "year": 750, "label": "c. 750", "approx": true, "difficulty": 2 },
+    { "event": "Olof Skötkonung, Sweden's first Christian king, is baptised", "year": 1008, "label": "c. 1008", "approx": true, "difficulty": 3 },
+    { "event": "The Kalmar Union joins Sweden, Denmark and Norway under one crown", "year": 1397, "label": "1397", "difficulty": 2 },
+    { "event": "Uppsala University, Scandinavia's oldest, is founded", "year": 1477, "label": "1477", "difficulty": 3 },
+    { "event": "Danish king Christian II orders the Stockholm Bloodbath", "year": 1520, "label": "1520", "difficulty": 2 },
+    { "event": "Gustav Vasa is elected King of Sweden", "year": 1523, "label": "1523", "difficulty": 1 },
+    { "event": "The warship Vasa sinks on her maiden voyage in Stockholm", "year": 1628, "label": "1628", "difficulty": 1 },
+    { "event": "Gustavus Adolphus is killed at the Battle of Lützen", "year": 1632, "label": "1632", "difficulty": 2 },
+    { "event": "The Treaty of Roskilde makes Skåne Swedish", "year": 1658, "label": "1658", "difficulty": 2 },
+    { "event": "Peter the Great defeats Charles XII at Poltava", "year": 1709, "label": "1709", "difficulty": 2 },
+    { "event": "Anders Celsius proposes his centigrade temperature scale", "year": 1742, "label": "1742", "difficulty": 3 },
+    { "event": "King Gustav III is shot at a masked ball", "year": 1792, "label": "1792", "difficulty": 3 },
+    { "event": "Sweden loses Finland to the Russian Empire", "year": 1809, "label": "1809", "difficulty": 1 },
+    { "event": "The first Nobel Prizes are awarded", "year": 1901, "label": "1901", "difficulty": 1 },
+    { "event": "Norway peacefully leaves its union with Sweden", "year": 1905, "label": "1905", "difficulty": 1 },
+    { "event": "Ingvar Kamprad founds IKEA", "year": 1943, "label": "1943", "difficulty": 1 },
+    { "event": "The wreck of the Vasa is raised from Stockholm harbour", "year": 1961, "label": "1961", "difficulty": 2 },
+    { "event": "ABBA win the Eurovision Song Contest with \"Waterloo\"", "year": 1974, "label": "1974", "difficulty": 1 },
+    { "event": "Sweden joins the European Union", "year": 1995, "label": "1995", "difficulty": 1 },
+    { "event": "The Øresund Bridge opens between Malmö and Copenhagen", "year": 2000, "label": "2000", "difficulty": 2 }
+  ],
+  "places": [
+    { "name": "Stockholm", "kind": "city", "lat": 59.33, "lon": 18.07, "clue": "Spread over 14 islands, the capital is home to the Vasa Museum and the City Hall where the Nobel banquet is held.", "difficulty": 1 },
+    { "name": "Gothenburg", "kind": "city", "lat": 57.71, "lon": 11.97, "clue": "Founded by Gustavus Adolphus in 1621, Sweden's second city is home to Volvo and the Liseberg amusement park.", "difficulty": 1 },
+    { "name": "Malmö", "kind": "city", "lat": 55.60, "lon": 13.00, "clue": "Linked to Copenhagen by the Øresund Bridge since 2000, it hosted Eurovision in 1992, 2013 and 2024.", "difficulty": 1 },
+    { "name": "Uppsala", "kind": "city", "lat": 59.86, "lon": 17.64, "clue": "Home to Scandinavia's oldest university, founded in 1477, where both Carl Linnaeus and Anders Celsius taught.", "difficulty": 1 },
+    { "name": "Kiruna", "kind": "city", "lat": 67.86, "lon": 20.23, "clue": "This Lapland mining town is being moved east because its huge underground iron ore mine is undermining the old centre.", "difficulty": 1 },
+    { "name": "Visby", "kind": "historic", "lat": 57.64, "lon": 18.30, "clue": "Gotland's main town keeps a medieval ring wall about 3.4 km long from its days as a rich Hanseatic trading hub.", "difficulty": 2 },
+    { "name": "Kalmar Castle", "kind": "landmark", "lat": 56.66, "lon": 16.36, "clue": "The Kalmar Union was sealed in this town in 1397; its Renaissance castle guards the strait facing the island of Öland.", "difficulty": 2 },
+    { "name": "Kebnekaise", "kind": "nature", "lat": 67.90, "lon": 18.52, "clue": "Sweden's highest mountain; melting ice on its south summit left the rocky north peak as the country's highest point.", "difficulty": 2 },
+    { "name": "Falun Copper Mine", "kind": "historic", "lat": 60.60, "lon": 15.61, "clue": "Once a supplier of much of Europe's copper, its mine waste gave Sweden the famous Falu red paint for wooden houses.", "difficulty": 2 },
+    { "name": "Sarek National Park", "kind": "nature", "lat": 67.28, "lon": 17.70, "clue": "A roadless wilderness of glaciers and peaks with almost no marked trails, part of the Laponia World Heritage Site.", "difficulty": 3 },
+    { "name": "High Coast", "kind": "nature", "lat": 63.09, "lon": 18.37, "clue": "Still rising after the Ice Age, this coast has the world's highest known post-glacial shoreline, about 286 m up.", "difficulty": 3 },
+    { "name": "Tanum Rock Carvings", "kind": "historic", "lat": 58.70, "lon": 11.34, "clue": "Thousands of Bronze Age carvings of ships, people and animals make this a UNESCO World Heritage Site.", "difficulty": 3 }
+  ]
+}

@@ -62,7 +62,7 @@
         "q": "Allied troops landed near Casablanca in November 1942 as part of which operation?",
         "choices": ["Operation Torch", "Operation Overlord", "Operation Husky", "Operation Barbarossa"],
         "answer": 0,
-        "fact": "Torch was the first large American operation of the war against Germany's Axis in the European-African theatre, with landings in Morocco and Algeria.",
+        "fact": "Torch also landed troops at Oran and Algiers, and was the first major American offensive against the Axis in the European-North African theatre.",
         "difficulty": 1
       },
       {
@@ -76,7 +76,7 @@
         "q": "Idris I founded which dynasty in 788, whose rulers went on to establish the city of Fez?",
         "choices": ["Almohad", "Fatimid", "Idrisid", "Umayyad"],
         "answer": 2,
-        "fact": "Fez grew from twin settlements on either bank of its river; today its medina is a UNESCO World Heritage Site and a maze of some 9,000 alleys.",
+        "fact": "Fez grew from twin settlements on either bank of its river; today its medina is a UNESCO World Heritage Site and a maze of thousands of alleys.",
         "difficulty": 2
       },
       {
@@ -529,6 +529,562 @@
         "choices": ["Thuya", "Teak", "Ebony", "Mahogany"],
         "answer": 0,
         "fact": "The thuya's knotted root burl is polished to a rich swirling grain and often inlaid with lemonwood or mother-of-pearl.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "How does Morocco's constitution define the country's system of government?",
+        "choices": ["A constitutional monarchy", "A federal republic", "A one-party state", "A presidential republic"],
+        "answer": 0,
+        "fact": "The 2011 constitution describes Morocco as a constitutional, democratic, parliamentary and social monarchy.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the capital of Morocco?",
+        "choices": ["Casablanca", "Rabat", "Marrakesh", "Fez"],
+        "answer": 1,
+        "fact": "Rabat has been the seat of government since 1912, and its blend of historic and modern districts is a UNESCO World Heritage Site.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which king acceded to the Moroccan throne in July 1999?",
+        "choices": ["Hassan II", "Mohammed V", "Mohammed VI", "Moulay Ismail"],
+        "answer": 2,
+        "fact": "Mohammed VI succeeded his father, Hassan II, who had reigned for 38 years.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which king reigned in Morocco from 1961 until 1999?",
+        "choices": ["Mohammed V", "Idris I", "Mohammed VI", "Hassan II"],
+        "answer": 3,
+        "fact": "He commissioned Casablanca's vast Hassan II Mosque, completed in 1993.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which continental organisation did Morocco rejoin in January 2017?",
+        "choices": ["The African Union", "The Arab League", "The Commonwealth", "OPEC"],
+        "answer": 0,
+        "fact": "Morocco had been outside the organisation since 1984, when it left the AU's predecessor, the Organisation of African Unity.",
+        "difficulty": 1
+      },
+      {
+        "q": "What emblem appears in the centre of Morocco's red flag?",
+        "choices": ["A white crescent", "A green five-pointed star", "A golden lion", "A white cross"],
+        "answer": 1,
+        "fact": "The green interlaced pentagram, added in 1915, is known as the Seal of Solomon.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did Moroccans approve, by referendum, a new constitution that expanded the powers of parliament and the head of government?",
+        "choices": ["1999", "2005", "2011", "2016"],
+        "answer": 2,
+        "fact": "Approved on 1 July 2011, the constitution also made Tamazight an official language alongside Arabic.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many chambers does Morocco's parliament have?",
+        "choices": ["One", "Three", "Four", "Two"],
+        "answer": 3,
+        "fact": "The directly elected House of Representatives sits alongside the House of Councillors, chosen by local councils and professional bodies.",
+        "difficulty": 1
+      },
+      {
+        "q": "Morocco's national motto is 'God, the Homeland, ...' what?",
+        "choices": ["The King", "The People", "Unity", "Liberty"],
+        "answer": 0,
+        "fact": "In Arabic it reads 'Allah, al-Watan, al-Malik', and it is written into the constitution.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which language became an official language alongside Arabic in Morocco's 2011 constitution?",
+        "choices": ["French", "Tamazight (Amazigh)", "Spanish", "Hassaniya"],
+        "answer": 1,
+        "fact": "Millions of Moroccans speak Amazigh languages, chiefly Tarifit in the north, Central Atlas Tamazight and Tashelhit in the south.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which party led Moroccan governments from 2011 to 2021?",
+        "choices": ["The Istiqlal Party", "The National Rally of Independents", "The Justice and Development Party (PJD)", "The Socialist Union of Popular Forces"],
+        "answer": 2,
+        "fact": "Its leaders Abdelilah Benkirane and then Saadeddine Othmani served in turn as head of government.",
+        "difficulty": 2
+      },
+      {
+        "q": "Morocco's 2004 reform of the Moudawana overhauled which area of law?",
+        "choices": ["Criminal law", "Tax law", "Land law", "Family law"],
+        "answer": 3,
+        "fact": "The reform raised the minimum marriage age to 18 and gave women more rights in divorce and child custody.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1957 Sultan Mohammed V adopted which new title?",
+        "choices": ["King", "Emir", "Shah", "President"],
+        "answer": 0,
+        "fact": "The change, a year after independence, marked Morocco's transformation into a modern kingdom.",
+        "difficulty": 2
+      },
+      {
+        "q": "On which date does Morocco celebrate Throne Day under Mohammed VI?",
+        "choices": ["18 November", "30 July", "11 January", "2 March"],
+        "answer": 1,
+        "fact": "Throne Day marks the king's accession, while 18 November is celebrated as Independence Day.",
+        "difficulty": 2
+      },
+      {
+        "q": "Under the 2011 constitution, the king appoints the head of government from which party?",
+        "choices": ["The oldest registered party", "The party with the most members nationwide", "The party that wins the most seats in the House of Representatives", "The party that wins the most seats in the House of Councillors"],
+        "answer": 2,
+        "fact": "The rule, in Article 47, ties the choice of head of government directly to the result of the parliamentary elections.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Morocco join the United Nations?",
+        "choices": ["1945", "1962", "1975", "1956"],
+        "answer": 3,
+        "fact": "Morocco became a UN member on 12 November 1956, just months after independence.",
+        "difficulty": 2
+      },
+      {
+        "q": "Morocco's constitution gives the king which religious title?",
+        "choices": ["Commander of the Faithful", "Grand Vizier", "Sultan of the Seas", "Protector of the Realm"],
+        "answer": 0,
+        "fact": "As Amir al-Mu'minin, the king is charged with ensuring respect for Islam and guaranteeing the free exercise of beliefs.",
+        "difficulty": 2
+      },
+      {
+        "q": "Nationalist leader Allal al-Fassi was a founding figure of which party?",
+        "choices": ["The PJD", "The Istiqlal Party", "The RNI", "The USFP"],
+        "answer": 1,
+        "fact": "Istiqlal means 'independence' in Arabic, and the party was at the heart of the movement to end the protectorate.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Morocco adopt its first constitution by referendum?",
+        "choices": ["1956", "1970", "1962", "1972"],
+        "answer": 2,
+        "fact": "The 1962 text, approved under Hassan II, has since been revised or replaced several times, most recently in 2011.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 1987 Morocco applied to join which organisation, which turned the bid down because Morocco is not a European state?",
+        "choices": ["NATO", "OPEC", "The Commonwealth", "The European Economic Community"],
+        "answer": 3,
+        "fact": "Ties deepened anyway, and in 2008 the European Union granted Morocco 'advanced status' in its relations with the bloc.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 2004 the United States designated Morocco as what?",
+        "choices": ["A major non-NATO ally", "A member of the Five Eyes", "A Commonwealth realm", "A full NATO member"],
+        "answer": 0,
+        "fact": "The same year, the two countries signed a free-trade agreement, which came into force in 2006.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which veteran socialist led Morocco's 'government of alternance' formed in 1998?",
+        "choices": ["Driss Jettou", "Abderrahmane Youssoufi", "Abbas El Fassi", "Abdellah Ibrahim"],
+        "answer": 1,
+        "fact": "A long-time opposition figure who had lived in exile, he was appointed by Hassan II in a landmark opening to the opposition.",
+        "difficulty": 3
+      },
+      {
+        "q": "How many seats does Morocco's House of Representatives have?",
+        "choices": ["120", "325", "395", "515"],
+        "answer": 2,
+        "fact": "Members serve five-year terms and are elected from local constituencies and regional lists.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Marrakesh Agreement, signed in April 1994, established which international body?",
+        "choices": ["The African Union", "The Arab Maghreb Union", "OPEC", "The World Trade Organization"],
+        "answer": 3,
+        "fact": "Signed by ministers from more than 120 countries, it concluded the Uruguay Round of global trade talks.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did nationalists issue Morocco's Manifesto of Independence, remembered with a holiday every 11 January?",
+        "choices": ["1944", "1912", "1930", "1956"],
+        "answer": 0,
+        "fact": "Presented by the Istiqlal Party, the manifesto called for full independence under Sultan Mohammed V.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "At the 2022 FIFA World Cup in Qatar, Morocco became the first African team to reach which stage?",
+        "choices": ["The semi-finals", "The final", "The quarter-finals", "The round of 16"],
+        "answer": 0,
+        "fact": "Morocco lost 2-0 to France in the semi-final and finished fourth after a third-place play-off against Croatia.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In December 2024, FIFA confirmed Morocco would co-host the 2030 World Cup with which two countries?",
+        "choices": ["Spain and France", "Spain and Portugal", "Portugal and Italy", "France and Italy"],
+        "answer": 1,
+        "fact": "Uruguay, Argentina and Paraguay will also each stage one opening match to mark the tournament's centenary.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In September 2023, a deadly earthquake struck villages in which mountain range south-west of Marrakesh?",
+        "choices": ["The Rif", "The Middle Atlas", "The High Atlas", "The Anti-Atlas"],
+        "answer": 2,
+        "fact": "The magnitude 6.8 quake killed nearly 3,000 people and badly damaged historic sites such as the 12th-century Tinmel Mosque.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which country hosted the Africa Cup of Nations that kicked off in December 2025?",
+        "choices": ["Egypt", "Nigeria", "Côte d'Ivoire", "Morocco"],
+        "answer": 3,
+        "fact": "Morocco had last hosted the continent's biggest football tournament in 1988.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Morocco knocked out which team on penalties in the round of 16 at the 2022 World Cup?",
+        "choices": ["Spain", "Portugal", "Belgium", "Croatia"],
+        "answer": 0,
+        "fact": "Spanish-born defender Achraf Hakimi sealed the shoot-out with a cheeky chipped 'Panenka' penalty.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Moroccan defender Achraf Hakimi won the UEFA Champions League in May 2025 with which club?",
+        "choices": ["Real Madrid", "Paris Saint-Germain", "Inter Milan", "Bayern Munich"],
+        "answer": 1,
+        "fact": "He scored the opening goal as the Paris club beat Inter 5-0 in Munich to win the trophy for the first time.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "At the Tokyo Olympics in August 2021, Soufiane El Bakkali won gold in which event?",
+        "choices": ["Marathon", "1,500 m", "3,000 m steeplechase", "10,000 m"],
+        "answer": 2,
+        "fact": "He was the first non-Kenyan to win the men's Olympic steeplechase since 1980, and he retained his title at Paris 2024.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In July 2024, King Mohammed VI marked how many years on the throne?",
+        "choices": ["10", "15", "20", "25"],
+        "answer": 3,
+        "fact": "He acceded on 23 July 1999, succeeding his father, Hassan II.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which medal did Morocco's men's football team win at the Paris 2024 Olympics?",
+        "choices": ["Bronze", "Gold", "Silver", "None: it finished fourth"],
+        "answer": 0,
+        "fact": "They thrashed Egypt 6-0 in the bronze-medal match, earning Morocco's first Olympic medal in football.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who was appointed Morocco's head of government after the September 2021 elections?",
+        "choices": ["Saadeddine Othmani", "Aziz Akhannouch", "Abdelilah Benkirane", "Nizar Baraka"],
+        "answer": 1,
+        "fact": "His National Rally of Independents (RNI) won the most seats, ending a decade of PJD-led governments.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which coach led Morocco to the 2022 World Cup semi-finals only months after taking charge?",
+        "choices": ["Vahid Halilhodžić", "Hervé Renard", "Walid Regragui", "Badou Zaki"],
+        "answer": 2,
+        "fact": "Appointed in August 2022, the former Morocco defender had just won the CAF Champions League with Wydad Casablanca.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Whose header beat Portugal 1-0 in the 2022 World Cup quarter-final?",
+        "choices": ["Hakim Ziyech", "Sofiane Boufal", "Achraf Hakimi", "Youssef En-Nesyri"],
+        "answer": 3,
+        "fact": "The goal knocked out a Portugal side featuring Cristiano Ronaldo and sparked celebrations from Casablanca to Paris.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Moroccan city hosted the IMF and World Bank annual meetings in October 2023?",
+        "choices": ["Marrakesh", "Casablanca", "Tangier", "Agadir"],
+        "answer": 0,
+        "fact": "It was the first time in 50 years that the meetings were held in Africa, and they went ahead weeks after the Al Haouz earthquake.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Morocco made its Women's World Cup debut in 2023. Which team beat them 6-0 in their opening match?",
+        "choices": ["France", "Germany", "Colombia", "South Korea"],
+        "answer": 1,
+        "fact": "Morocco bounced back to beat South Korea and Colombia and reach the round of 16 at their first attempt.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which country beat hosts Morocco 2-1 in the Women's Africa Cup of Nations final in July 2022?",
+        "choices": ["Nigeria", "Zambia", "South Africa", "Cameroon"],
+        "answer": 2,
+        "fact": "Despite the defeat, Morocco's run to the final earned the team its first-ever place at a Women's World Cup.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Real Madrid attacker chose in 2024 to represent Morocco rather than Spain?",
+        "choices": ["Hakim Ziyech", "Munir El Haddadi", "Abde Ezzalzouli", "Brahim Díaz"],
+        "answer": 3,
+        "fact": "Born in Málaga to a Moroccan father, he had played one friendly for Spain in 2021 before switching allegiance.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Roughly how many tourist arrivals did Morocco record in 2024, a national record?",
+        "choices": ["About 17 million", "About 2 million", "About 6 million", "About 40 million"],
+        "answer": 0,
+        "fact": "Arrivals rose by about a fifth on 2023, helped by new air routes and Moroccans living abroad coming home to visit.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Morocco topped its 2022 World Cup group after beating which European team 2-0?",
+        "choices": ["Canada", "Belgium", "Croatia", "Germany"],
+        "answer": 1,
+        "fact": "Unbeaten in the group, Morocco finished ahead of Croatia, Belgium and Canada.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which club won the 2022 FIFA Club World Cup, played in Morocco in February 2023?",
+        "choices": ["Wydad Casablanca", "Chelsea", "Real Madrid", "Flamengo"],
+        "answer": 2,
+        "fact": "Real Madrid beat Saudi side Al-Hilal 5-3 in the final in Rabat.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Moroccan director Asmae El Moudir won the Un Certain Regard directing prize at Cannes in 2023 for which documentary?",
+        "choices": ["The Blue Caftan", "Hounds", "Much Loved", "The Mother of All Lies"],
+        "answer": 3,
+        "fact": "She rebuilt her Casablanca childhood neighbourhood in miniature, with clay figurines, to tease out her family's memories.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2022 Yassine Bounou won which Spanish award for La Liga's best goalkeeping record with Sevilla?",
+        "choices": ["The Zamora Trophy", "The Ballon d'Or", "The Golden Boy award", "The Pichichi Trophy"],
+        "answer": 0,
+        "fact": "The trophy goes to the La Liga goalkeeper with the lowest ratio of goals conceded per game over the season.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Moroccan city did UNESCO name World Book Capital for 2026?",
+        "choices": ["Casablanca", "Rabat", "Fez", "Tangier"],
+        "answer": 1,
+        "fact": "The year-long title recognises a city's programme to promote books, reading and publishing.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Moroccan tradition did UNESCO add to its intangible cultural heritage list in December 2021?",
+        "choices": ["Gnawa", "Couscous", "Tbourida", "Malhun"],
+        "answer": 2,
+        "fact": "In tbourida, rows of horsemen in traditional dress charge in unison and fire their muskets at the same instant.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Casablanca club won the CAF Champions League in May 2022?",
+        "choices": ["Raja Casablanca", "FAR Rabat", "RS Berkane", "Wydad AC"],
+        "answer": 3,
+        "fact": "Wydad beat Egypt's Al Ahly 2-0 in a one-off final at the Mohammed V Stadium in Casablanca.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2020 UNESCO recognised couscous traditions after a joint bid by Morocco, Algeria, Tunisia and which other country?",
+        "choices": ["Mauritania", "Libya", "Egypt", "Senegal"],
+        "answer": 0,
+        "fact": "The shared nomination celebrated the knowledge, know-how and practices around couscous across the Maghreb.",
+        "difficulty": 3,
+        "asOf": "2020"
+      }
+    ],
+    "general": [
+      {
+        "q": "Which narrow strait separates Morocco from Spain?",
+        "choices": ["The Strait of Gibraltar", "The Strait of Messina", "The Bosporus", "The Strait of Hormuz"],
+        "answer": 0,
+        "fact": "At its narrowest the strait is only about 14 km wide, and on clear days Spain is visible from the Moroccan shore.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the currency of Morocco?",
+        "choices": ["Dinar", "Dirham", "Riyal", "Pound"],
+        "answer": 1,
+        "fact": "The name dirham, shared with the UAE's currency, ultimately comes from the ancient Greek drachma.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which slow-cooked Moroccan stew takes its name from the conical clay pot it is cooked in?",
+        "choices": ["Couscous", "Harira", "Tagine", "Pastilla"],
+        "answer": 2,
+        "fact": "The cone traps rising steam, which condenses and drips back down, keeping the meat and vegetables moist.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which town in the Rif Mountains is famous for its blue-washed streets?",
+        "choices": ["Essaouira", "Asilah", "Ifrane", "Chefchaouen"],
+        "answer": 3,
+        "fact": "Founded in 1471 as a small fortress, Chefchaouen is often called Morocco's 'Blue Pearl'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which mountain range stretches across Morocco, separating the Atlantic coast from the Sahara?",
+        "choices": ["The Atlas Mountains", "The Alps", "The Pyrenees", "The Zagros Mountains"],
+        "answer": 0,
+        "fact": "Greek myth told that the Titan Atlas, who held up the sky, was turned to stone here and became these mountains.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Marrakesh square comes alive each evening with storytellers, musicians and food stalls?",
+        "choices": ["Place Mohammed V", "Jemaa el-Fna", "Bab Boujloud", "Place des Nations Unies"],
+        "answer": 1,
+        "fact": "In 2001 its living traditions were among the first proclaimed Masterpieces of the Oral and Intangible Heritage of Humanity by UNESCO.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Morocco's traditional drink of hospitality?",
+        "choices": ["Coffee with cardamom", "Hibiscus tea", "Green tea with fresh mint", "Black tea with milk"],
+        "answer": 2,
+        "fact": "Hosts pour the sweet tea from a height to raise a light froth in each small glass.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Morocco's largest city?",
+        "choices": ["Rabat", "Fez", "Marrakesh", "Casablanca"],
+        "answer": 3,
+        "fact": "Its name means 'white house' in Spanish; locals often call it 'Casa' or by its Arabic name, Dar el Beida.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which brimless felt hat takes its name from a Moroccan city?",
+        "choices": ["The fez", "The beret", "The turban", "The fedora"],
+        "answer": 0,
+        "fact": "Also known as the tarboosh, the red fez became fashionable across the Ottoman Empire in the 19th century.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which peak, at 4,167 m, is the highest in North Africa?",
+        "choices": ["Mount Kilimanjaro", "Jbel Toubkal", "Jbel Ayachi", "Mount Cameroon"],
+        "answer": 1,
+        "fact": "Toubkal is usually climbed over two days from the village of Imlil, in the High Atlas south of Marrakesh.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Moroccan runner set the men's 1,500 m world record of 3:26.00 in 1998?",
+        "choices": ["Saïd Aouita", "Noureddine Morceli", "Hicham El Guerrouj", "Haile Gebrselassie"],
+        "answer": 2,
+        "fact": "He won Olympic gold in both the 1,500 m and 5,000 m at Athens 2004, and his 1,500 m and mile records stood for decades.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1984 Nawal El Moutawakel became Morocco's first Olympic champion in which event?",
+        "choices": ["100 m", "Marathon", "Long jump", "400 m hurdles"],
+        "answer": 3,
+        "fact": "Her win in Los Angeles made her the first woman from an Arab or Muslim-majority country to take Olympic gold.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the everyday spoken Arabic of Morocco called?",
+        "choices": ["Darija", "Hassaniya", "Maltese", "Ladino"],
+        "answer": 0,
+        "fact": "Darija mixes Arabic with Amazigh, French and Spanish words; a car, for example, is often a 'tomobil'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which monkey lives wild in the cedar forests of Morocco's Middle Atlas?",
+        "choices": ["Mandrill", "Barbary macaque", "Hamadryas baboon", "Vervet monkey"],
+        "answer": 1,
+        "fact": "It is Africa's only macaque, and a small colony also famously lives on the Rock of Gibraltar.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which festive Moroccan pie combines savoury pigeon or chicken with a dusting of sugar and cinnamon?",
+        "choices": ["Harira", "Rfissa", "Pastilla", "Zaalouk"],
+        "answer": 2,
+        "fact": "Its paper-thin warqa pastry is made by dabbing dough onto a hot pan, one delicate sheet at a time.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which sea of dunes rises beside the desert village of Merzouga?",
+        "choices": ["Erg Chigaga", "Grand Erg Oriental", "Rub' al Khali", "Erg Chebbi"],
+        "answer": 3,
+        "fact": "Some of its wind-sculpted dunes rise around 150 m above the surrounding stony desert.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which animals are famously seen perched in argan trees in southwestern Morocco?",
+        "choices": ["Goats", "Monkeys", "Sheep", "Squirrels"],
+        "answer": 0,
+        "fact": "Goats clamber up the thorny branches to nibble the fruit, a sight that has become a roadside attraction.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which script is used to write Tamazight on many Moroccan public signs?",
+        "choices": ["Latin", "Tifinagh", "Ge'ez", "Coptic"],
+        "answer": 1,
+        "fact": "A standard form, Neo-Tifinagh, was adopted for Morocco by the Royal Institute of Amazigh Culture in 2003.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Middle Atlas town, nicknamed 'the Switzerland of Morocco', holds Africa's record low temperature of -23.9 °C?",
+        "choices": ["Midelt", "Oukaïmeden", "Ifrane", "Azrou"],
+        "answer": 2,
+        "fact": "Built by the French in the 1920s, its alpine-style chalets and red roofs surround a famous stone lion statue.",
+        "difficulty": 3
+      },
+      {
+        "q": "The town of Taliouine, between Ouarzazate and Taroudant, is famous for which costly spice?",
+        "choices": ["Vanilla", "Cloves", "Cinnamon", "Saffron"],
+        "answer": 3,
+        "fact": "Each autumn the crocus flowers are picked by hand at dawn and their red stigmas dried; a kilogram needs some 150,000 flowers.",
+        "difficulty": 3
+      },
+      {
+        "q": "Kelaat M'Gouna, in the Dades valley, holds a festival every May celebrating which flower harvest?",
+        "choices": ["Roses", "Jasmine", "Orange blossom", "Lavender"],
+        "answer": 0,
+        "fact": "Damask roses grown in hedges between the fields are distilled into rosewater and oils.",
+        "difficulty": 3
+      },
+      {
+        "q": "The prized Medjool date variety originated in which Moroccan oasis region?",
+        "choices": ["Souss", "Tafilalet", "Gharb", "Rif"],
+        "answer": 1,
+        "fact": "In 1927 a handful of offshoots were sent to the United States, saving the variety from a palm disease and seeding orchards there.",
+        "difficulty": 3
+      },
+      {
+        "q": "Roughly how far do runners travel in the multi-stage Marathon des Sables across the Moroccan Sahara?",
+        "choices": ["About 42 km", "About 100 km", "About 250 km", "About 1,000 km"],
+        "answer": 2,
+        "fact": "Since 1986, competitors have carried their own food and kit across dunes, stony plains and dry riverbeds over about six stages.",
+        "difficulty": 3
+      },
+      {
+        "q": "Into which body of water does the Moulouya, one of Morocco's longest rivers, flow?",
+        "choices": ["The Atlantic Ocean", "Lake Chad", "The Strait of Gibraltar", "The Mediterranean Sea"],
+        "answer": 3,
+        "fact": "Its mouth near Saïdia is a protected wetland that draws flamingos and migrating birds.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Caves of Hercules, whose sea opening is said to resemble a map of Africa, lie near which cape west of Tangier?",
+        "choices": ["Cape Spartel", "Cape Bon", "Cape Juby", "Cape Ghir"],
+        "answer": 0,
+        "fact": "Legend says Hercules rested in the cave before one of his twelve labours.",
         "difficulty": 3
       }
     ]

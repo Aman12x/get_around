@@ -1,0 +1,39 @@
+{
+  "country": "iceland",
+  "timeline": [
+    { "event": "Norse settlers led by Ingólfur Arnarson make their home in Iceland", "year": 874, "label": "c. 874", "approx": true, "difficulty": 1 },
+    { "event": "The Althing assembly first meets at Þingvellir", "year": 930, "label": "930", "difficulty": 1 },
+    { "event": "Erik the Red leads settlers from Iceland to Greenland", "year": 985, "label": "c. 985", "approx": true, "difficulty": 2 },
+    { "event": "Leif Erikson's crew reaches North America", "year": 1000, "label": "c. 1000", "approx": true, "difficulty": 1 },
+    { "event": "Snorri Sturluson is killed at his farm in Reykholt", "year": 1241, "label": "1241", "difficulty": 3 },
+    { "event": "Icelandic chieftains begin swearing loyalty to Norway's king", "year": 1262, "label": "1262", "difficulty": 2 },
+    { "event": "Catholic bishop Jón Arason is executed at Skálholt", "year": 1550, "label": "1550", "difficulty": 2 },
+    { "event": "Barbary corsairs raid the Westman Islands and carry off captives", "year": 1627, "label": "1627", "difficulty": 3 },
+    { "event": "The Laki fissure eruption begins, bringing famine", "year": 1783, "label": "1783", "difficulty": 2 },
+    { "event": "The Althing is abolished by royal decree", "year": 1800, "label": "1800", "difficulty": 3 },
+    { "event": "King Christian IX grants Iceland its first constitution", "year": 1874, "label": "1874", "difficulty": 3 },
+    { "event": "Iceland becomes a sovereign kingdom in union with Denmark", "year": 1918, "label": "1918", "difficulty": 2 },
+    { "event": "British forces occupy Iceland", "year": 1940, "label": "1940", "difficulty": 1 },
+    { "event": "The Republic of Iceland is proclaimed at Þingvellir", "year": 1944, "label": "1944", "difficulty": 1 },
+    { "event": "Iceland becomes a founding member of NATO", "year": 1949, "label": "1949", "difficulty": 2 },
+    { "event": "The volcanic island of Surtsey rises from the sea", "year": 1963, "label": "1963", "difficulty": 2 },
+    { "event": "Vigdís Finnbogadóttir is elected president", "year": 1980, "label": "1980", "difficulty": 1 },
+    { "event": "Reagan and Gorbachev hold a summit in Reykjavík", "year": 1986, "label": "1986", "difficulty": 2 },
+    { "event": "Iceland's three biggest banks collapse", "year": 2008, "label": "2008", "difficulty": 1 },
+    { "event": "Eyjafjallajökull's ash cloud grounds flights across Europe", "year": 2010, "label": "2010", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Reykjavík", "kind": "city", "lat": 64.15, "lon": -21.94, "clue": "The world's northernmost capital of a sovereign state; its name means 'Smoky Bay', after steam from hot springs.", "difficulty": 1 },
+    { "name": "Geysir", "kind": "nature", "lat": 64.31, "lon": -20.30, "clue": "The hot spring that gave English the word 'geyser'; its neighbour Strokkur erupts every few minutes.", "difficulty": 1 },
+    { "name": "Eyjafjallajökull", "kind": "nature", "lat": 63.63, "lon": -19.62, "clue": "This ice-capped volcano's 2010 eruption sent an ash cloud over Europe that grounded flights for days.", "difficulty": 1 },
+    { "name": "Jökulsárlón", "kind": "nature", "lat": 64.05, "lon": -16.18, "clue": "A glacier lagoon where icebergs broken off Vatnajökull drift past the Ring Road toward the sea.", "difficulty": 1 },
+    { "name": "Akureyri", "kind": "city", "lat": 65.68, "lon": -18.09, "clue": "Often called the capital of North Iceland, this town sits at the head of the long fjord Eyjafjörður.", "difficulty": 1 },
+    { "name": "Snæfellsjökull", "kind": "nature", "lat": 64.81, "lon": -23.78, "clue": "In Jules Verne's 'Journey to the Centre of the Earth', explorers climb down into this glacier-capped volcano.", "difficulty": 2 },
+    { "name": "Ísafjörður", "kind": "city", "lat": 66.07, "lon": -23.13, "clue": "The largest town in the remote Westfjords, built on a gravel spit in a deep fjord.", "difficulty": 2 },
+    { "name": "Dettifoss", "kind": "nature", "lat": 65.81, "lon": -16.38, "clue": "Often called Europe's most powerful waterfall, it thunders into the Jökulsárgljúfur canyon.", "difficulty": 2 },
+    { "name": "Seyðisfjörður", "kind": "city", "lat": 65.26, "lon": -14.01, "clue": "An eastern fjord town of colourful wooden houses, where the car ferry from Denmark docks.", "difficulty": 2 },
+    { "name": "Laki", "kind": "nature", "lat": 64.07, "lon": -18.23, "clue": "Its fissure eruption of 1783-84 poisoned livestock and led to a famine that killed about a fifth of Icelanders.", "difficulty": 3 },
+    { "name": "Reykholt", "kind": "historic", "lat": 64.66, "lon": -21.29, "clue": "Home of the saga writer Snorri Sturluson, who was killed here in 1241; his stone bathing pool survives.", "difficulty": 3 },
+    { "name": "Glaumbær", "kind": "historic", "lat": 65.61, "lon": -19.50, "clue": "A preserved turf-roofed farmhouse in Skagafjörður, now a museum of rural life.", "difficulty": 3 }
+  ]
+}

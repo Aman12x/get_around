@@ -1,0 +1,1092 @@
+{
+  "country": "sweden",
+  "topics": {
+    "history": [
+      {
+        "q": "Which royal warship sank in Stockholm harbour on its maiden voyage in 1628?",
+        "choices": ["Kronan", "Mars", "Vasa", "Svärdet"],
+        "answer": 2,
+        "fact": "Raised from the seabed in 1961, the Vasa is the world's best-preserved 17th-century ship and now fills its own museum in Stockholm.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish king, the \"Lion of the North\", was killed at the Battle of Lützen in 1632?",
+        "choices": ["Charles XII", "Gustav Vasa", "Charles XI", "Gustavus Adolphus"],
+        "answer": 3,
+        "fact": "Gustavus Adolphus's intervention in the Thirty Years' War turned Sweden into one of Europe's great powers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Scandinavian seafarers raided and traded far from Sweden between roughly 800 and 1050 CE?",
+        "choices": ["Vikings", "Vandals", "Celts", "Saxons"],
+        "answer": 0,
+        "fact": "Swedish Vikings travelled east along Russian rivers to Constantinople, where some served in the Byzantine emperor's Varangian Guard.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which king, elected in 1523, is regarded as the founder of the modern Swedish state?",
+        "choices": ["Gustavus Adolphus", "Gustav Vasa", "Charles XII", "Eric XIV"],
+        "answer": 1,
+        "fact": "Sweden's National Day, 6 June, marks Gustav Vasa's election as king after he led the break from the Kalmar Union.",
+        "difficulty": 1
+      },
+      {
+        "q": "What official stance did Sweden take during the Second World War?",
+        "choices": ["Membership of the Allies", "Membership of the Axis", "Neutrality", "Union with Finland"],
+        "answer": 2,
+        "fact": "Sweden has not fought a war since a short campaign against Norway in 1814, one of the longest runs of peace of any nation.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which union, formed in 1397, joined Sweden with Denmark and Norway under a single monarch?",
+        "choices": ["The Hanseatic League", "The Union of Lublin", "The Holy Alliance", "The Kalmar Union"],
+        "answer": 3,
+        "fact": "It is named after the Swedish town of Kalmar, where Eric of Pomerania was crowned king of all three realms.",
+        "difficulty": 1
+      },
+      {
+        "q": "To which empire did Sweden lose Finland in 1809?",
+        "choices": ["Russia", "Prussia", "Austria", "The Ottoman Empire"],
+        "answer": 0,
+        "fact": "Finland had been part of the Swedish realm for around 600 years before it became a grand duchy of the Russian Empire.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which country peacefully dissolved its union with Sweden in 1905?",
+        "choices": ["Finland", "Norway", "Denmark", "Iceland"],
+        "answer": 1,
+        "fact": "In a referendum that August, Norwegians backed independence by 368,208 votes to just 184.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish diplomat saved thousands of Jews in Budapest in 1944 by issuing protective passports?",
+        "choices": ["Folke Bernadotte", "Dag Hammarskjöld", "Raoul Wallenberg", "Per Albin Hansson"],
+        "answer": 2,
+        "fact": "Wallenberg vanished into Soviet custody in 1945; Swedish authorities formally declared him dead in 2016.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish queen abdicated in 1654 and later converted to Catholicism?",
+        "choices": ["Ulrika Eleonora", "Louisa Ulrika", "Margaret", "Christina"],
+        "answer": 3,
+        "fact": "Christina settled in Rome and is one of only a handful of women buried in St Peter's Basilica.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French marshal was elected Swedish crown prince in 1810, founding the present royal dynasty?",
+        "choices": ["Jean-Baptiste Bernadotte", "Michel Ney", "Joachim Murat", "Louis-Nicolas Davout"],
+        "answer": 0,
+        "fact": "He became King Charles XIV John in 1818, and every Swedish monarch since has descended from him.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish king was defeated by Peter the Great at the Battle of Poltava in 1709?",
+        "choices": ["Charles X Gustav", "Charles XII", "Gustavus Adolphus", "Frederick I"],
+        "answer": 1,
+        "fact": "After Poltava, Charles XII fled south and spent about five years as a guest of the Ottoman Empire.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish king was fatally shot at a masked ball in Stockholm's Royal Opera in 1792?",
+        "choices": ["Gustav IV Adolf", "Adolf Frederick", "Gustav III", "Charles XIII"],
+        "answer": 2,
+        "fact": "The assassination inspired Giuseppe Verdi's opera Un ballo in maschera (A Masked Ball).",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1658 treaty transferred the province of Skåne from Denmark to Sweden?",
+        "choices": ["Treaty of Westphalia", "Treaty of Nystad", "Treaty of Kiel", "Treaty of Roskilde"],
+        "answer": 3,
+        "fact": "Charles X Gustav forced the deal after marching his army across the frozen Danish straits in the depths of winter.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish count organised the \"White Buses\" that rescued concentration camp prisoners in 1945?",
+        "choices": ["Folke Bernadotte", "Raoul Wallenberg", "Carl Gustaf Mannerheim", "Tage Erlander"],
+        "answer": 0,
+        "fact": "Bernadotte later became the UN's mediator in Palestine and was assassinated in Jerusalem in 1948.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which walled town on the island of Gotland was a leading member of the medieval Hanseatic League?",
+        "choices": ["Kalmar", "Visby", "Ystad", "Söderköping"],
+        "answer": 1,
+        "fact": "Visby's medieval ring wall, about 3.4 km long, is one of the best preserved in Scandinavia and a UNESCO World Heritage Site.",
+        "difficulty": 2
+      },
+      {
+        "q": "Swedish engineer Salomon August Andrée set off by hydrogen balloon in 1897 to reach where?",
+        "choices": ["The South Pole", "The summit of Greenland", "The North Pole", "Siberia"],
+        "answer": 2,
+        "fact": "The crew's fate was a mystery until their last camp was found in 1930, along with film that could still be developed.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish king was deposed by army officers in 1809 after the loss of Finland?",
+        "choices": ["Gustav III", "Charles XIII", "Charles XIV John", "Gustav IV Adolf"],
+        "answer": 3,
+        "fact": "Gustav IV Adolf spent the rest of his life in exile and died in Switzerland in 1837.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Swedish victory at the Battle of Breitenfeld in 1631 was fought during which war?",
+        "choices": ["The Thirty Years' War", "The Great Northern War", "The Scanian War", "The Northern Seven Years' War"],
+        "answer": 0,
+        "fact": "Gustavus Adolphus's defeat of the Imperial general Tilly at Breitenfeld was the first great Protestant victory of the war.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 1721 treaty ended the Great Northern War and Sweden's era as a great power?",
+        "choices": ["Treaty of Stolbovo", "Treaty of Nystad", "Treaty of Fredrikshamn", "Treaty of Roskilde"],
+        "answer": 1,
+        "fact": "Sweden ceded Livonia, Estonia, Ingria and part of Karelia to Peter the Great's Russia.",
+        "difficulty": 3
+      },
+      {
+        "q": "What name is given to the period from 1719 to 1772 when Sweden's parliament dominated its kings?",
+        "choices": ["The Gustavian Era", "The Caroline Era", "The Age of Liberty", "The Age of Greatness"],
+        "answer": 2,
+        "fact": "Rival parliamentary factions, nicknamed the Hats and the Caps, ran the country until Gustav III's coup in 1772.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Danish king ordered the 1520 executions known as the Stockholm Bloodbath?",
+        "choices": ["Christian IV", "Frederick I", "Eric of Pomerania", "Christian II"],
+        "answer": 3,
+        "fact": "The killings turned Swedes against the Kalmar Union, and the king is still remembered in Sweden as \"Christian the Tyrant\".",
+        "difficulty": 3
+      },
+      {
+        "q": "Which runestone in Östergötland bears the longest known runic inscription?",
+        "choices": ["The Rök Runestone", "The Jelling Stone", "The Kensington Runestone", "The Hunnestad Monument"],
+        "answer": 0,
+        "fact": "Carved in the 800s, its more than 700 runes include riddles and allusions that scholars still debate.",
+        "difficulty": 3
+      },
+      {
+        "q": "At which 1700 battle did 18-year-old Charles XII defeat a much larger Russian army in a snowstorm?",
+        "choices": ["Poltava", "Narva", "Lützen", "Fraustadt"],
+        "answer": 1,
+        "fact": "The victory at Narva, in present-day Estonia, made Charles XII famous across Europe at the start of the Great Northern War.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish west-coast city was founded by Gustavus Adolphus in 1621?",
+        "choices": ["Malmö", "Helsingborg", "Gothenburg", "Karlskrona"],
+        "answer": 2,
+        "fact": "Dutch engineers helped lay out its canals, and the city gave Sweden a port on the North Sea beyond Denmark's control of the Sound.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which Swedish chemist invented dynamite?",
+        "choices": ["Anders Celsius", "Alfred Nobel", "Jöns Jacob Berzelius", "Carl Wilhelm Scheele"],
+        "answer": 1,
+        "fact": "Nobel patented dynamite in 1867 and left most of his fortune to fund the Nobel Prizes, first awarded in 1901.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish astronomer devised a 100-degree temperature scale in 1742?",
+        "choices": ["Carl Linnaeus", "Anders Ångström", "Anders Celsius", "Emanuel Swedenborg"],
+        "answer": 2,
+        "fact": "Celsius originally set 0 as the boiling point of water and 100 as freezing; the scale was flipped after his death.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish botanist created the two-part Latin naming system used for species, such as Homo sapiens?",
+        "choices": ["Anders Celsius", "Svante Arrhenius", "Carl Wilhelm Scheele", "Carl Linnaeus"],
+        "answer": 3,
+        "fact": "Linnaeus's Species Plantarum of 1753 is the official starting point for the scientific names of plants.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which flat-pack furniture company did Ingvar Kamprad found in 1943?",
+        "choices": ["IKEA", "Electrolux", "Husqvarna", "Ericsson"],
+        "answer": 0,
+        "fact": "The name combines his initials with Elmtaryd, his family's farm, and Agunnaryd, his home village in Småland.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish carmaker introduced the modern three-point seat belt in 1959?",
+        "choices": ["Saab", "Volvo", "Scania", "Koenigsegg"],
+        "answer": 1,
+        "fact": "Engineer Nils Bohlin designed it, and Volvo let other manufacturers use the patented design for free.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which music-streaming service was founded in Stockholm in 2006?",
+        "choices": ["SoundCloud", "Deezer", "Spotify", "Tidal"],
+        "answer": 2,
+        "fact": "Daniel Ek and Martin Lorentzon founded Spotify, which launched its service in 2008.",
+        "difficulty": 1
+      },
+      {
+        "q": "Lars Magnus Ericsson's Stockholm workshop, opened in 1876, grew into a giant in which industry?",
+        "choices": ["Car making", "Pharmaceuticals", "Steelmaking", "Telecommunications"],
+        "answer": 3,
+        "fact": "Ericsson began by repairing telegraph equipment and became one of the world's leading makers of mobile network gear.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which internet calling service did Swede Niklas Zennström co-found in 2003?",
+        "choices": ["Skype", "WhatsApp", "Viber", "Zoom"],
+        "answer": 0,
+        "fact": "Skype was co-founded with Dane Janus Friis and built by Estonian programmers; Microsoft bought it in 2011.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Stockholm game studio created the best-selling video game Minecraft?",
+        "choices": ["DICE", "Mojang", "King", "Paradox Interactive"],
+        "answer": 1,
+        "fact": "Minecraft was created by Markus \"Notch\" Persson, and Microsoft bought Mojang in 2014 for $2.5 billion.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish chemist discovered oxygen independently in the early 1770s?",
+        "choices": ["Jöns Jacob Berzelius", "Svante Arrhenius", "Carl Wilhelm Scheele", "Alfred Nobel"],
+        "answer": 2,
+        "fact": "Scheele also first produced chlorine and identified several organic acids, all while working as a pharmacist.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish chemist introduced the letter-based chemical symbols, such as H and O, still used today?",
+        "choices": ["Carl Wilhelm Scheele", "Svante Arrhenius", "Anders Ångström", "Jöns Jacob Berzelius"],
+        "answer": 3,
+        "fact": "Berzelius also helped discover the elements cerium, selenium and thorium.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish scientist calculated in 1896 that more carbon dioxide in the air would warm the Earth?",
+        "choices": ["Svante Arrhenius", "Anders Celsius", "Hannes Alfvén", "Gustaf Dalén"],
+        "answer": 0,
+        "fact": "Arrhenius won the 1903 Nobel Prize in Chemistry for his theory of how salts split into ions in solution.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which carton-packaging company was founded by Ruben Rausing in Lund?",
+        "choices": ["Elopak", "Tetra Pak", "Stora Enso", "SIG"],
+        "answer": 1,
+        "fact": "Its first tetrahedron-shaped cartons, used for cream, appeared in 1952.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish inventor is credited with the modern adjustable spanner (wrench)?",
+        "choices": ["Gustaf de Laval", "Lars Magnus Ericsson", "Johan Petter Johansson", "Baltzar von Platen"],
+        "answer": 2,
+        "fact": "Johansson ran a workshop in Enköping, and his tools were sold worldwide through the firm that became Bahco.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish-born engineer designed the ironclad USS Monitor for the Union Navy?",
+        "choices": ["Alfred Nobel", "Gustaf de Laval", "Carl Edvard Johansson", "John Ericsson"],
+        "answer": 3,
+        "fact": "Ericsson also pioneered the screw propeller; his body was returned to Sweden in 1890 aboard the cruiser USS Baltimore.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish inventor built a centrifugal cream separator in the 1870s?",
+        "choices": ["Gustaf de Laval", "Alfred Nobel", "John Ericsson", "Gustaf Dalén"],
+        "answer": 0,
+        "fact": "His company became Alfa Laval, and he also built pioneering high-speed steam turbines.",
+        "difficulty": 2
+      },
+      {
+        "q": "At which Swedish company was Bluetooth wireless technology first developed?",
+        "choices": ["Saab", "Ericsson", "Volvo", "Electrolux"],
+        "answer": 1,
+        "fact": "It is named after the Danish Viking king Harald Bluetooth, and its logo merges his runic initials.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which tiny unit of length, one ten-billionth of a metre, is named after a Swedish physicist?",
+        "choices": ["Siemens", "Kelvin", "Ångström", "Tesla"],
+        "answer": 2,
+        "fact": "Anders Jonas Ångström was a founder of spectroscopy and showed that the Sun's spectrum contains hydrogen.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1958, the first fully implanted cardiac pacemaker was fitted at which Swedish hospital?",
+        "choices": ["Sahlgrenska", "Uppsala Akademiska", "Skåne University Hospital", "Karolinska"],
+        "answer": 3,
+        "fact": "The patient, Arne Larsson, received 26 pacemakers over his lifetime and outlived both of the device's inventors.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish engineer won the 1912 Nobel Prize in Physics for an automatic valve used in lighthouses?",
+        "choices": ["Gustaf Dalén", "Manne Siegbahn", "Hannes Alfvén", "The Svedberg"],
+        "answer": 0,
+        "fact": "Dalén was blinded in an explosion the same year, yet went on to invent the AGA cooker.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which company commercialised the absorption refrigerator invented by Swedish students Baltzar von Platen and Carl Munters?",
+        "choices": ["Ericsson", "Electrolux", "Husqvarna", "ASEA"],
+        "answer": 1,
+        "fact": "Their design has no moving parts, which is why it is still used in silent hotel minibars and caravan fridges.",
+        "difficulty": 3
+      },
+      {
+        "q": "Swedish machinist Carl Edvard Johansson invented which precision measuring tools?",
+        "choices": ["Micrometers", "Vernier callipers", "Gauge blocks", "Spirit levels"],
+        "answer": 2,
+        "fact": "Henry Ford was so impressed that he hired Johansson, and the blocks are still nicknamed \"Jo blocks\".",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish physicist won the 1970 Nobel Prize for his work on magnetohydrodynamics and plasmas?",
+        "choices": ["Kai Siegbahn", "Manne Siegbahn", "Arne Tiselius", "Hannes Alfvén"],
+        "answer": 3,
+        "fact": "Alfvén waves, which ripple through plasmas such as the Sun's atmosphere, are named after him.",
+        "difficulty": 3
+      },
+      {
+        "q": "The elements yttrium, ytterbium, terbium and erbium are all named after which Swedish village?",
+        "choices": ["Ytterby", "Falun", "Kiruna", "Sala"],
+        "answer": 0,
+        "fact": "A single quarry at Ytterby, in the Stockholm archipelago, yielded minerals that led to the discovery of several new elements.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish electrical company, founded in 1883, later merged with Brown Boveri to form ABB?",
+        "choices": ["Ericsson", "ASEA", "Vattenfall", "Atlas Copco"],
+        "answer": 1,
+        "fact": "ASEA and Switzerland's Brown, Boveri & Cie combined in 1988 to create one of the world's largest engineering groups.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which Swedish pop group won the 1974 Eurovision Song Contest with \"Waterloo\"?",
+        "choices": ["Roxette", "ABBA", "Ace of Base", "The Cardigans"],
+        "answer": 1,
+        "fact": "The band's name is an acronym of its members' first names: Agnetha, Björn, Benny and Anni-Frid.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish author created Pippi Longstocking?",
+        "choices": ["Selma Lagerlöf", "Tove Jansson", "Astrid Lindgren", "Maria Gripe"],
+        "answer": 2,
+        "fact": "Lindgren's books have been translated into more than 100 languages.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish director made the 1957 film The Seventh Seal, in which a knight plays chess with Death?",
+        "choices": ["Lasse Hallström", "Bo Widerberg", "Roy Andersson", "Ingmar Bergman"],
+        "answer": 3,
+        "fact": "The image of the knight and the hooded figure of Death on a beach is one of the most parodied scenes in cinema.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish journalist wrote The Girl with the Dragon Tattoo?",
+        "choices": ["Stieg Larsson", "Henning Mankell", "Camilla Läckberg", "Jo Nesbø"],
+        "answer": 0,
+        "fact": "Larsson died in 2004, before any of his Millennium novels were published.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish actress starred opposite Humphrey Bogart in Casablanca?",
+        "choices": ["Greta Garbo", "Ingrid Bergman", "Anita Ekberg", "Liv Ullmann"],
+        "answer": 1,
+        "fact": "Ingrid Bergman won three Academy Awards during her career.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish-born Hollywood star famously said \"I want to be alone\" in the 1932 film Grand Hotel?",
+        "choices": ["Ingrid Bergman", "Zarah Leander", "Greta Garbo", "Anita Ekberg"],
+        "answer": 2,
+        "fact": "Garbo retired from film in 1941 and spent the rest of her life avoiding publicity in New York.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish DJ and producer released the hits \"Levels\" and \"Wake Me Up\"?",
+        "choices": ["Alesso", "Axwell", "Eric Prydz", "Avicii"],
+        "answer": 3,
+        "fact": "Stockholm's giant globe-shaped arena, the Globen, was renamed Avicii Arena in his honour in 2021.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish duo recorded \"It Must Have Been Love\" and \"The Look\"?",
+        "choices": ["Roxette", "Ace of Base", "Europe", "The Cardigans"],
+        "answer": 0,
+        "fact": "\"It Must Have Been Love\" became a worldwide hit in 1990 on the soundtrack of the film Pretty Woman.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish rock band had a 1986 hit with \"The Final Countdown\"?",
+        "choices": ["Roxette", "Europe", "The Hives", "Ace of Base"],
+        "answer": 1,
+        "fact": "The song reached number one in the UK and many other countries, and its synth riff still blares in sports arenas.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish writer became the first woman to win the Nobel Prize in Literature, in 1909?",
+        "choices": ["Astrid Lindgren", "Karin Boye", "Selma Lagerlöf", "Nelly Sachs"],
+        "answer": 2,
+        "fact": "Her Wonderful Adventures of Nils, about a boy flying over Sweden on a goose, was written as a geography reader for schools.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish playwright wrote Miss Julie (1888)?",
+        "choices": ["Henrik Ibsen", "Hjalmar Söderberg", "Pär Lagerkvist", "August Strindberg"],
+        "answer": 3,
+        "fact": "Strindberg was also an expressive painter whose stormy seascapes now hang in major museums.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish painter is famous for watercolours of family life at his home in Sundborn?",
+        "choices": ["Carl Larsson", "Anders Zorn", "Bruno Liljefors", "Prince Eugen"],
+        "answer": 0,
+        "fact": "His book of paintings Ett hem (A Home) helped shape the bright, airy style of Swedish interiors.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish artist painted abstract works from 1906, years before Kandinsky?",
+        "choices": ["Sigrid Hjertén", "Hilma af Klint", "Vera Nilsson", "Siri Derkert"],
+        "answer": 1,
+        "fact": "She asked that her abstract paintings stay hidden for 20 years after her death; a 2018 Guggenheim show drew record crowds.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which painter from Mora in Dalarna was celebrated for his portraits, nudes and etchings?",
+        "choices": ["Carl Larsson", "Bruno Liljefors", "Anders Zorn", "Ernst Josephson"],
+        "answer": 2,
+        "fact": "Zorn's portrait sitters included US Presidents Grover Cleveland and William Howard Taft.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which Stockholm building is the Nobel Prize banquet held?",
+        "choices": ["The Royal Palace", "Stockholm Concert Hall", "The Royal Opera", "Stockholm City Hall"],
+        "answer": 3,
+        "fact": "Architect Ragnar Östberg planned to plaster the Blue Hall, but liked the bare brick so much that he left it unpainted.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish author wrote The Emigrants novels about Småland farmers moving to Minnesota?",
+        "choices": ["Vilhelm Moberg", "Pär Lagerkvist", "Eyvind Johnson", "Harry Martinson"],
+        "answer": 0,
+        "fact": "Jan Troell filmed the story in 1971 with Max von Sydow and Liv Ullmann in the lead roles.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which musical did ABBA's Benny Andersson and Björn Ulvaeus write with lyricist Tim Rice?",
+        "choices": ["Mamma Mia!", "Chess", "Evita", "Kristina"],
+        "answer": 1,
+        "fact": "Its single \"One Night in Bangkok\" became an international hit in 1984.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish author created the detective Kurt Wallander?",
+        "choices": ["Stieg Larsson", "Håkan Nesser", "Henning Mankell", "Camilla Läckberg"],
+        "answer": 2,
+        "fact": "Wallander works in the southern town of Ystad, which now draws fans on Wallander-themed walking tours.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Stockholm cemetery, designed by Gunnar Asplund and Sigurd Lewerentz, is a UNESCO World Heritage Site?",
+        "choices": ["Norra begravningsplatsen", "Galärvarvskyrkogården", "Adolf Fredriks kyrkogård", "Skogskyrkogården"],
+        "answer": 3,
+        "fact": "The Woodland Cemetery blends graves into a pine forest, and Greta Garbo is buried there.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish poet won the 2011 Nobel Prize in Literature?",
+        "choices": ["Tomas Tranströmer", "Harry Martinson", "Pär Lagerkvist", "Gunnar Ekelöf"],
+        "answer": 0,
+        "fact": "A 1990 stroke left him barely able to speak, but he kept writing and playing the piano with his left hand.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 18th-century Swedish poet and songwriter wrote Fredman's Epistles?",
+        "choices": ["Evert Taube", "Carl Michael Bellman", "Esaias Tegnér", "Johan Helmich Roman"],
+        "answer": 1,
+        "fact": "Bellman's songs about Stockholm's taverns, drinkers and dreamers are still sung by Swedes today.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Ingmar Bergman film won four Academy Awards, including Best Foreign Language Film, in 1984?",
+        "choices": ["Persona", "Wild Strawberries", "Fanny and Alexander", "Cries and Whispers"],
+        "answer": 2,
+        "fact": "Bergman also made a five-hour television version of the story, set in a wealthy family in Uppsala.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish sculptor's former home on Lidingö is now an open-air museum of his work?",
+        "choices": ["Johan Tobias Sergel", "Carl Eldh", "Christian Eriksson", "Carl Milles"],
+        "answer": 3,
+        "fact": "Milles taught for two decades at Cranbrook Academy in Michigan, and many of his fountains stand in the United States.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish director won the Palme d'Or in 2017 for The Square?",
+        "choices": ["Ruben Östlund", "Roy Andersson", "Lukas Moodysson", "Tomas Alfredson"],
+        "answer": 0,
+        "fact": "The satire follows the chief curator of a Stockholm art museum whose life unravels around an art installation.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which architect designed Drottningholm Palace, the Swedish royal family's home outside Stockholm?",
+        "choices": ["Ragnar Östberg", "Nicodemus Tessin the Elder", "Gunnar Asplund", "Carl Hårleman"],
+        "answer": 1,
+        "fact": "The palace's 1766 court theatre still works with its original wooden stage machinery.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "What is the name of Sweden's national parliament?",
+        "choices": ["Storting", "Folketing", "Riksdag", "Eduskunta"],
+        "answer": 2,
+        "fact": "Its 349 members are elected for four-year terms by proportional representation.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which king acceded to the Swedish throne in 1973?",
+        "choices": ["Gustaf VI Adolf", "Oscar II", "Gustaf V", "Carl XVI Gustaf"],
+        "answer": 3,
+        "fact": "In 2018 he overtook the medieval king Magnus IV to become the longest-reigning monarch in Swedish history.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which royal became heir to the Swedish throne after a 1980 law gave the crown to the eldest child regardless of sex?",
+        "choices": ["Victoria", "Madeleine", "Carl Philip", "Estelle"],
+        "answer": 0,
+        "fact": "Sweden was the first monarchy to adopt equal succession, which moved her ahead of her younger brother Carl Philip.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which year did Sweden join the European Union?",
+        "choices": ["1973", "1995", "1986", "2004"],
+        "answer": 1,
+        "fact": "Sweden joined at the same time as Austria and Finland, after a referendum in November 1994.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which currency did Swedish voters reject in a 2003 referendum?",
+        "choices": ["The Nordic krona", "The US dollar", "The euro", "The Deutschmark"],
+        "answer": 2,
+        "fact": "About 56% voted no, so Sweden kept the krona even though it is an EU member.",
+        "difficulty": 1
+      },
+      {
+        "q": "What type of state is Sweden?",
+        "choices": ["A presidential republic", "An absolute monarchy", "A federal republic", "A constitutional monarchy"],
+        "answer": 3,
+        "fact": "Under the 1974 Instrument of Government, the monarch's duties are purely ceremonial and representative.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish prime minister was shot dead on a Stockholm street in 1986?",
+        "choices": ["Olof Palme", "Tage Erlander", "Ingvar Carlsson", "Carl Bildt"],
+        "answer": 0,
+        "fact": "Palme was walking home from a cinema with his wife, without bodyguards, when he was shot on Sveavägen.",
+        "difficulty": 1
+      },
+      {
+        "q": "Unlike the other Nobel Prizes presented in Stockholm, the Nobel Peace Prize is awarded in which city?",
+        "choices": ["Geneva", "Oslo", "Copenhagen", "Helsinki"],
+        "answer": 1,
+        "fact": "Nobel's will gave the Peace Prize to a committee of Norway's parliament; Norway and Sweden were then in union.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish teenager began a school strike for the climate outside the Riksdag in August 2018?",
+        "choices": ["Zara Larsson", "Ebba Busch", "Greta Thunberg", "Malena Ernman"],
+        "answer": 2,
+        "fact": "Her hand-painted sign, \"Skolstrejk för klimatet\", launched the worldwide Fridays for Future movement.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swede served as UN Secretary-General from 1953 until his death in 1961?",
+        "choices": ["Trygve Lie", "U Thant", "Kurt Waldheim", "Dag Hammarskjöld"],
+        "answer": 3,
+        "fact": "Killed in a plane crash in Northern Rhodesia, he remains the only person awarded the Nobel Peace Prize posthumously.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which public office, created in Sweden in 1809, has given its Swedish name to similar posts worldwide?",
+        "choices": ["Ombudsman", "Chancellor", "Speaker", "Auditor-general"],
+        "answer": 0,
+        "fact": "The parliamentary ombudsman was set up to make sure that officials and courts obey the law.",
+        "difficulty": 2
+      },
+      {
+        "q": "Sweden's Freedom of the Press Act of 1766 is famous for being what?",
+        "choices": ["Europe's first ban on newspapers", "The world's first law protecting press freedom", "The first law requiring state censors", "The first copyright law"],
+        "answer": 1,
+        "fact": "The same act introduced the right of public access to official documents, still a cornerstone of Swedish government.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which party held power in Sweden for 44 years from 1932, apart from a brief break in 1936?",
+        "choices": ["The Moderates", "The Centre Party", "The Social Democrats", "The Liberals"],
+        "answer": 2,
+        "fact": "Social Democrat Tage Erlander led the government for 23 unbroken years, from 1946 to 1969.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish word describes the vision of society as a caring \"people's home\"?",
+        "choices": ["Lagom", "Allemansrätten", "Jantelagen", "Folkhemmet"],
+        "answer": 3,
+        "fact": "Social Democrat leader Per Albin Hansson popularised the idea in a famous 1928 speech.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was Sweden's prime minister throughout the Second World War?",
+        "choices": ["Per Albin Hansson", "Tage Erlander", "Hjalmar Branting", "Arvid Lindman"],
+        "answer": 0,
+        "fact": "Hansson died suddenly in 1946 after a heart attack at a Stockholm tram stop.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish Social Democrat shared the 1921 Nobel Peace Prize?",
+        "choices": ["Per Albin Hansson", "Hjalmar Branting", "Tage Erlander", "Olof Palme"],
+        "answer": 1,
+        "fact": "In 1920 Branting became Sweden's first Social Democratic prime minister.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year did Swedish women first vote in a general election?",
+        "choices": ["1906", "1945", "1921", "1971"],
+        "answer": 2,
+        "fact": "Five women won seats in the Riksdag in that first election.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which decade did Sweden's two-chamber Riksdag become a single chamber?",
+        "choices": ["1920s", "1950s", "1990s", "1970s"],
+        "answer": 3,
+        "fact": "The bicameral parliament created in 1866 was replaced by a unicameral Riksdag in 1971.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Swedish Riksdag traces its origins to a 1435 meeting in which town?",
+        "choices": ["Arboga", "Uppsala", "Västerås", "Strängnäs"],
+        "answer": 0,
+        "fact": "For centuries the Riksdag of the Estates had four chambers: nobility, clergy, burghers and peasants.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish prime minister of 1991-1994 later served as foreign minister from 2006 to 2014?",
+        "choices": ["Göran Persson", "Carl Bildt", "Ingvar Carlsson", "Fredrik Reinfeldt"],
+        "answer": 1,
+        "fact": "Bildt also served as an EU and UN peace envoy in the former Yugoslavia during the 1990s.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which prime minister led Sweden's centre-right \"Alliance\" government from 2006 to 2014?",
+        "choices": ["Carl Bildt", "Ulf Kristersson", "Fredrik Reinfeldt", "Göran Persson"],
+        "answer": 2,
+        "fact": "The Alliance brought together the Moderates, Centre Party, Liberals and Christian Democrats.",
+        "difficulty": 3
+      },
+      {
+        "q": "Under Sweden's 1974 Instrument of Government, who proposes a new prime minister to the Riksdag?",
+        "choices": ["The King", "The Chief Justice", "The outgoing prime minister", "The Speaker"],
+        "answer": 3,
+        "fact": "Before the reform this was a task of the monarch; now the Speaker holds talks with party leaders first.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the name of the Swedish prime minister's official residence in Stockholm?",
+        "choices": ["Sagerska huset", "Rosenbad", "Haga Palace", "Harpsund"],
+        "answer": 0,
+        "fact": "The townhouse has been the official residence since 1995; nearby Rosenbad holds the Government Offices.",
+        "difficulty": 3
+      },
+      {
+        "q": "What share of the national vote must a party win to gain seats in the Riksdag?",
+        "choices": ["2%", "4%", "3%", "5%"],
+        "answer": 1,
+        "fact": "A party can also qualify by winning 12% of the vote in a single constituency.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was Sweden's prime minister from 1996 to 2006?",
+        "choices": ["Ingvar Carlsson", "Carl Bildt", "Göran Persson", "Stefan Löfven"],
+        "answer": 2,
+        "fact": "Persson chaired the EU when Sweden held its first presidency of the Council, in 2001.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "In March 2024, Sweden became the 32nd member of which alliance?",
+        "choices": ["The European Union", "The Council of Europe", "NATO", "The Nordic Council"],
+        "answer": 2,
+        "fact": "Sweden applied together with Finland in May 2022, ending more than 200 years of military non-alignment.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who became Sweden's first female prime minister in November 2021?",
+        "choices": ["Ebba Busch", "Annie Lööf", "Ann Linde", "Magdalena Andersson"],
+        "answer": 3,
+        "fact": "She resigned hours after her first election when her budget failed, then was voted in again five days later.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Moderate Party leader became Sweden's prime minister in October 2022?",
+        "choices": ["Ulf Kristersson", "Jimmie Åkesson", "Stefan Löfven", "Carl Bildt"],
+        "answer": 0,
+        "fact": "He formed a coalition with the Christian Democrats and Liberals, backed in parliament by the Sweden Democrats.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which Swedish city hosted the Eurovision Song Contest in May 2024?",
+        "choices": ["Stockholm", "Malmö", "Gothenburg", "Uppsala"],
+        "answer": 1,
+        "fact": "It was Malmö's third time as host, after 1992 and 2013.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Swedish singer won Eurovision 2023 with the song \"Tattoo\"?",
+        "choices": ["Måns Zelmerlöw", "Zara Larsson", "Loreen", "Cornelia Jakobs"],
+        "answer": 2,
+        "fact": "Having also won with \"Euphoria\" in 2012, she became the first woman to win the contest twice.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2019, which Swedish climate activist crossed the Atlantic by sailing yacht to attend a UN summit in New York?",
+        "choices": ["Vanessa Nakate", "Luisa Neubauer", "Ebba Busch", "Greta Thunberg"],
+        "answer": 3,
+        "fact": "She sailed on the racing yacht Malizia II to avoid flying, and Time named her Person of the Year that December.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "At the Paris Olympics in August 2024, Swede Armand \"Mondo\" Duplantis set a world record in which event?",
+        "choices": ["Pole vault", "High jump", "Long jump", "Triple jump"],
+        "answer": 0,
+        "fact": "He cleared 6.25 m in Paris to defend the Olympic title he first won in Tokyo.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In spring 2020, Sweden drew global attention for avoiding which COVID-19 measure used across most of Europe?",
+        "choices": ["Border health checks", "A strict national lockdown", "Remote working advice", "Bans on large gatherings"],
+        "answer": 1,
+        "fact": "Sweden relied largely on voluntary recommendations and kept schools for younger children open.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which Swedish striker announced his retirement while playing for AC Milan in June 2023?",
+        "choices": ["Henrik Larsson", "Alexander Isak", "Zlatan Ibrahimović", "Fredrik Ljungberg"],
+        "answer": 2,
+        "fact": "He retired as Sweden's all-time top international scorer, with 62 goals.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Swedish battery maker, once hailed as Europe's answer to Asian rivals, filed for bankruptcy in March 2025?",
+        "choices": ["Polestar", "Einride", "Stegra", "Northvolt"],
+        "answer": 3,
+        "fact": "Founded by former Tesla executives, it had built a giant battery factory near Skellefteå in northern Sweden.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In January 2023, Sweden took over which rotating six-month presidency?",
+        "choices": ["The Council of the European Union", "The UN Security Council", "The G20", "The OSCE"],
+        "answer": 0,
+        "fact": "It was Sweden's third EU Council presidency, after 2001 and 2009.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which country's parliament was the last to approve Sweden's NATO membership, in February 2024?",
+        "choices": ["Turkey", "Hungary", "Slovakia", "Croatia"],
+        "answer": 1,
+        "fact": "Turkey's parliament had approved Sweden's bid a month earlier, in January 2024.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Swedish geneticist Svante Pääbo won the 2022 Nobel Prize in Physiology or Medicine for work on what?",
+        "choices": ["CRISPR gene editing", "mRNA vaccines", "The genomes of extinct human relatives", "Circadian rhythms"],
+        "answer": 2,
+        "fact": "His father, Sune Bergström, won the same prize in 1982.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which party finished second in Sweden's September 2022 general election?",
+        "choices": ["The Moderates", "The Centre Party", "The Left Party", "The Sweden Democrats"],
+        "answer": 3,
+        "fact": "The Social Democrats remained the largest party, with about 30% of the vote.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In August 2025, Kiruna's landmark wooden church was moved about 5 km to make way for what?",
+        "choices": ["An expanding iron ore mine", "A new airport runway", "A hydroelectric reservoir", "A rocket launch site"],
+        "answer": 0,
+        "fact": "The 1912 church, voted one of Sweden's most beautiful buildings, travelled on giant trailers at walking pace.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In January 2024, Marcus Wandt became the second Swede in space, flying to where?",
+        "choices": ["The Tiangong space station", "The International Space Station", "The Moon's orbit", "The Hubble Space Telescope"],
+        "answer": 1,
+        "fact": "The first Swede in space was Christer Fuglesang, who flew on the Space Shuttle in 2006.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In January 2023, a new launch complex for orbital satellites was inaugurated at Esrange, near which Swedish city?",
+        "choices": ["Luleå", "Umeå", "Kiruna", "Östersund"],
+        "answer": 2,
+        "fact": "Esrange has launched research rockets and high-altitude balloons from Swedish Lapland since 1966.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Where did Sweden finish at the 2023 FIFA Women's World Cup?",
+        "choices": ["Champions", "Runners-up", "Quarter-finalists", "Third"],
+        "answer": 3,
+        "fact": "Beating co-hosts Australia 2-0 gave Sweden its fourth third-place finish at a Women's World Cup.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In June 2021, which Swedish prime minister became the first to lose a parliamentary vote of no confidence?",
+        "choices": ["Stefan Löfven", "Magdalena Andersson", "Fredrik Reinfeldt", "Göran Persson"],
+        "answer": 0,
+        "fact": "Löfven resigned but was voted back into office by the Riksdag a few weeks later.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In June 2020, Swedish prosecutors named which man as Olof Palme's likely killer and closed the case?",
+        "choices": ["Christer Pettersson", "Stig Engström", "Victor Gunnarsson", "Lars Tingström"],
+        "answer": 1,
+        "fact": "Engström, nicknamed the \"Skandia Man\" after his workplace, had died in 2000, so no charges could be brought.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which Ruben Östlund film won the Palme d'Or at Cannes in May 2022?",
+        "choices": ["The Square", "Force Majeure", "Triangle of Sadness", "Play"],
+        "answer": 2,
+        "fact": "It made Östlund one of only a handful of directors to win the Palme d'Or twice.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Who was re-elected Speaker of the Riksdag after Sweden's September 2022 election?",
+        "choices": ["Urban Ahlin", "Per Westerberg", "Björn von Sydow", "Andreas Norlén"],
+        "answer": 3,
+        "fact": "As Speaker, the Moderate politician also led the talks that produced Sweden's next prime minister.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In September 2022, explosions damaged which Baltic gas pipelines, partly inside Sweden's economic zone?",
+        "choices": ["Nord Stream", "Baltic Pipe", "Balticconnector", "TurkStream"],
+        "answer": 0,
+        "fact": "Sweden closed its own investigation in February 2024, saying the case did not fall under Swedish jurisdiction.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2019, the glacier-capped south summit of which mountain lost its status as Sweden's highest point?",
+        "choices": ["Sarektjåkkå", "Kebnekaise", "Áhkká", "Helagsfjället"],
+        "answer": 1,
+        "fact": "As its ice cap melted, the rocky north summit, at about 2,097 m, became the highest point in Sweden.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which Swedish golfer finished runner-up at his first Masters Tournament in April 2024?",
+        "choices": ["Henrik Stenson", "Alex Norén", "Ludvig Åberg", "Jesper Parnevik"],
+        "answer": 2,
+        "fact": "Åberg finished second to Scottie Scheffler at Augusta, in his first major championship.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is the capital of Sweden?",
+        "choices": ["Gothenburg", "Malmö", "Uppsala", "Stockholm"],
+        "answer": 3,
+        "fact": "Stockholm is spread over 14 islands where Lake Mälaren meets the Baltic Sea.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Sweden's currency?",
+        "choices": ["Krona", "Euro", "Złoty", "Mark"],
+        "answer": 0,
+        "fact": "Sweden's central bank, the Riksbank, founded in 1668, is the oldest central bank still operating.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are the colours of the Swedish flag?",
+        "choices": ["Red and white", "Blue and yellow", "Blue and white", "Red and yellow"],
+        "answer": 1,
+        "fact": "Like its Nordic neighbours' flags, it has a cross set off-centre towards the flagpole.",
+        "difficulty": 1
+      },
+      {
+        "q": "Around what do Swedes traditionally dance at Midsummer?",
+        "choices": ["A bonfire", "A Christmas tree", "A flower-decked maypole", "A village well"],
+        "answer": 2,
+        "fact": "A favourite Midsummer dance is \"Små grodorna\", in which dancers hop around the pole like little frogs.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish classic is traditionally served with lingonberry jam, gravy and potatoes?",
+        "choices": ["Pierogi", "Schnitzel", "Haggis", "Meatballs"],
+        "answer": 3,
+        "fact": "IKEA's restaurants and food shops reportedly sell around a billion meatballs a year.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is \"fika\" in Swedish culture?",
+        "choices": ["A coffee break with something sweet", "A sauna session", "A midsummer feast", "A winter sports holiday"],
+        "answer": 0,
+        "fact": "Many workplaces build fika into the day, often with a cinnamon bun, or kanelbulle.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Swedish tennis player won five Wimbledon singles titles in a row from 1976 to 1980?",
+        "choices": ["Stefan Edberg", "Björn Borg", "Mats Wilander", "Robin Söderling"],
+        "answer": 1,
+        "fact": "Borg also won the French Open six times, and retired from top-level tennis aged just 26.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Indigenous people, traditionally reindeer herders, live in northern Sweden?",
+        "choices": ["The Inuit", "The Karelians", "The Sámi", "The Basques"],
+        "answer": 2,
+        "fact": "Sápmi, the Sámi homeland, stretches across Norway, Sweden, Finland and Russia's Kola Peninsula.",
+        "difficulty": 1
+      },
+      {
+        "q": "On 13 December, Swedes hold candlelit processions in honour of which saint?",
+        "choices": ["Saint Nicholas", "Saint Martin", "Saint Stephen", "Saint Lucia"],
+        "answer": 3,
+        "fact": "The Lucia leader wears a crown of candles, and saffron buns called lussekatter are eaten.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which is Sweden's largest lake, and also the largest in the European Union?",
+        "choices": ["Vänern", "Vättern", "Mälaren", "Siljan"],
+        "answer": 0,
+        "fact": "Vänern covers about 5,650 square kilometres.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the Swedish right that lets everyone roam, picnic and camp in most of the countryside?",
+        "choices": ["Lagom", "Allemansrätten", "Jantelagen", "Folkhemmet"],
+        "answer": 1,
+        "fact": "The \"everyman's right\" comes with a duty: do not disturb and do not destroy.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Swedish word means \"just the right amount\"?",
+        "choices": ["Hygge", "Fika", "Lagom", "Sisu"],
+        "answer": 2,
+        "fact": "Lagom is often called the key to the Swedish approach to life: not too much, not too little.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which Swedish city is a giant straw Christmas goat famously, and often, set on fire?",
+        "choices": ["Uppsala", "Örebro", "Västerås", "Gävle"],
+        "answer": 3,
+        "fact": "First put up in 1966, the Gävle Goat has been burned in many years despite guards and fireproofing.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which is Sweden's largest island?",
+        "choices": ["Gotland", "Öland", "Orust", "Hisingen"],
+        "answer": 0,
+        "fact": "Gotland is famous for its limestone sea stacks, called raukar, and more than 90 medieval churches.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which bridge links Malmö with Copenhagen?",
+        "choices": ["The Great Belt Bridge", "The Øresund Bridge", "The High Coast Bridge", "The Svinesund Bridge"],
+        "answer": 1,
+        "fact": "Opened in 2000, the crossing dives into a 4 km tunnel via an artificial island before reaching Denmark.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which pungent Swedish delicacy is made from fermented Baltic herring?",
+        "choices": ["Gravlax", "Janssons frestelse", "Surströmming", "Smörgåstårta"],
+        "answer": 2,
+        "fact": "The cans often bulge from continued fermentation, so they are usually opened outdoors.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which ski race, held each March, runs 90 km from Sälen to Mora?",
+        "choices": ["Birkebeinerrennet", "Engadin Skimarathon", "Finlandia-hiihto", "Vasaloppet"],
+        "answer": 3,
+        "fact": "First held in 1922, it commemorates Gustav Vasa's legendary flight on skis in the 1520s.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which is Sweden's second-largest city?",
+        "choices": ["Gothenburg", "Malmö", "Uppsala", "Västerås"],
+        "answer": 0,
+        "fact": "Gothenburg is Volvo's home city and has Liseberg, one of Scandinavia's largest amusement parks.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which Lapland village was the original Icehotel built?",
+        "choices": ["Abisko", "Jukkasjärvi", "Jokkmokk", "Arvidsjaur"],
+        "answer": 1,
+        "fact": "Since 1989 it has been rebuilt each winter from blocks of ice cut from the nearby Torne River.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which long-distance hiking trail runs about 440 km through Lapland from Abisko to Hemavan?",
+        "choices": ["Bohusleden", "Skåneleden", "Kungsleden", "Jämtlandstriangeln"],
+        "answer": 2,
+        "fact": "Its name means \"the King's Trail\", and it passes close to Kebnekaise, Sweden's highest mountain.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Swedish waterway, opened in 1832, was dug largely by some 58,000 soldiers?",
+        "choices": ["The Trollhätte Canal", "The Södertälje Canal", "The Dalsland Canal", "The Göta Canal"],
+        "answer": 3,
+        "fact": "Construction took 22 years, creating a route from Lake Vänern across Sweden toward the Baltic.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which roadless national park in Lapland is often called one of Europe's last great wildernesses?",
+        "choices": ["Sarek", "Tyresta", "Fulufjället", "Söderåsen"],
+        "answer": 0,
+        "fact": "Sarek has almost no marked trails, huts or bridges, and is part of the Laponia World Heritage Site.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Stockholm open-air museum, founded in 1891, displays historic buildings moved from across Sweden?",
+        "choices": ["Nordiska museet", "Skansen", "Millesgården", "Fotografiska"],
+        "answer": 1,
+        "fact": "Founded by Artur Hazelius, Skansen is often called the world's first open-air museum.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which province is the \"Kingdom of Crystal\", home to glassworks such as Kosta and Orrefors?",
+        "choices": ["Dalarna", "Värmland", "Småland", "Skåne"],
+        "answer": 2,
+        "fact": "The Kosta glassworks dates back to 1742.",
+        "difficulty": 3
+      },
+      {
+        "q": "The village of Nusnäs, near Mora, is famous for making which Swedish souvenir?",
+        "choices": ["Wooden clogs", "Crystal vases", "Sámi knives", "Dala horses"],
+        "answer": 3,
+        "fact": "Most are painted bright red with a floral harness in the traditional kurbits style.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

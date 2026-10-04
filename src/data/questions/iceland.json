@@ -1,0 +1,1092 @@
+{
+  "country": "iceland",
+  "topics": {
+    "history": [
+      {
+        "q": "Which son of Erik the Red led a Norse voyage to North America around 1000 CE?",
+        "choices": ["Leif Erikson", "Ingólfur Arnarson", "Harald Hardrada", "Snorri Sturluson"],
+        "answer": 0,
+        "fact": "Leif called the land he found Vinland; Norse ruins at L'Anse aux Meadows in Newfoundland confirm a Viking presence there around 1000 CE.",
+        "difficulty": 1
+      },
+      {
+        "q": "From which country did most of Iceland's Viking-Age settlers sail?",
+        "choices": ["Denmark", "Norway", "Sweden", "Finland"],
+        "answer": 1,
+        "fact": "Many settlers also brought wives and enslaved people from Ireland and Scotland, and DNA studies show a strong Celtic strand in Iceland's early population.",
+        "difficulty": 1
+      },
+      {
+        "q": "Iceland became a fully independent republic in which year?",
+        "choices": ["1874", "1918", "1944", "1905"],
+        "answer": 2,
+        "fact": "The republic was proclaimed on 17 June 1944 at Þingvellir, the birthday of independence hero Jón Sigurðsson, which is now Iceland's National Day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Before becoming a republic, Iceland shared its monarch with which country?",
+        "choices": ["Netherlands", "Sweden", "United Kingdom", "Denmark"],
+        "answer": 3,
+        "fact": "Iceland passed under the Danish crown in the late 14th century, when the Norwegian and Danish thrones were united.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which country's forces occupied neutral Iceland in May 1940, during the Second World War?",
+        "choices": ["United Kingdom", "Germany", "Soviet Union", "France"],
+        "answer": 0,
+        "fact": "British troops landed on 10 May 1940 to keep Iceland out of German hands; United States forces took over its defence the following year.",
+        "difficulty": 1
+      },
+      {
+        "q": "The 'Cod Wars' of the 1950s-70s were fishing disputes between Iceland and which country?",
+        "choices": ["Norway", "United Kingdom", "Spain", "Faroe Islands"],
+        "answer": 1,
+        "fact": "Icelandic coastguard vessels used net-cutters to sever British trawlers' nets; Iceland won recognition of its 200-nautical-mile fishing zone in 1976.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which world chess championship match was held in Reykjavík in 1972?",
+        "choices": ["Mikhail Tal vs Mikhail Botvinnik", "Garry Kasparov vs Anatoly Karpov", "Bobby Fischer vs Boris Spassky", "Magnus Carlsen vs Viswanathan Anand"],
+        "answer": 2,
+        "fact": "Fischer won the 'Match of the Century'. He later became an Icelandic citizen and is buried in a churchyard near Selfoss.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which two leaders met at Höfði House in Reykjavík for a famous 1986 summit?",
+        "choices": ["George H. W. Bush and Boris Yeltsin", "Richard Nixon and Leonid Brezhnev", "John F. Kennedy and Nikita Khrushchev", "Ronald Reagan and Mikhail Gorbachev"],
+        "answer": 3,
+        "fact": "The talks came close to a deal on scrapping nuclear weapons and paved the way for the INF Treaty signed the following year.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Norse explorer, outlawed from Iceland, founded the first Norse settlements in Greenland around 985?",
+        "choices": ["Erik the Red", "Leif Erikson", "Ingólfur Arnarson", "Bjarni Herjólfsson"],
+        "answer": 0,
+        "fact": "The sagas say Erik chose the name 'Greenland' because people would be more eager to go there if it had an attractive name.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who is traditionally honoured as Iceland's first permanent Norse settler?",
+        "choices": ["Erik the Red", "Ingólfur Arnarson", "Flóki Vilgerðarson", "Egill Skallagrímsson"],
+        "answer": 1,
+        "fact": "Legend says Ingólfur threw his high-seat pillars overboard and settled where they washed ashore: the bay he named Reykjavík.",
+        "difficulty": 2
+      },
+      {
+        "q": "In about which year did the Althing accept Christianity as Iceland's official religion?",
+        "choices": ["1262", "874", "1000", "1550"],
+        "answer": 2,
+        "fact": "As a compromise, people could still eat horse meat and worship the old gods in private for a time after the conversion.",
+        "difficulty": 2
+      },
+      {
+        "q": "Under the 'Old Covenant' of 1262-64, Icelandic chieftains swore allegiance to the king of which country?",
+        "choices": ["England", "Denmark", "Sweden", "Norway"],
+        "answer": 3,
+        "fact": "The agreement ended the Icelandic Commonwealth after decades of violent feuding between powerful chieftain families.",
+        "difficulty": 2
+      },
+      {
+        "q": "The 1783-84 eruption of which volcanic fissure caused the famine known as the 'Mist Hardships'?",
+        "choices": ["Laki", "Hekla", "Katla", "Eyjafjallajökull"],
+        "answer": 0,
+        "fact": "Poisonous gases killed much of Iceland's livestock, and roughly a fifth of the population died; the haze was felt across Europe.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 19th-century scholar led Iceland's campaign for self-rule and gave his birthday to its National Day?",
+        "choices": ["Jónas Hallgrímsson", "Jón Sigurðsson", "Hannes Hafstein", "Sveinn Björnsson"],
+        "answer": 1,
+        "fact": "Jón Sigurðsson's portrait appears on the 500-krónur note, and his statue faces the Althing building in Reykjavík.",
+        "difficulty": 2
+      },
+      {
+        "q": "According to the medieval 'Book of Settlements', which Norse sailor gave Iceland its name after seeing a fjord full of drift ice?",
+        "choices": ["Naddoddr", "Garðar Svavarsson", "Flóki Vilgerðarson", "Ingólfur Arnarson"],
+        "answer": 2,
+        "fact": "He is nicknamed Hrafna-Flóki ('Raven-Flóki') because he released ravens from his ship to lead him to land.",
+        "difficulty": 2
+      },
+      {
+        "q": "Norse settlement of Iceland is traditionally dated to which year?",
+        "choices": ["1262", "793", "1066", "874"],
+        "answer": 3,
+        "fact": "Archaeologists have found a layer of volcanic ash from about 871 that lies just beneath the earliest traces of settlement.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which country's military operated an air base at Keflavík until 2006?",
+        "choices": ["United States", "United Kingdom", "Norway", "Denmark"],
+        "answer": 0,
+        "fact": "Naval Air Station Keflavik was a Cold War outpost for watching the North Atlantic; the old base area, Ásbrú, now holds homes, schools and startups.",
+        "difficulty": 2
+      },
+      {
+        "q": "Where was the Republic of Iceland proclaimed on 17 June 1944?",
+        "choices": ["Reykjavík harbour", "Þingvellir", "Akureyri", "Skálholt"],
+        "answer": 1,
+        "fact": "Thousands gathered in pouring rain at the ancient assembly site to see Sveinn Björnsson elected as the first president.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which lawspeaker decided in favour of Christianity at the Althing after lying under a cloak for a day and a night?",
+        "choices": ["Ari Þorgilsson", "Snorri Sturluson", "Þorgeir Ljósvetningagoði", "Jón Arason"],
+        "answer": 2,
+        "fact": "Þorgeir was himself a pagan priest-chieftain; legend says he later threw his idols into the waterfall now called Goðafoss.",
+        "difficulty": 3
+      },
+      {
+        "q": "What name is given to the violent 13th-century era of feuds between Iceland's chieftain clans?",
+        "choices": ["Age of Peace", "Age of Settlement", "Saga Age", "Age of the Sturlungs"],
+        "answer": 3,
+        "fact": "The era takes its name from the powerful Sturlung family, to which the writer Snorri Sturluson belonged.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Catholic bishop was beheaded at Skálholt in 1550, ending resistance to the Lutheran Reformation in Iceland?",
+        "choices": ["Jón Arason", "Ísleifur Gissurarson", "Guðbrandur Þorláksson", "Hallgrímur Pétursson"],
+        "answer": 0,
+        "fact": "Jón Arason, bishop of Hólar, was executed together with two of his sons; he also brought Iceland's first printing press.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which island group off Iceland's south coast suffered the worst of the 1627 Barbary pirate raids?",
+        "choices": ["Grímsey", "Westman Islands", "Flatey", "Viðey"],
+        "answer": 1,
+        "fact": "Hundreds of Icelanders were taken to Algiers; one captive, Guðríður Símonardóttir, was ransomed and married the poet Hallgrímur Pétursson.",
+        "difficulty": 3
+      },
+      {
+        "q": "According to Ari the Wise, which people were already in Iceland when the Norse arrived, but soon left?",
+        "choices": ["Inuit seal hunters", "Sámi reindeer herders", "Irish monks known as papar", "Pictish farmers"],
+        "answer": 2,
+        "fact": "Ari wrote that the papar left behind Irish books, bells and croziers; place names such as Papey still recall them.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Danish king visited Iceland in 1874 and gave it its first constitution during the millennium of settlement?",
+        "choices": ["Frederick VIII", "Frederick VII", "Christian X", "Christian IX"],
+        "answer": 3,
+        "fact": "He was the first reigning monarch to visit Iceland. The national anthem, 'Lofsöngur', was written for the same celebrations.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 1397 Iceland, as a Norwegian dependency, became part of which union of Scandinavian crowns?",
+        "choices": ["Kalmar Union", "Hanseatic League", "Union of Lublin", "Union of Utrecht"],
+        "answer": 0,
+        "fact": "The Kalmar Union joined Denmark, Norway and Sweden under one monarch; Iceland stayed under the Danish crown long after Sweden left.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Nearly all of Iceland's electricity comes from which two sources?",
+        "choices": ["Hydropower and geothermal", "Wind and solar", "Nuclear and hydropower", "Natural gas and geothermal"],
+        "answer": 0,
+        "fact": "Glacial rivers drive the hydro plants and volcanic heat drives the geothermal ones, so Iceland's power supply is almost entirely renewable.",
+        "difficulty": 1
+      },
+      {
+        "q": "Roughly what share of Iceland's homes are heated with geothermal energy?",
+        "choices": ["About 10%", "About 90%", "About 30%", "About 50%"],
+        "answer": 1,
+        "fact": "Hot water piped from boreholes heats homes, greenhouses and even some pavements and car parks in Reykjavík, keeping them free of ice.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which milky-blue geothermal spa near Grindavík is fed by water from the Svartsengi power plant?",
+        "choices": ["Sky Lagoon", "Secret Lagoon", "Blue Lagoon", "Mývatn Nature Baths"],
+        "answer": 2,
+        "fact": "The lagoon formed from the power plant's runoff in the 1970s; its colour comes from silica in the warm seawater.",
+        "difficulty": 1
+      },
+      {
+        "q": "Iceland straddles the boundary between which two tectonic plates?",
+        "choices": ["Eurasian and Arabian", "African and Eurasian", "Pacific and North American", "North American and Eurasian"],
+        "answer": 3,
+        "fact": "The plates pull apart by about 2 cm a year; at Silfra in Þingvellir divers can swim in a crack between the two continents.",
+        "difficulty": 1
+      },
+      {
+        "q": "Iceland's Ring Road, which loops around the whole island, is numbered as which route?",
+        "choices": ["Route 1", "Route 66", "Route 10", "E4"],
+        "answer": 0,
+        "fact": "Completed in 1974, the road runs about 1,300 km and passes many of the island's most famous waterfalls and glaciers.",
+        "difficulty": 1
+      },
+      {
+        "q": "Geothermal water heats which public facility found in almost every Icelandic town?",
+        "choices": ["Ski slopes", "Outdoor swimming pools", "Zoos", "Cinemas"],
+        "answer": 1,
+        "fact": "Swimming lessons are compulsory in Icelandic schools, and the local hot pot is a favourite place to chat with neighbours.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which form of public transport does Iceland not have?",
+        "choices": ["Ferries", "Domestic flights", "Passenger railways", "City buses"],
+        "answer": 2,
+        "fact": "Small, sparse populations and rugged terrain meant no public railway was ever built; travellers go by road, sea or air.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which dark volcanic rock makes up most of Iceland's bedrock?",
+        "choices": ["Marble", "Granite", "Limestone", "Basalt"],
+        "answer": 3,
+        "fact": "Cooling basalt lava can crack into the hexagonal columns seen at Reynisfjara beach and Svartifoss waterfall.",
+        "difficulty": 1
+      },
+      {
+        "q": "Ash from Iceland's Eyjafjallajökull volcano caused what major disruption in April 2010?",
+        "choices": ["Air travel across Europe was grounded", "Transatlantic internet cables were cut", "GPS satellites went offline", "North Sea oil platforms were evacuated"],
+        "answer": 0,
+        "fact": "More than 100,000 flights were cancelled over about a week, the largest shutdown of European airspace since the Second World War.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which energy-hungry industry uses the largest share of Iceland's electricity?",
+        "choices": ["Steelmaking", "Aluminium smelting", "Car manufacturing", "Oil refining"],
+        "answer": 1,
+        "fact": "Cheap renewable power drew aluminium producers to Iceland, which imports bauxite-derived alumina and exports the finished metal.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which massively multiplayer space game is developed by Reykjavík's CCP Games?",
+        "choices": ["No Man's Sky", "Elite Dangerous", "EVE Online", "Star Citizen"],
+        "answer": 2,
+        "fact": "Launched in 2003, EVE Online runs on a single shared universe where players have staged battles involving thousands of ships.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Reykjavík company, founded by Kári Stefánsson in 1996, studies the genetics of the Icelandic population?",
+        "choices": ["Össur", "23andMe", "Illumina", "deCODE genetics"],
+        "answer": 3,
+        "fact": "deCODE helped create an online genealogy, Íslendingabók, that traces how most Icelanders are related to one another.",
+        "difficulty": 2
+      },
+      {
+        "q": "At the Hellisheiði power plant, the Carbfix project stores carbon dioxide by doing what?",
+        "choices": ["Turning it into stone in basalt rock", "Freezing it inside glaciers", "Pumping it into old oil wells", "Dissolving it in the open sea"],
+        "answer": 0,
+        "fact": "CO2 dissolved in water is injected into basalt, where it reacts to form carbonate minerals, mostly within two years.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1973, how did Icelanders slow the lava flow that threatened the harbour on Heimaey?",
+        "choices": ["By bombing it from aircraft", "By spraying it with seawater", "By blasting a diversion channel", "By flooding it with river water"],
+        "answer": 1,
+        "fact": "Pumps sprayed millions of tonnes of seawater onto the advancing lava from Eldfell, helping to save the vital fishing harbour.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Iceland's largest geothermal power plant, on the Hengill volcanic system near Reykjavík?",
+        "choices": ["Svartsengi", "Krafla", "Hellisheiði", "Reykjanes"],
+        "answer": 2,
+        "fact": "Hellisheiði produces both electricity and hot water, which is piped to homes in the capital area.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the Icelandic-origin term for a sudden flood when a volcano melts the glacier above it?",
+        "choices": ["Seiche", "Lahar", "Tsunami", "Jökulhlaup"],
+        "answer": 3,
+        "fact": "Jökulhlaup means 'glacier run'. The 1996 Gjálp eruption under Vatnajökull unleashed one that swept away parts of the Ring Road.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Hvalfjörður Tunnel, opened in 1998 north of Reykjavík, runs where?",
+        "choices": ["Under the seabed of a fjord", "Through a glacier", "Beneath an active volcano", "Through a lava field"],
+        "answer": 0,
+        "fact": "About 5.8 km long and reaching 165 m below sea level, it saves drivers a long detour around the fjord.",
+        "difficulty": 2
+      },
+      {
+        "q": "Geothermal greenhouses at Hveragerði have even grown which tropical fruit?",
+        "choices": ["Pineapples", "Bananas", "Mangoes", "Coconuts"],
+        "answer": 1,
+        "fact": "Icelandic greenhouses mostly grow tomatoes, cucumbers and peppers, but a research greenhouse has kept banana plants for decades.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Icelandic company sells the 'Flex-Foot Cheetah' carbon-fibre running blade?",
+        "choices": ["CCP Games", "Marel", "Össur", "deCODE genetics"],
+        "answer": 2,
+        "fact": "Founded in Reykjavík in 1971, Össur grew into one of the world's leading makers of prosthetic limbs and orthopaedic braces.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which hydropower project in Iceland's eastern highlands, completed in 2007, feeds the country's largest power station?",
+        "choices": ["Blanda", "Búrfell", "Sigalda", "Kárahnjúkar"],
+        "answer": 3,
+        "fact": "Its dams supply the Fljótsdalur station, which powers an aluminium smelter at Reyðarfjörður; the project was hotly debated.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 2009 the Iceland Deep Drilling Project unexpectedly drilled into magma at which volcano?",
+        "choices": ["Krafla", "Hekla", "Askja", "Katla"],
+        "answer": 0,
+        "fact": "The drill hit molten rock about 2 km down; the superheated steam it produced was among the hottest ever harnessed from a well.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which bridge, completing Iceland's Ring Road in 1974, was partly swept away by a glacial flood in 1996?",
+        "choices": ["Ölfusá Bridge", "Skeiðará Bridge", "Borgarfjörður Bridge", "Hvítá Bridge"],
+        "answer": 1,
+        "fact": "Twisted girders from the damaged bridge are displayed beside the road near Skaftafell as a monument to the flood's power.",
+        "difficulty": 3
+      },
+      {
+        "q": "Iceland's first submarine telegraph cable, laid in 1906, came ashore at which eastern fjord town?",
+        "choices": ["Húsavík", "Höfn", "Seyðisfjörður", "Ísafjörður"],
+        "answer": 2,
+        "fact": "The cable linked Iceland to Europe via the Faroe Islands and Shetland, making Seyðisfjörður a communications hub.",
+        "difficulty": 3
+      },
+      {
+        "q": "Iceland's first hydroelectric power plant was built in 1904 in which town?",
+        "choices": ["Ísafjörður", "Akureyri", "Selfoss", "Hafnarfjörður"],
+        "answer": 3,
+        "fact": "Carpenter Jóhannes Reykdal dammed a stream to power his workshop and supply electric light to a handful of homes.",
+        "difficulty": 3
+      },
+      {
+        "q": "Marel, founded in Iceland in 1983, makes machinery for which industry?",
+        "choices": ["Food processing", "Aircraft building", "Mining", "Textiles"],
+        "answer": 0,
+        "fact": "Marel began by making electronic scales for fishing boats and grew into a global supplier of fish, meat and poultry processing equipment.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "What are the medieval Icelandic prose stories about early settlers, feuds and heroes called?",
+        "choices": ["Sagas", "Eddas", "Runestones", "Ballads"],
+        "answer": 0,
+        "fact": "The Sagas of Icelanders were written down mostly in the 13th and 14th centuries, often by authors whose names are unknown.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Icelandic singer, formerly of The Sugarcubes, released the solo album 'Debut' in 1993?",
+        "choices": ["Emilíana Torrini", "Björk", "Laufey", "Lykke Li"],
+        "answer": 1,
+        "fact": "Björk released her first album at the age of 11 and later won Cannes' best actress award for 'Dancer in the Dark'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Reykjavík church, whose stepped tower evokes basalt columns, is the city's best-known landmark?",
+        "choices": ["Perlan", "Harpa", "Hallgrímskirkja", "Skálholt Cathedral"],
+        "answer": 2,
+        "fact": "Designed by Guðjón Samúelsson, it took about 41 years to build, from 1945 to 1986; its tower is about 74 m tall.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Icelandic writer won the Nobel Prize in Literature in 1955?",
+        "choices": ["Snorri Sturluson", "Gunnar Gunnarsson", "Arnaldur Indriðason", "Halldór Laxness"],
+        "answer": 3,
+        "fact": "His best-known novel, 'Independent People', follows a stubborn sheep farmer's struggle for independence.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Icelandic band scored a worldwide hit with 'Little Talks' in 2011-12?",
+        "choices": ["Of Monsters and Men", "Kaleo", "Sigur Rós", "Múm"],
+        "answer": 0,
+        "fact": "The band formed in 2010 and won Iceland's Músíktilraunir battle of the bands that year before their song spread across the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "What covers the roofs and walls of Iceland's traditional farmhouses, such as those at Glaumbær?",
+        "choices": ["Slate", "Turf", "Thatch", "Copper"],
+        "answer": 1,
+        "fact": "Timber was scarce, so Icelanders built with turf and stone, which insulated well against the cold for over a thousand years.",
+        "difficulty": 1
+      },
+      {
+        "q": "What do Icelanders traditionally give each other on Christmas Eve, a custom behind the 'Jólabókaflóð'?",
+        "choices": ["Knitted socks", "Candles", "Books", "Smoked lamb"],
+        "answer": 2,
+        "fact": "Jólabókaflóð means 'Christmas book flood'; many new books are published in autumn and read late into Christmas Eve.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which HBO series filmed many of its icy 'Beyond the Wall' scenes in Iceland?",
+        "choices": ["The Last Kingdom", "The Witcher", "Vikings", "Game of Thrones"],
+        "answer": 3,
+        "fact": "Locations included Lake Mývatn, the glaciers of the south and the Þingvellir rift valley.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Icelandic band is famous for the album 'Ágætis byrjun' and a made-up singing language called 'Hopelandic'?",
+        "choices": ["Sigur Rós", "Of Monsters and Men", "Kaleo", "The Sugarcubes"],
+        "answer": 0,
+        "fact": "Singer Jónsi often plays his electric guitar with a cello bow, giving the band its soaring, glacial sound.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of Reykjavík's glass-fronted harbourside concert hall, opened in 2011?",
+        "choices": ["Perlan", "Harpa", "Höfði", "Hallgrímskirkja"],
+        "answer": 1,
+        "fact": "Its facade, made with artist Olafur Eliasson, uses geometric glass blocks; the building won the EU's Mies van der Rohe Award in 2013.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who wrote the 'Prose Edda', a key source for Norse mythology, in the 13th century?",
+        "choices": ["Halldór Laxness", "Ari Þorgilsson", "Snorri Sturluson", "Egill Skallagrímsson"],
+        "answer": 2,
+        "fact": "Much of what we know about Odin, Thor and Loki comes from Snorri's handbook for poets.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Icelandic composer won a Golden Globe for scoring 'The Theory of Everything'?",
+        "choices": ["Hildur Guðnadóttir", "Ólafur Arnalds", "Atli Örvarsson", "Jóhann Jóhannsson"],
+        "answer": 3,
+        "fact": "Jóhann Jóhannsson was also Oscar-nominated for 'Sicario'; he died in 2018 aged 48.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which saga, often called the greatest of all, ends with a wise lawyer burned in his farmhouse with his family?",
+        "choices": ["Njáls saga", "Egils saga", "Laxdæla saga", "Grettis saga"],
+        "answer": 0,
+        "fact": "Njáls saga is set in south Iceland around the year 1000, and fans still visit its farms and battle sites.",
+        "difficulty": 2
+      },
+      {
+        "q": "The medieval manuscript Codex Regius preserves which collection of Old Norse poems?",
+        "choices": ["Heimskringla", "Poetic Edda", "Landnámabók", "Flateyjarbók"],
+        "answer": 1,
+        "fact": "Kept in Copenhagen for centuries, it was returned to Iceland in 1971 and greeted by a huge crowd at Reykjavík harbour.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Icelandic crime writer created Inspector Erlendur, hero of 'Jar City'?",
+        "choices": ["Ragnar Jónasson", "Yrsa Sigurðardóttir", "Arnaldur Indriðason", "Jo Nesbø"],
+        "answer": 2,
+        "fact": "Arnaldur's novels helped launch the 'Nordic noir' boom; Icelanders read more books per person than most nations.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Danish-Icelandic artist created 'The Weather Project', a giant artificial sun, at Tate Modern in 2003?",
+        "choices": ["Erró", "Ragnar Kjartansson", "Anish Kapoor", "Olafur Eliasson"],
+        "answer": 3,
+        "fact": "Eliasson spent childhood summers in Iceland, and its light, ice and landscapes often inspire his work.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 17th-century poet wrote the 'Passion Hymns' and gave his name to Reykjavík's largest church?",
+        "choices": ["Hallgrímur Pétursson", "Jónas Hallgrímsson", "Matthías Jochumsson", "Einar Benediktsson"],
+        "answer": 0,
+        "fact": "His 50 Passion Hymns are read aloud on Icelandic radio every year during Lent.",
+        "difficulty": 2
+      },
+      {
+        "q": "Icelandic Language Day, 16 November, is the birthday of which Romantic poet?",
+        "choices": ["Hallgrímur Pétursson", "Jónas Hallgrímsson", "Matthías Jochumsson", "Steinn Steinarr"],
+        "answer": 1,
+        "fact": "Jónas coined many new Icelandic words, including terms for astronomy, so the language would not need to borrow foreign ones.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Icelandic director made 'Everest' (2015) and created the TV series 'Trapped'?",
+        "choices": ["Dagur Kári", "Friðrik Þór Friðriksson", "Baltasar Kormákur", "Benedikt Erlingsson"],
+        "answer": 2,
+        "fact": "'Trapped' (Ófærð), about a murder in a snowbound fjord town, became one of Iceland's most successful TV exports.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which saga hero, a Viking warrior and poet, is said to have composed his first verse at the age of three?",
+        "choices": ["Kjartan Ólafsson", "Grettir Ásmundarson", "Gunnar Hámundarson", "Egill Skallagrímsson"],
+        "answer": 3,
+        "fact": "Egill's poem 'Sonatorrek', a lament for his drowned son, is one of the most moving works of Old Norse poetry.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which outlaw saga hero spent his last years hiding on the cliff-bound island of Drangey?",
+        "choices": ["Grettir the Strong", "Gísli Súrsson", "Egill Skallagrímsson", "Hrafnkell Freysgoði"],
+        "answer": 0,
+        "fact": "Grettir was said to be Iceland's longest-surviving outlaw; a hot pool near Drangey, Grettislaug, is named after him.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Icelandic artist made 'The Visitors' (2012), a nine-screen musical video filmed in a farmhouse in New York State?",
+        "choices": ["Olafur Eliasson", "Ragnar Kjartansson", "Erró", "Jóhannes Kjarval"],
+        "answer": 1,
+        "fact": "Each musician was filmed alone in a different room of the old house, all playing the same song together for over an hour.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which landscape painter, known for mossy lava scenes, appears on Iceland's 2,000-krónur banknote?",
+        "choices": ["Þórarinn B. Þorláksson", "Erró", "Jóhannes Kjarval", "Ásgrímur Jónsson"],
+        "answer": 2,
+        "fact": "Kjarvalsstaðir, part of Reykjavík Art Museum, is named after him and holds a large collection of his work.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who wrote the words of Iceland's national anthem, 'Lofsöngur'?",
+        "choices": ["Einar Benediktsson", "Jónas Hallgrímsson", "Halldór Laxness", "Matthías Jochumsson"],
+        "answer": 3,
+        "fact": "Written for the 1874 millennium celebrations, with music by Sveinbjörn Sveinbjörnsson, it is notoriously hard to sing.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 2018 Icelandic film follows a choir conductor who secretly sabotages the power lines of an aluminium smelter?",
+        "choices": ["Woman at War", "Rams", "Lamb", "Of Horses and Men"],
+        "answer": 0,
+        "fact": "Directed by Benedikt Erlingsson, the film features a live band and choir that appear on screen to play its soundtrack.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "What is the name of Iceland's parliament?",
+        "choices": ["Althing", "Storting", "Folketing", "Riksdag"],
+        "answer": 0,
+        "fact": "Founded in 930, the Althing is often called one of the world's oldest surviving parliaments.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1980, Vigdís Finnbogadóttir became the world's first democratically elected female what?",
+        "choices": ["Prime minister", "President", "Supreme court judge", "Central bank governor"],
+        "answer": 1,
+        "fact": "A single mother and former theatre director, Vigdís served four terms, from 1980 to 1996.",
+        "difficulty": 1
+      },
+      {
+        "q": "Iceland is a founding member of NATO, but it has no what?",
+        "choices": ["Police force", "Coast guard", "Standing army", "Foreign ministry"],
+        "answer": 2,
+        "fact": "Iceland joined NATO in 1949; its Coast Guard and allied air patrols handle much of its defence.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which of these organisations is Iceland NOT a member of?",
+        "choices": ["Nordic Council", "NATO", "United Nations", "European Union"],
+        "answer": 3,
+        "fact": "Iceland applied to join the EU in 2009 but halted talks in 2013; it trades with the EU through the European Economic Area.",
+        "difficulty": 1
+      },
+      {
+        "q": "Where did the Althing hold its open-air assemblies from 930 until the late 18th century?",
+        "choices": ["Þingvellir", "Reykjavík", "Skálholt", "Hólar"],
+        "answer": 0,
+        "fact": "Þingvellir, 'the assembly plains', sits in a rift valley between two tectonic plates and is a UNESCO World Heritage Site.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2009, who became Iceland's first female prime minister and the world's first openly gay head of government?",
+        "choices": ["Katrín Jakobsdóttir", "Jóhanna Sigurðardóttir", "Vigdís Finnbogadóttir", "Ingibjörg Sólrún Gísladóttir"],
+        "answer": 1,
+        "fact": "When same-sex marriage became legal in Iceland in 2010, Jóhanna married her long-time partner, the writer Jónína Leósdóttir.",
+        "difficulty": 1
+      },
+      {
+        "q": "On 24 October 1975, about 90% of Icelandic women did what to show their importance to society?",
+        "choices": ["Boycotted an election", "Marched to Þingvellir", "Took the day off work and housework", "Went on hunger strike"],
+        "answer": 2,
+        "fact": "Schools, shops and phone lines struggled, fathers took children to work, and five years later Iceland elected a woman president.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Icelandic prime minister resigned in April 2016 after the Panama Papers revelations?",
+        "choices": ["Katrín Jakobsdóttir", "Bjarni Benediktsson", "Geir Haarde", "Sigmundur Davíð Gunnlaugsson"],
+        "answer": 3,
+        "fact": "Leaked papers linked his family to an offshore company, and thousands of protesters gathered outside the Althing.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which comedian became mayor of Reykjavík in 2010 after founding the satirical 'Best Party'?",
+        "choices": ["Jón Gnarr", "Dagur B. Eggertsson", "Davíð Oddsson", "Ari Eldjárn"],
+        "answer": 0,
+        "fact": "His jokey campaign promises included free towels at swimming pools and a polar bear for the city zoo.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who served as Iceland's president for five terms, from 1996 to 2016?",
+        "choices": ["Guðni Th. Jóhannesson", "Ólafur Ragnar Grímsson", "Kristján Eldjárn", "Ásgeir Ásgeirsson"],
+        "answer": 1,
+        "fact": "He was the first president to use the veto, and he sent two Icesave repayment deals to referendums in 2010 and 2011.",
+        "difficulty": 2
+      },
+      {
+        "q": "Iceland's 2011 draft constitution was notable for what?",
+        "choices": ["Being written in Old Norse", "Being drafted entirely by foreign experts", "Inviting public suggestions online and on social media", "Restoring the Danish monarchy"],
+        "answer": 2,
+        "fact": "Voters backed it as a basis for a new constitution in a 2012 advisory referendum, but the Althing never adopted it.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the name of the official residence of Iceland's president, near Reykjavík?",
+        "choices": ["Árbær", "Höfði", "Viðey", "Bessastaðir"],
+        "answer": 3,
+        "fact": "Bessastaðir was once the seat of Danish royal officials, and the farm was home to the medieval chieftain Snorri Sturluson for a time.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 2018 Iceland became the first country to require large employers to prove what?",
+        "choices": ["That they pay women and men equally", "That they are carbon neutral", "That they employ no foreign workers", "That they offer a four-day week"],
+        "answer": 0,
+        "fact": "Firms with 25 or more staff must obtain official equal-pay certification or face fines.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Icelandic party was formed in 1929 by a merger of the Conservative and Liberal parties?",
+        "choices": ["Progressive Party", "Independence Party", "Social Democratic Alliance", "Left-Green Movement"],
+        "answer": 1,
+        "fact": "The centre-right party was Iceland's largest for most of the 20th century and has often led coalition governments.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1975 Iceland extended its exclusive fishing zone to how many nautical miles?",
+        "choices": ["50", "12", "200", "100"],
+        "answer": 2,
+        "fact": "The move sparked the third and final Cod War with Britain, which ended in 1976 with Iceland's limit accepted.",
+        "difficulty": 2
+      },
+      {
+        "q": "At the medieval Althing, what was the lawspeaker's chief duty at the Law Rock?",
+        "choices": ["Collecting church tithes", "Crowning the king", "Leading the army", "Reciting the laws from memory"],
+        "answer": 3,
+        "fact": "Before the laws were written down, the lawspeaker recited a third of them aloud each summer, covering them all over three years.",
+        "difficulty": 2
+      },
+      {
+        "q": "What status did Iceland gain on 1 December 1918?",
+        "choices": ["A sovereign kingdom sharing Denmark's king", "A fully independent republic", "A county of Denmark", "A British protectorate"],
+        "answer": 0,
+        "fact": "Under the Act of Union, Denmark still handled Iceland's foreign affairs, but either side could end the union after 25 years.",
+        "difficulty": 2
+      },
+      {
+        "q": "Protests that helped topple Iceland's government in January 2009 are nicknamed after which household items?",
+        "choices": ["Umbrellas", "Pots and pans", "Brooms", "Candles"],
+        "answer": 1,
+        "fact": "Crowds outside the Althing banged kitchenware for weeks after the bank collapse; Prime Minister Geir Haarde's government resigned.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many members sit in Iceland's Althing?",
+        "choices": ["100", "51", "63", "179"],
+        "answer": 2,
+        "fact": "The 63 members are elected by proportional representation from six constituencies for terms of up to four years.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was elected the first president of Iceland in 1944?",
+        "choices": ["Jón Sigurðsson", "Ásgeir Ásgeirsson", "Kristján Eldjárn", "Sveinn Björnsson"],
+        "answer": 3,
+        "fact": "Sveinn Björnsson had served as regent of Iceland since 1941, after contact with the Danish king was cut by the war.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which former prime minister was tried by the special Landsdómur court over the 2008 banking collapse?",
+        "choices": ["Geir Haarde", "Davíð Oddsson", "Halldór Ásgrímsson", "Jóhanna Sigurðardóttir"],
+        "answer": 0,
+        "fact": "The court convened for the first time ever and in 2012 convicted him on one minor charge, imposing no punishment.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who served as Iceland's prime minister from 1991 to 2004, the longest continuous term?",
+        "choices": ["Hermann Jónasson", "Davíð Oddsson", "Steingrímur Hermannsson", "Ólafur Thors"],
+        "answer": 1,
+        "fact": "Before leading the government, Davíð Oddsson was mayor of Reykjavík; he later became a central bank governor and newspaper editor.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Icelandic party, traditionally strongest among farmers and rural voters, was founded in 1916?",
+        "choices": ["Social Democratic Alliance", "Independence Party", "Progressive Party", "Pirate Party"],
+        "answer": 2,
+        "fact": "The Progressive Party is Iceland's oldest existing political party and has frequently been part of coalition governments.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 2010 and 2011 Icelanders voted in referendums to reject deals to repay foreign depositors of which online bank scheme?",
+        "choices": ["Glitnir Direct", "Kaupthing Edge", "Northern Rock", "Icesave"],
+        "answer": 3,
+        "fact": "Icesave belonged to the failed Landsbanki; in 2013 the EFTA Court ruled that Iceland had not breached its obligations.",
+        "difficulty": 3
+      },
+      {
+        "q": "After being abolished in 1800, the Althing was revived as an advisory assembly in Reykjavík in which decade?",
+        "choices": ["1840s", "1810s", "1870s", "1900s"],
+        "answer": 0,
+        "fact": "Re-established by royal decree in 1843, it first met in 1845 and gained law-making powers with the 1874 constitution.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "In March 2021, a volcanic eruption began at which mountain on the Reykjanes Peninsula, the area's first in nearly 800 years?",
+        "choices": ["Fagradalsfjall", "Hekla", "Katla", "Askja"],
+        "answer": 0,
+        "fact": "The easy-to-reach eruption drew hundreds of thousands of visitors, who hiked out to watch lava fountains in the Geldingadalir valley.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In November 2023, which fishing town on the Reykjanes Peninsula was evacuated as magma surged beneath it?",
+        "choices": ["Húsavík", "Grindavík", "Vík", "Höfn"],
+        "answer": 1,
+        "fact": "About 3,700 residents left on 10 November 2023; in January 2024 lava reached the town's edge and destroyed several houses.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who was elected President of Iceland in June 2024?",
+        "choices": ["Halla Hrund Logadóttir", "Katrín Jakobsdóttir", "Halla Tómasdóttir", "Baldur Þórhallsson"],
+        "answer": 2,
+        "fact": "A businesswoman who had also run in 2016, Halla Tómasdóttir took office on 1 August 2024 as Iceland's second woman president.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2020 Icelandic composer Hildur Guðnadóttir won the Oscar for Best Original Score for which film?",
+        "choices": ["Marriage Story", "1917", "Little Women", "Joker"],
+        "answer": 3,
+        "fact": "She also won a Golden Globe, a BAFTA and a Grammy for 'Joker', and an Emmy for the TV series 'Chernobyl'.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which Icelandic singer won a Grammy in February 2024 for her album 'Bewitched'?",
+        "choices": ["Laufey", "Björk", "Emilíana Torrini", "GDRN"],
+        "answer": 0,
+        "fact": "Laufey's jazz-inspired songs won Best Traditional Pop Vocal Album; she is a trained classical cellist.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Daði Freyr's viral song 'Think About Things' was Iceland's entry for which 2020 contest, cancelled because of COVID-19?",
+        "choices": ["Melodifestivalen", "Eurovision Song Contest", "Nordic Music Prize", "Sanremo Music Festival"],
+        "answer": 1,
+        "fact": "The song's dance routine and knitted green jumpers spread worldwide online even though the contest never took place.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which Icelandic low-cost airline collapsed in March 2019, stranding thousands of passengers?",
+        "choices": ["Icelandair", "PLAY", "WOW air", "Air Iceland Connect"],
+        "answer": 2,
+        "fact": "WOW air's bright purple planes had offered cheap transatlantic fares with stopovers in Iceland.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Who became Iceland's prime minister in December 2024, the youngest in the country's history?",
+        "choices": ["Þórdís Kolbrún Reykfjörð Gylfadóttir", "Bjarni Benediktsson", "Katrín Jakobsdóttir", "Kristrún Frostadóttir"],
+        "answer": 3,
+        "fact": "Aged 36, the Social Democratic Alliance leader formed a coalition of three parties, all of them led by women.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In August 2019, Icelanders held a memorial for which glacier, the first in the country lost to climate change?",
+        "choices": ["Okjökull", "Vatnajökull", "Snæfellsjökull", "Langjökull"],
+        "answer": 0,
+        "fact": "A plaque titled 'A letter to the future', written by author Andri Snær Magnason, now marks the spot.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which Icelandic prime minister resigned in April 2024 to run for president?",
+        "choices": ["Bjarni Benediktsson", "Katrín Jakobsdóttir", "Sigurður Ingi Jóhannsson", "Kristrún Frostadóttir"],
+        "answer": 1,
+        "fact": "Katrín had led the government since 2017; she finished second in the June 2024 presidential election.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which party won the most seats in Iceland's November 2024 snap election?",
+        "choices": ["Progressive Party", "Independence Party", "Social Democratic Alliance", "Left-Green Movement"],
+        "answer": 2,
+        "fact": "The Left-Green Movement, which had led the previous government, lost all of its seats.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2021, which Swiss company opened 'Orca', then the world's largest plant capturing CO2 directly from the air, in Iceland?",
+        "choices": ["Equinor", "Carbon Engineering", "Siemens Energy", "Climeworks"],
+        "answer": 3,
+        "fact": "Orca was designed to remove up to 4,000 tonnes of CO2 a year, which Carbfix then stores as rock underground.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "On 24 October 2023, Prime Minister Katrín Jakobsdóttir joined what nationwide action?",
+        "choices": ["A women's strike against unequal pay and gender-based violence", "A general strike of fishing crews", "A boycott of the Althing", "A climate march to Þingvellir"],
+        "answer": 0,
+        "fact": "It was the first full-day women's strike in Iceland since the famous 'Women's Day Off' of 1975.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In June 2023, Iceland temporarily suspended which activity on animal-welfare grounds?",
+        "choices": ["Puffin hunting", "Fin whale hunting", "Horse exports", "Salmon fishing"],
+        "answer": 1,
+        "fact": "A government report found that killing the whales took too long; hunting resumed that September under stricter rules.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "During the Reykjanes eruptions of 2023-24, what did Icelanders build to shield the Svartsengi power plant from lava?",
+        "choices": ["Ice dams", "Sea walls", "Earthen barrier walls", "Concrete tunnels"],
+        "answer": 2,
+        "fact": "Bulldozers piled up long walls of rock and soil that diverted lava flows away from the plant and the Blue Lagoon.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In May 2023, Reykjavík hosted only the fourth-ever summit of which organisation's leaders?",
+        "choices": ["Arctic Council", "NATO", "European Union", "Council of Europe"],
+        "answer": 3,
+        "fact": "The summit set up a register to record damage caused by the war in Ukraine.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "A widely reported 2021 analysis of Icelandic trials held from 2015 to 2019 found success with what workplace change?",
+        "choices": ["A shorter working week without a pay cut", "Banning work emails at weekends", "Replacing offices with home working", "Paying staff in cryptocurrency"],
+        "answer": 0,
+        "fact": "Workers' wellbeing improved while productivity held steady, and unions went on to win shorter hours for most of the workforce.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2023, OpenAI said Iceland's government had worked with it to improve GPT-4's handling of what?",
+        "choices": ["Volcano forecasting", "The Icelandic language", "Fish stock counts", "Tax returns"],
+        "answer": 1,
+        "fact": "Iceland sees AI as a way to keep its small language thriving in a digital world dominated by English.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, Daði og Gagnamagnið finished in which place at the Eurovision Song Contest with '10 Years'?",
+        "choices": ["10th", "1st", "4th", "23rd"],
+        "answer": 2,
+        "fact": "After a band member tested positive for COVID-19, the act competed using a recording of their rehearsal.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In August 2022, a new eruption began in which valley near Fagradalsfjall?",
+        "choices": ["Þjórsárdalur", "Geldingadalir", "Haukadalur", "Meradalir"],
+        "answer": 3,
+        "fact": "It was the second eruption in the area in two years, followed by another at nearby Litli-Hrútur in July 2023.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "From December 2023, a string of eruptions broke out along which crater row just north of Grindavík?",
+        "choices": ["Sundhnúkur", "Laki", "Eldgjá", "Lúdent"],
+        "answer": 0,
+        "fact": "The crater row erupted again and again over the following months, each time after magma refilled a chamber beneath Svartsengi.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "From 2021, Icelandic law extended paid parental leave to how many months in total?",
+        "choices": ["6", "12", "9", "18"],
+        "answer": 1,
+        "fact": "Each parent gets six months, of which six weeks can be transferred to the other parent.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Who succeeded Katrín Jakobsdóttir as Iceland's prime minister in April 2024?",
+        "choices": ["Kristrún Frostadóttir", "Sigurður Ingi Jóhannsson", "Bjarni Benediktsson", "Sigmundur Davíð Gunnlaugsson"],
+        "answer": 2,
+        "fact": "It was Bjarni's second spell as prime minister, after a short term in 2017; his coalition collapsed that October.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In January 2024, which Icelandic president announced he would not seek a third term?",
+        "choices": ["Sveinn Björnsson", "Ólafur Ragnar Grímsson", "Kristján Eldjárn", "Guðni Th. Jóhannesson"],
+        "answer": 3,
+        "fact": "A historian before entering office in 2016, Guðni made the announcement in his New Year's Day address.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In early 2020, ground uplift at which mountain near Grindavík first signalled renewed volcanic unrest on Reykjanes?",
+        "choices": ["Þorbjörn", "Esja", "Keilir", "Hengill"],
+        "answer": 0,
+        "fact": "Swarms of earthquakes and a few centimetres of uplift prompted a warning; eruptions followed on the peninsula from 2021.",
+        "difficulty": 3,
+        "asOf": "2020"
+      }
+    ],
+    "general": [
+      {
+        "q": "Which is the world's northernmost capital of a sovereign state?",
+        "choices": ["Reykjavík", "Oslo", "Helsinki", "Tallinn"],
+        "answer": 0,
+        "fact": "Reykjavík lies at about 64° north; around midsummer the sun barely sets, while in midwinter there are only about four hours of daylight.",
+        "difficulty": 1
+      },
+      {
+        "q": "The English word 'geyser' comes from the name of a hot spring in which country?",
+        "choices": ["New Zealand", "Iceland", "United States", "Chile"],
+        "answer": 1,
+        "fact": "Geysir in Haukadalur is now mostly quiet, but its neighbour Strokkur shoots water about 20 m into the air every few minutes.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which small, sturdy breed with an extra smooth gait called the tölt is native to Iceland?",
+        "choices": ["Fjord horse", "Shetland pony", "Icelandic horse", "Highland pony"],
+        "answer": 2,
+        "fact": "Horses may not be imported into Iceland, and an Icelandic horse that leaves the country can never return.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which seabird with a colourful striped beak nests in huge numbers on Iceland's cliffs each summer?",
+        "choices": ["Flamingo", "Albatross", "Pelican", "Atlantic puffin"],
+        "answer": 3,
+        "fact": "Iceland hosts the world's largest puffin population; in the Westman Islands children help lost pufflings find their way to sea.",
+        "difficulty": 1
+      },
+      {
+        "q": "At Euro 2016, Iceland famously knocked which team out of the round of 16?",
+        "choices": ["England", "France", "Portugal", "Austria"],
+        "answer": 0,
+        "fact": "Iceland won 2-1 in Nice, and its fans' thunderous 'Viking clap' became famous around the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "How are most Icelanders' last names formed?",
+        "choices": ["From the name of the family farm", "From a parent's first name plus -son or -dóttir", "From a clan name passed down for centuries", "From the place of birth"],
+        "answer": 1,
+        "fact": "Because surnames change every generation, Icelanders address each other by first name, and the phone book is sorted that way too.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Iceland's largest glacier?",
+        "choices": ["Mýrdalsjökull", "Langjökull", "Vatnajökull", "Snæfellsjökull"],
+        "answer": 2,
+        "fact": "Vatnajökull covers about 8% of Iceland and hides several active volcanoes, including Grímsvötn, beneath its ice.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is skyr, eaten in Iceland for over a thousand years?",
+        "choices": ["Lamb soup", "Fermented shark", "Dark rye bread", "A thick cultured dairy product"],
+        "answer": 3,
+        "fact": "Skyr is technically a soft cheese, though it is eaten like a thick, protein-rich yoghurt, often with berries.",
+        "difficulty": 1
+      },
+      {
+        "q": "Reykjavík's name, meaning 'Smoky Bay', was inspired by what?",
+        "choices": ["Steam rising from hot springs", "Smoke from a volcano", "Sea fog", "The settlers' cooking fires"],
+        "answer": 0,
+        "fact": "The settler Ingólfur Arnarson is said to have named the bay after the plumes of steam he saw rising from the ground.",
+        "difficulty": 1
+      },
+      {
+        "q": "Modern Icelandic is famously close to which medieval language, letting readers enjoy the sagas in the original?",
+        "choices": ["Old English", "Old Norse", "Latin", "Old Irish"],
+        "answer": 1,
+        "fact": "Instead of borrowing foreign words, Icelanders coin new ones: a computer is a 'tölva', blending the words for number and prophetess.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the Icelandic delicacy hákarl?",
+        "choices": ["Dried cod", "Smoked puffin", "Fermented shark", "Singed sheep's head"],
+        "answer": 2,
+        "fact": "Greenland shark meat is toxic when fresh, so it is fermented and hung to dry for months; its ammonia smell is legendary.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many Yule Lads visit Icelandic children in the days before Christmas?",
+        "choices": ["24", "12", "7", "13"],
+        "answer": 3,
+        "fact": "Arriving one by one from 12 December, these mischievous sons of the troll Grýla leave gifts in shoes placed on windowsills.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which black-sand beach near Vík is famous for its basalt columns and dangerous 'sneaker waves'?",
+        "choices": ["Reynisfjara", "Diamond Beach", "Rauðisandur", "Nauthólsvík"],
+        "answer": 0,
+        "fact": "Offshore stand the Reynisdrangar sea stacks, which legend says are trolls caught by the sunrise and turned to stone.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which glacier lagoon, filled with drifting icebergs, lies beside the Ring Road in southeast Iceland?",
+        "choices": ["Mývatn", "Jökulsárlón", "Þingvallavatn", "Lagarfljót"],
+        "answer": 1,
+        "fact": "Ice chunks washed onto the nearby black-sand shore sparkle like gems, giving it the nickname Diamond Beach.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which waterfall in southern Iceland has a path that lets visitors walk behind its curtain of water?",
+        "choices": ["Gullfoss", "Dettifoss", "Seljalandsfoss", "Goðafoss"],
+        "answer": 2,
+        "fact": "The water drops about 60 m over a former sea cliff that dates from when the coastline lay further inland.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the only land mammal living in Iceland before humans arrived?",
+        "choices": ["Polar bear", "Reindeer", "Mink", "Arctic fox"],
+        "answer": 3,
+        "fact": "Arctic foxes probably walked over sea ice during the last ice age. Reindeer and mink were introduced by people much later.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Icelandic volcano was known in medieval Europe as a gateway to hell?",
+        "choices": ["Hekla", "Katla", "Askja", "Laki"],
+        "answer": 0,
+        "fact": "Hekla is one of Iceland's most active volcanoes and has erupted more than 20 times since the settlement era.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which Jules Verne novel do explorers descend into the crater of Iceland's Snæfellsjökull?",
+        "choices": ["Twenty Thousand Leagues Under the Seas", "Journey to the Centre of the Earth", "Around the World in Eighty Days", "The Mysterious Island"],
+        "answer": 1,
+        "fact": "Verne's heroes follow a coded message from an Icelandic alchemist and finally emerge from the volcano Stromboli in Italy.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which waterfall, linked to Iceland's conversion to Christianity, is called the 'waterfall of the gods'?",
+        "choices": ["Skógafoss", "Gullfoss", "Goðafoss", "Háifoss"],
+        "answer": 2,
+        "fact": "Legend says the lawspeaker Þorgeir threw his statues of the old Norse gods into its waters after the conversion.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which island, crossed by the Arctic Circle, is Iceland's northernmost inhabited place?",
+        "choices": ["Viðey", "Hrísey", "Flatey", "Grímsey"],
+        "answer": 3,
+        "fact": "The Arctic Circle shifts over time, so a giant concrete sphere marking it on Grímsey is moved to follow the line.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which lake in north Iceland is named after the swarms of insects that hatch there?",
+        "choices": ["Mývatn", "Þingvallavatn", "Lögurinn", "Kleifarvatn"],
+        "answer": 0,
+        "fact": "Mývatn means 'midge lake'. The midges feed huge numbers of ducks, making it one of Europe's best birdwatching spots.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is Iceland's highest peak?",
+        "choices": ["Herðubreið", "Hvannadalshnúkur", "Snæfell", "Hekla"],
+        "answer": 1,
+        "fact": "Rising about 2,110 m, it sits on the crater rim of Öræfajökull, an ice-covered volcano at the southern edge of Vatnajökull.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which form of wrestling is Iceland's traditional national sport?",
+        "choices": ["Schwingen", "Sumo", "Glíma", "Pehlwani"],
+        "answer": 2,
+        "fact": "Wrestlers wear leather belts around the waist and thighs and must stay upright while trying to trip their opponent.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which volcanic island rose from the sea off Iceland's south coast in an eruption beginning in 1963?",
+        "choices": ["Viðey", "Heimaey", "Grímsey", "Surtsey"],
+        "answer": 3,
+        "fact": "Only scientists may land on Surtsey, a UNESCO site where they study how plants and animals colonise new land.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which waterfall in northeast Iceland is often called the most powerful in Europe?",
+        "choices": ["Dettifoss", "Gullfoss", "Seljalandsfoss", "Skógafoss"],
+        "answer": 0,
+        "fact": "Fed by meltwater from Vatnajökull, it plunges about 45 m into the Jökulsárgljúfur canyon.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "country": "uae",
+  "timeline": [
+    { "event": "Beehive-shaped stone tombs are built on the slopes of Jebel Hafeet", "year": -3000, "label": "c. 3000 BCE", "approx": true, "difficulty": 3 },
+    { "event": "The Bronze Age Umm an-Nar culture flourishes near today's Abu Dhabi", "year": -2500, "label": "c. 2500 BCE", "approx": true, "difficulty": 3 },
+    { "event": "The Battle of Dibba is fought during the Ridda Wars", "year": 633, "label": "c. 633", "approx": true, "difficulty": 3 },
+    { "event": "A Portuguese fleet under Afonso de Albuquerque attacks Khor Fakkan", "year": 1507, "label": "1507", "difficulty": 2 },
+    { "event": "Britain and the coastal sheikhs sign the General Maritime Treaty", "year": 1820, "label": "1820", "difficulty": 2 },
+    { "event": "Maktoum bin Butti settles at Dubai Creek, founding the Al Maktoum line", "year": 1833, "label": "1833", "difficulty": 2 },
+    { "event": "The Perpetual Maritime Truce gives the Trucial Coast its name", "year": 1853, "label": "1853", "difficulty": 3 },
+    { "event": "Gulf pearling collapses amid the Depression and Japanese cultured pearls", "year": 1930, "label": "1930s", "approx": true, "difficulty": 2 },
+    { "event": "Abu Dhabi ships its first cargo of crude oil from Das Island", "year": 1962, "label": "1962", "difficulty": 1 },
+    { "event": "Sheikh Zayed becomes Ruler of Abu Dhabi", "year": 1966, "label": "1966", "difficulty": 2 },
+    { "event": "Britain announces it will withdraw its forces from the Gulf", "year": 1968, "label": "1968", "difficulty": 2 },
+    { "event": "Six emirates form the United Arab Emirates", "year": 1971, "label": "1971", "difficulty": 1 },
+    { "event": "Ras Al Khaimah joins the federation as its seventh emirate", "year": 1972, "label": "1972", "difficulty": 2 },
+    { "event": "The Gulf Cooperation Council is founded at a summit in Abu Dhabi", "year": 1981, "label": "1981", "difficulty": 2 },
+    { "event": "Emirates airline makes its first flights from Dubai", "year": 1985, "label": "1985", "difficulty": 1 },
+    { "event": "The sail-shaped Burj Al Arab hotel opens in Dubai", "year": 1999, "label": "1999", "difficulty": 1 },
+    { "event": "Sheikh Zayed dies and Sheikh Khalifa becomes President", "year": 2004, "label": "2004", "difficulty": 1 },
+    { "event": "The Burj Khalifa opens as the world's tallest building", "year": 2010, "label": "2010", "difficulty": 1 },
+    { "event": "The Louvre Abu Dhabi opens on Saadiyat Island", "year": 2017, "label": "2017", "difficulty": 1 },
+    { "event": "The Hope probe enters orbit around Mars", "year": 2021, "label": "2021", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Abu Dhabi", "kind": "city", "lat": 24.47, "lon": 54.37, "clue": "The UAE's capital grew around Qasr Al Hosn, a fort built to guard the island's freshwater well.", "difficulty": 1 },
+    { "name": "Burj Khalifa", "kind": "landmark", "lat": 25.20, "lon": 55.27, "clue": "Dubai's 828 m tower became the world's tallest building when it opened in 2010.", "difficulty": 1 },
+    { "name": "Al Ain", "kind": "city", "lat": 24.21, "lon": 55.74, "clue": "This oasis 'Garden City' on the Omani border became the UAE's first UNESCO World Heritage Site in 2011.", "difficulty": 1 },
+    { "name": "Liwa Oasis", "kind": "nature", "lat": 23.13, "lon": 53.79, "clue": "A crescent of date-palm villages on the edge of the Empty Quarter, ancestral home of the Bani Yas.", "difficulty": 2 },
+    { "name": "Jebel Jais", "kind": "nature", "lat": 25.94, "lon": 56.13, "clue": "Ras Al Khaimah's lofty Hajar peak, home to a zipline certified as the world's longest in 2018.", "difficulty": 2 },
+    { "name": "Sir Bani Yas Island", "kind": "nature", "lat": 24.32, "lon": 52.60, "clue": "Sheikh Zayed's island wildlife reserve, where Arabian oryx roam near an ancient Christian monastery.", "difficulty": 2 },
+    { "name": "Barakah Nuclear Power Plant", "kind": "landmark", "lat": 23.96, "lon": 52.26, "clue": "The Arab world's first nuclear power station, with four reactors on Abu Dhabi's western coast.", "difficulty": 2 },
+    { "name": "Mleiha", "kind": "historic", "lat": 25.12, "lon": 55.88, "clue": "Sharjah's desert archaeological site spans the Stone Age to a pre-Islamic town that minted its own coins.", "difficulty": 3 },
+    { "name": "Al Bidya Mosque", "kind": "historic", "lat": 25.44, "lon": 56.36, "clue": "A small mud-brick and stone mosque in Fujairah, often called the oldest mosque in use in the UAE.", "difficulty": 3 },
+    { "name": "Madinat Zayed", "kind": "city", "lat": 23.68, "lon": 53.70, "clue": "Main town of Abu Dhabi's Al Dhafra region, host of a famous camel festival and beauty contest.", "difficulty": 3 }
+  ]
+}

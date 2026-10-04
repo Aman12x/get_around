@@ -1,0 +1,39 @@
+{
+  "country": "morocco",
+  "timeline": [
+    { "event": "Early Homo sapiens live at Jebel Irhoud", "year": -300000, "label": "c. 300,000 years ago", "approx": true, "difficulty": 2 },
+    { "event": "Augustus makes Juba II king of Mauretania", "year": -25, "label": "25 BCE", "difficulty": 3 },
+    { "event": "Tariq ibn Ziyad crosses from North Africa into Iberia", "year": 711, "label": "711", "difficulty": 1 },
+    { "event": "Idris I founds the Idrisid dynasty", "year": 788, "label": "788", "difficulty": 2 },
+    { "event": "Fatima al-Fihri founds the al-Qarawiyyin mosque in Fez", "year": 859, "label": "859", "difficulty": 2 },
+    { "event": "The Almoravids found Marrakesh", "year": 1070, "label": "c. 1070", "approx": true, "difficulty": 2 },
+    { "event": "Ibn Battuta is born in Tangier", "year": 1304, "label": "1304", "difficulty": 1 },
+    { "event": "Portugal's King Sebastian dies at the Battle of the Three Kings", "year": 1578, "label": "1578", "difficulty": 2 },
+    { "event": "A Moroccan army defeats the Songhai Empire at Tondibi", "year": 1591, "label": "1591", "difficulty": 3 },
+    { "event": "Moulay Ismail begins his long reign and builds up Meknes", "year": 1672, "label": "1672", "difficulty": 2 },
+    { "event": "Morocco recognises the independence of the United States", "year": 1777, "label": "1777", "difficulty": 1 },
+    { "event": "Kaiser Wilhelm II lands at Tangier, sparking a crisis", "year": 1905, "label": "1905", "difficulty": 3 },
+    { "event": "The Treaty of Fez makes most of Morocco a French protectorate", "year": 1912, "label": "1912", "difficulty": 1 },
+    { "event": "Abd el-Krim's Rif fighters defeat Spain at the Battle of Annual", "year": 1921, "label": "1921", "difficulty": 2 },
+    { "event": "Roosevelt and Churchill meet at the Casablanca Conference", "year": 1943, "label": "1943", "difficulty": 1 },
+    { "event": "Morocco regains its independence", "year": 1956, "label": "1956", "difficulty": 1 },
+    { "event": "Casablanca's Hassan II Mosque is completed", "year": 1993, "label": "1993", "difficulty": 2 },
+    { "event": "The Marrakesh Agreement creates the World Trade Organization", "year": 1994, "label": "1994", "difficulty": 3 },
+    { "event": "Mohammed VI accedes to the throne", "year": 1999, "label": "1999", "difficulty": 1 },
+    { "event": "Africa's first high-speed railway opens from Tangier", "year": 2018, "label": "2018", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Marrakesh", "kind": "city", "lat": 31.63, "lon": -7.99, "clue": "The 'Red City' was founded around 1070 and centres on the lively Jemaa el-Fna square.", "difficulty": 1 },
+    { "name": "Rabat", "kind": "city", "lat": 34.02, "lon": -6.84, "clue": "Morocco's capital stands at the mouth of the Bou Regreg river, facing its twin city of Salé.", "difficulty": 1 },
+    { "name": "Fez", "kind": "city", "lat": 34.06, "lon": -4.98, "clue": "Its walled medina, Fes el-Bali, is one of the world's largest car-free urban areas.", "difficulty": 1 },
+    { "name": "Tangier", "kind": "city", "lat": 35.77, "lon": -5.80, "clue": "Birthplace of Ibn Battuta, this port looks across the Strait of Gibraltar to Spain.", "difficulty": 1 },
+    { "name": "Hassan II Mosque", "kind": "landmark", "lat": 33.61, "lon": -7.63, "clue": "Casablanca's great mosque stands partly over the Atlantic, with a minaret about 210 m tall.", "difficulty": 1 },
+    { "name": "Chefchaouen", "kind": "city", "lat": 35.17, "lon": -5.27, "clue": "This Rif mountain town is famous for its streets and houses washed in shades of blue.", "difficulty": 2 },
+    { "name": "Aït Benhaddou", "kind": "historic", "lat": 31.05, "lon": -7.13, "clue": "A UNESCO-listed mud-brick ksar on an old caravan route, seen in 'Gladiator' and 'Game of Thrones'.", "difficulty": 2 },
+    { "name": "Erg Chebbi", "kind": "nature", "lat": 31.15, "lon": -3.98, "clue": "Saharan dunes rising around 150 m beside the village of Merzouga.", "difficulty": 2 },
+    { "name": "Volubilis", "kind": "historic", "lat": 34.07, "lon": -5.55, "clue": "Ruins of a Roman-era city near Meknes, still floored with colourful mosaics.", "difficulty": 2 },
+    { "name": "Jbel Toubkal", "kind": "nature", "lat": 31.06, "lon": -7.92, "clue": "At 4,167 m, the High Atlas summit is the highest peak in North Africa.", "difficulty": 3 },
+    { "name": "Lixus", "kind": "historic", "lat": 35.20, "lon": -6.11, "clue": "Phoenician and Roman ruins above the Loukkos river near Larache, linked in legend to the Garden of the Hesperides.", "difficulty": 3 },
+    { "name": "Legzira Beach", "kind": "nature", "lat": 29.44, "lon": -10.12, "clue": "Red sandstone arches stand on this Atlantic beach north of Sidi Ifni; one famously collapsed in 2016.", "difficulty": 3 }
+  ]
+}

@@ -1,0 +1,1092 @@
+{
+  "country": "uae",
+  "topics": {
+    "history": [
+      {
+        "q": "In which year was the United Arab Emirates founded as a federation?",
+        "choices": ["1971", "1968", "1974", "1961"],
+        "answer": 0,
+        "fact": "The union is celebrated every year on Eid Al Etihad, the UAE's National Day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was the first President of the United Arab Emirates?",
+        "choices": ["Sheikh Rashid bin Saeed Al Maktoum", "Sheikh Zayed bin Sultan Al Nahyan", "Sheikh Khalifa bin Zayed Al Nahyan", "Sheikh Saqr bin Mohammed Al Qasimi"],
+        "answer": 1,
+        "fact": "Sheikh Zayed led the country from 1971 until his death in 2004 and is honoured as the 'Father of the Nation'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Before oil, which industry was the economic backbone of coastal towns such as Dubai and Abu Dhabi?",
+        "choices": ["Silk weaving", "Gold mining", "Pearl diving", "Whaling"],
+        "answer": 2,
+        "fact": "Divers wore a nose clip and held a stone weight to sink quickly to the oyster beds, spending months at sea each summer.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which country announced in 1968 that it would withdraw its forces from the Gulf by 1971?",
+        "choices": ["France", "The United States", "The Netherlands", "Britain"],
+        "answer": 3,
+        "fact": "The announcement prompted the rulers of the Trucial States, Bahrain and Qatar to begin talks on forming a union.",
+        "difficulty": 1
+      },
+      {
+        "q": "Before 1971, the emirates that formed the UAE were known collectively as what?",
+        "choices": ["The Trucial States", "The Aden Protectorate", "Muscat and Oman", "The Hadhramaut"],
+        "answer": 0,
+        "fact": "The name came from truces signed with Britain, including the Perpetual Maritime Truce of 1853.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which dynasty began ruling Dubai in 1833, when a branch of the Bani Yas settled at the Creek?",
+        "choices": ["Al Nahyan", "Al Maktoum", "Al Qasimi", "Al Nuaimi"],
+        "answer": 1,
+        "fact": "Maktoum bin Butti led his followers from Abu Dhabi to Dubai in 1833 and became the first Al Maktoum ruler.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the traditional wooden sailing vessel used for pearling and trade along the Emirati coast?",
+        "choices": ["Junk", "Felucca", "Dhow", "Caravel"],
+        "answer": 2,
+        "fact": "Dhows are still built by hand in yards such as Ajman's, and still carry cargo along Dubai Creek.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which decade did Abu Dhabi begin exporting crude oil?",
+        "choices": ["1930s", "1980s", "1910s", "1960s"],
+        "answer": 3,
+        "fact": "The first cargo of Abu Dhabi crude was shipped from Das Island in 1962.",
+        "difficulty": 1
+      },
+      {
+        "q": "British sources of the early 1800s gave the coast of today's UAE which nickname?",
+        "choices": ["The Pirate Coast", "The Pearl Coast", "The Spice Coast", "The Gold Coast"],
+        "answer": 0,
+        "fact": "Some historians, including Sheikh Sultan bin Muhammad Al Qasimi in 'The Myth of Arab Piracy in the Gulf' (1986), dispute the label.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which emirate joined the federation in February 1972, after the other six?",
+        "choices": ["Fujairah", "Ras Al Khaimah", "Umm Al Quwain", "Ajman"],
+        "answer": 1,
+        "fact": "Ras Al Khaimah joined on 10 February 1972, completing the seven-emirate union.",
+        "difficulty": 2
+      },
+      {
+        "q": "Before becoming Ruler of Abu Dhabi in 1966, Sheikh Zayed was the ruler's representative in which inland oasis region?",
+        "choices": ["Liwa", "Hatta", "Al Ain", "Dibba"],
+        "answer": 2,
+        "fact": "Zayed governed the Al Ain area from 1946, where he became known for reviving the falaj water channels and planting trees.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Ruler of Dubai (1958-1990) became the first Vice President of the UAE?",
+        "choices": ["Sheikh Maktoum bin Rashid Al Maktoum", "Sheikh Saeed bin Maktoum Al Maktoum", "Sheikh Hamdan bin Rashid Al Maktoum", "Sheikh Rashid bin Saeed Al Maktoum"],
+        "answer": 3,
+        "fact": "Sheikh Rashid drove Dubai's modernisation, backing projects such as Port Rashid, Jebel Ali Port and the Dubai World Trade Centre.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Umm an-Nar culture, named after an island beside Abu Dhabi, flourished in which era?",
+        "choices": ["The Bronze Age", "The Iron Age", "The Neolithic", "The Roman era"],
+        "answer": 0,
+        "fact": "Umm an-Nar people (c. 2600-2000 BCE) built circular stone tombs and traded copper with Mesopotamia and the Indus Valley.",
+        "difficulty": 2
+      },
+      {
+        "q": "The renowned 15th-century navigator Ahmad ibn Majid came from Julfar, near which modern city?",
+        "choices": ["Fujairah", "Ras Al Khaimah", "Sharjah", "Abu Dhabi"],
+        "answer": 1,
+        "fact": "Ibn Majid wrote influential guides to sailing the Indian Ocean; Julfar was a busy medieval trading port.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1507, a fleet from which European power attacked the east-coast town of Khor Fakkan?",
+        "choices": ["Spain", "The Netherlands", "Portugal", "France"],
+        "answer": 2,
+        "fact": "The fleet was led by Afonso de Albuquerque, who went on to attack the strategic island of Hormuz.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which two neighbouring states took part in union talks but chose separate independence in 1971?",
+        "choices": ["Oman and Kuwait", "Kuwait and Bahrain", "Qatar and Oman", "Bahrain and Qatar"],
+        "answer": 3,
+        "fact": "Talks began in 1968 among nine sheikhdoms; Bahrain and Qatar declared independence in August and September 1971.",
+        "difficulty": 2
+      },
+      {
+        "q": "Dubai's oldest existing building, which long housed the Dubai Museum, is which fort?",
+        "choices": ["Al Fahidi Fort", "Qasr Al Hosn", "Al Jahili Fort", "Fujairah Fort"],
+        "answer": 0,
+        "fact": "Built of coral stone and gypsum in the late 18th century, Al Fahidi Fort guarded the landward approach to the town.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Gulf's natural pearl trade collapsed in the 1930s because of the Great Depression and which other development?",
+        "choices": ["The opening of the Suez Canal", "Japanese cultured pearls", "A British ban on pearl imports", "Overfishing by steam trawlers"],
+        "answer": 1,
+        "fact": "Kokichi Mikimoto's cultured pearls, perfected in Japan, made natural Gulf pearls far less profitable.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1932, which town gained the region's first airfield, a stop on Imperial Airways' route to India?",
+        "choices": ["Dubai", "Abu Dhabi", "Sharjah", "Ras Al Khaimah"],
+        "answer": 2,
+        "fact": "Passengers stayed overnight at the Al Mahatta fort, which is now a museum of aviation.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was the 1820 agreement between Britain and the sheikhs of the coast called?",
+        "choices": ["The Treaty of Darin", "The Exclusive Agreement", "The Treaty of Jeddah", "The General Maritime Treaty"],
+        "answer": 3,
+        "fact": "It was followed by the Perpetual Maritime Truce of 1853 and the Exclusive Agreement of 1892.",
+        "difficulty": 3
+      },
+      {
+        "q": "Remains of a Christian monastery from around the 7th-8th centuries CE were found in 1992 on which island?",
+        "choices": ["Sir Bani Yas", "Das Island", "Delma", "Saadiyat"],
+        "answer": 0,
+        "fact": "The monastery had a church and cells for monks; visitors to the island's wildlife reserve can see the excavated site.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Battle of Dibba, fought on the UAE's east coast in the 630s CE, was part of which conflict?",
+        "choices": ["The Crusades", "The Ridda Wars", "The First Fitna", "The Abbasid Revolution"],
+        "answer": 1,
+        "fact": "The battle followed the death of the Prophet Muhammad, when Caliph Abu Bakr's forces fought tribes that had broken away.",
+        "difficulty": 3
+      },
+      {
+        "q": "Whom did Sheikh Zayed succeed as Ruler of Abu Dhabi in 1966?",
+        "choices": ["Sheikh Hamdan bin Zayed", "Sheikh Saqr bin Zayed", "Sheikh Shakhbut bin Sultan", "Sheikh Tahnoun bin Shakhbut"],
+        "answer": 2,
+        "fact": "Shakhbut, Zayed's elder brother, had ruled Abu Dhabi since 1928, through the collapse of pearling and the first oil exports.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which British-officered force, raised in 1951, later formed a core of the UAE's armed forces?",
+        "choices": ["The Aden Protectorate Levies", "The Arab Legion", "The Muscat Infantry", "The Trucial Oman Levies"],
+        "answer": 3,
+        "fact": "Renamed the Trucial Oman Scouts in 1956, the force passed to the new federation in 1971 as the Union Defence Force.",
+        "difficulty": 3
+      },
+      {
+        "q": "The large pre-Islamic port site of ed-Dur, which flourished around the 1st century CE, lies in which emirate?",
+        "choices": ["Umm Al Quwain", "Fujairah", "Ajman", "Abu Dhabi"],
+        "answer": 0,
+        "fact": "Finds at ed-Dur include Roman glass, Indian pottery and coins, showing trade links reaching across the ancient world.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which Dubai skyscraper became the world's tallest building when it opened in 2010?",
+        "choices": ["Burj Al Arab", "Emirates Office Tower", "Burj Khalifa", "Cayan Tower"],
+        "answer": 2,
+        "fact": "Construction began in 2004, and the tower opened with a grand fireworks show on 4 January 2010.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2014, Dubai International overtook London Heathrow as the world's busiest airport by which measure?",
+        "choices": ["Cargo tonnage", "Number of runways", "Aircraft movements", "International passenger traffic"],
+        "answer": 3,
+        "fact": "Its Terminal 3, built for Emirates, was among the largest buildings in the world by floor space when it opened in 2008.",
+        "difficulty": 1
+      },
+      {
+        "q": "Palm Jumeirah in Dubai is a famous example of what kind of engineering?",
+        "choices": ["An artificial island built from dredged sand", "A floating city on pontoons", "An undersea tunnel network", "A solar-powered dam"],
+        "answer": 0,
+        "fact": "Builders used about 94 million cubic metres of sand and 7 million tonnes of rock to create the island and its breakwater.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2020, the Barakah plant made the UAE the first Arab country to operate what kind of power station?",
+        "choices": ["Geothermal", "Nuclear", "Tidal", "Hydroelectric"],
+        "answer": 1,
+        "fact": "Barakah's first unit began supplying the grid in August 2020, eight years after construction started.",
+        "difficulty": 1
+      },
+      {
+        "q": "What was notable about the Dubai Metro when its first line opened in 2009?",
+        "choices": ["Its trains are powered by hydrogen", "It runs entirely underground", "Its trains run without drivers", "Its trains are pulled by cables"],
+        "answer": 2,
+        "fact": "Guinness World Records once listed its Red Line as the world's longest driverless metro line.",
+        "difficulty": 1
+      },
+      {
+        "q": "Masdar City in Abu Dhabi was planned as a showcase for what?",
+        "choices": ["Formula One racing", "Offshore oil drilling", "Space launches", "Sustainable, low-carbon urban living"],
+        "answer": 3,
+        "fact": "Its narrow, shaded streets and a wind tower inspired by traditional designs help keep pedestrians cool.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which oil producers' organisation did Abu Dhabi join in 1967?",
+        "choices": ["OPEC", "OAPEC", "The International Energy Agency", "The Gulf Cooperation Council"],
+        "answer": 0,
+        "fact": "Membership passed to the UAE after the federation was formed in 1971.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which technology supplies most of the UAE's drinking water?",
+        "choices": ["Glacier meltwater pipelines", "Seawater desalination", "Fog-harvesting nets", "River dams"],
+        "answer": 1,
+        "fact": "The UAE also runs a cloud-seeding programme, flying aircraft that release salt flares into suitable clouds.",
+        "difficulty": 1
+      },
+      {
+        "q": "Emirates, founded in Dubai in 1985, has operated the world's largest fleet of which double-deck airliner?",
+        "choices": ["Boeing 747", "Boeing 777", "Airbus A380", "Airbus A350"],
+        "answer": 2,
+        "fact": "Emirates ordered more A380s than any other airline, and some of its jets offer on-board showers in first class.",
+        "difficulty": 1
+      },
+      {
+        "q": "About how tall is the Burj Khalifa?",
+        "choices": ["541 m", "632 m", "1,008 m", "828 m"],
+        "answer": 3,
+        "fact": "It has more than 160 storeys, and its observation decks rank among the highest in the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "From which country was the UAE's Hope Mars probe launched in July 2020?",
+        "choices": ["Japan", "United States", "Kazakhstan", "India"],
+        "answer": 0,
+        "fact": "It flew on a Japanese H-IIA rocket from the Tanegashima Space Center.",
+        "difficulty": 2
+      },
+      {
+        "q": "A company from which country led the consortium that built the Barakah nuclear plant?",
+        "choices": ["France", "South Korea", "Russia", "Japan"],
+        "answer": 1,
+        "fact": "KEPCO's APR-1400 reactor design was chosen in 2009, and Barakah's four units were built one after another.",
+        "difficulty": 2
+      },
+      {
+        "q": "What made KhalifaSat, launched in 2018, a milestone for the UAE?",
+        "choices": ["It was the first satellite to orbit Mars", "It was the first Arab crewed spacecraft", "It was the first satellite built entirely by Emirati engineers", "It was the first satellite launched from UAE soil"],
+        "answer": 2,
+        "fact": "The Earth-observation satellite was built at the Mohammed bin Rashid Space Centre in Dubai.",
+        "difficulty": 2
+      },
+      {
+        "q": "Jebel Ali, opened near Dubai in 1979, is best known as what?",
+        "choices": ["An oil refinery", "A satellite ground station", "A nuclear research centre", "A deep-water container port"],
+        "answer": 3,
+        "fact": "Often called the world's largest man-made harbour, Jebel Ali Port anchors a huge free zone of trading companies.",
+        "difficulty": 2
+      },
+      {
+        "q": "In Al Ain's UNESCO-listed oases, what is a falaj?",
+        "choices": ["An irrigation channel", "A fortified watchtower", "A camel saddle", "A wind-catching tower"],
+        "answer": 0,
+        "fact": "Aflaj use gravity to carry groundwater to date-palm gardens, a technique used in the area for around 3,000 years.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the purpose of the barjeel, a feature of traditional Emirati houses?",
+        "choices": ["Storing rainwater", "Catching breezes to cool rooms", "Signalling to ships at night", "Drying dates"],
+        "answer": 1,
+        "fact": "Open on four sides, the wind tower funnels moving air down into the room below; Dubai's Al Fahidi district has many examples.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the main scientific goal of the UAE's Hope probe?",
+        "choices": ["Landing a rover near the Martian south pole", "Returning Martian soil samples to Earth", "Studying the Martian atmosphere and weather", "Searching for water ice on the Moon"],
+        "answer": 2,
+        "fact": "Its wide, high orbit lets it observe the whole planet's weather at different times of day across the Martian seasons.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Dubai project, opened in 2016, extended Dubai Creek through to the sea?",
+        "choices": ["Dubai Creek Harbour", "Al Seef Channel", "Business Bay Lagoon", "Dubai Water Canal"],
+        "answer": 3,
+        "fact": "The 3.2 km canal links Business Bay to the sea at Jumeirah, turning the heart of old Dubai into an island.",
+        "difficulty": 2
+      },
+      {
+        "q": "Dubai's first oil exports, in 1969, came from which offshore field?",
+        "choices": ["Fateh", "Umm Shaif", "Zakum", "Murban"],
+        "answer": 0,
+        "fact": "To store crude at sea, engineers built giant underwater tanks shaped like upturned funnels, known as Khazzans.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which giant solar plant at Sweihan in Abu Dhabi began commercial operation in 2019?",
+        "choices": ["Shams 1", "Noor Abu Dhabi", "Noor Ouarzazate", "Benban"],
+        "answer": 1,
+        "fact": "With about 3.2 million solar panels and around 1.2 GW of capacity, it was one of the world's largest single-site solar plants.",
+        "difficulty": 3
+      },
+      {
+        "q": "Shams 1, which opened near Madinat Zayed in 2013, generates power using what?",
+        "choices": ["A central solar power tower", "Floating photovoltaic panels", "Parabolic-trough mirrors", "A solar updraft chimney"],
+        "answer": 2,
+        "fact": "Curved mirrors focus sunlight onto pipes carrying a heat-transfer fluid, which raises steam to drive turbines.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which US university's space physics lab partnered with the UAE to build the Hope Mars probe?",
+        "choices": ["Massachusetts Institute of Technology", "Stanford University", "University of Michigan", "University of Colorado Boulder"],
+        "answer": 3,
+        "fact": "Emirati engineers worked alongside LASP scientists, with Arizona State and UC Berkeley also contributing to the instruments.",
+        "difficulty": 3
+      },
+      {
+        "q": "Murban, a benchmark crude oil that gained its own futures contract in 2021, is produced in which emirate?",
+        "choices": ["Abu Dhabi", "Dubai", "Sharjah", "Ras Al Khaimah"],
+        "answer": 0,
+        "fact": "Murban is a light, low-sulphur crude produced onshore by ADNOC and traded on ICE Futures Abu Dhabi.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Burj Khalifa's three-lobed floor plan was inspired by which desert flower?",
+        "choices": ["Desert rose", "Hymenocallis (spider lily)", "Lotus", "Tulip"],
+        "answer": 1,
+        "fact": "The tower's spiralling setbacks help 'confuse the wind', reducing the swirling forces that make tall buildings sway.",
+        "difficulty": 3
+      },
+      {
+        "q": "When Etihad Rail's first freight line opened in 2016, what was it built to carry?",
+        "choices": ["Crude oil", "Shipping containers", "Granulated sulphur", "Iron ore"],
+        "answer": 2,
+        "fact": "The 264 km line links the Shah and Habshan gas facilities to the port of Ruwais.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "Which famous Paris museum lent its name to a museum that opened on Abu Dhabi's Saadiyat Island in 2017?",
+        "choices": ["The Musée d'Orsay", "The Louvre", "The Centre Pompidou", "The Musée Rodin"],
+        "answer": 1,
+        "fact": "Its vast latticed dome creates a dappled 'rain of light', evoking palm fronds shading an oasis.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which white-marble landmark in Abu Dhabi, completed in 2007, is the largest mosque in the UAE?",
+        "choices": ["Jumeirah Mosque", "Al Bidya Mosque", "Sheikh Zayed Grand Mosque", "King Faisal Mosque"],
+        "answer": 2,
+        "fact": "It has 82 domes and more than 1,000 columns, and Sheikh Zayed is buried in its grounds.",
+        "difficulty": 1
+      },
+      {
+        "q": "Dubai's Burj Al Arab hotel was designed to resemble what?",
+        "choices": ["A falcon's wing", "A palm frond", "A desert dune", "The sail of a dhow"],
+        "answer": 3,
+        "fact": "Opened in 1999, it stands on its own artificial island about 280 m off Jumeirah Beach.",
+        "difficulty": 1
+      },
+      {
+        "q": "The façade of Dubai's Museum of the Future, opened in 2022, is covered in what?",
+        "choices": ["Arabic calligraphy", "Mosaic tiles", "Living plants", "LED video screens"],
+        "answer": 0,
+        "fact": "The calligraphy, by Emirati artist Mattar bin Lahej, spells out lines of poetry by Sheikh Mohammed bin Rashid Al Maktoum.",
+        "difficulty": 1
+      },
+      {
+        "q": "In the UAE, Nabati is a much-loved traditional form of what?",
+        "choices": ["Weaving", "Poetry", "Pottery", "Dance"],
+        "answer": 1,
+        "fact": "Composed in colloquial Arabic, Nabati verse has been written by Bedouin poets and by leaders including Sheikh Zayed.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which plant-based dye is used for intricate hand designs before Emirati weddings and Eid?",
+        "choices": ["Indigo", "Saffron", "Henna", "Turmeric"],
+        "answer": 2,
+        "fact": "The bride's henna night, 'Laylat Al Henna', is a traditional part of Emirati wedding celebrations.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which pear-shaped, short-necked stringed instrument is central to traditional Gulf music?",
+        "choices": ["Sitar", "Banjo", "Balalaika", "Oud"],
+        "answer": 3,
+        "fact": "Its name comes from the Arabic for 'wood', and it is a distant ancestor of the European lute.",
+        "difficulty": 1
+      },
+      {
+        "q": "In which film does Tom Cruise climb the outside of Dubai's Burj Khalifa?",
+        "choices": ["Mission: Impossible – Ghost Protocol", "Top Gun: Maverick", "Edge of Tomorrow", "Oblivion"],
+        "answer": 0,
+        "fact": "Cruise performed the 2011 climb himself, secured by cables, on the world's tallest building.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which film franchise shot scenes of the desert planet Jakku in Abu Dhabi's Liwa desert?",
+        "choices": ["Star Trek", "Star Wars", "Mad Max", "Avatar"],
+        "answer": 1,
+        "fact": "Liwa's towering dunes stood in for Jakku in 'Star Wars: The Force Awakens' (2015).",
+        "difficulty": 1
+      },
+      {
+        "q": "Which architecture firm designed the Burj Khalifa?",
+        "choices": ["Foster + Partners", "Zaha Hadid Architects", "Skidmore, Owings & Merrill", "Gensler"],
+        "answer": 2,
+        "fact": "Lead architect Adrian Smith later designed Jeddah Tower in Saudi Arabia, intended to be even taller.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which French architect designed the Louvre Abu Dhabi?",
+        "choices": ["Le Corbusier", "Christian de Portzamparc", "Dominique Perrault", "Jean Nouvel"],
+        "answer": 3,
+        "fact": "Nouvel won the Pritzker Prize in 2008 and also designed the National Museum of Qatar in Doha.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which emirate has hosted a major international art biennial since 1993?",
+        "choices": ["Sharjah", "Ajman", "Fujairah", "Umm Al Quwain"],
+        "answer": 0,
+        "fact": "Sharjah was named Cultural Capital of the Arab World in 1998 and UNESCO World Book Capital in 2019.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which architect designed the Guggenheim Abu Dhabi on Saadiyat Island?",
+        "choices": ["Renzo Piano", "Frank Gehry", "Norman Foster", "Tadao Ando"],
+        "answer": 1,
+        "fact": "Gehry also designed the Guggenheim Museum Bilbao, whose titanium curves made it a global icon in 1997.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 2021 Denis Villeneuve film used Abu Dhabi's Liwa desert to portray the planet Arrakis?",
+        "choices": ["Blade Runner 2049", "Arrival", "Dune", "Sicario"],
+        "answer": 2,
+        "fact": "The production returned to Abu Dhabi to film 'Dune: Part Two', released in 2024.",
+        "difficulty": 2
+      },
+      {
+        "q": "Dubai Opera, opened in 2016, has a shape inspired by what?",
+        "choices": ["A falcon's head", "A seashell", "A desert rose", "A traditional dhow"],
+        "answer": 3,
+        "fact": "Its 2,000-seat hall can be converted into a flat-floored space for banquets and exhibitions.",
+        "difficulty": 2
+      },
+      {
+        "q": "Abu Dhabi's oldest stone building, begun as a watchtower in the 18th century, is called what?",
+        "choices": ["Qasr Al Hosn", "Qasr Al Watan", "Al Jahili Fort", "Al Fahidi Fort"],
+        "answer": 0,
+        "fact": "Built to guard the island's freshwater well, it later became the ruling family's palace and seat of government.",
+        "difficulty": 2
+      },
+      {
+        "q": "Al Sadu, inscribed by UNESCO in 2011, is a traditional Bedouin form of what?",
+        "choices": ["Falconry", "Weaving", "Poetry recitation", "Silver jewellery"],
+        "answer": 1,
+        "fact": "Women weave Al Sadu on ground looms, using sheep, goat and camel hair in bold geometric patterns.",
+        "difficulty": 2
+      },
+      {
+        "q": "Al Ayyala, performed at weddings and national celebrations, is what?",
+        "choices": ["A style of calligraphy", "A type of embroidery", "A performance with drums and bamboo canes", "A form of pottery"],
+        "answer": 2,
+        "fact": "Two rows of men face each other, swaying and chanting poetry to the beat of drums; UNESCO inscribed it in 2014.",
+        "difficulty": 2
+      },
+      {
+        "q": "Al Ain's Al Jahili Fort hosts a permanent exhibition of photographs by which British explorer?",
+        "choices": ["T. E. Lawrence", "Freya Stark", "Richard Burton", "Wilfred Thesiger"],
+        "answer": 3,
+        "fact": "Thesiger twice crossed the Empty Quarter in the 1940s and described his journeys in 'Arabian Sands' (1959).",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Emirati artist is widely regarded as the pioneer of conceptual art in the UAE?",
+        "choices": ["Hassan Sharif", "Abdul Qader Al Rais", "Mohammed Kazem", "Abdullah Al Saadi"],
+        "answer": 0,
+        "fact": "Hassan Sharif (1951-2016) turned everyday objects such as rope, cardboard and cutlery into art.",
+        "difficulty": 3
+      },
+      {
+        "q": "Roughly what is the diameter of the Louvre Abu Dhabi's great dome?",
+        "choices": ["60 m", "180 m", "110 m", "300 m"],
+        "answer": 1,
+        "fact": "The dome weighs about 7,500 tonnes, close to the Eiffel Tower, and is built from eight layers of star-shaped patterns.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which curator became director of the Sharjah Biennial in 2003 and founded the Sharjah Art Foundation in 2009?",
+        "choices": ["Manal AlDowayan", "Lubna Al Qasimi", "Hoor Al Qasimi", "Zaha Hadid"],
+        "answer": 2,
+        "fact": "She is the daughter of Sharjah's ruler, Sheikh Sultan bin Muhammad Al Qasimi, himself a historian and playwright.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which architect designed the falcon-inspired UAE Pavilion at Expo 2020 Dubai?",
+        "choices": ["Zaha Hadid", "Bjarke Ingels", "Rem Koolhaas", "Santiago Calatrava"],
+        "answer": 3,
+        "fact": "Its 28 roof 'wings' can open and close, like a falcon spreading its feathers in flight.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which British architect designed the Burj Al Arab?",
+        "choices": ["Tom Wright", "Norman Foster", "Richard Rogers", "David Chipperfield"],
+        "answer": 0,
+        "fact": "Working for the firm Atkins, Wright was asked for a building that would become a symbol of Dubai.",
+        "difficulty": 3
+      },
+      {
+        "q": "The vast hand-knotted carpet in Sheikh Zayed Grand Mosque was made by about 1,200 weavers in which country?",
+        "choices": ["Turkey", "Iran", "India", "Pakistan"],
+        "answer": 1,
+        "fact": "Covering about 5,600 square metres, it was woven in sections that were joined together inside the mosque.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "What is the capital of the United Arab Emirates?",
+        "choices": ["Dubai", "Sharjah", "Abu Dhabi", "Al Ain"],
+        "answer": 2,
+        "fact": "The emirate of Abu Dhabi is also by far the largest, covering more than 80% of the country's land.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many emirates make up the United Arab Emirates?",
+        "choices": ["Five", "Six", "Nine", "Seven"],
+        "answer": 3,
+        "fact": "They are Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which family rules the emirate of Abu Dhabi?",
+        "choices": ["Al Nahyan", "Al Maktoum", "Al Qasimi", "Al Sharqi"],
+        "answer": 0,
+        "fact": "The Al Nahyan belong to the Bani Yas tribal confederation, whose roots lie in the Liwa Oasis.",
+        "difficulty": 1
+      },
+      {
+        "q": "By convention, the President of the UAE has been the ruler of which emirate?",
+        "choices": ["Dubai", "Abu Dhabi", "Sharjah", "Ras Al Khaimah"],
+        "answer": 1,
+        "fact": "Likewise, the Ruler of Dubai has traditionally served as Vice President and Prime Minister.",
+        "difficulty": 1
+      },
+      {
+        "q": "On which date does the UAE celebrate its National Day?",
+        "choices": ["18 November", "1 January", "2 December", "23 September"],
+        "answer": 2,
+        "fact": "It marks the declaration of the union in 1971 and is celebrated with fireworks, parades and flags across all seven emirates.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which regional bloc was founded at a summit in Abu Dhabi in 1981?",
+        "choices": ["The Arab League", "OPEC", "The Organisation of Islamic Cooperation", "The Gulf Cooperation Council"],
+        "answer": 3,
+        "fact": "Its six members are the UAE, Saudi Arabia, Kuwait, Qatar, Bahrain and Oman.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which world body did the UAE join on 9 December 1971, a week after its founding?",
+        "choices": ["The United Nations", "The Commonwealth of Nations", "The African Union", "The Organization of American States"],
+        "answer": 0,
+        "fact": "The UAE had joined the Arab League a few days earlier, on 6 December 1971.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 2006, Sheikh Mohammed bin Rashid Al Maktoum became ruler of which emirate?",
+        "choices": ["Abu Dhabi", "Dubai", "Sharjah", "Fujairah"],
+        "answer": 1,
+        "fact": "He succeeded his brother, Sheikh Maktoum bin Rashid, and also became the UAE's Vice President and Prime Minister.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the traditional Emirati council where rulers and elders receive people and discuss community affairs?",
+        "choices": ["Shura", "Jirga", "Majlis", "Souk"],
+        "answer": 2,
+        "fact": "UNESCO lists the majlis as intangible heritage shared by several Arab countries, including the UAE.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which body, made up of the rulers of the seven emirates, is the UAE's highest constitutional authority?",
+        "choices": ["The Federal National Council", "The Council of Ministers", "The Federal Supreme Court", "The Federal Supreme Council"],
+        "answer": 3,
+        "fact": "Its members elect the President and Vice President from among themselves.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many members sit in the UAE's Federal National Council?",
+        "choices": ["40", "20", "60", "120"],
+        "answer": 0,
+        "fact": "Half of the members are chosen by an electoral college, and the other half are appointed by the rulers of the emirates.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who succeeded Sheikh Zayed as President of the UAE in 2004?",
+        "choices": ["Sheikh Mohamed bin Zayed Al Nahyan", "Sheikh Khalifa bin Zayed Al Nahyan", "Sheikh Mohammed bin Rashid Al Maktoum", "Sheikh Sultan bin Muhammad Al Qasimi"],
+        "answer": 1,
+        "fact": "Sheikh Khalifa served as president until his death in 2022; the Burj Khalifa was named in his honour.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 2017, the UAE became the first country to appoint a minister of state for what?",
+        "choices": ["Happiness", "Tolerance", "Artificial intelligence", "Youth affairs"],
+        "answer": 2,
+        "fact": "Omar Sultan Al Olama was 27 when he was appointed in October 2017.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which family rules both Sharjah and Ras Al Khaimah?",
+        "choices": ["Al Nuaimi", "Al Mualla", "Al Sharqi", "Al Qasimi"],
+        "answer": 3,
+        "fact": "The Qawasim were a major maritime power on the coast in the 18th and early 19th centuries.",
+        "difficulty": 2
+      },
+      {
+        "q": "Sheikh Sultan bin Muhammad Al Qasimi, a historian and prolific author, became ruler of which emirate in 1972?",
+        "choices": ["Sharjah", "Ras Al Khaimah", "Ajman", "Fujairah"],
+        "answer": 0,
+        "fact": "He holds a PhD in history from the University of Exeter and has written many books and plays.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Abu Dhabi presidential palace opened its doors to the public in 2019?",
+        "choices": ["Qasr Al Hosn", "Qasr Al Watan", "Emirates Palace", "Al Jahili Fort"],
+        "answer": 1,
+        "fact": "The working palace houses a library and exhibitions on Emirati governance, and hosts state visits and summits.",
+        "difficulty": 2
+      },
+      {
+        "q": "For how long is a UAE President elected under the constitution?",
+        "choices": ["Four years", "Seven years", "Five years", "Ten years"],
+        "answer": 2,
+        "fact": "Presidents may be re-elected; Sheikh Zayed was re-elected repeatedly and served from 1971 until 2004.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which emirate was the union declared in 1971, at the building now known as Union House?",
+        "choices": ["Abu Dhabi", "Sharjah", "Ajman", "Dubai"],
+        "answer": 3,
+        "fact": "The Etihad Museum, opened beside Union House in 2017, tells the story of the federation's founding.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year was the UAE's provisional constitution of 1971 made permanent?",
+        "choices": ["1996", "1979", "1986", "2004"],
+        "answer": 0,
+        "fact": "The same 1996 amendment confirmed Abu Dhabi as the permanent federal capital.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who was the UAE's first Prime Minister, serving from 1971 to 1979?",
+        "choices": ["Sheikh Rashid bin Saeed Al Maktoum", "Sheikh Maktoum bin Rashid Al Maktoum", "Sheikh Khalifa bin Zayed Al Nahyan", "Sheikh Hamdan bin Rashid Al Maktoum"],
+        "answer": 1,
+        "fact": "His father, Sheikh Rashid, took over as Prime Minister in 1979; Maktoum returned to the post in 1990.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did the UAE hold its first elections for seats in the Federal National Council?",
+        "choices": ["1996", "2011", "2006", "1981"],
+        "answer": 2,
+        "fact": "An electoral college chose half of the council's members; it was greatly enlarged for later votes in 2011, 2015 and 2019.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became the first woman Speaker of the Federal National Council, in 2015?",
+        "choices": ["Lubna Al Qasimi", "Ohood Al Roumi", "Reem Al Hashimy", "Amal Al Qubaisi"],
+        "answer": 3,
+        "fact": "She was also the first woman elected to the council, in 2006.",
+        "difficulty": 3
+      },
+      {
+        "q": "Under the constitution, major decisions of the Federal Supreme Council need the votes of which two emirates?",
+        "choices": ["Abu Dhabi and Dubai", "Abu Dhabi and Sharjah", "Dubai and Sharjah", "Abu Dhabi and Ras Al Khaimah"],
+        "answer": 0,
+        "fact": "Such decisions need five of the seven rulers' votes, including both Abu Dhabi and Dubai, giving each an effective veto.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which family rules the emirate of Fujairah?",
+        "choices": ["Al Mualla", "Al Sharqi", "Al Nuaimi", "Al Qasimi"],
+        "answer": 1,
+        "fact": "Britain recognised Fujairah as a separate Trucial State in 1952, the last to gain that status.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became the UAE's first female cabinet minister in 2004?",
+        "choices": ["Amal Al Qubaisi", "Reem Al Hashimy", "Sheikha Lubna Al Qasimi", "Noura Al Kaabi"],
+        "answer": 2,
+        "fact": "She was appointed Minister of Economy and Planning and later served as Minister of State for Tolerance.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Which planet did the UAE's Hope probe reach in February 2021?",
+        "choices": ["Mars", "Venus", "Jupiter", "Mercury"],
+        "answer": 0,
+        "fact": "Hope entered orbit on 9 February 2021, making the UAE the first Arab country to reach Mars.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Expo 2020 Dubai, delayed by the COVID-19 pandemic, opened in which year?",
+        "choices": ["2020", "2021", "2022", "2019"],
+        "answer": 1,
+        "fact": "It ran from 1 October 2021 to 31 March 2022, the first World Expo held in the Middle East.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In September 2019, who became the first Emirati to travel to space?",
+        "choices": ["Sultan Al Neyadi", "Nora Al Matrooshi", "Hazza Al Mansouri", "Mohammad Al Mulla"],
+        "answer": 2,
+        "fact": "He spent eight days on the International Space Station and gave viewers a tour of it in Arabic.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which UN climate summit did the UAE host in Dubai in late 2023?",
+        "choices": ["COP26", "COP27", "COP29", "COP28"],
+        "answer": 3,
+        "fact": "Its final text called on countries to transition away from fossil fuels in energy systems, a first for a COP agreement.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who was elected President of the UAE in May 2022?",
+        "choices": ["Sheikh Mohamed bin Zayed Al Nahyan", "Sheikh Mohammed bin Rashid Al Maktoum", "Sheikh Khalid bin Mohamed Al Nahyan", "Sheikh Mansour bin Zayed Al Nahyan"],
+        "answer": 0,
+        "fact": "The Federal Supreme Council elected him on 14 May 2022, the day after the death of his brother, Sheikh Khalifa.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2020, the UAE agreed to establish diplomatic relations with which country under the Abraham Accords?",
+        "choices": ["Iran", "Israel", "Turkey", "Egypt"],
+        "answer": 1,
+        "fact": "The accords were signed at the White House on 15 September 2020; Bahrain signed on the same day.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In February 2019, which pope made the first papal visit to the Arabian Peninsula, in Abu Dhabi?",
+        "choices": ["Pope Benedict XVI", "Pope John Paul II", "Pope Francis", "Pope Leo XIV"],
+        "answer": 2,
+        "fact": "His open-air Mass in Abu Dhabi drew about 180,000 people, and he signed the 'Document on Human Fraternity' there.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "From January 2022, the UAE government's official weekend moved to which days?",
+        "choices": ["Friday and Saturday", "Thursday and Friday", "Sunday and Monday", "Saturday and Sunday"],
+        "answer": 3,
+        "fact": "The change aligned the working week more closely with global markets; Friday became a half working day for government staff.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In December 2021, the UAE celebrated which anniversary of its founding?",
+        "choices": ["50th", "25th", "40th", "60th"],
+        "answer": 0,
+        "fact": "The 'Year of the 50th' included the 'Principles of the 50', ten guidelines for the country's next half-century.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In April 2023, Sultan Al Neyadi became the first Arab astronaut to do what?",
+        "choices": ["Walk on the Moon", "Perform a spacewalk", "Command the ISS", "Pilot a lunar lander"],
+        "answer": 1,
+        "fact": "His spacewalk lasted about seven hours, during a six-month stay on the International Space Station.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In April 2024, the UAE recorded its heaviest rainfall since record-keeping began in which year?",
+        "choices": ["1971", "1921", "1949", "1990"],
+        "answer": 2,
+        "fact": "About 255 mm fell in under 24 hours at Khatm Al Shakla near Al Ain, more than a typical year's rain.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2024, which UAE power station became fully operational when the last of its four reactors came online?",
+        "choices": ["Hassyan", "Taweelah", "Jebel Ali", "Barakah"],
+        "answer": 3,
+        "fact": "At full output, Barakah can supply up to a quarter of the UAE's electricity.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "The UAE's Rashid rover was lost in April 2023 when its lander crashed on the Moon. Which country's company built the lander?",
+        "choices": ["Japan", "United States", "India", "Israel"],
+        "answer": 0,
+        "fact": "ispace's Hakuto-R lander lost contact during its final descent; the rover was named after Sheikh Rashid bin Saeed.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Who served as President of COP28 in 2023?",
+        "choices": ["Suhail Al Mazrouei", "Sultan Al Jaber", "Shamma Al Mazrui", "Abdullah bin Zayed Al Nahyan"],
+        "answer": 1,
+        "fact": "Dr Sultan Al Jaber was also the UAE's Minister of Industry and Advanced Technology and chief executive of ADNOC.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In June 2023, the UAE introduced a federal corporate tax at what headline rate?",
+        "choices": ["5%", "15%", "9%", "20%"],
+        "answer": 2,
+        "fact": "It applies to business profits above AED 375,000; the UAE had introduced a 5% VAT in 2018.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which group of major emerging economies did the UAE join in January 2024?",
+        "choices": ["G7", "ASEAN", "Mercosur", "BRICS"],
+        "answer": 3,
+        "fact": "Egypt, Ethiopia and Iran also joined BRICS at the start of 2024, alongside the UAE.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In October 2021, the UAE announced a target to reach net-zero emissions by which year?",
+        "choices": ["2050", "2030", "2040", "2070"],
+        "answer": 0,
+        "fact": "It was the first country in the Middle East and North Africa to announce a net-zero target.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In May 2025, which entertainment company announced plans for a theme park resort on Abu Dhabi's Yas Island?",
+        "choices": ["Universal", "Disney", "Six Flags", "Legoland"],
+        "answer": 1,
+        "fact": "Announced with Abu Dhabi's Miral as Disney's seventh theme park resort, it would join Yas Island's Ferrari World and Warner Bros. World.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2023, the UAE's Hope probe made a close flyby of which Martian moon?",
+        "choices": ["Phobos", "Titan", "Deimos", "Europa"],
+        "answer": 2,
+        "fact": "Passing about 100 km from Deimos, Hope captured some of the most detailed images yet of the tiny moon's far side.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "On COP28's opening day in 2023, delegates agreed to make which fund operational?",
+        "choices": ["The Green Climate Fund", "The Adaptation Fund", "The Global Environment Facility", "The Loss and Damage Fund"],
+        "answer": 3,
+        "fact": "The UAE pledged $100 million to the fund, which helps vulnerable countries recover from climate disasters.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which spacecraft carried Hazza Al Mansouri to the International Space Station in 2019?",
+        "choices": ["Soyuz MS-15", "SpaceX Crew Dragon", "Space Shuttle Atlantis", "Shenzhou 11"],
+        "answer": 0,
+        "fact": "It launched from Baikonur in Kazakhstan on 25 September 2019; he returned to Earth aboard Soyuz MS-12.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "Sultan Al Neyadi flew to the International Space Station in March 2023 on which mission?",
+        "choices": ["Soyuz MS-22", "SpaceX Crew-6", "Axiom Mission 2", "Boeing Starliner CFT"],
+        "answer": 1,
+        "fact": "He spent about six months in orbit, at the time the longest space mission by an Arab astronaut.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "About how many visits did Expo 2020 Dubai record during its six-month run?",
+        "choices": ["8 million", "50 million", "24 million", "73 million"],
+        "answer": 2,
+        "fact": "After the Expo closed, the site reopened as Expo City Dubai, which went on to host COP28.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Who was named in 2021 as the first Emirati woman astronaut?",
+        "choices": ["Sarah Al Amiri", "Reem Al Hashimy", "Alia Al Mansoori", "Nora Al Matrooshi"],
+        "answer": 3,
+        "fact": "She trained at NASA alongside Mohammad Al Mulla and graduated from its astronaut programme in 2024.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In March 2019, Abu Dhabi became the first city in the Middle East and North Africa to host which event?",
+        "choices": ["The Special Olympics World Games", "The Summer Olympics", "The Commonwealth Games", "The Paralympic Games"],
+        "answer": 0,
+        "fact": "About 7,500 athletes from some 190 nations took part.",
+        "difficulty": 3,
+        "asOf": "2019"
+      }
+    ],
+    "general": [
+      {
+        "q": "What is the currency of the United Arab Emirates?",
+        "choices": ["Riyal", "Dinar", "Rupee", "Dirham"],
+        "answer": 3,
+        "fact": "The dirham was introduced in 1973 and has been officially pegged to the US dollar at about 3.67 since 1997.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which vast sand desert covers much of the southern UAE?",
+        "choices": ["The Rub' al Khali (Empty Quarter)", "The Sahara", "The Gobi", "The Thar"],
+        "answer": 0,
+        "fact": "The Empty Quarter is the largest continuous sand desert in the world, shared with Saudi Arabia, Oman and Yemen.",
+        "difficulty": 1
+      },
+      {
+        "q": "What are the traditional wooden water taxis that cross Dubai Creek called?",
+        "choices": ["Gondolas", "Abras", "Sampans", "Feluccas"],
+        "answer": 1,
+        "fact": "A crossing between Deira and Bur Dubai takes only a few minutes and costs about one dirham.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which bird of prey is a national symbol of the UAE?",
+        "choices": ["Eagle", "Owl", "Falcon", "Vulture"],
+        "answer": 2,
+        "fact": "Abu Dhabi has a dedicated falcon hospital, and falcons can travel with their own passports.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which animals race at tracks such as Al Marmoom in Dubai, ridden by remote-controlled robot jockeys?",
+        "choices": ["Horses", "Greyhounds", "Ostriches", "Camels"],
+        "answer": 3,
+        "fact": "Trainers drive alongside the track, using remote controls to signal through the lightweight robot riders.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which motorsport series races at Abu Dhabi's Yas Marina Circuit?",
+        "choices": ["Formula One", "MotoGP", "NASCAR", "IndyCar"],
+        "answer": 0,
+        "fact": "The first Abu Dhabi Grand Prix, in 2009, began in daylight and finished under floodlights.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which two countries share land borders with the UAE?",
+        "choices": ["Qatar and Oman", "Saudi Arabia and Oman", "Saudi Arabia and Qatar", "Oman and Yemen"],
+        "answer": 1,
+        "fact": "Qatar lies close by across the water but shares no land border with the UAE.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the official language of the UAE?",
+        "choices": ["Persian", "Urdu", "Arabic", "English"],
+        "answer": 2,
+        "fact": "English is widely used in business, and Emirati Arabic is one of the Gulf dialects.",
+        "difficulty": 1
+      },
+      {
+        "q": "Abu Dhabi's Yas Island hosts a giant indoor theme park dedicated to which car brand?",
+        "choices": ["Lamborghini", "Porsche", "Mercedes-Benz", "Ferrari"],
+        "answer": 3,
+        "fact": "Its Formula Rossa roller coaster launches riders to 240 km/h in under five seconds.",
+        "difficulty": 1
+      },
+      {
+        "q": "Jebel Jais, home to a record-breaking zipline and some of the UAE's highest terrain, is in which emirate?",
+        "choices": ["Ras Al Khaimah", "Fujairah", "Sharjah", "Ajman"],
+        "answer": 0,
+        "fact": "Its Jais Flight zipline was certified in 2018 as the world's longest, at more than 2.8 km.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which mountain range runs along the UAE's east, near the border with Oman?",
+        "choices": ["Zagros Mountains", "Hajar Mountains", "Atlas Mountains", "Asir Mountains"],
+        "answer": 1,
+        "fact": "The range contains ophiolite: ancient ocean-floor rock that was pushed up onto land.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which oasis city became the UAE's first UNESCO World Heritage Site in 2011?",
+        "choices": ["Liwa", "Dibba", "Al Ain", "Hatta"],
+        "answer": 2,
+        "fact": "The listing includes Hili's Bronze Age tombs, the Hafit beehive tombs and oases watered by falaj channels.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which emirate's entire coastline faces the Gulf of Oman?",
+        "choices": ["Sharjah", "Ras Al Khaimah", "Ajman", "Fujairah"],
+        "answer": 3,
+        "fact": "Fujairah's port is one of the world's largest ship-refuelling hubs, lying outside the Strait of Hormuz.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which is the smallest of the seven emirates by area?",
+        "choices": ["Ajman", "Umm Al Quwain", "Fujairah", "Sharjah"],
+        "answer": 0,
+        "fact": "Ajman covers only about 260 square kilometres, less than 1% of the UAE's land.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which slow-cooked dish of wheat and meat is a staple of Emirati Ramadan and festive tables?",
+        "choices": ["Machboos", "Harees", "Luqaimat", "Balaleet"],
+        "answer": 1,
+        "fact": "Wheat and meat are cooked for hours and beaten into a smooth, porridge-like dish, often in a clay pot.",
+        "difficulty": 2
+      },
+      {
+        "q": "Tal Moreeb, one of the world's tallest sand dunes, rises near which oasis?",
+        "choices": ["Al Ain", "Hatta", "Liwa", "Dibba"],
+        "answer": 2,
+        "fact": "The dune rises about 300 m and hosts a hill-climb race for cars and motorbikes.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which hardy desert tree is the national tree of the UAE?",
+        "choices": ["Baobab", "Olive", "Neem", "Ghaf"],
+        "answer": 3,
+        "fact": "Its deep roots reach groundwater far below the sand, and it was the emblem of the UAE's 2019 Year of Tolerance.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Dubai World Cup, one of the richest race days in the world, is held in which sport?",
+        "choices": ["Horse racing", "Camel racing", "Golf", "Sailing"],
+        "answer": 0,
+        "fact": "It is run at Meydan Racecourse, whose grandstand stretches for more than a kilometre.",
+        "difficulty": 2
+      },
+      {
+        "q": "Nahwa, a village belonging to Sharjah, is unusual because it is surrounded by territory of which country?",
+        "choices": ["Saudi Arabia", "Oman", "Qatar", "Iran"],
+        "answer": 1,
+        "fact": "Nahwa lies inside Madha, an Omani exclave that is itself surrounded by UAE territory: a rare 'counter-enclave'.",
+        "difficulty": 3
+      },
+      {
+        "q": "The east-coast town of Khor Fakkan is part of which emirate?",
+        "choices": ["Fujairah", "Dubai", "Sharjah", "Ras Al Khaimah"],
+        "answer": 2,
+        "fact": "Thanks to Khor Fakkan and Kalba, Sharjah is the only emirate with coastlines on both the Gulf and the Gulf of Oman.",
+        "difficulty": 3
+      },
+      {
+        "q": "The UAE made its first FIFA World Cup appearance in 1990 in which host country?",
+        "choices": ["Mexico", "United States", "Spain", "Italy"],
+        "answer": 3,
+        "fact": "The team lost all three group games but scored twice, including a goal against West Germany.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which club became the first Emirati winner of the AFC Champions League, in 2003?",
+        "choices": ["Al Ain", "Al Wasl", "Shabab Al Ahli", "Al Jazira"],
+        "answer": 0,
+        "fact": "Al Ain won Asia's top club title again in 2024, beating Yokohama F. Marinos in the final.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which mountain beside Al Ain is known for 5,000-year-old 'beehive' tombs on its slopes?",
+        "choices": ["Jebel Jais", "Jebel Hafeet", "Jebel Ali", "Jebel Dhanna"],
+        "answer": 1,
+        "fact": "A winding road climbs to near its summit and is a famous finish for the UAE Tour cycle race.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Dubai Fountain was designed by the firm behind which famous Las Vegas water show?",
+        "choices": ["The Mirage Volcano", "The Fremont Street Experience", "The Fountains of Bellagio", "The Lake of Dreams at Wynn"],
+        "answer": 2,
+        "fact": "Its jets shoot water up to about 150 m into the air, choreographed to music beside the Burj Khalifa.",
+        "difficulty": 3
+      },
+      {
+        "q": "Ras Al Khor Wildlife Sanctuary, at the head of Dubai Creek, is famous for which birds?",
+        "choices": ["Ostriches", "Peacocks", "Pelicans", "Greater flamingos"],
+        "answer": 3,
+        "fact": "Bird hides let visitors watch thousands of waterbirds within sight of the city skyline.",
+        "difficulty": 3
+      }
+    ]
+  }
+}
