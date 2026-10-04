@@ -1,0 +1,1092 @@
+{
+  "country": "nigeria",
+  "topics": {
+    "history": [
+      {
+        "q": "In which year did Nigeria gain independence from Britain?",
+        "choices": ["1960", "1957", "1963", "1975"],
+        "answer": 0,
+        "fact": "Independence came on 1 October 1960, a date still celebrated every year as Independence Day.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which colonial power merged the Northern and Southern Protectorates to form Nigeria in 1914?",
+        "choices": ["France", "Britain", "Portugal", "Germany"],
+        "answer": 1,
+        "fact": "Frederick Lugard oversaw the merger and became the first Governor-General of the unified colony.",
+        "difficulty": 1
+      },
+      {
+        "q": "Nigeria takes its name from which river?",
+        "choices": ["Benue", "Congo", "Niger", "Volta"],
+        "answer": 2,
+        "fact": "Journalist Flora Shaw proposed the name in The Times in 1897 for the British-ruled lands along the river.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which coastal city was Nigeria's capital at independence?",
+        "choices": ["Ibadan", "Kano", "Port Harcourt", "Lagos"],
+        "answer": 3,
+        "fact": "Lagos remained the capital until December 1991, when the seat of government formally moved to the planned city of Abuja.",
+        "difficulty": 1
+      },
+      {
+        "q": "The historic Kingdom of Benin, ruled by a line of Obas, was centred in which present-day Nigerian city?",
+        "choices": ["Benin City", "Ibadan", "Kano", "Calabar"],
+        "answer": 0,
+        "fact": "Despite the shared name, it is unrelated to the modern Republic of Benin; its earthen walls were among the largest earthworks ever built.",
+        "difficulty": 1
+      },
+      {
+        "q": "The powerful Oyo Empire was built by which people?",
+        "choices": ["Hausa", "Yoruba", "Igbo", "Kanuri"],
+        "answer": 1,
+        "fact": "Ruled by a monarch titled the Alaafin, Oyo used its cavalry to dominate trade routes to the coast in the 17th and 18th centuries.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient culture of central Nigeria is famed for its terracotta sculptures and early iron-working?",
+        "choices": ["Igbo-Ukwu", "Ife", "Nok", "Benin"],
+        "answer": 2,
+        "fact": "It is named after the village in Kaduna State where tin miners first came across its striking clay figures.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Scottish explorer drowned in the Niger River near Bussa in 1806?",
+        "choices": ["David Livingstone", "Richard Burton", "John Speke", "Mungo Park"],
+        "answer": 3,
+        "fact": "Park had already become famous for his first Niger journey, described in his 1799 book 'Travels in the Interior Districts of Africa'.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1963 Nigeria replaced the British monarch as head of state by becoming what?",
+        "choices": ["A republic", "A protectorate", "A confederation", "An absolute monarchy"],
+        "answer": 0,
+        "fact": "The change took effect on 1 October 1963, exactly three years after independence.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which scholar and reformer founded the Sokoto Caliphate in the early 19th century?",
+        "choices": ["Ahmadu Bello", "Usman dan Fodio", "Mansa Musa", "Idris Alooma"],
+        "answer": 1,
+        "fact": "His son Muhammad Bello founded the city of Sokoto in 1809, and the Sultan of Sokoto remains an influential traditional ruler.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which long-lived empire was centred around Lake Chad, including part of today's north-eastern Nigeria?",
+        "choices": ["Songhai", "Mali", "Kanem-Bornu", "Oyo"],
+        "answer": 2,
+        "fact": "Its later capital, Birnin Gazargamu, lay in what is now Yobe State, and its caravans traded across the Sahara.",
+        "difficulty": 2
+      },
+      {
+        "q": "Queen Amina, a celebrated 16th-century ruler in Hausa tradition, led which city-state?",
+        "choices": ["Kano", "Katsina", "Gobir", "Zazzau (Zaria)"],
+        "answer": 3,
+        "fact": "Tradition credits her with building earthen walls around towns, still known as 'ganuwar Amina'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which activist led the Abeokuta Women's Union in protests against unfair taxes in the 1940s?",
+        "choices": ["Funmilayo Ransome-Kuti", "Margaret Ekpo", "Gambo Sawaba", "Flora Nwapa"],
+        "answer": 0,
+        "fact": "Often said to be the first woman in Nigeria to drive a car, she was also the mother of Afrobeat pioneer Fela Kuti.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city is traditionally regarded as the cradle of the Yoruba people?",
+        "choices": ["Oyo", "Ile-Ife", "Abeokuta", "Ibadan"],
+        "answer": 1,
+        "fact": "Its ruler, the Ooni of Ife, is among the most revered Yoruba monarchs, and the city's ancient metal heads are world-famous.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which engineer and journalist, often called the father of Nigerian nationalism, founded the country's first political party in 1923?",
+        "choices": ["Nnamdi Azikiwe", "Obafemi Awolowo", "Herbert Macaulay", "Anthony Enahoro"],
+        "answer": 2,
+        "fact": "His Nigerian National Democratic Party contested Lagos seats created by the 1922 constitution, the first to include elected Africans.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which member of the British royal family represented Queen Elizabeth II at Nigeria's independence celebrations in 1960?",
+        "choices": ["Prince Philip", "Princess Margaret", "Prince Charles", "Princess Alexandra"],
+        "answer": 3,
+        "fact": "She formally opened the new nation's first parliament in Lagos during the celebrations.",
+        "difficulty": 2
+      },
+      {
+        "q": "The trading city-state of Old Calabar was built by which people?",
+        "choices": ["Efik", "Tiv", "Nupe", "Ijaw"],
+        "answer": 0,
+        "fact": "Efik merchants kept written records in English, such as the 18th-century diary of trader Antera Duke.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many regions was Nigeria divided into at independence in 1960?",
+        "choices": ["Two", "Three", "Four", "Six"],
+        "answer": 1,
+        "fact": "The Northern, Western and Eastern Regions each had its own government and premier.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which chartered firm, led by George Goldie, governed much of the Niger basin until 1900?",
+        "choices": ["The East India Company", "The Hudson's Bay Company", "The Royal Niger Company", "The British South Africa Company"],
+        "answer": 2,
+        "fact": "When its charter was revoked, its lands passed to the British Crown and formed the core of the Northern Nigeria Protectorate.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Aro Confederacy, a powerful Igbo trading network, was centred on which town?",
+        "choices": ["Nsukka", "Owerri", "Enugu", "Arochukwu"],
+        "answer": 3,
+        "fact": "Aro traders built networks across the south-east, guided by the renowned Ibini Ukpabi oracle.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ancient Igbo kingdom was led by a priest-king known as the Eze Nri?",
+        "choices": ["Kingdom of Nri", "Kingdom of Onitsha", "Aro Confederacy", "Kingdom of Benin"],
+        "answer": 0,
+        "fact": "Nri's influence spread through ritual authority rather than armies, and its culture is linked to the Igbo-Ukwu bronzes.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Kwararafa confederacy of the Benue valley is associated with which people?",
+        "choices": ["Kanuri", "Jukun", "Fulani", "Edo"],
+        "answer": 1,
+        "fact": "The Jukun king, the Aku Uka, still holds court at Wukari in today's Taraba State.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which politician moved the 1953 motion calling for Nigerian self-government by 1956?",
+        "choices": ["Herbert Macaulay", "Ahmadu Bello", "Anthony Enahoro", "Nnamdi Azikiwe"],
+        "answer": 2,
+        "fact": "Self-government did not come in 1956, but the motion helped speed the timetable towards independence in 1960.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which pair of explorers traced the lower Niger to its mouth in 1830?",
+        "choices": ["Hugh Clapperton and Walter Oudney", "Mungo Park and Alexander Anderson", "Heinrich Barth and Adolf Overweg", "Richard and John Lander"],
+        "answer": 3,
+        "fact": "Their journey proved that the river empties into the Gulf of Guinea through the many channels of the Niger Delta.",
+        "difficulty": 3
+      },
+      {
+        "q": "In which year did Britain annex Lagos as a colony?",
+        "choices": ["1861", "1807", "1900", "1914"],
+        "answer": 0,
+        "fact": "Lagos became a British colony decades before the rest of present-day Nigeria came under direct British rule.",
+        "difficulty": 3
+      }
+    ],
+    "technology": [
+      {
+        "q": "Which commodity has supplied the bulk of Nigeria's export earnings since the 1970s?",
+        "choices": ["Crude oil", "Cocoa", "Groundnuts", "Tin"],
+        "answer": 0,
+        "fact": "Nigeria joined OPEC in 1971, and oil and gas have since provided the large majority of its export revenue.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1956, oil was first found in commercial quantities in which part of Nigeria?",
+        "choices": ["The Jos Plateau", "The Niger Delta", "The Sokoto Basin", "The Lake Chad Basin"],
+        "answer": 1,
+        "fact": "The discovery well was at Oloibiri, in today's Bayelsa State, and exports began in 1958.",
+        "difficulty": 1
+      },
+      {
+        "q": "Nigeria is the world's largest producer of which starchy root crop?",
+        "choices": ["Potato", "Taro", "Cassava", "Sugar beet"],
+        "answer": 2,
+        "fact": "Cassava is processed into everyday staples such as garri and fufu.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Lagos bridge, opened in 1990 and about 11.8 km long, was for years the longest in Africa?",
+        "choices": ["Carter Bridge", "Eko Bridge", "Lekki-Ikoyi Link Bridge", "Third Mainland Bridge"],
+        "answer": 3,
+        "fact": "It crosses the Lagos Lagoon to link Lagos Island with the mainland, carrying a huge daily flow of commuters.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which cash crop made Nigeria's Western Region wealthy in the 1950s?",
+        "choices": ["Cocoa", "Cotton", "Groundnuts", "Rubber"],
+        "answer": 0,
+        "fact": "Cocoa revenues helped fund Ibadan's Cocoa House, completed in 1965 and one of the first skyscrapers in tropical Africa.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which mobile operator launched in Nigeria in 2001 and became the country's largest network?",
+        "choices": ["Vodafone", "MTN", "Orange", "Safaricom"],
+        "answer": 1,
+        "fact": "The arrival of GSM networks in 2001 set off a mobile boom that put phones in the hands of well over 100 million Nigerians.",
+        "difficulty": 1
+      },
+      {
+        "q": "Aliko Dangote's industrial group is Africa's largest producer of what?",
+        "choices": ["Steel", "Glass", "Cement", "Paper"],
+        "answer": 2,
+        "fact": "Dangote Cement runs plants across Africa, with its largest at Obajana in Kogi State.",
+        "difficulty": 1
+      },
+      {
+        "q": "In the 1960s, Kano was famous for towering pyramids of which crop?",
+        "choices": ["Yams", "Cotton bales", "Sorghum", "Groundnuts"],
+        "answer": 3,
+        "fact": "Sacks of groundnuts were stacked into pyramids awaiting export, an image that became a symbol of northern farm wealth.",
+        "difficulty": 1
+      },
+      {
+        "q": "Kano's Kofar Mata dye pits, said to date from 1498, colour cloth with which natural dye?",
+        "choices": ["Indigo", "Henna", "Saffron", "Madder"],
+        "answer": 0,
+        "fact": "Dyers lower cloth into deep pits of fermented indigo, a craft passed down through families for generations.",
+        "difficulty": 1
+      },
+      {
+        "q": "Nigerian-born Philip Emeagwali won the 1989 Gordon Bell Prize for work in which field?",
+        "choices": ["Medicine", "High-performance computing", "Architecture", "Economics"],
+        "answer": 1,
+        "fact": "He used a massively parallel Connection Machine to simulate how oil flows through underground reservoirs.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is Eko Atlantic, being built beside Victoria Island in Lagos?",
+        "choices": ["A hydroelectric dam", "An offshore oil platform", "A new city district on land reclaimed from the sea", "A satellite launch site"],
+        "answer": 2,
+        "fact": "It is shielded by a sea wall of huge concrete blocks, nicknamed the 'Great Wall of Lagos'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ajaokuta in Kogi State is home to a vast plant built to produce what?",
+        "choices": ["Cement", "Fertiliser", "Aluminium", "Steel"],
+        "answer": 3,
+        "fact": "Construction began in 1979 with Soviet assistance, but the giant complex has never reached full production.",
+        "difficulty": 2
+      },
+      {
+        "q": "By 1912, a railway linked Lagos with which northern city?",
+        "choices": ["Kano", "Maiduguri", "Sokoto", "Port Harcourt"],
+        "answer": 0,
+        "fact": "The line helped carry groundnuts and cotton from the north to the coast for export.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Niger Delta's 19th-century 'Oil Rivers' were named after the trade in which product?",
+        "choices": ["Crude oil", "Palm oil", "Whale oil", "Groundnut oil"],
+        "answer": 1,
+        "fact": "Britain proclaimed the Oil Rivers Protectorate in 1884, decades before crude petroleum was found there.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 2014, Dr Stella Ameyo Adadevoh helped stop which disease spreading in Lagos?",
+        "choices": ["Cholera", "Malaria", "Ebola", "Lassa fever"],
+        "answer": 2,
+        "fact": "By isolating the first Ebola patient to reach Lagos, she helped Nigeria contain the outbreak; she died of the virus herself.",
+        "difficulty": 2
+      },
+      {
+        "q": "Mining on the Jos Plateau historically focused on which metal?",
+        "choices": ["Gold", "Copper", "Iron", "Tin"],
+        "answer": 3,
+        "fact": "Tin mining took off in the early 1900s, and abandoned mine pits now form lakes across the plateau.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 1959, which city launched Western Nigeria Television, billed as the first TV station in Africa?",
+        "choices": ["Ibadan", "Lagos", "Enugu", "Kaduna"],
+        "answer": 0,
+        "fact": "WNTV went on air on 31 October 1959 with the proud slogan 'First in Africa'.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which payments company, founded in 2016 by Nigerian entrepreneurs, grew into one of Africa's most valuable tech start-ups?",
+        "choices": ["M-Pesa", "Flutterwave", "Wave", "Chipper Cash"],
+        "answer": 1,
+        "fact": "It helps businesses accept card, bank and mobile-money payments across many African countries.",
+        "difficulty": 2
+      },
+      {
+        "q": "In which year was Nigeria's first satellite, NigeriaSat-1, launched?",
+        "choices": ["1991", "1998", "2003", "2011"],
+        "answer": 2,
+        "fact": "Built with Britain's Surrey Satellite Technology, it joined an international constellation that monitors disasters from orbit.",
+        "difficulty": 3
+      },
+      {
+        "q": "Nigeria's first communications satellite, NigComSat-1, launched in 2007, was built by which country?",
+        "choices": ["Russia", "France", "India", "China"],
+        "answer": 3,
+        "fact": "After the original failed in orbit in 2008, a replacement, NigComSat-1R, was launched in 2011.",
+        "difficulty": 3
+      },
+      {
+        "q": "Nigerian-born car designer Jelani Aliyu led the exterior design of which car?",
+        "choices": ["Chevrolet Volt", "Tesla Model S", "Toyota Prius", "Nissan Leaf"],
+        "answer": 0,
+        "fact": "After years at General Motors, he returned home to lead Nigeria's National Automotive Design and Development Council.",
+        "difficulty": 3
+      },
+      {
+        "q": "Taruga, in central Nigeria, holds some of West Africa's earliest evidence of which technology?",
+        "choices": ["Glass-making", "Iron smelting", "Paper-making", "Bronze casting"],
+        "answer": 1,
+        "fact": "Its ancient furnaces are linked to the Nok culture, which was making iron tools more than 2,000 years ago.",
+        "difficulty": 3
+      },
+      {
+        "q": "Innoson, one of Nigeria's first home-grown carmakers, is based in which south-eastern town?",
+        "choices": ["Aba", "Enugu", "Nnewi", "Owerri"],
+        "answer": 2,
+        "fact": "Nnewi, in Anambra State, is a busy hub for trading and manufacturing vehicle parts.",
+        "difficulty": 3
+      },
+      {
+        "q": "Nigeria's first nuclear research reactor, NIRR-1, commissioned in 2004, is in which university town?",
+        "choices": ["Nsukka", "Ile-Ife", "Ibadan", "Zaria"],
+        "answer": 3,
+        "fact": "The small reactor at Ahmadu Bello University is used for research and training, and was converted to low-enriched fuel in 2018.",
+        "difficulty": 3
+      },
+      {
+        "q": "Nigeria's first oil refinery opened in 1965 near which city?",
+        "choices": ["Port Harcourt", "Warri", "Kaduna", "Lagos"],
+        "answer": 0,
+        "fact": "The refinery at Alesa-Eleme was built to turn Niger Delta crude into fuel for the domestic market.",
+        "difficulty": 3
+      }
+    ],
+    "art": [
+      {
+        "q": "What is the nickname of Nigeria's prolific film industry?",
+        "choices": ["Nollywood", "Bollywood", "Kollywood", "Riallywood"],
+        "answer": 0,
+        "fact": "By the number of films released, it is often ranked second only to India's film industry.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who wrote the 1958 novel 'Things Fall Apart'?",
+        "choices": ["Wole Soyinka", "Chinua Achebe", "Ben Okri", "Amos Tutuola"],
+        "answer": 1,
+        "fact": "Its title comes from W. B. Yeats's poem 'The Second Coming', and it has been translated into more than 50 languages.",
+        "difficulty": 1
+      },
+      {
+        "q": "In 1986, which playwright became the first Black African to win the Nobel Prize in Literature?",
+        "choices": ["Chinua Achebe", "Ngũgĩ wa Thiong'o", "Wole Soyinka", "Léopold Sédar Senghor"],
+        "answer": 2,
+        "fact": "Soyinka's plays, such as 'Death and the King's Horseman', draw deeply on Yoruba myth and ritual.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which musician pioneered Afrobeat in the 1970s?",
+        "choices": ["King Sunny Adé", "Burna Boy", "Ebenezer Obey", "Fela Kuti"],
+        "answer": 3,
+        "fact": "Fela blended highlife, jazz and funk into Afrobeat, with songs that often ran well past ten minutes.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which novelist's TED talk 'We Should All Be Feminists' was sampled in a Beyoncé song?",
+        "choices": ["Chimamanda Ngozi Adichie", "Buchi Emecheta", "Flora Nwapa", "Lola Shoneyin"],
+        "answer": 0,
+        "fact": "Beyoncé quoted the talk on her 2013 track 'Flawless', and Adichie later published it as a short essay.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which Nigerian star featured on Drake's 2016 global hit 'One Dance'?",
+        "choices": ["Davido", "Wizkid", "Burna Boy", "Rema"],
+        "answer": 1,
+        "fact": "'One Dance' became the first song to pass one billion streams on Spotify.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is a gele?",
+        "choices": ["A talking drum", "A beaded crown", "A woman's elaborately tied head wrap", "A woven sleeping mat"],
+        "answer": 2,
+        "fact": "Tied from stiff fabric, a gele can rise in dramatic folds and fans at weddings and parties.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which hourglass-shaped Yoruba drum can imitate the tones of speech?",
+        "choices": ["Djembe", "Conga", "Bongo", "Dùndún (talking drum)"],
+        "answer": 3,
+        "fact": "Squeezing the cords between its two heads tightens the skin, letting a drummer 'speak' the rising and falling tones of Yoruba.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which singer of 'Smooth Operator' was born in Ibadan?",
+        "choices": ["Sade Adu", "Seal", "Corinne Bailey Rae", "Tracy Chapman"],
+        "answer": 0,
+        "fact": "Born to a Nigerian father and an English mother, Sade moved to England as a child and found fame in the 1980s.",
+        "difficulty": 1
+      },
+      {
+        "q": "Despite their name, the Benin Bronzes are mostly made of which alloy?",
+        "choices": ["Pewter", "Brass", "Steel", "Electrum"],
+        "answer": 1,
+        "fact": "Members of the royal casters' guild, Igun Eronmwon, still work on Igun Street in Benin City.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Nigerian modernist painted 'Tutu' (1974), a portrait of an Ife princess?",
+        "choices": ["Bruce Onobrakpeya", "Uche Okeke", "Ben Enwonwu", "Yusuf Grillo"],
+        "answer": 2,
+        "fact": "Long missing, the painting resurfaced in a London flat and sold at auction for £1.2 million in 2018.",
+        "difficulty": 2
+      },
+      {
+        "q": "Ben Okri won the 1991 Booker Prize for which novel?",
+        "choices": ["Half of a Yellow Sun", "Purple Hibiscus", "Things Fall Apart", "The Famished Road"],
+        "answer": 3,
+        "fact": "At 32, he was then the youngest writer ever to win the Booker.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which author wrote 'The Palm-Wine Drinkard' (1952), a fantastical tale drawn from Yoruba folklore?",
+        "choices": ["Amos Tutuola", "Cyprian Ekwensi", "Wole Soyinka", "Buchi Emecheta"],
+        "answer": 0,
+        "fact": "Published in London by Faber and Faber, it was praised by the Welsh poet Dylan Thomas.",
+        "difficulty": 2
+      },
+      {
+        "q": "King Sunny Adé is a star of which guitar-driven Yoruba music genre?",
+        "choices": ["Highlife", "Jùjú", "Fuji", "Apala"],
+        "answer": 1,
+        "fact": "He added pedal steel guitar and synthesisers to jùjú, and his 1982 album 'Juju Music' won him fans worldwide.",
+        "difficulty": 2
+      },
+      {
+        "q": "Lagos's National Theatre, whose shape recalls a military cap, was built for which 1977 festival?",
+        "choices": ["The All-Africa Games", "The Lagos Jazz Festival", "FESTAC '77", "The Osun Festival"],
+        "answer": 2,
+        "fact": "FESTAC '77 drew thousands of artists from across Africa and the African diaspora to Lagos.",
+        "difficulty": 2
+      },
+      {
+        "q": "Atilogwu, a dazzling acrobatic dance, belongs to which people?",
+        "choices": ["Hausa", "Tiv", "Yoruba", "Igbo"],
+        "answer": 3,
+        "fact": "Young dancers flip and leap to fast drums and the clang of the ogene metal gong.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which 1992 video film is widely credited with launching Nollywood?",
+        "choices": ["Living in Bondage", "Lionheart", "The Wedding Party", "Ije"],
+        "answer": 0,
+        "fact": "Shot quickly and sold on VHS tapes, its success inspired a flood of films made straight for the home-video market.",
+        "difficulty": 2
+      },
+      {
+        "q": "Adire, made especially in Abeokuta, is what kind of textile?",
+        "choices": ["Hand-woven raffia", "Indigo resist-dyed cloth", "Silk brocade", "Bark cloth"],
+        "answer": 1,
+        "fact": "Patterns are created by tying, stitching or painting starch onto cloth before it is dipped in indigo.",
+        "difficulty": 2
+      },
+      {
+        "q": "Twins Seven-Seven was a leading artist of which 1960s art movement?",
+        "choices": ["The Nsukka School", "The Zaria Art Society", "The Oshogbo School", "The Lagos Group"],
+        "answer": 2,
+        "fact": "Workshops run by Ulli and Georgina Beier helped launch artists who painted vivid scenes from Yoruba myth.",
+        "difficulty": 3
+      },
+      {
+        "q": "Uli, flowing line drawings traditionally painted on skin and walls, is an art form of which people?",
+        "choices": ["Hausa", "Yoruba", "Efik", "Igbo"],
+        "answer": 3,
+        "fact": "Artists of the Nsukka School, led by Uche Okeke, adapted uli motifs into modern painting.",
+        "difficulty": 3
+      },
+      {
+        "q": "Whose 1966 novel 'Efuru' made her one of the first African women novelists published in English internationally?",
+        "choices": ["Flora Nwapa", "Buchi Emecheta", "Zulu Sofola", "Mabel Segun"],
+        "answer": 0,
+        "fact": "She later founded Tana Press, one of the first publishing houses in Africa run by a woman.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Yoruba music genre was popularised by Sikiru Ayinde Barrister?",
+        "choices": ["Jùjú", "Fuji", "Apala", "Highlife"],
+        "answer": 1,
+        "fact": "Barrister said he named the style after Japan's Mount Fuji, which he had seen on a poster.",
+        "difficulty": 3
+      },
+      {
+        "q": "Mamman Shata was a celebrated singer and poet in which language?",
+        "choices": ["Yoruba", "Igbo", "Hausa", "Kanuri"],
+        "answer": 2,
+        "fact": "Backed by kalangu talking drums, he built a vast catalogue of songs praising, teasing and chronicling northern life.",
+        "difficulty": 3
+      },
+      {
+        "q": "A famous 16th-century ivory pendant mask from Benin depicts which queen mother?",
+        "choices": ["Amina", "Moremi", "Emotan", "Idia"],
+        "answer": 3,
+        "fact": "Idia, mother of Oba Esigie, was the first Iyoba (queen mother); a copy of the mask became the emblem of FESTAC '77.",
+        "difficulty": 3
+      },
+      {
+        "q": "Kwagh-hir, a theatre of puppets and masquerades, comes from which Middle Belt people?",
+        "choices": ["Tiv", "Nupe", "Igala", "Idoma"],
+        "answer": 0,
+        "fact": "Performers use carved puppets, music and dance to act out folk tales, proverbs and satire.",
+        "difficulty": 3
+      }
+    ],
+    "politics": [
+      {
+        "q": "What is the capital of Nigeria?",
+        "choices": ["Abuja", "Lagos", "Kano", "Ibadan"],
+        "answer": 0,
+        "fact": "Abuja lies within the Federal Capital Territory, which belongs to none of Nigeria's states.",
+        "difficulty": 1
+      },
+      {
+        "q": "How many states does Nigeria have?",
+        "choices": ["24", "36", "30", "48"],
+        "answer": 1,
+        "fact": "The largest state by area is Niger State, while Lagos State is the smallest.",
+        "difficulty": 1
+      },
+      {
+        "q": "What system of government does Nigeria have?",
+        "choices": ["A constitutional monarchy", "A one-party state", "A federal presidential republic", "A unitary parliamentary republic"],
+        "answer": 2,
+        "fact": "Power is shared between the federal government and the states, and the president is both head of state and head of government.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became Nigeria's first President when the country became a republic in 1963?",
+        "choices": ["Obafemi Awolowo", "Ahmadu Bello", "Abubakar Tafawa Balewa", "Nnamdi Azikiwe"],
+        "answer": 3,
+        "fact": "Known as 'Zik', he had founded the influential West African Pilot newspaper in 1937.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who was Nigeria's first Prime Minister at independence in 1960?",
+        "choices": ["Abubakar Tafawa Balewa", "Nnamdi Azikiwe", "Obafemi Awolowo", "Herbert Macaulay"],
+        "answer": 0,
+        "fact": "A former teacher from Bauchi, he was admired for his oratory and nicknamed the 'Golden Voice of Africa'.",
+        "difficulty": 1
+      },
+      {
+        "q": "What colours make up Nigeria's national flag?",
+        "choices": ["Red and white", "Green and white", "Green, yellow and red", "Black and green"],
+        "answer": 1,
+        "fact": "Student Taiwo Akinkunmi designed it in 1958; the green stands for the land's natural wealth and the white for peace.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the name of Nigeria's federal legislature?",
+        "choices": ["The Parliament", "The Congress", "The National Assembly", "The Federal Council"],
+        "answer": 2,
+        "fact": "Its two chambers, the Senate and the House of Representatives, meet in Abuja's Three Arms Zone.",
+        "difficulty": 1
+      },
+      {
+        "q": "Who became president in May 1999, when Nigeria returned to civilian rule?",
+        "choices": ["Umaru Musa Yar'Adua", "Goodluck Jonathan", "Shehu Shagari", "Olusegun Obasanjo"],
+        "answer": 3,
+        "fact": "His inauguration on 29 May 1999 began the period known as the Fourth Republic, and he went on to serve two terms.",
+        "difficulty": 1
+      },
+      {
+        "q": "How long is a Nigerian presidential term?",
+        "choices": ["Four years", "Five years", "Six years", "Seven years"],
+        "answer": 0,
+        "fact": "A president may serve at most two terms, and new terms traditionally begin on 29 May.",
+        "difficulty": 1
+      },
+      {
+        "q": "The Economic Community of West African States (ECOWAS) was founded by a 1975 treaty signed in which city?",
+        "choices": ["Accra", "Lagos", "Dakar", "Abidjan"],
+        "answer": 1,
+        "fact": "ECOWAS now has its headquarters in Abuja.",
+        "difficulty": 2
+      },
+      {
+        "q": "How many seats are there in Nigeria's Senate?",
+        "choices": ["36", "73", "109", "360"],
+        "answer": 2,
+        "fact": "Each of the 36 states elects three senators, and the Federal Capital Territory elects one.",
+        "difficulty": 2
+      },
+      {
+        "q": "On Nigeria's coat of arms, what does the white Y-shaped band represent?",
+        "choices": ["A road", "A lightning bolt", "A palm tree", "The Niger and Benue rivers meeting"],
+        "answer": 3,
+        "fact": "The black shield stands for the country's fertile soil, and the two white horses that support it represent dignity.",
+        "difficulty": 2
+      },
+      {
+        "q": "Nigeria's national motto is 'Unity and Faith, Peace and ...' what?",
+        "choices": ["Progress", "Prosperity", "Freedom", "Justice"],
+        "answer": 0,
+        "fact": "The motto appears on a ribbon at the base of the national coat of arms.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Premier of the Western Region introduced free universal primary education there in 1955?",
+        "choices": ["Ahmadu Bello", "Obafemi Awolowo", "Samuel Akintola", "Michael Okpara"],
+        "answer": 1,
+        "fact": "Awolowo's portrait appears on the ₦100 note.",
+        "difficulty": 2
+      },
+      {
+        "q": "Who was the Sardauna of Sokoto and Premier of the Northern Region?",
+        "choices": ["Abubakar Tafawa Balewa", "Aminu Kano", "Ahmadu Bello", "Usman dan Fodio"],
+        "answer": 2,
+        "fact": "Ahmadu Bello University in Zaria, founded in 1962, is named after him.",
+        "difficulty": 2
+      },
+      {
+        "q": "The presidential villa in Abuja is popularly named after which nearby granite outcrop?",
+        "choices": ["Zuma Rock", "Olumo Rock", "Idanre Hill", "Aso Rock"],
+        "answer": 3,
+        "fact": "The 400 m monolith rises behind Abuja's Three Arms Zone, home to the presidency, the National Assembly and the Supreme Court.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which body organises national elections in Nigeria?",
+        "choices": ["INEC", "NNPC", "NCC", "EFCC"],
+        "answer": 0,
+        "fact": "The Independent National Electoral Commission was set up in 1998, ahead of the return to civilian rule.",
+        "difficulty": 2
+      },
+      {
+        "q": "In 2017, Nigeria's Amina J. Mohammed became deputy head of which organisation?",
+        "choices": ["The African Union", "The United Nations", "The World Bank", "The Commonwealth"],
+        "answer": 1,
+        "fact": "Before becoming UN Deputy Secretary-General, she served as Nigeria's environment minister.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which region was carved out of the Western Region in 1963, becoming Nigeria's fourth region?",
+        "choices": ["The Middle Belt Region", "The Rivers Region", "The Mid-Western Region", "The Calabar Region"],
+        "answer": 2,
+        "fact": "Created after a referendum, it had its capital at Benin City.",
+        "difficulty": 3
+      },
+      {
+        "q": "Nigeria's 1979 constitution replaced the Westminster-style parliamentary system with what?",
+        "choices": ["A monarchy", "A one-party state", "A confederation", "A US-style presidential system"],
+        "answer": 3,
+        "fact": "Shehu Shagari became the first executive president under the new system in October 1979.",
+        "difficulty": 3
+      },
+      {
+        "q": "How many members sit in Nigeria's House of Representatives?",
+        "choices": ["360", "109", "250", "450"],
+        "answer": 0,
+        "fact": "Members are elected from single-member constituencies for four-year terms.",
+        "difficulty": 3
+      },
+      {
+        "q": "Who became the first woman Speaker of Nigeria's House of Representatives, in 2007?",
+        "choices": ["Ngozi Okonjo-Iweala", "Patricia Etteh", "Oby Ezekwesili", "Dora Akunyili"],
+        "answer": 1,
+        "fact": "She represented a constituency in Osun State.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Nigerian diplomat served as Commonwealth Secretary-General from 1990 to 2000?",
+        "choices": ["Ibrahim Gambari", "Joseph Garba", "Emeka Anyaoku", "Bola Ajibola"],
+        "answer": 2,
+        "fact": "He was the first African to hold the post.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 2015, former agriculture minister Akinwumi Adesina was elected president of which institution?",
+        "choices": ["The World Bank", "ECOWAS", "The IMF", "The African Development Bank"],
+        "answer": 3,
+        "fact": "He was re-elected in 2020, and in 2017 he won the World Food Prize.",
+        "difficulty": 3
+      },
+      {
+        "q": "Into how many geopolitical zones is Nigeria commonly grouped?",
+        "choices": ["Six", "Four", "Eight", "Twelve"],
+        "answer": 0,
+        "fact": "They are North Central, North East, North West, South East, South South and South West.",
+        "difficulty": 3
+      }
+    ],
+    "current-affairs": [
+      {
+        "q": "Who won Nigeria's February 2023 presidential election?",
+        "choices": ["Bola Tinubu", "Atiku Abubakar", "Peter Obi", "Rabiu Kwankwaso"],
+        "answer": 0,
+        "fact": "A former governor of Lagos State, he was sworn in on 29 May 2023.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which singer won the Grammy for Best Global Music Album in March 2021 with 'Twice as Tall'?",
+        "choices": ["Wizkid", "Burna Boy", "Davido", "Tiwa Savage"],
+        "answer": 1,
+        "fact": "The Port Harcourt-born star calls himself the 'African Giant', the title of the album before it.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In March 2021, Ngozi Okonjo-Iweala became the first woman and first African to lead which organisation?",
+        "choices": ["The IMF", "The World Bank", "The World Trade Organization", "The African Union Commission"],
+        "answer": 2,
+        "fact": "A former Nigerian finance minister, she was reappointed in 2024 for a second term as Director-General.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In July 2022, Tobi Amusan set a world record in which athletics event?",
+        "choices": ["Long jump", "400 m", "Triple jump", "100 m hurdles"],
+        "answer": 3,
+        "fact": "She ran 12.12 seconds in the semi-final at the World Championships in Eugene, then won the final to take gold.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Victor Osimhen was Serie A's top scorer as which club won the 2022-23 Italian title?",
+        "choices": ["Napoli", "Juventus", "Inter Milan", "AC Milan"],
+        "answer": 0,
+        "fact": "It was Napoli's first league title since 1990, and Osimhen was named 2023 African Footballer of the Year.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "The giant Dangote Refinery, which began production in 2024, is in which Nigerian state?",
+        "choices": ["Rivers", "Lagos", "Kano", "Delta"],
+        "answer": 1,
+        "fact": "Designed to process 650,000 barrels of crude a day, it is billed as the world's largest single-train refinery.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, Lagos chef Hilda Baci set a Guinness World Record for what?",
+        "choices": ["Largest pot of jollof rice", "Fastest pepper-soup eating", "Longest cooking marathon by an individual", "Most dishes tasted in an hour"],
+        "answer": 2,
+        "fact": "She cooked for about 100 hours non-stop, and Guinness ratified 93 hours and 11 minutes.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Nigerian singer's 'Calm Down', remixed with Selena Gomez in 2022, became a global hit?",
+        "choices": ["Wizkid", "Davido", "Tems", "Rema"],
+        "answer": 3,
+        "fact": "The remix climbed to number three on the US Billboard Hot 100.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Nigeria's Super Falcons won the Women's Africa Cup of Nations in July 2025 by beating which host nation 3-2 in the final?",
+        "choices": ["Morocco", "South Africa", "Ghana", "Zambia"],
+        "answer": 0,
+        "fact": "Coming back from 2-0 down, the Falcons claimed a record-extending tenth continental title.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Tems earned an Oscar nomination in 2023 as a co-writer of which song from 'Black Panther: Wakanda Forever'?",
+        "choices": ["Essence", "Lift Me Up", "Free Mind", "Calm Down"],
+        "answer": 1,
+        "fact": "Sung by Rihanna, the ballad was written as a tribute to the late actor Chadwick Boseman.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Ademola Lookman scored a hat-trick in the May 2024 Europa League final for which club?",
+        "choices": ["Roma", "Bayer Leverkusen", "Atalanta", "Sevilla"],
+        "answer": 2,
+        "fact": "His three goals ended Leverkusen's 51-match unbeaten run, and he was later named 2024 African Footballer of the Year.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In May 2021, Asisat Oshoala became the first African woman to win the UEFA Women's Champions League, with which club?",
+        "choices": ["Chelsea", "Lyon", "Arsenal", "Barcelona"],
+        "answer": 3,
+        "fact": "Barcelona beat Chelsea 4-0 in the final in Gothenburg.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In June 2021, a new standard-gauge railway was commissioned linking Lagos with which city?",
+        "choices": ["Ibadan", "Kano", "Abuja", "Port Harcourt"],
+        "answer": 0,
+        "fact": "The line, about 157 km long, is planned as the first stage of a network running north to Kano.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "The Second Niger Bridge, commissioned in May 2023, connects Asaba with which city?",
+        "choices": ["Lokoja", "Onitsha", "Enugu", "Benin City"],
+        "answer": 1,
+        "fact": "About 1.6 km long, it eases traffic on the original Niger Bridge, opened in 1965.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In May 2024, Nigeria brought back which national anthem, first sung at independence?",
+        "choices": ["Arise, O Compatriots", "Land of Hope", "Nigeria, We Hail Thee", "One Nigeria"],
+        "answer": 2,
+        "fact": "It replaced 'Arise, O Compatriots', which had been the anthem since 1978.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who won Nigeria's February 2019 presidential election?",
+        "choices": ["Atiku Abubakar", "Goodluck Jonathan", "Bola Tinubu", "Muhammadu Buhari"],
+        "answer": 3,
+        "fact": "It was Buhari's second victory, following his first presidential win in 2015.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In April 2024, Nigerian chess champion Tunde Onakoya set a world record for the longest chess marathon in which city?",
+        "choices": ["New York", "London", "Lagos", "Paris"],
+        "answer": 0,
+        "fact": "Playing for about 58 hours in Times Square, he raised funds for children's education through his Chess in Slums Africa initiative.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Nigeria reached the final of the Africa Cup of Nations held in early 2024. Which team beat them 2-1?",
+        "choices": ["Senegal", "Côte d'Ivoire", "Egypt", "South Africa"],
+        "answer": 1,
+        "fact": "The hosts came from behind in Abidjan to win their third continental title.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In September 2023, which Lagos rail line began carrying passengers as the city's first electric light-rail service?",
+        "choices": ["The Red Line", "The Green Line", "The Blue Line", "The Purple Line"],
+        "answer": 2,
+        "fact": "Its first phase runs from Marina on Lagos Island to Mile 2 on the mainland.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which US payments company bought the Lagos start-up Paystack in 2020?",
+        "choices": ["PayPal", "Square", "Visa", "Stripe"],
+        "answer": 3,
+        "fact": "The deal, reported at over $200 million, was then one of the largest acquisitions of a Nigerian start-up.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "In April 2019, which Lagos-founded online retailer became the first African tech start-up listed on the New York Stock Exchange?",
+        "choices": ["Jumia", "Konga", "Takealot", "Kilimall"],
+        "answer": 0,
+        "fact": "Jumia launched in Lagos in 2012 and expanded its online marketplace to many African countries.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "Nigeria's first deep-sea port, commissioned in January 2023, is at which location?",
+        "choices": ["Apapa", "Lekki", "Onne", "Calabar"],
+        "answer": 1,
+        "fact": "Built in the Lekki Free Zone east of Lagos, its deep berths can take far larger container ships than the older city ports.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In January 2025, Nigeria became a partner country of which group?",
+        "choices": ["The G7", "OPEC", "BRICS", "The Commonwealth"],
+        "answer": 2,
+        "fact": "Brazil, which chaired the bloc that year, announced Nigeria as its newest partner country.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which actor-director's 'A Tribe Called Judah' (2023) became the first Nollywood film to earn over ₦1 billion in cinemas?",
+        "choices": ["Kunle Afolayan", "Genevieve Nnaji", "Mo Abudu", "Funke Akindele"],
+        "answer": 3,
+        "fact": "Akindele, also known for her 'Jenifa' comedy franchise, co-directed and starred in the film.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Chimamanda Ngozi Adichie's first novel in over a decade, published in March 2025, is titled what?",
+        "choices": ["Dream Count", "Americanah", "Purple Hibiscus", "Zikora"],
+        "answer": 0,
+        "fact": "The novel follows four women whose lives and friendships stretch between Africa and America.",
+        "difficulty": 3,
+        "asOf": "2025"
+      }
+    ],
+    "general": [
+      {
+        "q": "Nigeria is the most populous country on which continent?",
+        "choices": ["Africa", "Asia", "Europe", "South America"],
+        "answer": 0,
+        "fact": "With well over 200 million people, it ranks among the ten most populous countries in the world.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Nigeria's largest city?",
+        "choices": ["Abuja", "Lagos", "Kano", "Ibadan"],
+        "answer": 1,
+        "fact": "Its name is Portuguese for 'lakes', and locals also know the city as Eko.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Nigeria's currency?",
+        "choices": ["Cedi", "Rand", "Naira", "Shilling"],
+        "answer": 2,
+        "fact": "Introduced in 1973 to replace the Nigerian pound, the naira is divided into 100 kobo.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which tomato-rich rice dish sparks a friendly rivalry between Nigeria and Ghana?",
+        "choices": ["Fufu", "Moi moi", "Egusi", "Jollof rice"],
+        "answer": 3,
+        "fact": "Its name comes from the Wolof (Jolof) people of Senegambia, where the dish is thought to have originated.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is Nigeria's official language?",
+        "choices": ["English", "French", "Hausa", "Swahili"],
+        "answer": 0,
+        "fact": "Hausa, Yoruba and Igbo are each spoken by tens of millions, and Nigerian Pidgin is a popular common tongue.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is the nickname of Nigeria's men's national football team?",
+        "choices": ["Black Stars", "Super Eagles", "Indomitable Lions", "Bafana Bafana"],
+        "answer": 1,
+        "fact": "Known as the Green Eagles until the late 1980s, the team has won the Africa Cup of Nations three times.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which lake does Nigeria share with Chad, Niger and Cameroon?",
+        "choices": ["Lake Victoria", "Lake Volta", "Lake Chad", "Lake Tanganyika"],
+        "answer": 2,
+        "fact": "The shallow lake has shrunk dramatically since the 1960s, by as much as 90% by some estimates.",
+        "difficulty": 1
+      },
+      {
+        "q": "What is suya, a favourite Nigerian street food?",
+        "choices": ["A bean pudding", "A fried plantain snack", "A cassava porridge", "Spicy grilled meat skewers"],
+        "answer": 3,
+        "fact": "Of Hausa origin, it is coated in yaji, a spice mix made with ground peanuts and chilli.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which NBA Hall of Famer, nicknamed 'The Dream', was born in Lagos?",
+        "choices": ["Hakeem Olajuwon", "Dikembe Mutombo", "Manute Bol", "Joel Embiid"],
+        "answer": 0,
+        "fact": "He led the Houston Rockets to back-to-back NBA titles in 1994 and 1995.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which river joins the Niger at Lokoja?",
+        "choices": ["Kaduna", "Benue", "Sokoto", "Ogun"],
+        "answer": 1,
+        "fact": "Lokoja, overlooking the confluence, was an early base of British administration in the north around 1900.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which huge granite monolith near Abuja appears on the ₦100 note?",
+        "choices": ["Aso Rock", "Olumo Rock", "Zuma Rock", "Idanre Hill"],
+        "answer": 2,
+        "fact": "Rising about 300 m above the surrounding plain, it is nicknamed the 'Gateway to Abuja'.",
+        "difficulty": 2
+      },
+      {
+        "q": "At which Olympic Games did Nigeria win gold in men's football?",
+        "choices": ["Sydney 2000", "Barcelona 1992", "Beijing 2008", "Atlanta 1996"],
+        "answer": 3,
+        "fact": "The 'Dream Team' beat Brazil in the semi-final and Argentina 3-2 in the final, the first Olympic football gold for an African nation.",
+        "difficulty": 2
+      },
+      {
+        "q": "Yankari, famous for its elephants and Wikki Warm Springs, is in which state?",
+        "choices": ["Bauchi", "Lagos", "Enugu", "Ogun"],
+        "answer": 0,
+        "fact": "The crystal-clear spring stays at around 31 °C all year, making a swim a highlight of any safari there.",
+        "difficulty": 2
+      },
+      {
+        "q": "The Iri Ji festival of the Igbo celebrates the harvest of which crop?",
+        "choices": ["Cassava", "Yam", "Maize", "Rice"],
+        "answer": 1,
+        "fact": "The first new yams are traditionally blessed and eaten by elders or a ruler before anyone else may enjoy them.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city hosts a December carnival billed as 'Africa's biggest street party'?",
+        "choices": ["Lagos", "Abuja", "Calabar", "Port Harcourt"],
+        "answer": 2,
+        "fact": "Cross River State's capital stages parades of rival costumed bands, drawing visitors from across the world.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which Middle Belt city, on a high plateau, is known for its cool climate?",
+        "choices": ["Makurdi", "Lokoja", "Ilorin", "Jos"],
+        "answer": 3,
+        "fact": "At around 1,200 m above sea level, it is one of Nigeria's coolest cities and a centre for growing potatoes.",
+        "difficulty": 2
+      },
+      {
+        "q": "Roughly how many languages are spoken in Nigeria?",
+        "choices": ["More than 500", "About 50", "About 10", "About 150"],
+        "answer": 0,
+        "fact": "That makes Nigeria one of the most linguistically diverse countries on Earth.",
+        "difficulty": 2
+      },
+      {
+        "q": "What is the central spectacle of a northern Nigerian Durbar festival?",
+        "choices": ["A canoe regatta", "A parade of richly dressed horsemen", "A wrestling tournament", "A masquerade on stilts"],
+        "answer": 1,
+        "fact": "Held in cities such as Kano, Katsina and Zaria during Sallah celebrations, it sees cavalry charge up to salute the emir.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which hilltop landscape in Adamawa State was the first African cultural landscape on the World Heritage List?",
+        "choices": ["Osun-Osogbo Grove", "Idanre Hill", "Sukur", "Olumo Rock"],
+        "answer": 2,
+        "fact": "Terraced fields, stone paths and the chief's palace crown the hill in the Mandara Mountains.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Argungu Festival in Kebbi State centres on what kind of competition?",
+        "choices": ["Horse racing", "Wrestling", "Boat racing", "Fishing"],
+        "answer": 3,
+        "fact": "Thousands of fishermen leap into the river with nets and gourds, competing to land the biggest fish.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Eyo festival, with its white-robed masquerades, is held in which city?",
+        "choices": ["Lagos", "Kano", "Enugu", "Jos"],
+        "answer": 0,
+        "fact": "The masqueraders wear flowing white robes and wide-brimmed hats and are also known as 'Adamu Orisha'.",
+        "difficulty": 3
+      },
+      {
+        "q": "What is the highest peak in Nigeria?",
+        "choices": ["Zuma Rock", "Chappal Waddi", "Mount Patti", "Shere Hills"],
+        "answer": 1,
+        "fact": "At about 2,419 m, it rises in the Gotel Mountains of Taraba State, on the border with Cameroon.",
+        "difficulty": 3
+      },
+      {
+        "q": "The Lekki Conservation Centre in Lagos is known for Africa's longest what?",
+        "choices": ["Zip line", "Suspension bridge", "Canopy walkway", "Cable car"],
+        "answer": 2,
+        "fact": "The swaying walkway, about 400 m long, lets visitors stroll above mangrove and swamp forest.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which rock in Abeokuta once sheltered the Egba people and gave the city its name?",
+        "choices": ["Aso Rock", "Zuma Rock", "Idanre Hill", "Olumo Rock"],
+        "answer": 3,
+        "fact": "Abeokuta means 'under the rock' in Yoruba.",
+        "difficulty": 3
+      },
+      {
+        "q": "In 1996, who became the first Nigerian to win an Olympic gold medal?",
+        "choices": ["Chioma Ajunwa", "Mary Onyali", "Falilat Ogunkoya", "Blessing Okagbare"],
+        "answer": 0,
+        "fact": "She won the long jump in Atlanta, two days before the men's football team also struck gold.",
+        "difficulty": 3
+      }
+    ]
+  }
+}

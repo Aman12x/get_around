@@ -1,0 +1,39 @@
+{
+  "country": "nigeria",
+  "timeline": [
+    { "event": "The Nok culture makes terracotta sculptures in central Nigeria", "year": -500, "label": "c. 500 BCE", "approx": true, "difficulty": 2 },
+    { "event": "Artisans at Igbo-Ukwu cast intricate bronze vessels", "year": 900, "label": "c. 900", "approx": true, "difficulty": 3 },
+    { "event": "Lifelike copper-alloy heads are cast at Ife", "year": 1300, "label": "c. 1300", "approx": true, "difficulty": 2 },
+    { "event": "Oba Ewuare the Great begins rebuilding Benin City", "year": 1440, "label": "c. 1440", "approx": true, "difficulty": 3 },
+    { "event": "Sokoto is founded as the capital of a new caliphate", "year": 1809, "label": "1809", "difficulty": 2 },
+    { "event": "Richard and John Lander trace the Niger to the sea", "year": 1830, "label": "1830", "difficulty": 3 },
+    { "event": "Britain annexes Lagos as a colony", "year": 1861, "label": "1861", "difficulty": 2 },
+    { "event": "Flora Shaw coins the name 'Nigeria' in The Times", "year": 1897, "label": "1897", "difficulty": 2 },
+    { "event": "The Northern and Southern Protectorates are amalgamated", "year": 1914, "label": "1914", "difficulty": 1 },
+    { "event": "Oil is found in commercial quantities at Oloibiri", "year": 1956, "label": "1956", "difficulty": 1 },
+    { "event": "Chinua Achebe publishes 'Things Fall Apart'", "year": 1958, "label": "1958", "difficulty": 1 },
+    { "event": "Nigeria becomes independent from Britain", "year": 1960, "label": "1960", "difficulty": 1 },
+    { "event": "Nigeria becomes a federal republic", "year": 1963, "label": "1963", "difficulty": 2 },
+    { "event": "The naira replaces the Nigerian pound", "year": 1973, "label": "1973", "difficulty": 2 },
+    { "event": "Lagos hosts the FESTAC festival of Black and African arts", "year": 1977, "label": "1977", "difficulty": 2 },
+    { "event": "Wole Soyinka wins the Nobel Prize in Literature", "year": 1986, "label": "1986", "difficulty": 1 },
+    { "event": "The federal capital moves from Lagos to Abuja", "year": 1991, "label": "1991", "difficulty": 1 },
+    { "event": "Nigeria wins Olympic football gold in Atlanta", "year": 1996, "label": "1996", "difficulty": 1 },
+    { "event": "Nigeria returns to civilian rule and the Fourth Republic begins", "year": 1999, "label": "1999", "difficulty": 1 },
+    { "event": "Nigeria's first satellite, NigeriaSat-1, is launched", "year": 2003, "label": "2003", "difficulty": 3 }
+  ],
+  "places": [
+    { "name": "Lagos", "kind": "city", "lat": 6.45, "lon": 3.39, "clue": "Nigeria's largest city spreads across islands and mainland around the Lagos Lagoon.", "difficulty": 1 },
+    { "name": "Abuja", "kind": "city", "lat": 9.06, "lon": 7.49, "clue": "The planned capital, seat of government since 1991, lies beneath the granite dome of Aso Rock.", "difficulty": 1 },
+    { "name": "Kano", "kind": "city", "lat": 12.00, "lon": 8.52, "clue": "An ancient Hausa trading city, famed for its old walls and the Kofar Mata indigo dye pits.", "difficulty": 1 },
+    { "name": "Ibadan", "kind": "city", "lat": 7.38, "lon": 3.94, "clue": "This sprawling Yoruba city is home to Nigeria's oldest university and the landmark Cocoa House.", "difficulty": 1 },
+    { "name": "Benin City", "kind": "city", "lat": 6.34, "lon": 5.63, "clue": "Seat of the Oba of Benin and home of the bronze-casters' guild on Igun Street.", "difficulty": 1 },
+    { "name": "Osun-Osogbo Sacred Grove", "kind": "landmark", "lat": 7.76, "lon": 4.55, "clue": "A UNESCO-listed forest on the Osun River, filled with shrines and sculptures.", "difficulty": 2 },
+    { "name": "Yankari Game Reserve", "kind": "nature", "lat": 9.75, "lon": 10.51, "clue": "Bauchi State's wildlife park, known for elephants and the warm, clear Wikki Spring.", "difficulty": 2 },
+    { "name": "Niger-Benue confluence", "kind": "nature", "lat": 7.80, "lon": 6.76, "clue": "Nigeria's two great rivers meet beside Lokoja, forming the 'Y' on the national coat of arms.", "difficulty": 2 },
+    { "name": "Calabar", "kind": "city", "lat": 4.96, "lon": 8.33, "clue": "The old Efik trading port hosts a December carnival billed as Africa's biggest street party.", "difficulty": 2 },
+    { "name": "Sukur", "kind": "historic", "lat": 10.74, "lon": 13.57, "clue": "A hilltop chiefdom in the Mandara Mountains with terraced fields and stone paths, a UNESCO site.", "difficulty": 3 },
+    { "name": "Igbo-Ukwu", "kind": "historic", "lat": 6.02, "lon": 7.02, "clue": "Excavations here uncovered intricate bronzes from around the 9th century.", "difficulty": 3 },
+    { "name": "Chappal Waddi", "kind": "nature", "lat": 7.03, "lon": 11.70, "clue": "Nigeria's highest peak, about 2,419 m, rises in the Gotel Mountains on the Cameroon border.", "difficulty": 3 }
+  ]
+}
