@@ -1,0 +1,182 @@
+{
+  "country": "ethiopia",
+  "topics": {
+    "history": [
+      {
+        "q": "In 1896, Ethiopian forces decisively defeated which European army at the Battle of Adwa?",
+        "choices": ["Italy", "Britain", "France", "Portugal"],
+        "answer": 0,
+        "fact": "Victory at Adwa on 1 March 1896 secured Ethiopia's independence, and the day is still celebrated as a national holiday.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which emperor ruled Ethiopia from his coronation in 1930 until he was deposed in 1974?",
+        "choices": ["Menelik II", "Tewodros II", "Yohannes IV", "Haile Selassie"],
+        "answer": 3,
+        "fact": "Before his coronation he was known as Ras Tafari Makonnen, a name that later inspired the Rastafari movement in Jamaica.",
+        "difficulty": 1
+      },
+      {
+        "q": "What nickname was given to the 3.2-million-year-old hominin skeleton found in Ethiopia's Afar region in 1974?",
+        "choices": ["Ardi", "Selam", "Lucy", "Turkana Boy"],
+        "answer": 2,
+        "fact": "She was named after the Beatles song 'Lucy in the Sky with Diamonds'; in Ethiopia she is known as Dinkinesh, 'you are marvellous'.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ruler, later emperor, founded Addis Ababa in 1886 with his wife Taytu?",
+        "choices": ["Tewodros II", "Menelik II", "Yohannes IV", "Haile Selassie"],
+        "answer": 1,
+        "fact": "Taytu is said to have chosen the site near hot springs; Addis Ababa means 'new flower' in Amharic.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which ancient kingdom, famous for its towering carved stone stelae, was centred in northern Ethiopia?",
+        "choices": ["Kush", "Aksum", "Carthage", "Mali"],
+        "answer": 1,
+        "fact": "Aksum traded across the Red Sea with Rome and India and minted its own gold, silver and bronze coins.",
+        "difficulty": 1
+      },
+      {
+        "q": "Ethiopia's Solomonic dynasty traced its descent to King Solomon and which legendary queen?",
+        "choices": ["The Queen of Sheba", "Cleopatra", "Nefertiti", "Queen Amina"],
+        "answer": 0,
+        "fact": "The 14th-century Kebra Nagast tells how Makeda, Queen of Sheba, bore Solomon a son, Menelik I.",
+        "difficulty": 1
+      },
+      {
+        "q": "Apart from Ethiopia, which African country avoided European colonisation during the Scramble for Africa?",
+        "choices": ["Ghana", "Senegal", "Kenya", "Liberia"],
+        "answer": 3,
+        "fact": "Ethiopia's green, yellow and red flag inspired the colours adopted by many newly independent African nations.",
+        "difficulty": 1
+      },
+      {
+        "q": "To which international body did Haile Selassie make a famous appeal in Geneva in 1936 after Italy's invasion?",
+        "choices": ["United Nations", "Organisation of African Unity", "League of Nations", "International Red Cross"],
+        "answer": 2,
+        "fact": "He warned the assembly that 'it is us today; it will be you tomorrow'. The League's weak response damaged its credibility.",
+        "difficulty": 1
+      },
+      {
+        "q": "A devastating famine in Ethiopia in 1984-85 inspired which famous 1985 charity concerts?",
+        "choices": ["Woodstock", "Concert for Bangladesh", "Live Aid", "Farm Aid"],
+        "answer": 2,
+        "fact": "Live Aid followed Band Aid's 1984 single 'Do They Know It's Christmas?' and was broadcast from London and Philadelphia.",
+        "difficulty": 1
+      },
+      {
+        "q": "Which 4th-century Aksumite king made Christianity the kingdom's official religion?",
+        "choices": ["Kaleb", "Ezana", "Lalibela", "Zara Yaqob"],
+        "answer": 1,
+        "fact": "Ezana's coins are among the earliest in the world to bear the Christian cross.",
+        "difficulty": 2
+      },
+      {
+        "q": "What was the name of the military committee that deposed Emperor Haile Selassie in 1974?",
+        "choices": ["The Derg", "The Free Officers", "The Young Turks", "The Mau Mau"],
+        "answer": 0,
+        "fact": "'Derg' means 'committee' or 'council' in the ancient Ge'ez language.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which emperor took his own life at Magdala in 1868 rather than surrender to a British expedition?",
+        "choices": ["Yohannes IV", "Menelik II", "Iyasu V", "Tewodros II"],
+        "answer": 3,
+        "fact": "Tewodros had imprisoned British envoys; Napier's troops later carried off hundreds of manuscripts and treasures from Magdala.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which city did Emperor Fasilides make his capital in the 1630s, building a royal castle compound?",
+        "choices": ["Harar", "Aksum", "Lalibela", "Gondar"],
+        "answer": 3,
+        "fact": "The castles of Fasil Ghebbi blend Ethiopian, Portuguese and Indian influences and are a UNESCO World Heritage Site.",
+        "difficulty": 2
+      },
+      {
+        "q": "Disputed translations of which 1889 treaty led to the First Italo-Ethiopian War?",
+        "choices": ["Treaty of Addis Ababa", "Treaty of London", "Treaty of Wuchale", "Treaty of Versailles"],
+        "answer": 2,
+        "fact": "Italy claimed the treaty made Ethiopia its protectorate, but the Amharic version contained no such obligation.",
+        "difficulty": 2
+      },
+      {
+        "q": "Alongside Ethiopian resistance fighters, troops of which country helped restore Haile Selassie to power in 1941?",
+        "choices": ["France", "Britain", "United States", "Soviet Union"],
+        "answer": 1,
+        "fact": "The emperor re-entered Addis Ababa on 5 May 1941, five years to the day after Italian troops had occupied it.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which empress, daughter of Menelik II, reigned from 1916 to 1930 with Ras Tafari as her regent?",
+        "choices": ["Zewditu", "Taytu Betul", "Menen Asfaw", "Mentewab"],
+        "answer": 0,
+        "fact": "On Zewditu's death in 1930, Ras Tafari succeeded her and was crowned Emperor Haile Selassie.",
+        "difficulty": 2
+      },
+      {
+        "q": "Which European nation sent soldiers led by Cristóvão da Gama to aid Ethiopia's emperor in 1541?",
+        "choices": ["Portugal", "Spain", "Venice", "France"],
+        "answer": 0,
+        "fact": "Da Gama, a son of explorer Vasco da Gama, was killed in 1542, but the allied army won decisively the following year.",
+        "difficulty": 2
+      },
+      {
+        "q": "Haile Selassie is revered as a messianic figure by which religious movement that arose in Jamaica?",
+        "choices": ["Santería", "Vodou", "Candomblé", "Rastafari"],
+        "answer": 3,
+        "fact": "The movement takes its name from Ras Tafari, the emperor's title before his 1930 coronation.",
+        "difficulty": 2
+      },
+      {
+        "q": "What name is given to the 1769-1855 period when regional lords held real power and emperors were figureheads?",
+        "choices": ["Gondarine Golden Age", "Solomonic Restoration", "Era of the Princes", "Time of Troubles"],
+        "answer": 2,
+        "fact": "Known in Amharic as Zemene Mesafint, the era ended when Kassa Hailu was crowned Emperor Tewodros II in 1855.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which 6th-century Aksumite king led an expedition across the Red Sea to the kingdom of Himyar in Yemen?",
+        "choices": ["Ezana", "Kaleb", "Gebre Meskel", "Armah"],
+        "answer": 1,
+        "fact": "Kaleb's campaign briefly brought southern Arabia under Aksumite influence; he is venerated as a saint.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which ruler founded the Solomonic dynasty in 1270, ending the rule of the Zagwe kings?",
+        "choices": ["Amda Seyon", "Yekuno Amlak", "Zara Yaqob", "Lalibela"],
+        "answer": 1,
+        "fact": "The dynasty he founded would rule, with interruptions, until Haile Selassie was deposed in 1974.",
+        "difficulty": 3
+      },
+      {
+        "q": "At which 1543 battle near Lake Tana was Imam Ahmad ibn Ibrahim al-Ghazi killed?",
+        "choices": ["Wayna Daga", "Shimbra Kure", "Metemma", "Adwa"],
+        "answer": 0,
+        "fact": "His death ended a campaign that had swept across the Ethiopian highlands for over a decade.",
+        "difficulty": 3
+      },
+      {
+        "q": "Emperor Yohannes IV was killed in 1889 at the Battle of Metemma fighting the forces of which state?",
+        "choices": ["Ottoman Egypt", "Kingdom of Italy", "Sultanate of Adal", "Mahdist Sudan"],
+        "answer": 3,
+        "fact": "Yohannes died of a sniper's bullet just as his army seemed to be winning; his death opened the way for Menelik II.",
+        "difficulty": 3
+      },
+      {
+        "q": "What was Emperor Tewodros II's name before he was crowned in 1855?",
+        "choices": ["Kassa Mercha", "Sahle Maryam", "Kassa Hailu", "Lij Iyasu"],
+        "answer": 2,
+        "fact": "Tewodros dreamed of modernising Ethiopia and even had European missionaries cast a giant mortar he named Sevastopol.",
+        "difficulty": 3
+      },
+      {
+        "q": "Which Portuguese priest wrote one of the first European eyewitness accounts of Lalibela's churches in the 1520s?",
+        "choices": ["Pedro Páez", "Jerónimo Lobo", "Francisco Álvares", "James Bruce"],
+        "answer": 2,
+        "fact": "Álvares wrote that he feared readers would not believe his descriptions of the rock-hewn churches.",
+        "difficulty": 3
+      }
+    ]
+  }
+}
