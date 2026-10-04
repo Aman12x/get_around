@@ -1,0 +1,39 @@
+{
+  "country": "denmark",
+  "timeline": [
+    { "event": "Harald Bluetooth raises the great runestone at Jelling", "year": 965, "label": "c. 965", "approx": true, "difficulty": 1 },
+    { "event": "Cnut the Great becomes King of England", "year": 1016, "label": "1016", "difficulty": 2 },
+    { "event": "Bishop Absalon founds Copenhagen", "year": 1167, "label": "1167", "difficulty": 2 },
+    { "event": "The Kalmar Union unites Denmark, Norway and Sweden", "year": 1397, "label": "1397", "difficulty": 1 },
+    { "event": "Denmark adopts the Lutheran Reformation", "year": 1536, "label": "1536", "difficulty": 2 },
+    { "event": "Tycho Brahe begins building his Uraniborg observatory on Hven", "year": 1576, "label": "1576", "difficulty": 3 },
+    { "event": "The Treaty of Roskilde cedes Skåne to Sweden", "year": 1658, "label": "1658", "difficulty": 2 },
+    { "event": "Frederick III introduces absolute monarchy", "year": 1660, "label": "1660", "difficulty": 3 },
+    { "event": "Denmark cedes Norway to Sweden in the Treaty of Kiel", "year": 1814, "label": "1814", "difficulty": 2 },
+    { "event": "Hans Christian Andersen publishes his first fairy tales", "year": 1835, "label": "1835", "difficulty": 2 },
+    { "event": "Frederick VII signs Denmark's first democratic constitution", "year": 1849, "label": "1849", "difficulty": 1 },
+    { "event": "Denmark loses Schleswig and Holstein after defeat at Dybbøl", "year": 1864, "label": "1864", "difficulty": 2 },
+    { "event": "The Little Mermaid statue is unveiled in Copenhagen", "year": 1913, "label": "1913", "difficulty": 1 },
+    { "event": "Northern Schleswig rejoins Denmark after a plebiscite", "year": 1920, "label": "1920", "difficulty": 3 },
+    { "event": "Ole Kirk Christiansen starts the Billund toy firm that becomes LEGO", "year": 1932, "label": "1932", "difficulty": 1 },
+    { "event": "German forces occupy Denmark", "year": 1940, "label": "1940", "difficulty": 1 },
+    { "event": "Denmark joins the European Economic Community", "year": 1973, "label": "1973", "difficulty": 1 },
+    { "event": "Denmark wins the European Football Championship", "year": 1992, "label": "1992", "difficulty": 2 },
+    { "event": "The Great Belt road bridge opens between Funen and Zealand", "year": 1998, "label": "1998", "difficulty": 3 },
+    { "event": "The Øresund Bridge links Copenhagen with Malmö", "year": 2000, "label": "2000", "difficulty": 1 }
+  ],
+  "places": [
+    { "name": "Copenhagen", "kind": "city", "lat": 55.68, "lon": 12.57, "clue": "Founded around Bishop Absalon's fortress in 1167, the capital's name means \"merchants' harbour\".", "difficulty": 1 },
+    { "name": "Aarhus", "kind": "city", "lat": 56.16, "lon": 10.20, "clue": "Denmark's second city is home to the ARoS art museum, crowned by a circular rainbow walkway.", "difficulty": 1 },
+    { "name": "Odense", "kind": "city", "lat": 55.40, "lon": 10.39, "clue": "Hans Christian Andersen was born in this Funen city in 1805, and a museum here tells his story.", "difficulty": 1 },
+    { "name": "Skagen", "kind": "city", "lat": 57.72, "lon": 10.59, "clue": "At Denmark's northern tip, where the Skagerrak meets the Kattegat, its light drew the 19th-century Skagen Painters.", "difficulty": 1 },
+    { "name": "Aalborg", "kind": "city", "lat": 57.05, "lon": 9.92, "clue": "On the Limfjord, near the Viking burial ground of Lindholm Høje with its hundreds of stone-ringed graves.", "difficulty": 1 },
+    { "name": "Jelling", "kind": "historic", "lat": 55.76, "lon": 9.42, "clue": "Its runestones, raised by Gorm the Old and Harald Bluetooth, are often called Denmark's birth certificate.", "difficulty": 2 },
+    { "name": "Ribe", "kind": "city", "lat": 55.33, "lon": 8.76, "clue": "Founded in the early 700s, this is generally considered Denmark's oldest town, on the edge of the Wadden Sea.", "difficulty": 2 },
+    { "name": "Møns Klint", "kind": "nature", "lat": 54.97, "lon": 12.54, "clue": "White chalk cliffs rising about 128 m above the Baltic, built from the shells of tiny ancient sea creatures.", "difficulty": 2 },
+    { "name": "Trelleborg", "kind": "historic", "lat": 55.39, "lon": 11.27, "clue": "A perfectly circular Viking ring fortress, built around 980 in the reign of Harald Bluetooth.", "difficulty": 2 },
+    { "name": "Dybbøl Mill", "kind": "landmark", "lat": 54.91, "lon": 9.75, "clue": "This windmill stands on the hill where Prussian troops overran Denmark's defences on 18 April 1864.", "difficulty": 3 },
+    { "name": "Thy National Park", "kind": "nature", "lat": 56.95, "lon": 8.35, "clue": "Denmark's first national park, created in 2008, protects wild dunes and heaths along the North Sea coast.", "difficulty": 3 },
+    { "name": "Læsø", "kind": "nature", "lat": 57.27, "lon": 11.02, "clue": "A Kattegat island known for its medieval salt-boiling industry and old houses roofed with thick eelgrass.", "difficulty": 3 }
+  ]
+}
