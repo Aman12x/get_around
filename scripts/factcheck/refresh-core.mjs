@@ -150,7 +150,7 @@ export function renderRefreshSummary(report, intro) {
   const L = [
     intro,
     '',
-    'Every change below was written with web search, cites at least one source, passed the content schema, and was confirmed with high confidence by a separate fact-check session. **Please still read each one before merging**: check the answer key and open at least one source.',
+    'Every change below was written with web search, cites at least one source, passed the content schema, and was confirmed with high confidence by a separate fact-check session. Scheduled refreshes merge automatically once the tests pass; if anything looks wrong, revert this PR or fix the question in a follow-up.',
     '',
   ];
   for (const r of report) {

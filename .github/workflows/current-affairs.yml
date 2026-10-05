@@ -3,8 +3,11 @@ name: Current affairs refresh
 # Twice a month (the 1st and 15th, 06:17 UTC), Claude Code (Sonnet 5.5) reviews every
 # country's Current Affairs questions against the news, rewrites ones that are no longer
 # true and proposes a couple of fresh ones. scripts/factcheck/factcheck.mjs screens the
-# proposals, has a separate Claude Code session fact-check them, and this workflow opens a
-# pull request for a human to review.
+# proposals (schema, same difficulty, no duplicates, at least one source URL), has a separate
+# Claude Code session fact-check them, and keeps only changes it passes with high confidence.
+# Once the tests pass, this workflow opens a pull request against main, merges it, and starts
+# CI on the merged commit so Railway deploys it. Untick "automerge" on a manual run to leave
+# the pull request open for review instead.
 #
 # Runs on your Claude subscription only; no API key is used (the script strips API
 # credentials before starting Claude Code). Needs:
@@ -24,10 +27,16 @@ on:
         description: 'New questions per country (0-5)'
         required: false
         default: '2'
+      automerge:
+        description: 'Merge the pull request automatically'
+        type: boolean
+        required: false
+        default: true
 
 permissions:
   contents: write
   pull-requests: write
+  actions: write # to start CI on the merged commit
 
 concurrency:
   group: current-affairs
@@ -39,6 +48,8 @@ jobs:
     timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main # the branch Railway deploys; the PR is opened against it
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -58,9 +69,11 @@ jobs:
       - name: Content and unit tests
         run: npm test
 
-      - name: Open pull request
+      - name: Open and merge pull request
         env:
           GH_TOKEN: ${{ github.token }}
+          # Scheduled runs have no inputs, so anything but an explicit "false" means merge.
+          AUTOMERGE: ${{ inputs.automerge != false }}
         run: |
           cat "$RUNNER_TEMP/pr-body.md" >> "$GITHUB_STEP_SUMMARY"
           if git diff --quiet -- src/data/questions; then
@@ -74,9 +87,19 @@ jobs:
           git add src/data/questions
           git commit -m "Refresh Current Affairs questions ($(date -u +%Y-%m-%d))"
           git push -u origin "$branch"
-          gh pr create --base main --head "$branch" \
+          url=$(gh pr create --base main --head "$branch" \
             --title "Current Affairs refresh: $(date -u +'%-d %B %Y')" \
-            --body-file "$RUNNER_TEMP/pr-body.md"
+            --body-file "$RUNNER_TEMP/pr-body.md")
+          echo "Opened $url" | tee -a "$GITHUB_STEP_SUMMARY"
+          if [ "$AUTOMERGE" != "true" ]; then
+            echo "automerge is off; leaving the pull request open for review."
+            exit 0
+          fi
+          gh pr merge "$url" --squash --delete-branch
+          echo "Merged $url" | tee -a "$GITHUB_STEP_SUMMARY"
+          # Pushes made with the workflow token don't trigger other workflows, so start CI on
+          # the merged commit explicitly; Railway deploys main once CI is green.
+          gh workflow run ci.yml --ref main
 
       - name: Keep the run log
         if: always()

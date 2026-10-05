@@ -126,7 +126,7 @@ Locally it uses your `claude` login. GitHub Actions use the repository secret `C
 
 A question counts as "outdated" only if it is now false as written. A dated fact about the past, like "In 2023, X set the record", stays true even after the record is broken.
 
-The changes arrive as a pull request listing every before and after with its sources. Read them before merging. You can also start a run by hand from the Actions tab and pick the countries. It needs:
+The workflow then opens a pull request against `main`, listing every before and after with its sources. Once the tests pass it merges the PR and starts CI, so Railway deploys the new questions without anyone stepping in. To undo a change, use **Revert** on its merged PR. You can also start a run by hand from the Actions tab and pick the countries; untick **automerge** to leave that PR open for review. It needs:
 - the repository secret `CLAUDE_CODE_OAUTH_TOKEN`;
 - Settings → Actions → General → **Allow GitHub Actions to create and approve pull requests**.
 

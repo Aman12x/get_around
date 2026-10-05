@@ -3,6 +3,7 @@ name: CI
 on:
   push:
   pull_request:
+  workflow_dispatch: # started by current-affairs.yml after it merges a refresh
 
 jobs:
   test-and-build:
