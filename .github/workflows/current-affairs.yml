@@ -74,7 +74,7 @@ jobs:
           git add src/data/questions
           git commit -m "Refresh Current Affairs questions ($(date -u +%Y-%m-%d))"
           git push -u origin "$branch"
-          gh pr create --base "${{ github.event.repository.default_branch }}" --head "$branch" \
+          gh pr create --base main --head "$branch" \
             --title "Current Affairs refresh: $(date -u +'%-d %B %Y')" \
             --body-file "$RUNNER_TEMP/pr-body.md"
 
