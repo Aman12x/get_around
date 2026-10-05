@@ -121,8 +121,10 @@ Locally it uses your `claude` login. GitHub Actions use the repository secret `C
 
 **Current Affairs refresh (GitHub Action).** [`current-affairs.yml`](.github/workflows/current-affairs.yml) runs on the 1st and 15th of each month. For each country:
 1. A Claude Code session rewrites questions that are no longer true and proposes up to two new ones about recent news.
-2. The script checks every proposal against the content schema, makes sure it keeps the replaced question's difficulty, and rejects duplicates.
-3. A second, separate session fact-checks what's left. Anything it doesn't pass is dropped.
+2. The script checks every proposal against the content schema, makes sure it keeps the replaced question's difficulty, rejects duplicates, and requires at least one source URL.
+3. A second, separate session fact-checks what's left. Only changes it passes with high confidence are kept.
+
+A question counts as "outdated" only if it is now false as written. A dated fact about the past, like "In 2023, X set the record", stays true even after the record is broken.
 
 The changes arrive as a pull request listing every before and after with its sources. Read them before merging. You can also start a run by hand from the Actions tab and pick the countries. It needs:
 - the repository secret `CLAUDE_CODE_OAUTH_TOKEN`;

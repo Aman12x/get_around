@@ -35,6 +35,7 @@ export function screenProposals(qs, changes, { fresh, bankTexts }) {
     else if (!['outdated', 'fresh'].includes(ch.kind)) problem = `unknown kind "${ch.kind}"`;
     else if (used.has(ch.index)) problem = `index ${ch.index} used twice`;
     else if (ch.kind === 'fresh' && freshCount >= fresh) problem = 'too many fresh questions';
+    else if (!Array.isArray(ch.sources) || !ch.sources.some((u) => /^https?:\/\//.test(String(u)))) problem = 'no source URL';
     else problem = schemaProblem(ch.question, old, texts);
     if (problem) {
       rejected.push({ ...ch, why: problem });
@@ -48,7 +49,10 @@ export function screenProposals(qs, changes, { fresh, bankTexts }) {
   return { candidates, rejected };
 }
 
-/** Apply candidates whose fact-check verdict is "ok"; mutates `qs`. Keys are `new#<index>`. */
+/**
+ * Apply candidates the fact-check marked "ok" with high confidence; mutates `qs`.
+ * Keys are `new#<index>`. Anything the checker is less than sure about is dropped.
+ */
 export function applyVerified(qs, candidates, verdicts) {
   const applied = [];
   const rejected = [];
@@ -56,6 +60,10 @@ export function applyVerified(qs, candidates, verdicts) {
     const v = verdicts.get(`new#${ch.index}`);
     if (v?.verdict !== 'ok') {
       rejected.push({ ...ch, why: `fact-check: ${v?.verdict ?? 'no verdict'}${v?.issue ? ` (${v.issue})` : ''}` });
+      continue;
+    }
+    if (v.confidence !== 'high') {
+      rejected.push({ ...ch, why: `fact-check: ok but only ${v.confidence ?? 'unstated'} confidence` });
       continue;
     }
     applied.push({ ...ch, before: qs[ch.index] });
@@ -118,7 +126,7 @@ Rules for every question you write:
 - "fact" (at most 240 characters) adds an interesting, verified detail; it must not just repeat the answer.
 - "asOf" is the current year. Keep the difficulty of the question you replace (1 easy, 2 medium, 3 hard).
 - Prefer settled facts (results, openings, appointments, records, launches) over ongoing stories whose outcome may change within weeks. No questions about deaths or tragedies framed as trivia, and no partisan framing.
-- Every claim must be confirmed by web search with reputable sources (list their URLs).
+- Every claim must be confirmed by web search with reputable sources; list at least one source URL for each change, ideally two independent ones.
 - Do not duplicate a question already in the bank.`;
 
 export function writerPrompt(country, qs, { fresh, today }) {
@@ -130,7 +138,9 @@ export function writerPrompt(country, qs, { fresh, today }) {
 Here is the current Current Affairs bank (${qs.length} questions):
 ${listing}
 
-1. Find every question that is no longer true today (changed office holders, records broken, rankings moved, events that turned out differently). For each, propose a corrected replacement at the same index ("kind": "outdated") — either the updated fact or a new question on the same theme.
+1. Find every question that is no longer true today, read exactly as written. For each, propose a corrected replacement at the same index ("kind": "outdated"): either the updated fact or a new question on the same theme.
+   A question is outdated only if its question, marked answer or fact now states something false, typically present-tense claims ("is the current...", "holds the record", "is the tallest") overtaken by events, or a "will" that turned out differently.
+   A dated statement about the past ("In October 2023, X set a world record in Chicago") is NOT outdated just because something changed later (the record was since broken, the person left office); it is still true as history. Do not mark it outdated. If it has merely gone stale, you may replace it as one of your "fresh" questions instead.
 2. Search the news from roughly the last two months about ${country}. Propose up to ${fresh} new questions about notable, settled developments ("kind": "fresh"), each replacing the stalest or least interesting existing question of the SAME difficulty (prefer the oldest asOf).
 Each index may be used at most once. If nothing needs changing, submit an empty list.`;
 }
@@ -140,7 +150,7 @@ export function renderRefreshSummary(report, intro) {
   const L = [
     intro,
     '',
-    'Every change below was written with web search, passed the content schema, and was then confirmed by a separate fact-check. **Please still read each one before merging**: check the answer key and open at least one source.',
+    'Every change below was written with web search, cites at least one source, passed the content schema, and was confirmed with high confidence by a separate fact-check session. **Please still read each one before merging**: check the answer key and open at least one source.',
     '',
   ];
   for (const r of report) {

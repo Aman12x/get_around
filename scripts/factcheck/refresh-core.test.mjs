@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { applyVerified, screenProposals } from './refresh-core.mjs';
 import { stringifyBank } from './lib.mjs';
 
+const SRC = ['https://example.com/a'];
 const q = (text, difficulty = 1, extra = {}) => ({
   q: text,
   choices: ['A', 'B', 'C', 'D'],
@@ -19,7 +20,7 @@ describe('screenProposals', () => {
   it('accepts a valid replacement at the same difficulty', () => {
     const { candidates, rejected } = screenProposals(
       qs,
-      [{ index: 1, kind: 'fresh', reason: '', sources: [], question: q('New two?', 2, { asOf: '2026' }) }],
+      [{ index: 1, kind: 'fresh', reason: '', sources: SRC, question: q('New two?', 2, { asOf: '2026' }) }],
       opts,
     );
     expect(candidates).toHaveLength(1);
@@ -30,15 +31,16 @@ describe('screenProposals', () => {
     const { candidates, rejected } = screenProposals(
       qs,
       [
-        { index: 0, kind: 'outdated', reason: '', sources: [], question: q('Changed difficulty?', 2) },
-        { index: 9, kind: 'outdated', reason: '', sources: [], question: q('Out of range?') },
-        { index: 1, kind: 'fresh', reason: '', sources: [], question: q('History question?', 2) },
-        { index: 1, kind: 'fresh', reason: '', sources: [], question: q('Fine?', 2) },
-        { index: 1, kind: 'fresh', reason: '', sources: [], question: q('Reused?', 2) },
-        { index: 2, kind: 'fresh', reason: '', sources: [], question: q('Second fresh?', 3) },
-        { index: 0, kind: 'outdated', reason: '', sources: [], question: q('Two same choices?', 1, { choices: ['A', 'a', 'B', 'C'] }) },
-        { index: 0, kind: 'outdated', reason: '', sources: [], question: q('Long fact?', 1, { fact: 'x'.repeat(241) }) },
-        { index: 0, kind: 'rewrite', reason: '', sources: [], question: q('Bad kind?') },
+        { index: 0, kind: 'outdated', reason: '', sources: SRC, question: q('Changed difficulty?', 2) },
+        { index: 9, kind: 'outdated', reason: '', sources: SRC, question: q('Out of range?') },
+        { index: 1, kind: 'fresh', reason: '', sources: SRC, question: q('History question?', 2) },
+        { index: 1, kind: 'fresh', reason: '', sources: SRC, question: q('Fine?', 2) },
+        { index: 1, kind: 'fresh', reason: '', sources: SRC, question: q('Reused?', 2) },
+        { index: 2, kind: 'fresh', reason: '', sources: SRC, question: q('Second fresh?', 3) },
+        { index: 0, kind: 'outdated', reason: '', sources: SRC, question: q('Two same choices?', 1, { choices: ['A', 'a', 'B', 'C'] }) },
+        { index: 0, kind: 'outdated', reason: '', sources: SRC, question: q('Long fact?', 1, { fact: 'x'.repeat(241) }) },
+        { index: 0, kind: 'rewrite', reason: '', sources: SRC, question: q('Bad kind?') },
+        { index: 0, kind: 'outdated', reason: '', sources: ['knowledge'], question: q('No source?') },
       ],
       opts,
     );
@@ -52,24 +54,28 @@ describe('screenProposals', () => {
       'duplicate choices',
       'fact missing or over 240 characters',
       'unknown kind "rewrite"',
+      'no source URL',
     ]);
   });
 });
 
 describe('applyVerified', () => {
-  it('applies only items the fact-check passed, keeping the schema fields', () => {
-    const qs = [q('Old one?'), q('Old two?')];
+  it('applies only items the fact-check passed with high confidence, keeping the schema fields', () => {
+    const qs = [q('Old one?'), q('Old two?'), q('Old three?')];
     const candidates = [
       { index: 0, kind: 'outdated', question: { ...q('New one?'), extra: 'dropped' } },
       { index: 1, kind: 'fresh', question: q('New two?') },
+      { index: 2, kind: 'fresh', question: q('New three?') },
     ];
     const verdicts = new Map([
-      ['new#0', { verdict: 'ok' }],
-      ['new#1', { verdict: 'false_claim', issue: 'wrong year' }],
+      ['new#0', { verdict: 'ok', confidence: 'high' }],
+      ['new#1', { verdict: 'false_claim', confidence: 'high', issue: 'wrong year' }],
+      ['new#2', { verdict: 'ok', confidence: 'medium' }],
     ]);
     const { applied, rejected } = applyVerified(qs, candidates, verdicts);
     expect(applied.map((a) => a.before.q)).toEqual(['Old one?']);
-    expect(rejected[0].why).toBe('fact-check: false_claim (wrong year)');
+    expect(rejected.map((r) => r.why)).toEqual(['fact-check: false_claim (wrong year)', 'fact-check: ok but only medium confidence']);
+    expect(qs[2].q).toBe('Old three?');
     expect(qs[0]).toEqual(q('New one?'));
     expect(qs[1].q).toBe('Old two?');
   });

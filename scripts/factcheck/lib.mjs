@@ -80,7 +80,7 @@ For each item decide:
 - wrong_answer: the marked answer is not the correct one (say which choice is).
 - false_claim: the answer is right but the question text or fact states something untrue (a wrong date, number, name, or an unearned "first/largest/only").
 - ambiguous: more than one choice is defensibly correct, or the question depends on a definition sources disagree on.
-- outdated: it was true when written (see asOf) but is no longer true as of today.
+- outdated: it was true when written (see asOf) but, read exactly as written, is no longer true today. A dated statement about the past ("In 2023, X set the record") is still true even if things changed later, so it is ok, not outdated.
 Timeline items: check the year and label. Map places: check the coordinates are within about 10 km and the clue is true.
 
 Use web search for anything you are not highly confident about, and always for current-affairs items or anything that could have changed recently. Do not flag stylistic issues, harmless simplifications, or claims that are standard in reputable sources. When sources genuinely disagree on a date or figure and the item picked a mainstream value, it is ok.
