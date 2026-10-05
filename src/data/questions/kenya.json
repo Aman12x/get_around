@@ -727,12 +727,12 @@
         "asOf": "2022"
       },
       {
-        "q": "In October 2023, Kelvin Kiptum set a men's marathon world record in which city?",
-        "choices": ["Berlin", "London", "Chicago", "Boston"],
-        "answer": 2,
-        "fact": "He ran 2:00:35 in only his third marathon. Kiptum died in a road accident in February 2024, aged 24.",
+        "q": "In April 2026, Kenya's Sabastian Sawe became the first man to run an official marathon in under two hours, in which city?",
+        "choices": ["Berlin", "London", "Chicago", "Valencia"],
+        "answer": 1,
+        "fact": "Sawe won the London Marathon in 1:59:30, 65 seconds inside Kelvin Kiptum's old record. Ethiopia's Yomif Kejelcha also dipped under two hours, finishing second in 1:59:41.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "At the Paris 2024 Olympics, Faith Kipyegon won her third straight Olympic title in which event?",
@@ -887,12 +887,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Kenya's 2019 national census counted roughly how many people?",
-        "choices": ["27.6 million", "67.6 million", "87.6 million", "47.6 million"],
-        "answer": 3,
-        "fact": "The census was the first in Kenya to be carried out using digital tablets for data collection.",
+        "q": "In September 2026, which city was awarded the 2029 World Athletics Championships, the first time Africa will host the event?",
+        "choices": ["Johannesburg", "Addis Ababa", "Nairobi", "Marrakech"],
+        "answer": 2,
+        "fact": "Nairobi beat bids from London, Rome and Munich. The event is planned for the Moi International Sports Centre, Kasarani, in September 2029.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In 2022, Kenya's government set a goal of growing how many trees by 2032?",

@@ -767,12 +767,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Which Japanese supercomputer was ranked the world's fastest in June 2020?",
-        "choices": ["Fugaku", "K computer", "Earth Simulator", "Summit"],
+        "q": "Which Japanese city, together with its home prefecture, hosted the Asian Games that ended on 4 October 2026?",
+        "choices": ["Nagoya", "Fukuoka", "Sapporo", "Yokohama"],
         "answer": 0,
-        "fact": "Fugaku, built by RIKEN and Fujitsu in Kobe, topped the TOP500 list four times in a row and was used to model how COVID-19 droplets spread.",
+        "fact": "The Aichi-Nagoya Games were Japan's third summer Asian Games after Tokyo 1958 and Hiroshima 1994. Japan won a record 269 medals, including 83 golds, finishing second to China.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In December 2020, Japan's Hayabusa2 mission delivered samples to Earth from which asteroid?",
@@ -863,12 +863,12 @@
         "asOf": "2025"
       },
       {
-        "q": "Who succeeded Shinzo Abe as Prime Minister of Japan in September 2020?",
-        "choices": ["Fumio Kishida", "Taro Aso", "Yoshihide Suga", "Shigeru Ishiba"],
-        "answer": 2,
-        "fact": "As chief cabinet secretary, Suga unveiled the 'Reiwa' era name in 2019, earning the nickname 'Uncle Reiwa'.",
+        "q": "In the February 2026 general election, Sanae Takaichi's party set a postwar record for seats won by a single party. Which party is it?",
+        "choices": ["Constitutional Democratic Party", "Liberal Democratic Party", "Japan Innovation Party", "Komeito"],
+        "answer": 1,
+        "fact": "The LDP won 316 of 465 seats, beating the Democratic Party of Japan's 308 in 2009 and the LDP's own 300 in 1986. With its coalition partner it held about three-quarters of the lower house.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Who won the men's individual all-around gymnastics gold at the Paris 2024 Olympics?",
