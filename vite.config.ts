@@ -11,6 +11,8 @@ export default defineConfig({
   },
   build: {
     chunkSizeWarningLimit: 800,
+    // Never inline fonts as data: URLs; the server's CSP only allows same-origin font files.
+    assetsInlineLimit: (file) => (/\.(woff2?|ttf|otf)$/.test(file) ? false : undefined),
     rollupOptions: {
       output: {
         // Three.js changes rarely; its own chunk stays cached across game deploys.

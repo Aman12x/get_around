@@ -1,3 +1,8 @@
+// Fonts are bundled and served from our own origin (no third-party requests, cached forever).
+import '@fontsource-variable/fredoka';
+import '@fontsource-variable/nunito';
+import '@fontsource/jetbrains-mono/600.css';
+import '@fontsource/jetbrains-mono/800.css';
 import './style.css';
 
 function webglAvailable(): boolean {

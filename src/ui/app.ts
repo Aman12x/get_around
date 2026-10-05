@@ -85,8 +85,7 @@ export class App {
       <main id="screen"></main>
       <div id="curtain" aria-hidden="true"><div class="curtain-inner"></div></div>
       <div id="toast" role="status" aria-live="polite"></div>
-      <div id="toasts" aria-live="polite"></div>
-      <aside id="tip" hidden></aside>`;
+      <div id="toasts" aria-live="polite"></div>`;
     this.screen = $(root, '#screen');
     this.hud = $(root, '#hud');
     this.curtain = $(root, '#curtain');
@@ -120,11 +119,10 @@ export class App {
 
   private mount(html: string, cls = ''): HTMLElement {
     this.setKeys(null);
-    // Tips belong to the screen they were shown on.
-    this.hideTip();
     this.screen.className = cls;
     this.screen.innerHTML = html;
     this.screen.scrollTop = 0;
+    stagger(this.screen);
     return this.screen;
   }
 
@@ -168,37 +166,56 @@ export class App {
     setTimeout(() => el.remove(), 4800);
   }
 
-  /** Refresh the HUD miles counter with a little bump. */
+  /** A short vibration on phones that support it; follows the sound setting. */
+  private buzz(pattern: number | number[]): void {
+    if (this.save.muted || reducedMotion()) return;
+    navigator.vibrate?.(pattern);
+  }
+
+  /** Refresh the HUD miles counter: it counts up to the new total and shows how many were earned. */
   private updateMiles(): void {
     const el = this.hud.querySelector<HTMLElement>('.miles-count');
     if (!el) return;
-    el.textContent = this.save.rewards.miles.toLocaleString();
-    const btn = el.closest('.hud-btn')!;
+    const to = this.save.rewards.miles;
+    const from = Number(el.dataset.value ?? to);
+    el.dataset.value = String(to);
+    const btn = el.closest<HTMLElement>('.hud-btn')!;
+    btn.setAttribute('aria-label', `Air miles: ${to.toLocaleString()}. Open the hangar`);
+    if (to === from) return;
     btn.classList.remove('bump');
-    void (btn as HTMLElement).offsetWidth;
+    void btn.offsetWidth;
     btn.classList.add('bump');
+    if (to > from) {
+      const f = document.createElement('span');
+      f.className = 'miles-float';
+      f.textContent = `+${(to - from).toLocaleString()}`;
+      f.setAttribute('aria-hidden', 'true');
+      btn.appendChild(f);
+      setTimeout(() => f.remove(), 1200);
+    }
+    countUp(el, from, to);
   }
 
-  /** A one-time coaching card, shown the first time a screen is reached. */
+  /**
+   * A one-time coaching card, shown the first time a screen is reached. It sits at the top of
+   * the screen's panel, so it never covers what it's explaining.
+   */
   private tip(key: string, html: string): void {
-    const box = document.getElementById('tip')!;
-    if (this.save.rewards.tips.includes(key)) {
-      if (box.dataset.key !== key) box.hidden = true;
-      return;
-    }
-    box.dataset.key = key;
-    box.innerHTML = `<span class="tip-icon">💡</span><p>${html}</p><button class="btn small" data-act="tip-ok">Got it</button>`;
-    box.hidden = false;
-    box.onclick = (e) => {
-      if (!(e.target as HTMLElement).closest('[data-act="tip-ok"]')) return;
+    if (this.save.rewards.tips.includes(key)) return;
+    const host = this.screen.firstElementChild;
+    if (!host || host.querySelector('.coach')) return;
+    const box = document.createElement('aside');
+    box.className = 'coach';
+    box.setAttribute('role', 'note');
+    box.innerHTML = `<span class="tip-icon" aria-hidden="true">💡</span><p>${html}</p><button class="btn small" data-act="tip-ok">Got it</button>`;
+    host.prepend(box);
+    box.querySelector('button')!.addEventListener('click', (e) => {
+      e.stopPropagation();
       this.save = markTip(this.save, key);
       this.persist();
-      box.hidden = true;
-    };
-  }
-
-  private hideTip(): void {
-    document.getElementById('tip')!.hidden = true;
+      box.classList.add('out');
+      setTimeout(() => box.remove(), 300);
+    });
   }
 
   /** Colourful iris wipe; `swap` runs while the screen is covered. */
@@ -224,8 +241,8 @@ export class App {
       <button class="brand" data-act="home" aria-label="Get Around home"><span class="logo-globe">🌍</span><span>Get&nbsp;Around</span></button>
       <div class="hud-route">${r && j ? `<span class="chip" style="--c:${r.color}">${esc(r.code)} · ${esc(r.name)}</span>` : ''}</div>
       <div class="hud-actions">
-        <button class="hud-btn miles" data-act="hangar" aria-label="Air miles: open the hangar">✈ <span class="miles-count">${this.save.rewards.miles.toLocaleString()}</span></button>
-        <button class="hud-btn" data-act="passport" aria-label="Open passport">🛂 <span>${stamps}</span></button>
+        <button class="hud-btn miles" data-act="hangar" aria-label="Air miles: ${this.save.rewards.miles.toLocaleString()}. Open the hangar"><span aria-hidden="true">✈</span> <span class="miles-count" data-value="${this.save.rewards.miles}">${this.save.rewards.miles.toLocaleString()}</span></button>
+        <button class="hud-btn" data-act="passport" aria-label="Passport: ${stamps} ${stamps === 1 ? 'stamp' : 'stamps'}"><span aria-hidden="true">🛂</span> <span>${stamps}</span></button>
         <button class="hud-btn" data-act="mute" aria-label="${this.save.muted ? 'Unmute' : 'Mute'}">${this.save.muted ? '🔇' : '🔊'}</button>
       </div>`;
     this.hud.onclick = (e) => {
@@ -424,7 +441,6 @@ export class App {
       'screen-map',
     );
     if (!here) this.tip('map', 'Tap the glowing <strong>✈️</strong> country on the globe (or its flag below) to board. Every flight earns <strong>air miles</strong>.');
-    else this.hideTip();
     el.onclick = (e) => {
       const t = e.target as HTMLElement;
       const act = t.closest<HTMLElement>('[data-act]')?.dataset.act;
@@ -514,7 +530,6 @@ export class App {
 
   private async enterCountry(id: CountryId, landing = false, flightMiles = 0): Promise<void> {
     const c = COUNTRY_BY_ID[id];
-    this.hideTip();
     await this.curtainWipe(
       c.color,
       `<div class="arrive"><span class="flag-big">${c.flag}</span><small>${landing ? 'Now arriving in' : 'Visiting'}</small><strong>${esc(c.name)}</strong><em>${esc(c.nickname)}</em>${flightMiles ? `<span class="arrive-miles">+${flightMiles} ✈ flight miles</span>` : ''}</div>`,
@@ -693,10 +708,10 @@ export class App {
           <span class="spares" title="Misses you can still afford">${sparesLabel(sparesLeft(qz.wrong, total))}</span>
           <span class="streak" ${this.save.rewards.streak >= 2 ? '' : 'hidden'}>🔥 <b>${this.save.rewards.streak}</b></span>
         </div>
-        <div class="pips">${pips}</div>
+        <div class="pips" aria-hidden="true">${pips}</div>
         <p class="q-count">Question ${qz.index + 1} of ${total}${kindTag ? ` <span class="kind-tag">${kindTag}</span>` : ''}${asOf}</p>
         ${this.questionBody(item)}
-        <div class="postcard" hidden></div>
+        <div class="postcard" role="status" hidden></div>
         <div class="quiz-foot">
           <button class="btn ghost small" data-act="quit">Leave quiz</button>
           <span class="lifelines">${(Object.keys(LIFELINES) as LifelineId[])
@@ -939,6 +954,7 @@ export class App {
     streakEl.querySelector('b')!.textContent = String(this.save.rewards.streak);
     this.paintLifelines();
     right ? sfx.correct() : sfx.wrong();
+    this.buzz(right ? 18 : [40, 50, 40]);
     if (right) this.stage.diorama.celebrate([TOPIC_BY_ID[qz.topic].color, COUNTRY_BY_ID[qz.country].color, '#ffffff'], 30);
 
     this.screen.querySelectorAll<HTMLButtonElement>('.answer, .lm-opt, .order-item').forEach((b) => (b.disabled = true));
@@ -1004,6 +1020,7 @@ export class App {
 
     if (passed) {
       sfx.stamp();
+      this.buzz([20, 40, 90]);
       this.stage.diorama.celebrate([level.color, c.color, t.color, '#ffffff'], qz.level === 'legend' ? 220 : 140);
     }
     const lines: string[] = [];
@@ -1088,6 +1105,7 @@ export class App {
       ).join('')}</div>
       <p class="pp-stats">🔥 Best streak ${this.save.rewards.bestStreak} · ✈ ${this.save.rewards.stats.kmFlown.toLocaleString()} km flown · ✔ ${this.save.rewards.stats.correct.toLocaleString()} correct answers</p>`;
     document.body.appendChild(dlg);
+    stagger(dlg);
     dlg.addEventListener('close', () => dlg.remove());
     dlg.addEventListener('click', (e) => {
       if (e.target === dlg || (e.target as HTMLElement).closest('[data-act="close"]')) dlg.close();
@@ -1112,6 +1130,36 @@ function medalRow(j: Journey, country: CountryId, topic: TopicId): string {
     const won = isPass(bestScore(j, country, topic, l.id) ?? 0, 10);
     return `<i class="${won ? 'on' : ''}" style="--m:${l.color}" title="${l.medal}"></i>`;
   }).join('');
+}
+
+function reducedMotion(): boolean {
+  return window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ?? false;
+}
+
+/** Number the items of each list so CSS can cascade their entrance (--i drives the delay). */
+function stagger(root: ParentNode): void {
+  root.querySelectorAll('.topic-grid, .level-list, .board-rows, .answers, .order-list, .lm-grid, .chip-grid, .pp-grid').forEach((list) =>
+    Array.from(list.children).forEach((el, i) => (el as HTMLElement).style.setProperty('--i', String(Math.min(i, 12)))),
+  );
+}
+
+/** Roll a number up (or down) to its new value. */
+function countUp(el: HTMLElement, from: number, to: number): void {
+  if (reducedMotion()) {
+    el.textContent = to.toLocaleString();
+    return;
+  }
+  const start = performance.now();
+  const dur = Math.min(900, 300 + Math.abs(to - from) * 4);
+  const step = (now: number) => {
+    const k = Math.min(1, (now - start) / dur);
+    const eased = 1 - Math.pow(1 - k, 3);
+    // Stop if a newer update has taken over this counter.
+    if (el.dataset.value !== String(to)) return;
+    el.textContent = Math.round(from + (to - from) * eased).toLocaleString();
+    if (k < 1) requestAnimationFrame(step);
+  };
+  requestAnimationFrame(step);
 }
 
 function wait(ms: number): Promise<void> {

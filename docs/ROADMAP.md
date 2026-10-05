@@ -83,6 +83,15 @@ When Phase 2 adds accounts, the save's `rewards` section, the per-level scores a
 
 ## Phase 5: Polish
 
+- [x] UI polish pass:
+  - [x] Design tokens for shape and motion, with bundled fonts (no third-party font requests).
+  - [x] The HUD stays legible over any background.
+  - [x] First-time tips sit inside the panel they explain.
+  - [x] Lists cascade in; the air-miles counter rolls up and shows "+N".
+  - [x] Answer feedback animations, plus a light vibration on phones.
+  - [x] A roomier quiz on wide screens; compact achievement toasts on phones.
+  - [x] Tall panels stay scrollable on short screens.
+  - [x] Screen-reader labels on the HUD, quiz and results.
 - [ ] Professionally made glTF landmarks (Draco or meshopt compressed, loaded per country), each replacing a procedural builder.
 - [ ] Ambient music per region and sound settings.
 - [ ] Accessibility: screen readers and keyboard-only play.
