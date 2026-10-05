@@ -7,7 +7,7 @@
     { "id": "fp", "label": "false alarms", "kind": "float", "scale": 10, "better": "lower" }
   ],
   "perf_fields": [
-    { "id": "cost_usd", "label": "cost", "unit": "$" },
+    { "id": "list_cost_usd", "label": "list-price usage", "unit": "$" },
     { "id": "web_searches", "label": "searches" },
     { "id": "latency_s", "label": "latency", "unit": "s" }
   ]

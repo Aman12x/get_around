@@ -1,4 +1,4 @@
-// Pure helpers for refresh-current-affairs.mjs (no API calls), unit-tested in refresh-core.test.mjs.
+// Pure helpers for `factcheck.mjs refresh` (no model calls), unit-tested in refresh-core.test.mjs.
 
 export function norm(s) {
   return String(s).toLowerCase().replace(/[^a-z0-9]/g, '');
@@ -72,8 +72,7 @@ export function applyVerified(qs, candidates, verdicts) {
 }
 
 // ------------------------------------------------------------- writer prompt
-// Shared by the API refresher (refresh-current-affairs.mjs) and the subscription
-// workflow (subscription.mjs), so both write questions to the same brief.
+// The brief the writer session gets, the shape its answer must take, and the PR body.
 
 export const QUESTION_SCHEMA = {
   type: 'object',

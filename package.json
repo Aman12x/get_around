@@ -19,9 +19,9 @@
     "db:migrate": "node dist-server/migrate.js",
     "db:studio": "drizzle-kit studio",
     "preview": "npm run build && npm start",
-    "factcheck": "node scripts/factcheck/check.mjs",
-    "factcheck:refresh": "node scripts/factcheck/refresh-current-affairs.mjs",
-    "factcheck:eval": "node scripts/factcheck/eval/run-eval.mjs --variant baseline --model claude-opus-5-5 --approve-harness && node scripts/factcheck/eval/summarize.mjs"
+    "factcheck": "node scripts/factcheck/factcheck.mjs check",
+    "factcheck:refresh": "node scripts/factcheck/factcheck.mjs refresh",
+    "factcheck:eval": "node scripts/factcheck/eval/run-eval.mjs --variant baseline --model claude-sonnet-5-5 --approve-harness && node scripts/factcheck/eval/summarize.mjs"
   },
   "dependencies": {
     "@fastify/compress": "^9.2.0",
@@ -33,7 +33,6 @@
     "zod": "^4.6.5"
   },
   "devDependencies": {
-    "@anthropic-ai/sdk": "^0.131.0",
     "@napi-rs/canvas": "^1.0.10",
     "@types/node": "^22.20.5",
     "@types/three": "^0.186.0",

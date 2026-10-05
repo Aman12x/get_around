@@ -1,11 +1,19 @@
-name: Current affairs refresh (API key)
+name: Current affairs refresh
 
-# The same refresh as current-affairs-subscription.yml, but calling the Claude API directly
-# (scripts/factcheck/refresh-current-affairs.mjs, Opus 5.5, billed per token). Manual only;
-# to put it on the schedule instead, move the `schedule:` block over from the subscription
-# workflow. Needs repository secret ANTHROPIC_API_KEY, and Settings → Actions → General →
-# "Allow GitHub Actions to create and approve pull requests".
+# Twice a month (the 1st and 15th, 06:17 UTC), Claude Code (Sonnet 5.5) reviews every
+# country's Current Affairs questions against the news, rewrites ones that are no longer
+# true and proposes a couple of fresh ones. scripts/factcheck/factcheck.mjs screens the
+# proposals, has a separate Claude Code session fact-check them, and this workflow opens a
+# pull request for a human to review.
+#
+# Runs on your Claude subscription only; no API key is used (the script strips API
+# credentials before starting Claude Code). Needs:
+#   - repository secret CLAUDE_CODE_OAUTH_TOKEN (run `claude setup-token` locally)
+#   - Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests"
+# Runs count against your subscription's usage limits.
 on:
+  schedule:
+    - cron: '17 6 1,15 * *'
   workflow_dispatch:
     inputs:
       countries:
@@ -28,7 +36,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -36,14 +44,16 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
 
-      - name: Refresh questions with Claude
+      - name: Refresh questions with Claude Code
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           COUNTRIES: ${{ inputs.countries }}
           FRESH: ${{ inputs.fresh || '2' }}
         # $COUNTRIES is split on spaces on purpose; the script rejects unknown ids.
-        run: node scripts/factcheck/refresh-current-affairs.mjs $COUNTRIES --fresh "$FRESH" --summary "$RUNNER_TEMP/pr-body.md" --result "$RUNNER_TEMP/refresh-result.json"
+        run: node scripts/factcheck/factcheck.mjs refresh $COUNTRIES --fresh "$FRESH" --summary "$RUNNER_TEMP/pr-body.md" --result "$RUNNER_TEMP/refresh-result.json"
 
       - name: Content and unit tests
         run: npm test
@@ -73,5 +83,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: current-affairs-refresh
-          path: ${{ runner.temp }}/refresh-result.json
+          path: |
+            ${{ runner.temp }}/refresh-result.json
+            .factcheck/
+          include-hidden-files: true
           if-no-files-found: ignore

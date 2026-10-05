@@ -1,10 +1,11 @@
 name: Fact-check eval
 
-# Measures how well the fact-checker (scripts/factcheck/lib.mjs) catches errors, on the
-# labelled set in scripts/factcheck/eval/cases.json. Run it by hand from the Actions tab
-# after changing the checker's prompt, model or settings; each run spends API credit.
-# The summary (recall, precision, specificity) appears on the run page and the full
-# results, including transcripts, are attached as an artifact.
+# Measures how well the fact-checker (checkItems in scripts/factcheck/claude.mjs) catches
+# errors, on the labelled set in scripts/factcheck/eval/cases.json. Run it by hand from the
+# Actions tab after changing the checker's prompt or model. It runs Claude Code on your
+# Claude subscription (repository secret CLAUDE_CODE_OAUTH_TOKEN; no API key is used) and
+# a full run is 45 sessions, so it uses a fair share of your usage limits.
+# The summary appears on the run page; results and transcripts are attached as an artifact.
 on:
   workflow_dispatch:
     inputs:
@@ -23,7 +24,7 @@ permissions:
 jobs:
   eval:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -31,13 +32,15 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
       - name: Run the eval
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           VARIANT: ${{ inputs.variant }}
           REPS: ${{ inputs.reps }}
         # --approve-harness: this is a fresh checkout reviewed through git, so record its hash.
-        run: node scripts/factcheck/eval/run-eval.mjs --variant "$VARIANT" --reps "$REPS" --model claude-opus-5-5 --approve-harness || true
+        run: node scripts/factcheck/eval/run-eval.mjs --variant "$VARIANT" --reps "$REPS" --model claude-sonnet-5-5 --concurrency 2 --approve-harness || true
       - name: Summarize
         env:
           VARIANT: ${{ inputs.variant }}

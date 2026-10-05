@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Fact-checker eval runner, adapted from the claude-api skill's runner scaffold.
-//   node scripts/factcheck/eval/run-eval.mjs --variant baseline --model claude-opus-5-5
+//   node scripts/factcheck/eval/run-eval.mjs --variant baseline --model claude-sonnet-5-5
 //
 // Structural properties this encodes (so you don't have to remember them):
 //   - parameterized by --variant / --model / --reps (no hardcoded A/B pair)
@@ -131,14 +131,16 @@ const REF_EXTS = ['', '.html', '.txt', '.json'];
 
 // --- fill these in ----------------------------------------------------------
 // Fact-checker eval. Cases come from scripts/factcheck/eval/cases.json (build-cases.mjs);
-// each case is a packet of items checked in ONE call through the real entry point,
-// checkItems() in scripts/factcheck/lib.mjs, exactly as check.mjs sends a bank.
+// each case is a packet of items checked in ONE Claude Code session through the real entry
+// point, checkItems() in scripts/factcheck/claude.mjs, exactly as `factcheck.mjs check` sends
+// a bank. Runs on your Claude subscription (no API key).
 // Grading is programmatic: an item counts as flagged when its verdict is not "ok".
 //
 //   FACTCHECK_MOCK=oracle|null|flag-all   swaps the model for a fake checker, to test the
 //                                         harness end to end without spending anything.
 
-import { checkItems, costUsd } from '../lib.mjs';
+import { randomUUID } from 'node:crypto';
+import { checkItems } from '../claude.mjs';
 
 const CASES_PATH = new URL('./cases.json', import.meta.url);
 const MOCK = process.env.FACTCHECK_MOCK;
@@ -165,11 +167,14 @@ async function runCase(input, ctx) {
     }]));
     return { output: verdicts, model: ctx.model, usage: { input_tokens: 0, output_tokens: 0 }, stop_reason: 'tool_use', transcript: [] };
   }
-  const run = await checkItems(input.items.map(forChecker), { country: input.country, topic: input.topic });
+  const run = await checkItems(`eval-${ctx.variant}-${input.id}-${randomUUID().slice(0, 8)}`, input.items.map(forChecker), {
+    country: input.country,
+    topic: input.topic,
+  });
   return {
     output: Object.fromEntries(run.verdicts),
     transcript: run.transcript,
-    model: run.model, usage: run.usage, stop_reason: run.stop_reason,
+    model: run.model, usage: run.usage, stop_reason: 'end_turn', list_cost_usd: run.list_cost_usd,
   };
 }
 
@@ -194,14 +199,19 @@ async function gradeCase(input, run) {
 
 /** Side-channel perf fields beyond the built-ins (latency_s etc.). */
 function perfFrom(run) {
-  return { cost_usd: Number(costUsd(run.usage).toFixed(4)), web_searches: run.usage?.web_search_requests ?? 0 };
+  // list_cost_usd is what Claude Code reports the session would cost at API list prices;
+  // on a subscription nothing is billed, but it shows relative usage.
+  return {
+    list_cost_usd: Number((run.list_cost_usd ?? 0).toFixed(4)),
+    web_searches: run.usage?.server_tool_use?.web_search_requests ?? 0,
+  };
 }
 
 // --- harness (you usually won't need to touch below this line) --------------
 
 function parseArgs(argv) {
   const a = { flow: '.claude/hillclimb/factcheck', variant: 'baseline',
-              model: undefined, reps: 1, concurrency: 4, timeoutS: 1800,
+              model: undefined, reps: 1, concurrency: 2, timeoutS: 3600,
               approveHarness: false };
   // A flag at the end of argv would otherwise consume undefined - which for
   // --model equals the default and silently disables the served-model check.

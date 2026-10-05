@@ -18,7 +18,7 @@ const { cases } = JSON.parse(readFileSync(new URL('./cases.json', import.meta.ur
 
 const sum = (k) => rows.reduce((n, r) => n + (r.grade?.[k] ?? 0), 0);
 const tp = sum('tp'), fp = sum('fp'), fn = sum('fn'), tn = sum('tn');
-const cost = [...rows, ...errors].reduce((n, r) => n + (r.cost_usd ?? 0), 0);
+const cost = [...rows, ...errors].reduce((n, r) => n + (r.list_cost_usd ?? 0), 0);
 
 function wilson(k, n) {
   if (!n) return 'n/a';
@@ -52,7 +52,7 @@ for (const c of cases) {
 const L = [
   `# Fact-check eval: ${variant}`,
   '',
-  `${rows.length} of ${cases.length} packets scored${errors.length ? `, ${errors.length} failed attempt(s) in errors.jsonl` : ''}; model ${rows[0]?.model ?? 'n/a'}; cost ~$${cost.toFixed(2)}.`,
+  `${rows.length} of ${cases.length} packets scored${errors.length ? `, ${errors.length} failed attempt(s) in errors.jsonl` : ''}; model ${rows[0]?.model ?? 'n/a'}; usage at API list prices ~$${cost.toFixed(2)} (not billed on a subscription).`,
   '',
   '| Metric | Value (95% CI) |',
   '| --- | --- |',
