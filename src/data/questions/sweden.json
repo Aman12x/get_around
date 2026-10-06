@@ -911,6 +911,208 @@
         "asOf": "2024"
       }
     ],
+    "society": [
+      {
+        "q": "Sweden's central bank, the Riksbank, aims to keep inflation at what annual rate?",
+        "choices": ["2%", "0%", "4%", "6%"],
+        "answer": 0,
+        "fact": "The 2% target was set in 1993 after the krona was floated, and since 2017 it has been measured by the CPIF index; the Riksbank, founded in 1668, is the world's oldest central bank.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which of these does Sweden NOT have?",
+        "choices": ["A universal child allowance", "A state pension system", "Paid parental leave", "A statutory national minimum wage"],
+        "answer": 3,
+        "fact": "Pay floors in Sweden are set by collective agreements between unions and employers, and about nine in ten workers are covered by one.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Swedish consumer price inflation peaked in December 2022 at roughly what annual rate?",
+        "choices": ["4%", "8%", "12%", "20%"],
+        "answer": 2,
+        "fact": "It was the highest inflation Sweden had seen since 1991, driven by energy and food prices; by 2024 the rate had fallen back to around 2%.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In January 2017, Sweden's population passed which milestone for the first time?",
+        "choices": ["5 million", "7 million", "10 million", "15 million"],
+        "answer": 2,
+        "fact": "Statistics Sweden recorded the 10 millionth resident on 20 January 2017; the figure had passed 9 million only in 2004.",
+        "difficulty": 1,
+        "asOf": "2017"
+      },
+      {
+        "q": "From October 2023, Swedish union IF Metall went on strike against which carmaker over its refusal to sign a collective agreement?",
+        "choices": ["Tesla", "Volvo", "Scania", "Toyota"],
+        "answer": 0,
+        "fact": "Other unions joined in sympathy, with dockworkers refusing to unload the cars and postal workers refusing to deliver number plates. The dispute became Sweden's longest strike in decades.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, Sweden's government announced funding to bring what back into classrooms, reversing years of digital-first schooling?",
+        "choices": ["Blackboards", "School uniforms", "Typewriters", "Printed textbooks"],
+        "answer": 3,
+        "fact": "The move followed concerns that reading skills had slipped; in 2024 the Public Health Agency also advised limits on children's screen time.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In a 2022 Riksbank survey, roughly what share of Swedes said they had paid for their most recent purchase in cash?",
+        "choices": ["About 25%", "About 45%", "About 60%", "About 8%"],
+        "answer": 3,
+        "fact": "Sweden is one of the world's most cashless societies; the mobile payment app Swish, launched by the big banks in 2012, is used by most of the adult population.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "At the end of 2024, Statistics Sweden put the country's population at roughly what?",
+        "choices": ["9.2 million", "10.6 million", "11.5 million", "12.8 million"],
+        "answer": 1,
+        "fact": "The population grew by about 36,000 during 2024, with 29,700 more immigrations than emigrations and 7,200 more births than deaths; it had passed 10 million only in 2017.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In May 2024, the Riksbank cut its policy rate for the first time in how many years?",
+        "choices": ["Two", "Four", "Eight", "Fifteen"],
+        "answer": 2,
+        "fact": "The cut from 4.00% to 3.75% came before the European Central Bank moved; the Riksbank had not lowered rates since 2016.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "After a series of rises from 2022, the Riksbank's policy rate peaked in September 2023 at what level?",
+        "choices": ["1%", "2.5%", "4%", "7%"],
+        "answer": 2,
+        "fact": "The rate had been at zero, or below, for most of the period from 2015 to April 2022; the rises hit Sweden's many variable-rate mortgage holders quickly.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "When the Swedish krona hit record lows in 2023, one euro cost nearly how many kronor?",
+        "choices": ["6", "8", "12", "16"],
+        "answer": 2,
+        "fact": "The weak krona made foreign holidays dearer for Swedes but helped exporters; it recovered somewhat during 2024 and 2025.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Sweden's unemployment rate in 2024, among the highest in the EU, stood at roughly what?",
+        "choices": ["8%", "3%", "13%", "18%"],
+        "answer": 0,
+        "fact": "The rate had been above 8% for most of the 2020s, with youth unemployment far higher; Sweden's broad definition counts full-time students looking for work.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Sweden's electricity market is divided into how many price zones, with the south usually paying the most?",
+        "choices": ["Two", "Four", "Six", "Eight"],
+        "answer": 1,
+        "fact": "Zones SE1 to SE4 have existed since 2011; cheap hydro and wind power in the north cannot always reach the populous south because of grid bottlenecks.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "From 1 November 2024, Sweden abolished which tax, introduced in 2020?",
+        "choices": ["The sugar tax", "The property tax", "The congestion charge", "The plastic bag tax"],
+        "answer": 3,
+        "fact": "The tax of about three kronor per bag had cut plastic bag use sharply, from roughly 74 bags per person in 2019 to around 17 by 2023.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which Swedish tax deduction cuts the cost of household services such as cleaning and gardening?",
+        "choices": ["ROT", "RIT", "RAT", "RUT"],
+        "answer": 3,
+        "fact": "RUT was introduced in 2007 for household services; its sister deduction ROT covers repairs and renovations to the home.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "The dispute that toppled Prime Minister Stefan Löfven in June 2021 concerned a proposal to do what?",
+        "choices": ["Raise the pension age", "Abolish the child allowance", "Privatise the railways", "Allow market rents in newly built flats"],
+        "answer": 3,
+        "fact": "The Left Party withdrew its support over the plan to loosen Sweden's regulated rent-setting system; Löfven returned as prime minister a few weeks later.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "According to Sweden's National Mediation Office, the unadjusted gender pay gap in 2023 was roughly what?",
+        "choices": ["2%", "10%", "20%", "30%"],
+        "answer": 1,
+        "fact": "Much of the gap reflects women working in lower-paid public-sector jobs; after adjusting for occupation and hours, the unexplained gap was under 5%.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, Sweden's total fertility rate fell to a record low of about what?",
+        "choices": ["1.1 children per woman", "1.45 children per woman", "1.9 children per woman", "2.1 children per woman"],
+        "answer": 1,
+        "fact": "Statistics Sweden said it was the lowest figure since records began in the 1700s, and the rate fell further in 2024, despite generous parental leave.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, the earliest age at which Swedes can start drawing their state income pension rose to what?",
+        "choices": ["61", "62", "63", "65"],
+        "answer": 2,
+        "fact": "It had risen from 61 to 62 in 2020 and is planned to reach 64 in 2026, under a 'target age' system linked to rising life expectancy.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Sweden's universal child allowance, paid monthly for every child under 16, was worth how much per child in 2024?",
+        "choices": ["500 kronor", "1,250 kronor", "2,500 kronor", "4,000 kronor"],
+        "answer": 1,
+        "fact": "The barnbidrag has been paid regardless of income since 1948; families with several children also receive a supplement.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "The first round of Sweden's 'elstöd' electricity price support, paid from February 2023, went to households in which price zones?",
+        "choices": ["The two southern zones, SE3 and SE4", "The two northern zones, SE1 and SE2", "All four zones equally", "Only the Stockholm zone, SE3"],
+        "answer": 0,
+        "fact": "Payments to SE3 and SE4 households began on 20 February 2023 and covered October 2021 to September 2022; a second, smaller round for November and December 2022 later covered the whole country.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "To lower pump prices, Sweden cut the biofuel blending requirement for diesel to what level from 1 January 2024?",
+        "choices": ["0%", "6%", "15%", "30%"],
+        "answer": 1,
+        "fact": "The 'reduktionsplikt' had been heading above 30% for diesel; cutting it was a key promise of the 2022 Tidö Agreement between the governing parties.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2020, Sweden's financial regulator let banks pause which requirement for mortgage borrowers during the pandemic?",
+        "choices": ["Amortisation (paying down the loan)", "Income verification", "A minimum deposit", "Mortgage insurance"],
+        "answer": 0,
+        "fact": "The exemption ran from April 2020 to August 2021; Sweden had introduced compulsory amortisation in 2016 to curb household debt.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "In 2024, Sweden announced that from 2026 it would raise the grant for migrants who return voluntarily to their home country to how much per adult?",
+        "choices": ["50,000 kronor", "100,000 kronor", "350,000 kronor", "1 million kronor"],
+        "answer": 2,
+        "fact": "The existing grant was 10,000 kronor and had been taken up by only a handful of people each year; the increase was announced in September 2024.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which 5% surtax on high incomes did Sweden abolish from 1 January 2020?",
+        "choices": ["Fastighetsskatten", "Värnskatten", "Arvsskatten", "Förmögenhetsskatten"],
+        "answer": 1,
+        "fact": "Introduced as a temporary 'defence tax' in 1995 to repair public finances after the early-1990s crisis, it added five points to state income tax for top earners; scrapping it cut the top state rate from 25% to 20%.",
+        "difficulty": 3,
+        "asOf": "2020"
+      }
+    ],
     "general": [
       {
         "q": "What is the capital of Sweden?",

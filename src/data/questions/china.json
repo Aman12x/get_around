@@ -911,6 +911,208 @@
         "asOf": "2023"
       }
     ],
+    "society": [
+      {
+        "q": "In which year did China's population fall for the first time in about six decades?",
+        "choices": ["2019", "2020", "2022", "2024"],
+        "answer": 2,
+        "fact": "The National Bureau of Statistics reported a drop of about 850,000 people in 2022, with births falling to 9.56 million; the decline continued in 2023 and 2024.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, China raised the number of children a couple is permitted to have to how many?",
+        "choices": ["Two", "Three", "Four", "No limit"],
+        "answer": 1,
+        "fact": "The one-child policy ended in 2016 with a two-child limit; the three-child policy followed in May 2021, soon after the 2020 census showed the slowest growth in decades.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which Chinese property developer defaulted in 2021 with more than US$300 billion of liabilities, the world's most indebted developer?",
+        "choices": ["Country Garden", "Vanke", "Evergrande", "Wanda"],
+        "answer": 2,
+        "fact": "A Hong Kong court ordered Evergrande's liquidation in January 2024; the property sector had accounted for roughly a quarter of China's economic activity.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In which month did China abruptly end most of its 'zero-COVID' restrictions, including mass testing and quarantine rules?",
+        "choices": ["March 2022", "December 2022", "May 2023", "January 2022"],
+        "answer": 1,
+        "fact": "The reversal followed rare street protests in several cities in late November 2022; the border reopened to quarantine-free travel on 8 January 2023.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which two apps dominate everyday payments in China, making cash rare in most city shops and taxis?",
+        "choices": ["UnionPay and Baidu Wallet", "Meituan and Didi", "PayPal and Apple Pay", "Alipay and WeChat Pay"],
+        "answer": 3,
+        "fact": "After foreign visitors struggled to pay, both apps were linked to overseas bank cards in 2023, and the central bank pushed shops to keep accepting cash and foreign cards.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which slang term, popular among young Chinese from 2021, describes opting out of the career rat race by doing the bare minimum?",
+        "choices": ["Little pinks", "Involution", "Lying flat (tang ping)", "Dragon mothers"],
+        "answer": 2,
+        "fact": "The phrase spread from an online post in 2021; 'involution' (neijuan), describing pointless over-competition, became a buzzword at the same time.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "The '996' working schedule, criticised by Chinese tech workers, refers to what?",
+        "choices": ["9am to 9pm, six days a week", "99.6% attendance targets", "9 weeks on, 9 weeks off, 6 months a year", "9 hours a day for 9 months, 6 weeks' leave"],
+        "answer": 0,
+        "fact": "In August 2021 China's Supreme People's Court and labour ministry declared the 996 schedule illegal, citing a legal limit of 44 working hours a week.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In mid-2023, China's unemployment rate for 16- to 24-year-olds hit a record of roughly what, after which publication was suspended?",
+        "choices": ["11%", "21%", "32%", "45%"],
+        "answer": 1,
+        "fact": "The June 2023 reading was 21.3%; a revised measure excluding students was launched in January 2024 and showed 14.9% for December 2023.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In February 2021, China's government declared 'complete victory' over what, by its national standard?",
+        "choices": ["Illiteracy", "Unemployment", "Rural homelessness", "Extreme poverty"],
+        "answer": 3,
+        "fact": "Officials said nearly 100 million rural residents had been lifted above the poverty line since 2012, when the campaign was launched.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Under reforms passed in 2024, China's statutory retirement age for men will rise gradually from 60 to what?",
+        "choices": ["62", "63", "65", "67"],
+        "answer": 1,
+        "fact": "The first rise since the 1950s is phased in over 15 years from January 2025; women's retirement ages rise from 50 and 55 to 55 and 58 depending on job type.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "What name was given to China's 2021 policy that banned for-profit tutoring in core school subjects?",
+        "choices": ["Double reduction", "Three red lines", "Dual circulation", "Healthy China 2030"],
+        "answer": 0,
+        "fact": "The policy aimed to cut homework and tutoring burdens; shares in tutoring firms such as New Oriental collapsed and tens of thousands of staff lost jobs.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which slogan did Xi Jinping revive in 2021 to describe the goal of narrowing China's wealth gap?",
+        "choices": ["Harmonious society", "Chinese dream", "Common prosperity", "Great rejuvenation"],
+        "answer": 2,
+        "fact": "Zhejiang province was named a pilot zone; big tech firms such as Tencent and Alibaba pledged billions of yuan to charitable causes after the slogan was promoted.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "What is the name of China's household registration system, which ties access to schools and benefits to a person's registered hometown?",
+        "choices": ["Danwei", "Hukou", "Guanxi", "Shehui"],
+        "answer": 1,
+        "fact": "The 2020 census counted roughly 376 million people living away from their registered place; many cities other than the largest relaxed hukou rules in 2022-23.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, China recorded roughly how many births, a record low for the People's Republic?",
+        "choices": ["9 million", "5 million", "14 million", "18 million"],
+        "answer": 0,
+        "fact": "There were 9.02 million births in 2023; the figure rose to 9.54 million in 2024, a Year of the Dragon, the first increase since 2016.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In spring 2022, which Chinese city of about 25 million people endured a roughly two-month citywide COVID lockdown?",
+        "choices": ["Beijing", "Guangzhou", "Chengdu", "Shanghai"],
+        "answer": 3,
+        "fact": "The lockdown ran from late March to 1 June 2022; residents struggled to buy food, and the city's economy shrank sharply in the second quarter.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2021, which Chinese ride-hailing app was pulled from app stores days after its New York listing, amid a data-security probe?",
+        "choices": ["Didi", "Meituan", "Pinduoduo", "Ele.me"],
+        "answer": 0,
+        "fact": "Didi was fined 8.03 billion yuan in July 2022 and delisted from the New York Stock Exchange, part of a wider crackdown on China's big tech platforms.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In September 2021, more than a dozen Chinese provinces faced what disruption to daily life and factories?",
+        "choices": ["Petrol rationing", "Water shortages", "Power cuts and electricity rationing", "Internet shutdowns"],
+        "answer": 2,
+        "fact": "Soaring coal prices and energy-use targets were blamed; in August 2022 Sichuan rationed power again when a heatwave and drought cut hydropower output.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2023, China overtook which country to become the world's largest exporter of cars?",
+        "choices": ["Germany", "Japan", "United States", "South Korea"],
+        "answer": 1,
+        "fact": "China's car industry association counted about 4.9 million vehicles exported in 2023, many of them electric, up from around 1 million in 2020.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "China's consumer prices rose by roughly what over 2023 as a whole, prompting talk of deflation?",
+        "choices": ["0.2%", "2.5%", "5%", "8%"],
+        "answer": 0,
+        "fact": "Producer prices fell throughout 2023, and consumer prices dropped 0.8% year on year in January 2024, the steepest fall since 2009.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2022, buyers of unfinished flats in dozens of Chinese cities took what collective action against developers?",
+        "choices": ["Hunger strikes", "Mortgage payment boycotts", "Rent strikes", "Motorway blockades"],
+        "answer": 1,
+        "fact": "Online lists tracked boycotts at hundreds of stalled projects by late summer 2022; developers had sold homes before building them and run out of money.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "According to the 2020 census, roughly what share of China's population lived in urban areas?",
+        "choices": ["44%", "64%", "78%", "90%"],
+        "answer": 1,
+        "fact": "The urban share was only about 36% at the 2000 census; by the end of 2024 it had reached roughly 67%.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, Shanghai, which has China's highest minimum wage, raised its monthly minimum to how much?",
+        "choices": ["1,500 yuan", "2,690 yuan", "4,200 yuan", "6,000 yuan"],
+        "answer": 1,
+        "fact": "Minimum wages are set by each province or city rather than nationally; Shanghai's rose by 100 yuan in July 2023, and Beijing's stood at 2,420 yuan.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which internet slang term, derived from an English word, spread in 2022 to describe the idea of emigrating from China?",
+        "choices": ["Lie flat", "Bai lan", "Run", "Chill"],
+        "answer": 2,
+        "fact": "Written with the character 'run' (rùn), the term took off during Shanghai's 2022 lockdown, when online searches about emigration surged.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In May 2024, China cut the minimum mortgage down-payment for first-time home buyers to what share of the price?",
+        "choices": ["10%", "25%", "15%", "30%"],
+        "answer": 2,
+        "fact": "The package also scrapped the national floor on mortgage rates and offered 300 billion yuan of cheap central-bank funding for local governments to buy unsold homes.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "What is the name of China's central bank digital currency, piloted in cities from 2020?",
+        "choices": ["Panda coin", "Alipay Coin", "DragonPay", "e-CNY (digital yuan)"],
+        "answer": 3,
+        "fact": "It was offered to visitors at the 2022 Beijing Winter Olympics; by mid-2024 the central bank said cumulative transactions had passed 7 trillion yuan.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
     "general": [
       {
         "q": "Which river is often called the 'cradle of Chinese civilisation' and the 'Mother River'?",

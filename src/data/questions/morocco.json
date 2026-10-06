@@ -911,6 +911,208 @@
         "asOf": "2020"
       }
     ],
+    "society": [
+      {
+        "q": "Morocco's 2024 census put the population at roughly how many?",
+        "choices": ["17 million", "27 million", "37 million", "47 million"],
+        "answer": 2,
+        "fact": "The HCP counted 36.8 million, up 3 million since 2014, with annual growth slowing to 0.85%; more than 60% of Moroccans now live in urban areas.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In February 2023, Morocco's annual inflation rate briefly rose above what level, driven mainly by food prices?",
+        "choices": ["3%", "6%", "10%", "20%"],
+        "answer": 2,
+        "fact": "Inflation hit 10.1% in February 2023, the highest in decades; the 2022 average had been 6.6%, and it fell back below 1% during 2024.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In February 2025, King Mohammed VI asked Moroccans to forgo which Eid al-Adha tradition because drought had shrunk the national herd?",
+        "choices": ["Sacrificing a sheep", "Fasting", "Travelling to Mecca", "Wearing new clothes"],
+        "answer": 0,
+        "fact": "Livestock numbers had fallen by about 38% since 2016 after years of drought; King Hassan II made a similar appeal in 1966.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2023, which industry became Morocco's largest export sector, overtaking phosphates?",
+        "choices": ["Textiles", "Tourism", "Fishing", "Automotive"],
+        "answer": 3,
+        "fact": "Renault in Tangier and Stellantis in Kenitra drive the sector; car-industry exports rose 27% to about 142 billion dirhams in 2023 while phosphate sales fell to 76 billion.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Morocco's unemployment rate, as measured by the HCP, stood at roughly what in 2024?",
+        "choices": ["5%", "13%", "21%", "29%"],
+        "answer": 1,
+        "fact": "The 13.3% rate meant about 1.6 million people were jobless; among 15 to 24-year-olds it was about 37%, and urban unemployment far exceeded rural.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In December 2023, Morocco launched a programme of monthly payments to low-income families with children, known as what?",
+        "choices": ["Tayssir", "Forsa", "Direct social aid (aide sociale directe)", "Awrach"],
+        "answer": 2,
+        "fact": "Eligible households, enrolled through the Unified Social Register, receive at least 500 dirhams a month; the scheme replaced several older subsidies.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In late September 2025, youth protests under the banner 'GenZ 212' spread across Moroccan cities calling mainly for better what?",
+        "choices": ["Healthcare and education", "Internet speeds", "Football stadiums", "Student housing"],
+        "answer": 0,
+        "fact": "Organised on the Discord app, protesters contrasted spending on 2030 World Cup stadiums with the state of public hospitals and schools.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2021, Morocco's parliament passed a law legalising the cultivation of which crop for medical and industrial use?",
+        "choices": ["Opium poppy", "Tobacco", "Coca", "Cannabis"],
+        "answer": 3,
+        "fact": "A national agency, ANRAC, issues licences in the Rif provinces of Al Hoceima, Chefchaouen and Taounate, where the first legal harvest came in 2023.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In April 2025, King Mohammed VI launched works to extend the Al Boraq high-speed rail line from Kenitra to which city?",
+        "choices": ["Fez", "Marrakesh", "Agadir", "Oujda"],
+        "answer": 1,
+        "fact": "The 430 km extension via Rabat and Casablanca is due to open before the 2030 World Cup, cutting Tangier-Marrakesh journeys to under three hours.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In May 2024, Morocco began phasing out its butane gas subsidy by raising the price of a 12 kg bottle from 40 dirhams to what?",
+        "choices": ["45 dirhams", "50 dirhams", "60 dirhams", "80 dirhams"],
+        "answer": 1,
+        "fact": "The price had been frozen since 1990; a further rise to 60 dirhams followed in 2025, with the savings earmarked for direct social aid.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Launched in January 2024, Morocco's 'Daam Sakane' programme offers first-time buyers of a new home what?",
+        "choices": ["A zero-interest 30-year mortgage", "Exemption from VAT on the purchase", "A free plot of land", "A direct grant of up to 100,000 dirhams"],
+        "answer": 3,
+        "fact": "Buyers get 100,000 dirhams for homes under 300,000 dirhams and 70,000 for those up to 700,000; Moroccans living abroad are also eligible.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In December 2022, Morocco replaced the RAMED scheme for poor households with what?",
+        "choices": ["AMO Tadamon health insurance", "Free private clinics", "A health voucher card", "A flat hospital fee"],
+        "answer": 0,
+        "fact": "The switch moved around 4 million households into the main CNSS-run compulsory health insurance system as part of the generalisation of social protection.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2022, a large seawater desalination plant began supplying drinking water and irrigation to which Moroccan city and its farming hinterland?",
+        "choices": ["Tangier", "Agadir", "Oujda", "Essaouira"],
+        "answer": 1,
+        "fact": "The Chtouka plant, among Africa's largest, supplies the Souss region's tomato and citrus farms; a far bigger plant for Casablanca followed.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Casablanca opened two new tram lines, T3 and T4, in which year?",
+        "choices": ["2019", "2021", "2024", "2026"],
+        "answer": 2,
+        "fact": "The lines added 25 km and 39 stations in September 2024, months after the city's first bus rapid transit routes opened.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2022, Morocco paid direct subsidies to which group to offset soaring diesel prices, fuel subsidies having been abolished in 2015?",
+        "choices": ["Fishermen", "Airlines", "Taxi passengers", "Road transport operators"],
+        "answer": 3,
+        "fact": "Lorry, bus and taxi operators received payments in several rounds during 2022 and 2023 to head off strikes over fuel costs.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Remittances from Moroccans living abroad reached a record of roughly how much in 2023?",
+        "choices": ["US$3 billion", "US$7 billion", "US$11 billion", "US$20 billion"],
+        "answer": 2,
+        "fact": "Transfers of about 115 billion dirhams rose 4% on 2022; France was the largest source at about 31%, followed by Spain, Saudi Arabia and Italy.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In December 2024, Morocco announced proposed reforms to which legal code, including on marriage age and child custody?",
+        "choices": ["The penal code", "The labour code", "The tax code", "The Moudawana (family code)"],
+        "answer": 3,
+        "fact": "The proposals followed a review ordered by the king in 2022 and came two decades after the landmark 2004 reform.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "To curb inflation, Bank Al-Maghrib raised its key policy rate in three steps between September 2022 and March 2023 to what?",
+        "choices": ["1.5%", "3%", "5%", "7%"],
+        "answer": 1,
+        "fact": "It was the first tightening since 2008; the bank began cutting again in June 2024 as inflation fell below 2%.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Morocco's 2024 census measured a fertility rate of roughly how many children per woman?",
+        "choices": ["1.5", "2.0", "2.5", "3.0"],
+        "answer": 1,
+        "fact": "At 1.97 the rate fell below replacement level for the first time; the HCP expects the population to peak at about 40 million before declining.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In April 2023, the IMF approved a two-year precautionary Flexible Credit Line for Morocco worth about how much?",
+        "choices": ["US$1 billion", "US$3 billion", "US$5 billion", "US$12 billion"],
+        "answer": 2,
+        "fact": "The FCL is reserved for countries with very strong policy records; Morocco said it would treat the line as insurance rather than draw on it.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "The 'Awrach' programme launched in 2022 aimed to create how many temporary jobs over two years?",
+        "choices": ["50,000", "100,000", "250,000", "500,000"],
+        "answer": 2,
+        "fact": "Participants on public worksites were paid at least the minimum wage with social cover; about 100,000 people were placed in the first year.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In December 2023, Morocco's government ended a wave of teachers' strikes by agreeing a pay rise of how much a month?",
+        "choices": ["500 dirhams", "1,000 dirhams", "1,500 dirhams", "3,000 dirhams"],
+        "answer": 2,
+        "fact": "The rise was paid in two 750-dirham instalments in 2024 and 2025 and was coupled with a new unified statute for education staff.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "A social agreement signed in April 2022 raised Morocco's private-sector minimum wage (SMIG) by what in total over two years?",
+        "choices": ["5%", "10%", "15%", "20%"],
+        "answer": 1,
+        "fact": "The rise came in two 5% steps in September 2022 and 2023; a further 10% over two years was agreed in April 2024.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "The 'Intelaka' programme, launched in February 2020, offered Moroccans what?",
+        "choices": ["Low-interest loans for young entrepreneurs", "Free vocational training", "Subsidised electric cars", "Grants to return from abroad"],
+        "answer": 0,
+        "fact": "Banks offered loans at about 2% interest, backed by state guarantees, to young people and small firms, with a 1.75% rate in rural areas.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Morocco's 2023 finance law set corporate tax rates to converge gradually by 2026 on a standard rate of what?",
+        "choices": ["15%", "20%", "25%", "30%"],
+        "answer": 1,
+        "fact": "Large firms with profits above 100 million dirhams converge on 35%, and banks and insurers on 40%, under the same four-year schedule.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
     "general": [
       {
         "q": "Which narrow strait separates Morocco from Spain?",

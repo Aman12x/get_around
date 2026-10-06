@@ -4,7 +4,9 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
 export const ROOT = new URL('../../', import.meta.url).pathname;
-export const TOPICS = ['history', 'technology', 'art', 'politics', 'current-affairs', 'general'];
+export const TOPICS = ['history', 'technology', 'art', 'politics', 'current-affairs', 'society', 'general'];
+/** Subjects about recent events; every question has an asOf year and the refresh keeps them current. */
+export const DATED_TOPICS = ['current-affairs', 'society'];
 export const VERDICTS = ['ok', 'wrong_answer', 'false_claim', 'ambiguous', 'outdated'];
 
 export function today() {
@@ -83,7 +85,7 @@ For each item decide:
 - outdated: it was true when written (see asOf) but, read exactly as written, is no longer true today. A dated statement about the past ("In 2023, X set the record") is still true even if things changed later, so it is ok, not outdated.
 Timeline items: check the year and label. Map places: check the coordinates are within about 10 km and the clue is true.
 
-Use web search for anything you are not highly confident about, and always for current-affairs items or anything that could have changed recently. Do not flag stylistic issues, harmless simplifications, or claims that are standard in reputable sources. When sources genuinely disagree on a date or figure and the item picked a mainstream value, it is ok.
+Use web search for anything you are not highly confident about, and always for current-affairs and society items or anything that could have changed recently. Do not flag stylistic issues, harmless simplifications, or claims that are standard in reputable sources. When sources genuinely disagree on a date or figure and the item picked a mainstream value, it is ok.
 Give exactly one verdict for every item id.`;
 
 export function factcheckPrompt(items, { country, topic }) {

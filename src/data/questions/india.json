@@ -1536,6 +1536,333 @@
         "asOf": "2023"
       }
     ],
+    "society": [
+      {
+        "q": "In November 2021, India repealed three controversial laws passed in 2020 concerning what?",
+        "choices": [
+          "Farming and crop markets",
+          "Citizenship",
+          "Labour unions",
+          "Mining"
+        ],
+        "answer": 0,
+        "fact": "The repeal followed a year-long protest by farmers camped on the edges of Delhi, one of the largest demonstrations in India's recent history.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "India's nationwide lockdown announced on 24 March 2020 was initially set to last how many days?",
+        "choices": [
+          "7",
+          "21",
+          "45",
+          "90"
+        ],
+        "answer": 1,
+        "fact": "It was extended several times into June, and prompted millions of migrant workers to leave cities for their home villages.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In May 2023, the Reserve Bank of India announced the withdrawal of which banknote from circulation?",
+        "choices": [
+          "₹500",
+          "₹1,000",
+          "₹2,000",
+          "₹5,000"
+        ],
+        "answer": 2,
+        "fact": "The note had been introduced after the 2016 demonetisation; over 97% of the notes were returned to banks within a year.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, petrol prices in many Indian cities crossed which per-litre milestone for the first time?",
+        "choices": [
+          "₹50",
+          "₹75",
+          "₹150",
+          "₹100"
+        ],
+        "answer": 3,
+        "fact": "Taxes made up over half the pump price; the central government later cut excise duty in November 2021 and May 2022 to ease the burden.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2022, India overtook which country to become the world's fifth-largest economy?",
+        "choices": [
+          "France",
+          "United Kingdom",
+          "Germany",
+          "Japan"
+        ],
+        "answer": 1,
+        "fact": "By 2025 India was widely reported to have passed Japan for fourth place, though its GDP per person remains far lower than either.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "A scheme begun in 2020 and extended to 2028 gives free food grain each month to roughly how many Indians?",
+        "choices": [
+          "200 million",
+          "500 million",
+          "1.2 billion",
+          "800 million"
+        ],
+        "answer": 3,
+        "fact": "PM Garib Kalyan Anna Yojana began as pandemic relief in April 2020 with 5 kg of rice or wheat per person; in 2024 it was extended five years at a cost of about ₹11.8 lakh crore.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, India remained the world's largest recipient of remittances, receiving roughly how much?",
+        "choices": [
+          "$125 billion",
+          "$25 billion",
+          "$65 billion",
+          "$300 billion"
+        ],
+        "answer": 0,
+        "fact": "The World Bank estimated about $125 billion, with the United States, Gulf states and the UK the main sources.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In July 2022, the Indian rupee weakened past which level against the US dollar for the first time?",
+        "choices": [
+          "60",
+          "70",
+          "80",
+          "90"
+        ],
+        "answer": 2,
+        "fact": "It followed rising US interest rates and oil prices; the rupee went on to pass 85 to the dollar in December 2024.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "The 2025 Union Budget made annual income up to how much effectively free of income tax under the new regime?",
+        "choices": [
+          "₹5 lakh",
+          "₹7 lakh",
+          "₹20 lakh",
+          "₹12 lakh"
+        ],
+        "answer": 3,
+        "fact": "The threshold was raised from ₹7 lakh; a 'lakh' is 100,000, so ₹12 lakh is about 1.2 million rupees.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "The Reserve Bank of India targets inflation of 4% with a tolerance band of how much either side?",
+        "choices": [
+          "2 points",
+          "1 point",
+          "3 points",
+          "4 points"
+        ],
+        "answer": 0,
+        "fact": "The 2-6% band was set in 2016; inflation stayed above 6% for most of 2022, forcing the RBI to explain itself to the government.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "India's National Family Health Survey for 2019-21 found the total fertility rate had fallen to what?",
+        "choices": [
+          "1.2",
+          "2.0",
+          "2.8",
+          "3.5"
+        ],
+        "answer": 1,
+        "fact": "That is below the replacement level of 2.1 for the first time, though rates stay higher in states such as Bihar and Uttar Pradesh.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "India's official unemployment rate in the 2022-23 Periodic Labour Force Survey was roughly what?",
+        "choices": [
+          "8%",
+          "15%",
+          "3%",
+          "23%"
+        ],
+        "answer": 2,
+        "fact": "The low headline figure of 3.2% masks high youth unemployment and widespread informal or self-employed work.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "The ILO's 2024 India Employment Report found young people made up roughly what share of India's unemployed?",
+        "choices": [
+          "23%",
+          "50%",
+          "95%",
+          "83%"
+        ],
+        "answer": 3,
+        "fact": "The report also found unemployment was highest among educated youth, with graduates far more likely to be jobless than those with no schooling.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Launched in 2019, the PM-KISAN scheme pays farming families how much per year?",
+        "choices": [
+          "₹2,000",
+          "₹12,000",
+          "₹6,000",
+          "₹24,000"
+        ],
+        "answer": 2,
+        "fact": "The money arrives in three instalments straight into bank accounts and reaches over 90 million farming households.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "From October 2019, which group was given free travel on Delhi's public buses?",
+        "choices": [
+          "Women",
+          "Students",
+          "Pensioners",
+          "Government staff"
+        ],
+        "answer": 0,
+        "fact": "Passengers receive a 'pink ticket' for each free ride; Karnataka, Tamil Nadu and Punjab later launched similar schemes.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "India's retail inflation peaked in April 2022 at roughly what level, its highest in eight years?",
+        "choices": [
+          "4%",
+          "7.8%",
+          "12%",
+          "18%"
+        ],
+        "answer": 1,
+        "fact": "Food inflation reached 8.38% that month, and the previous peak was 8.33% in May 2014; the rise followed the war in Ukraine and kept inflation above the RBI's 6% ceiling.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "The Agnipath scheme, introduced in 2022, recruits soldiers for a fixed term of how many years?",
+        "choices": [
+          "2",
+          "7",
+          "4",
+          "10"
+        ],
+        "answer": 2,
+        "fact": "Only a quarter of each batch of 'Agniveers' is retained afterwards; the scheme triggered protests from young people seeking military careers.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In August 2023, India's UPI payment system crossed how many transactions in a single month for the first time?",
+        "choices": [
+          "1 billion",
+          "5 billion",
+          "50 billion",
+          "10 billion"
+        ],
+        "answer": 3,
+        "fact": "QR-code payments are now accepted by street vendors across India, and UPI handles more transactions than Visa does worldwide.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "India's census, last held in 2011 and delayed from 2021, was scheduled in 2025 to be completed in which year?",
+        "choices": [
+          "2025",
+          "2027",
+          "2026",
+          "2031"
+        ],
+        "answer": 1,
+        "fact": "The reference date is 1 March 2027, and for the first time since 1931 the count will record every person's caste.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In September 2025, India simplified GST to two main rates: 5% and what?",
+        "choices": [
+          "18%",
+          "12%",
+          "28%",
+          "40%"
+        ],
+        "answer": 0,
+        "fact": "The 12% and 28% slabs were scrapped and a 40% rate kept for luxury and 'sin' goods; everyday items such as soap and small cars got cheaper.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "The four labour codes India brought into force in November 2025 replaced roughly how many older labour laws?",
+        "choices": [
+          "9",
+          "59",
+          "99",
+          "29"
+        ],
+        "answer": 3,
+        "fact": "The codes, passed by Parliament in 2019 and 2020, cover wages, social security, industrial relations and workplace safety, including gig workers.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "NITI Aayog estimated in 2024 that roughly how many Indians escaped multidimensional poverty between 2013-14 and 2022-23?",
+        "choices": [
+          "50 million",
+          "100 million",
+          "250 million",
+          "500 million"
+        ],
+        "answer": 2,
+        "fact": "The multidimensional index measures deprivation in health, education and living standards rather than income alone.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "A 2022 NITI Aayog report estimated India had roughly how many gig workers in 2020-21?",
+        "choices": [
+          "7.7 million",
+          "2 million",
+          "30 million",
+          "75 million"
+        ],
+        "answer": 0,
+        "fact": "It projected the number would reach over 23 million by 2030; a 2020 social security code was the first to formally define gig and platform work.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "The Unified Pension Scheme, in force from April 2025, assures central government staff a pension of what share of their final-year average pay?",
+        "choices": [
+          "30%",
+          "50%",
+          "40%",
+          "60%"
+        ],
+        "answer": 1,
+        "fact": "It answered demands to restore the old pension scheme replaced in 2004, and requires at least 25 years of service for the full amount.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2024, the Ayushman Bharat health insurance scheme was extended to all Indians above what age, regardless of income?",
+        "choices": [
+          "60",
+          "65",
+          "75",
+          "70"
+        ],
+        "answer": 3,
+        "fact": "The scheme gives families ₹5 lakh a year of hospital cover; the extension added about 60 million older people.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
     "general": [
       {
         "q": "What is India's national animal?",

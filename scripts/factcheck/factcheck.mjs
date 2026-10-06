@@ -1,24 +1,24 @@
 #!/usr/bin/env node
-// Content fact-checking and the Current Affairs refresh, run by Claude Code on your
+// Content fact-checking and the Current Affairs / Society & Economy refresh, run by Claude Code on your
 // Claude subscription (see claude.mjs; no API key is used or accepted).
 //
 //   node scripts/factcheck/factcheck.mjs check japan                    # every Japan subject
 //   node scripts/factcheck/factcheck.mjs check --topic current-affairs  # one subject, every country
 //   node scripts/factcheck/factcheck.mjs check kenya --extras           # also timeline + map places
-//   node scripts/factcheck/factcheck.mjs refresh [countries...] [--fresh 2] [--summary pr.md]
+//   node scripts/factcheck/factcheck.mjs refresh [countries...] [--fresh 2] [--topic society] [--summary pr.md]
 //   add --dry-run to either to see how many Claude Code sessions it would start.
 //
 // check   - one session per country/subject (25 items); writes <out>.md (flagged items)
 //           and <out>.json (every verdict). Exit 1 if anything is flagged at --fail-on
 //           confidence or above, 3 if a session failed.
-// refresh - per country, a writer session rewrites outdated Current Affairs questions and
-//           proposes up to --fresh new ones; proposals are screened (schema, same difficulty,
+// refresh - per country and dated subject (Current Affairs, Society & Economy; --topic picks
+//           one), a writer session rewrites outdated questions and proposes up to --fresh new ones; proposals are screened (schema, same difficulty,
 //           no duplicates) and then checked by a separate session. Only "ok" changes are
 //           written to src/data/questions/. Used by .github/workflows/current-affairs.yml.
 import { writeFileSync } from 'node:fs';
 import { checkItems, MODEL, runClaudeTask } from './claude.mjs';
 import { countryIds, loadBank, loadExtras, questionItem, today, TOPICS, writeBank } from './lib.mjs';
-import { applyVerified, CHANGES_SCHEMA, renderRefreshSummary, screenProposals, WRITER_SYSTEM, writerPrompt } from './refresh-core.mjs';
+import { applyVerified, CHANGES_SCHEMA, REFRESH_TOPICS, renderRefreshSummary, screenProposals, WRITER_SYSTEM, writerPrompt } from './refresh-core.mjs';
 
 const [command, ...args] = process.argv.slice(2);
 const OPTS = ['--topic', '--out', '--fail-on', '--concurrency', '--fresh', '--summary', '--result'];
@@ -123,13 +123,16 @@ function renderCheck(rows) {
 async function refresh() {
   const fresh = Number(opt('--fresh', 2));
   if (!Number.isInteger(fresh) || fresh < 0 || fresh > 5) fail('--fresh must be a whole number from 0 to 5');
-  console.error(`${countries.length} countries × (1 writer + 1 fact-check session), up to ${fresh} fresh questions each, ${MODEL}, on your Claude subscription`);
+  const topics = opt('--topic') ? [opt('--topic')] : Object.keys(REFRESH_TOPICS);
+  if (topics.some((t) => !REFRESH_TOPICS[t])) fail(`--topic must be one of ${Object.keys(REFRESH_TOPICS).join(', ')}`);
+  const labels = topics.map((t) => REFRESH_TOPICS[t].label).join(' and ');
+  console.error(`${countries.length} countries × ${topics.length} subject(s) (${labels}) × (1 writer + 1 fact-check session), up to ${fresh} fresh questions each, ${MODEL}, on your Claude subscription`);
   if (flag('--dry-run')) return;
 
   const report = [];
   await pool(countries, async (country) => {
     try {
-      report.push(await refreshCountry(country, fresh));
+      report.push(await refreshCountry(country, fresh, topics));
     } catch (e) {
       console.error(`  ${country}: FAILED (${e.failure_class ?? 'error'}): ${e.message}`);
       report.push({ country, error: e.message, applied: [], rejected: [] });
@@ -142,40 +145,45 @@ async function refresh() {
   const changed = report.reduce((n, r) => n + r.applied.length, 0);
   console.error(`\n${changed} question(s) changed across ${report.filter((r) => r.applied.length).length} countries`);
   if (opt('--summary'))
-    writeFileSync(opt('--summary'), renderRefreshSummary(report, `Automated Current Affairs refresh for ${today()}, written and checked by Claude Code (\`${MODEL}\`) on a Claude subscription.`));
+    writeFileSync(opt('--summary'), renderRefreshSummary(report, `Automated ${labels} refresh for ${today()}, written and checked by Claude Code (\`${MODEL}\`) on a Claude subscription.`));
   if (opt('--result')) writeFileSync(opt('--result'), JSON.stringify(report.map(({ bank, ...r }) => r), null, 2) + '\n');
   if (report.every((r) => r.error)) process.exit(1);
 }
 
-async function refreshCountry(country, fresh) {
+async function refreshCountry(country, fresh, topics) {
   const bank = loadBank(country);
-  const qs = bank.topics['current-affairs'];
-  const task = `# Current Affairs refresh
+  const applied = [];
+  const rejected = [];
+  // Subjects run one after another so the duplicate check sees what the first one added.
+  for (const topic of topics) {
+    const qs = bank.topics[topic];
+    const task = `# ${REFRESH_TOPICS[topic].label} refresh
 
 ${WRITER_SYSTEM}
 
-${writerPrompt(country, qs, { fresh, today: today() })}
+${writerPrompt(country, qs, { fresh, today: today(), topic })}
 
 Your result is one JSON object matching this JSON Schema (no comments, no other text):
 
 \`\`\`json
 ${JSON.stringify(CHANGES_SCHEMA, null, 2)}
 \`\`\``;
-  const writer = await runClaudeTask(`write-${stamp}-${country}`, task);
-  const changes = Array.isArray(writer.output?.changes) ? writer.output.changes : [];
-  const { candidates, rejected } = screenProposals(qs, changes, { fresh, bankTexts: Object.values(bank.topics).flat().map((q) => q.q) });
+    const writer = await runClaudeTask(`write-${stamp}-${country}-${topic}`, task);
+    const changes = Array.isArray(writer.output?.changes) ? writer.output.changes : [];
+    const screened = screenProposals(qs, changes, { fresh, bankTexts: Object.values(bank.topics).flat().map((q) => q.q) });
+    rejected.push(...screened.rejected.map((x) => ({ ...x, topic })));
 
-  const applied = [];
-  if (candidates.length) {
-    // A separate session that never saw the writer's searches or reasoning.
-    const check = await checkItems(
-      `verify-${stamp}-${country}`,
-      candidates.map((ch) => questionItem(ch.question, `new#${ch.index}`)),
-      { country, topic: 'current-affairs (newly written)' },
-    );
-    const result = applyVerified(qs, candidates, check.verdicts);
-    applied.push(...result.applied);
-    rejected.push(...result.rejected);
+    if (screened.candidates.length) {
+      // A separate session that never saw the writer's searches or reasoning.
+      const check = await checkItems(
+        `verify-${stamp}-${country}-${topic}`,
+        screened.candidates.map((ch) => questionItem(ch.question, `new#${ch.index}`)),
+        { country, topic: `${topic} (newly written)` },
+      );
+      const result = applyVerified(qs, screened.candidates, check.verdicts);
+      applied.push(...result.applied.map((x) => ({ ...x, topic })));
+      rejected.push(...result.rejected.map((x) => ({ ...x, topic })));
+    }
   }
   console.error(`  ${country}: ${applied.length} applied, ${rejected.length} rejected`);
   return { country, bank, applied, rejected };

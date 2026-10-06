@@ -1536,6 +1536,333 @@
         "asOf": "2024"
       }
     ],
+    "society": [
+      {
+        "q": "Which anti-poverty benefit, a flagship policy of the Five Star Movement, was introduced in Italy in 2019?",
+        "choices": [
+          "Reddito di cittadinanza",
+          "Bonus bebè",
+          "Assegno sociale",
+          "Cassa integrazione"
+        ],
+        "answer": 0,
+        "fact": "The 'citizens' income' reached more than a million households at its peak; it was scrapped at the end of 2023 and replaced by a narrower scheme.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Italy's 'Superbonus', launched in 2020, offered homeowners a tax credit worth what percentage of the cost of energy-saving renovations?",
+        "choices": [
+          "50%",
+          "80%",
+          "110%",
+          "150%"
+        ],
+        "answer": 2,
+        "fact": "The scheme proved far more popular and costly than planned, with a bill to the state of well over €100 billion, and was wound down from 2023.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Italy is one of only a handful of EU countries that, as of 2025, has never had what?",
+        "choices": [
+          "A statutory national minimum wage",
+          "A state pension",
+          "Income tax",
+          "A central bank"
+        ],
+        "answer": 0,
+        "fact": "Most Italian pay is set by sector-wide collective agreements; a 2023 opposition proposal for a €9-an-hour minimum wage was rejected by parliament.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In April 2024 which Italian city became the first in the world to charge day-trippers an entry fee on busy days?",
+        "choices": [
+          "Florence",
+          "Rome",
+          "Naples",
+          "Venice"
+        ],
+        "answer": 3,
+        "fact": "The €5 charge applied on 29 peak days in 2024 and was extended to 54 days in 2025, with €10 for visitors who booked late.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "What is the standard state retirement age in Italy, in force since 2019?",
+        "choices": [
+          "62",
+          "65",
+          "70",
+          "67"
+        ],
+        "answer": 3,
+        "fact": "Italy spends about 16% of GDP on pensions, one of the highest shares in the OECD; the age is nominally indexed to life expectancy, though that link was frozen until 2026.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "In October 2021 Italy became the first major European economy to require all workers to show what in order to enter their workplace?",
+        "choices": [
+          "A COVID-19 'green pass'",
+          "A digital identity card",
+          "A tax code",
+          "A negative flu test"
+        ],
+        "answer": 0,
+        "fact": "The pass showed vaccination, recovery or a recent negative test; workers without one faced suspension without pay.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2022 the number of births in Italy fell below what level for the first time since the country's unification?",
+        "choices": [
+          "200,000",
+          "400,000",
+          "600,000",
+          "800,000"
+        ],
+        "answer": 1,
+        "fact": "About 393,000 babies were born in 2022, against over a million a year in the 1960s; the total fertility rate stood at around 1.2 children per woman.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Italy was the largest single beneficiary of which EU programme, agreed in 2020 to help economies recover from the pandemic?",
+        "choices": [
+          "Erasmus+",
+          "NextGenerationEU",
+          "Horizon Europe",
+          "The Schengen Fund"
+        ],
+        "answer": 1,
+        "fact": "Italy's national recovery plan (PNRR) was worth about €194 billion in grants and loans, to be spent on projects such as high-speed rail and digitalisation by 2026.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In autumn 2022 Italy's annual inflation rate peaked at roughly what level, the highest since the mid-1980s?",
+        "choices": [
+          "4%",
+          "8%",
+          "12%",
+          "20%"
+        ],
+        "answer": 2,
+        "fact": "ISTAT recorded 11.8% in October 2022, driven by energy bills; inflation then fell back below 1% by early 2024.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "From January 2024 Italy's citizens' income was replaced by which benefit, limited mainly to households with children, over-60s or disabled members?",
+        "choices": [
+          "Reddito di base",
+          "Bonus famiglia",
+          "Carta Acquisti",
+          "Assegno di inclusione"
+        ],
+        "answer": 3,
+        "fact": "People judged able to work were instead offered a smaller training allowance; the change cut the number of recipient households by hundreds of thousands.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which country became Italy's largest supplier of natural gas in 2022, as Italy raced to replace Russian imports?",
+        "choices": [
+          "Norway",
+          "Algeria",
+          "Qatar",
+          "Azerbaijan"
+        ],
+        "answer": 1,
+        "fact": "Russia had supplied about 40% of Italy's gas before the invasion of Ukraine; Italy also signed deals with Qatar, Azerbaijan and Egypt and opened new floating LNG terminals.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2023 the unemployment rate among Italians aged 15 to 24 was roughly what?",
+        "choices": [
+          "8%",
+          "22%",
+          "36%",
+          "50%"
+        ],
+        "answer": 1,
+        "fact": "Youth unemployment had exceeded 40% in 2014; the 2023 figure of about 22% was the lowest in over a decade, though still well above the EU average.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which world's-oldest bank, rescued by the Italian state in 2017, saw the Treasury begin selling down its stake in 2023?",
+        "choices": [
+          "UniCredit",
+          "Intesa Sanpaolo",
+          "Banco BPM",
+          "Monte dei Paschi di Siena"
+        ],
+        "answer": 3,
+        "fact": "Founded in 1472, the bank cost taxpayers more than €5 billion to rescue; by 2024 the state's holding had fallen to around 12%.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "According to the Interior Ministry, about how many migrants arrived in Italy by sea in 2023?",
+        "choices": [
+          "40,000",
+          "80,000",
+          "160,000",
+          "400,000"
+        ],
+        "answer": 2,
+        "fact": "The 2023 total of around 157,000 was the highest since 2016; arrivals fell by more than half in 2024.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2024 roughly what share of Italy's population was aged 65 or over, among the highest proportions in the world?",
+        "choices": [
+          "10%",
+          "17%",
+          "24%",
+          "33%"
+        ],
+        "answer": 2,
+        "fact": "Italy's median age was about 47, and ISTAT projected that over-65s would make up more than a third of the population by 2050.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023 which EU country had the lowest employment rate for women?",
+        "choices": [
+          "Italy",
+          "Spain",
+          "Greece",
+          "Poland"
+        ],
+        "answer": 0,
+        "fact": "Only around 56% of Italian women aged 20 to 64 were in work, compared with an EU average of about 70%; Italy's overall employment rate was also the lowest in the EU.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2024 Italy's public debt stood at roughly what share of GDP?",
+        "choices": [
+          "60%",
+          "100%",
+          "135%",
+          "200%"
+        ],
+        "answer": 2,
+        "fact": "Only Greece had a higher ratio in the EU; the debt topped €3 trillion for the first time in 2024.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which single monthly payment for families with children, replacing a patchwork of older bonuses and deductions, did Italy introduce in March 2022?",
+        "choices": [
+          "Bonus mamma",
+          "Assegno unico universale",
+          "Reddito familiare",
+          "Carta Giovani"
+        ],
+        "answer": 1,
+        "fact": "The 'universal single allowance' is paid for each child up to the age of 21, with amounts varying by household income.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Italy's 'Quota 100' early-retirement scheme, in force from 2019 to 2021, allowed people to retire at 62 provided they had paid contributions for how many years?",
+        "choices": [
+          "30",
+          "35",
+          "38",
+          "42"
+        ],
+        "answer": 2,
+        "fact": "The name came from the two numbers adding up to 100; it was followed by 'Quota 102' in 2022 and 'Quota 103' (62 plus 41 years) in 2023.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "In 2024 Italy doubled its annual flat tax on foreign income for wealthy new residents from €100,000 to what?",
+        "choices": [
+          "€150,000",
+          "€200,000",
+          "€300,000",
+          "€500,000"
+        ],
+        "answer": 1,
+        "fact": "The regime, introduced in 2017, had attracted several thousand wealthy foreigners, especially to Milan, prompting complaints about rising housing costs.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023 Italy raised the turnover ceiling for its 15% flat-tax 'regime forfettario' for the self-employed from €65,000 to what?",
+        "choices": [
+          "€75,000",
+          "€85,000",
+          "€100,000",
+          "€120,000"
+        ],
+        "answer": 1,
+        "fact": "Around two million freelancers and small traders use the simplified regime, which charges 5% for the first five years of a new business.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023 which major Italian bank became one of the first large employers in the country to offer staff a voluntary four-day working week?",
+        "choices": [
+          "UniCredit",
+          "Mediobanca",
+          "BPER Banca",
+          "Intesa Sanpaolo"
+        ],
+        "answer": 3,
+        "fact": "Staff could work four nine-hour days for the same pay, and the bank also expanded its remote-working arrangements.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "ISTAT estimated that Italy's 'unobserved' or shadow economy was worth roughly what share of GDP in 2022?",
+        "choices": [
+          "2%",
+          "10%",
+          "25%",
+          "40%"
+        ],
+        "answer": 1,
+        "fact": "The estimate of around €200 billion covers undeclared work and tax evasion as well as illegal activities; undeclared workers numbered close to three million.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "What name was given to the government-backed anti-inflation scheme of late 2023, in which Italian retailers agreed to discount a basket of everyday goods?",
+        "choices": [
+          "Carrello tricolore",
+          "Spesa sicura",
+          "Bonus spesa",
+          "Prezzo amico"
+        ],
+        "answer": 0,
+        "fact": "The 'tricolour trolley' ran from October to December 2023; participating shops marked discounted goods with an Italian-flag sticker.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "From January 2023 Italy raised its legal limit on cash payments to what amount, instead of letting it fall to €1,000 as previously planned?",
+        "choices": [
+          "€2,000",
+          "€3,000",
+          "€5,000",
+          "€10,000"
+        ],
+        "answer": 2,
+        "fact": "Italy has long tried to restrict cash to fight tax evasion; the limit had been cut to €2,000 in 2022 before the new government reversed course.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
     "general": [
       {
         "q": "Which Italian city is built on more than 100 small islands in a lagoon?",

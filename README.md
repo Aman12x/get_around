@@ -1,6 +1,6 @@
 # 🌍 Get Around
 
-**A journey through the history of the world.** Pick a route, fly to a nation, choose a subject (History, Technology, Art & Culture, Politics, Current Affairs or General Knowledge), and score **90%** to earn that nation's passport stamp and unlock your next flight.
+**A journey through the history of the world.** Pick a route, fly to a nation, choose a subject (History, Technology, Art & Culture, Politics, Current Affairs, Society & Economy or General Knowledge), and score **90%** to earn that nation's passport stamp and unlock your next flight.
 
 The UI is the main draw. A stylised 3D globe shows animated flight paths and a plane that flies each leg. Each of the 26 nations is a floating low-poly island with its own landmark, from the Pyramids, the Parthenon and the Taj Mahal to Petra, Lalibela, a Norwegian stave church and the Sydney Opera House.
 
@@ -33,7 +33,7 @@ The app deploys as one Railway service (Fastify serves the game and `/api`) plus
    - **Spot the landmark**: pick the country's island out of four.
 
    You may miss **one**; the 🎟️ counter shows how many misses you have left. A postcard fact appears after every answer.
-6. **Stamp.** Score 9/10 or better to earn a **bronze, silver or gold** stamp, depending on the level, and unlock the next flight. With 26 countries × 6 subjects, the **passport** (🛂) holds 156 stamps, plus 14 achievement badges.
+6. **Stamp.** Score 9/10 or better to earn a **bronze, silver or gold** stamp, depending on the level, and unlock the next flight. With 26 countries × 7 subjects, the **passport** (🛂) holds 182 stamps, plus 14 achievement badges.
 7. **Air miles.** Correct answers, streaks, new stamps, achievements and every flight earn miles (✈). Spend them on lifelines (50:50, *Ask a local*) or in **the Hangar** on plane liveries and passport covers.
 
 Retries favour questions you haven't seen recently. Progress is saved in `localStorage`.
@@ -44,12 +44,12 @@ Retries favour questions you haven't seen recently. Progress is saved in `localS
 | Renaissance & Revolution | 🇮🇹 🇫🇷 🇬🇧 🇺🇸 | Art, Politics, History |
 | The Inventors’ Trail | 🇬🇧 🇺🇸 🇯🇵 🇨🇳 🇮🇳 | Technology, Current Affairs |
 | The Silk Road | 🇨🇳 🇮🇳 🇪🇬 🇬🇷 🇮🇹 | History, General, Art |
-| New World Odyssey | 🇲🇽 🇺🇸 🇧🇷 | General, Art, Current Affairs |
+| New World Odyssey | 🇲🇽 🇺🇸 🇧🇷 | General, Art, Current Affairs, Society |
 | The Grand Tour | the original 11, eastbound | everything |
-| Out of Africa | 🇲🇦 🇳🇬 🇪🇹 🇰🇪 🇿🇦 | History, General, Art |
+| Out of Africa | 🇲🇦 🇳🇬 🇪🇹 🇰🇪 🇿🇦 | History, General, Art, Society |
 | Crossroads of Empires | 🇹🇷 🇯🇴 🇮🇷 🇦🇪 | History, Art, Politics |
 | Northern Lights | 🇩🇰 🇸🇪 🇳🇴 🇮🇸 | Technology, Art, General |
-| Under the Southern Cross | 🇿🇦 🇦🇺 🇳🇿 🇧🇷 | General, Current Affairs, History |
+| Under the Southern Cross | 🇿🇦 🇦🇺 🇳🇿 🇧🇷 | General, Current Affairs, Society, History |
 | Open Skies | any of the 26, any order | your choice |
 
 ## Project layout
@@ -59,8 +59,8 @@ src/                    # the game (Vite + Three.js)
   data/
     countries.ts        # nation metadata: coordinates, colours, sky palette, landmark
     routes.ts           # curated routes + interest-based recommendations
-    topics.ts           # the six subjects
-    questions/*.json    # question banks (11 countries × 6 topics × 10 = 660), loaded per country
+    topics.ts           # the seven subjects
+    questions/*.json    # question banks (26 countries × 7 subjects × 25 = 4,550), loaded per country
   game/
     quiz.ts             # quiz building, shuffling, the 90% rule (unit tested)
     progress.ts         # journeys, unlocks, stamps, save/load (unit tested)
@@ -115,12 +115,12 @@ Locally it uses your `claude` login. GitHub Actions use the repository secret `C
 
 | Command | What it does |
 | --- | --- |
-| `npm run factcheck -- japan` | Checks every Japan question, one session per subject. Add `--extras` to include timelines and map places, or `--topic current-affairs` to check one subject in every country. Writes `factcheck-report.md` (flagged items) and `factcheck-report.json`. |
-| `npm run factcheck:refresh -- kenya` | Runs the Current Affairs refresh locally (normally the GitHub Action below runs it). |
+| `npm run factcheck -- japan` | Checks every Japan question, one session per subject. Add `--extras` to include timelines and map places, or `--topic society` to check one subject in every country. Writes `factcheck-report.md` (flagged items) and `factcheck-report.json`. |
+| `npm run factcheck:refresh -- kenya` | Runs the Current Affairs and Society & Economy refresh locally (normally the GitHub Action below runs it). Add `--topic current-affairs` to refresh one subject only. |
 | `npm run factcheck:eval` | Measures the checker itself (see below). |
 
-**Current Affairs refresh (GitHub Action).** [`current-affairs.yml`](.github/workflows/current-affairs.yml) runs on the 1st and 15th of each month. For each country:
-1. A Claude Code session rewrites questions that are no longer true and proposes up to two new ones about recent news.
+**Current Affairs refresh (GitHub Action).** [`current-affairs.yml`](.github/workflows/current-affairs.yml) runs on the 1st and 15th of each month and keeps the two dated subjects, Current Affairs and Society & Economy, up to date. For each country and subject:
+1. A Claude Code session rewrites questions that are no longer true and proposes up to two new ones: recent news for Current Affairs, and recent social and economic developments (prices, housing, jobs, pensions, population, migration, welfare) for Society & Economy.
 2. The script checks every proposal against the content schema, makes sure it keeps the replaced question's difficulty, rejects duplicates, and requires at least one source URL.
 3. A second, separate session fact-checks what's left. Only changes it passes with high confidence are kept.
 

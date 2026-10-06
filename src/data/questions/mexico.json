@@ -911,6 +911,208 @@
         "asOf": "2026"
       }
     ],
+    "society": [
+      {
+        "q": "In January 2024, by what percentage did Mexico raise its general daily minimum wage?",
+        "choices": ["5%", "10%", "20%", "35%"],
+        "answer": 2,
+        "fact": "The rise took the general minimum to 248.93 pesos a day; the northern border free zone had a higher rate of 374.89 pesos.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Remittances sent to Mexico, mostly from the United States, reached a record of roughly how much in 2023?",
+        "choices": ["US$13 billion", "US$33 billion", "US$43 billion", "US$63 billion"],
+        "answer": 3,
+        "fact": "Banxico counted US$63.3 billion, the tenth straight annual rise; the average transfer was about US$393 and Mexico trailed only India as a recipient.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, Mexico overtook which country as the largest source of goods imported into the United States?",
+        "choices": ["Canada", "China", "Germany", "Japan"],
+        "answer": 1,
+        "fact": "The shift, linked to the 'nearshoring' of factories to Mexico, was the first time in two decades that China was not the top supplier of US imports.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, Mexico lowered the qualifying age for its universal 'Bienestar' old-age pension from 68 to what?",
+        "choices": ["60", "65", "66", "67"],
+        "answer": 1,
+        "fact": "The pension had been written into the constitution in 2020, and the bimonthly amount paid to recipients was raised several times under López Obrador.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Mexico's 2020 census counted roughly how many inhabitants?",
+        "choices": ["96 million", "126 million", "156 million", "186 million"],
+        "answer": 1,
+        "fact": "INEGI counted 126,014,024 people; women made up 51.2% of the population and the median age was 29.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Mexico's annual inflation peaked in 2022 at roughly what rate, the highest in more than two decades?",
+        "choices": ["4%", "9%", "15%", "25%"],
+        "answer": 1,
+        "fact": "Annual inflation touched 8.7% in August and September 2022, prompting Banxico to keep raising interest rates well into 2023.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Mexico's labour law allows a standard working week of up to how many hours, a limit campaigners have sought to cut to 40?",
+        "choices": ["35", "40", "44", "48"],
+        "answer": 3,
+        "fact": "The 48-hour, six-day week dates from the 1917 constitution; in 2025 the government pledged to phase in a 40-hour week by 2030.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "A reform in force from January 2023 raised the minimum paid annual leave for Mexican workers in their first year from six days to how many?",
+        "choices": ["8", "10", "12", "15"],
+        "answer": 2,
+        "fact": "The 'vacaciones dignas' reform was the first increase in minimum leave since 1970; Mexico had previously had one of the lowest entitlements in the OECD.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "What nickname did the press give the Mexican peso during its strong run against the US dollar in 2023?",
+        "choices": ["Peso fuerte", "Super peso", "Peso de oro", "Peso dorado"],
+        "answer": 1,
+        "fact": "The peso strengthened to below 17 per dollar in 2023, its best level in around eight years, helped by high interest rates and record remittances.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "According to CONEVAL, Mexico's poverty rate fell from 43.9% in 2020 to roughly what in 2022?",
+        "choices": ["21%", "29%", "41%", "36%"],
+        "answer": 3,
+        "fact": "The 2022 figure of 36.3% meant about 8.9 million fewer people in poverty, although the share of people lacking access to health services rose sharply.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Jóvenes Construyendo el Futuro, launched in 2019, pays a monthly stipend to Mexicans aged 18 to 29 to do what?",
+        "choices": ["Train as apprentices in businesses", "Study at university abroad", "Serve in the National Guard", "Plant trees on farmland"],
+        "answer": 0,
+        "fact": "Apprentices receive a stipend pegged to the minimum wage plus health insurance for up to 12 months; it became a flagship social programme of the 2018-2024 government.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Which fund did Mexico create in 2024 to top up workers' retirement pensions towards their final salary?",
+        "choices": ["Fondo de Pensiones para el Bienestar", "Afore Nacional", "Fondo Solidario de Retiro", "Pensión Universal Garantizada"],
+        "answer": 0,
+        "fact": "It tops up pensions of workers who began contributing after 1997 to their last salary, capped at the average IMSS wage, financed partly from long-inactive accounts.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In April 2021, Mexico passed a reform largely banning which employment practice?",
+        "choices": ["Outsourcing of personnel", "Zero-hours contracts", "Unpaid internships", "Fixed-term contracts"],
+        "answer": 0,
+        "fact": "Companies were given months to move subcontracted staff onto their own payrolls, and millions of workers were transferred to direct employment during 2021.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "A January 2021 reform to Mexico's labour law obliged employers to cover which costs for staff working from home?",
+        "choices": ["Internet and part of the electricity bill", "Childcare", "A daily meal allowance", "Commuting"],
+        "answer": 0,
+        "fact": "The teleworking rules apply to staff who work more than 40% of their time at home; the employer must also supply equipment such as a computer and chair.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2022, which northern Mexican city, home to much heavy industry, suffered months of water rationing after its reservoirs ran low?",
+        "choices": ["Guadalajara", "Monterrey", "Tijuana", "Puebla"],
+        "answer": 1,
+        "fact": "Households in the Monterrey area had supply limited to a few hours a day; the crisis sped up construction of the El Cuchillo II aqueduct.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "How much did a single ride on the Mexico City Metro cost in 2024, a fare unchanged since 2013?",
+        "choices": ["2 pesos", "5 pesos", "10 pesos", "15 pesos"],
+        "answer": 1,
+        "fact": "The flat fare makes the Metro one of the cheapest big-city systems in the world; the network carries several million passengers on a typical weekday.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In July 2025, protests in the Roma and Condesa neighbourhoods of Mexico City were held against what?",
+        "choices": ["Gentrification and rising rents", "A new Metro line", "Parking charges", "A tourist tax"],
+        "answer": 0,
+        "fact": "Residents blamed short-term lets and an influx of remote workers for rent rises; the city government then announced a plan to curb rent increases.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Roughly what share of Mexico's workers were in informal employment, according to INEGI, in 2023?",
+        "choices": ["25%", "40%", "55%", "70%"],
+        "answer": 2,
+        "fact": "Around 32 million people worked without social security coverage; the rate has hovered near 55% for years despite record formal job creation.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In March 2023, Banxico raised its benchmark interest rate to a record high of what?",
+        "choices": ["8.25%", "9.75%", "10.50%", "11.25%"],
+        "answer": 3,
+        "fact": "The rate was held at 11.25% for a year before the first cut in March 2024, as inflation eased back towards the 3% target.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Mexico's refugee agency COMAR received a record number of asylum applications in 2023: roughly how many?",
+        "choices": ["40,000", "90,000", "140,000", "240,000"],
+        "answer": 2,
+        "fact": "Haitians and Hondurans filed the most of the 140,982 applications, many of them lodged in Tapachula, Chiapas, near the Guatemalan border.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "INEGI registered roughly how many births in Mexico in 2023?",
+        "choices": ["0.9 million", "1.8 million", "2.7 million", "3.6 million"],
+        "answer": 1,
+        "fact": "The 1.82 million births were 3.7% fewer than in 2022; Chiapas had the highest birth rate of any state.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Pemex, the state oil company, carried financial debt of roughly how much in 2023, making it the world's most indebted oil company?",
+        "choices": ["US$10 billion", "US$50 billion", "US$100 billion", "US$250 billion"],
+        "answer": 2,
+        "fact": "The federal government repeatedly injected capital and cut Pemex's tax burden to help it meet repayments; its credit rating sat in junk territory.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Mexico's 2020 pension reform cut the weeks of contributions needed for a retirement pension from 1,250 to how many?",
+        "choices": ["500", "750", "1,000", "1,100"],
+        "answer": 1,
+        "fact": "The 750-week requirement rises gradually to 1,000 by 2031, while employer contributions climb in stages over the same period.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "What was Mexico's general daily minimum wage set at for 2025, after a 12% rise?",
+        "choices": ["178.80 pesos", "228.80 pesos", "328.80 pesos", "278.80 pesos"],
+        "answer": 3,
+        "fact": "The 2025 increase was the first under President Sheinbaum, who set a goal for the minimum wage to buy 2.5 basic food baskets by 2030.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2022, Mexico held down petrol prices during the global energy spike mainly by waiving which tax?",
+        "choices": ["IEPS excise duty", "VAT (IVA)", "Income tax (ISR)", "Import tariffs"],
+        "answer": 0,
+        "fact": "The Treasury gave up a large chunk of IEPS fuel revenue in 2022, a subsidy the government argued cost less than letting inflation run higher.",
+        "difficulty": 3,
+        "asOf": "2022"
+      }
+    ],
     "general": [
       {
         "q": "What is the capital of Mexico?",

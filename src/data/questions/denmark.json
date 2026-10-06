@@ -911,6 +911,208 @@
         "asOf": "2022"
       }
     ],
+    "society": [
+      {
+        "q": "In May 2025, Denmark's parliament voted to raise the state pension age by 2040 to what, the highest in Europe?",
+        "choices": ["68", "69", "70", "72"],
+        "answer": 2,
+        "fact": "Since a 2006 agreement the pension age has been linked to life expectancy; it stands at 67 and rises to 68 in 2030 and 69 in 2035 before reaching 70.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Danish inflation peaked in October 2022 at roughly what annual rate, the highest in 40 years?",
+        "choices": ["3%", "6%", "10%", "15%"],
+        "answer": 2,
+        "fact": "Energy and food drove the surge; by 2023 inflation had dropped back sharply and Danish wages began to catch up in real terms.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "The Danish krone has for decades been kept at a near-fixed exchange rate against which currency?",
+        "choices": ["The euro", "The US dollar", "The Swedish krona", "The pound sterling"],
+        "answer": 0,
+        "fact": "Denmark rejected the euro in 2000 but keeps the krone pegged at about 7.46 to the euro within the EU's ERM II mechanism, so Danish interest rates track the ECB's.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In August 2019, Denmark's Jyske Bank made world headlines by offering a ten-year mortgage with what?",
+        "choices": ["No repayments for a decade", "A negative interest rate", "Payment in Bitcoin", "A 100-year term"],
+        "answer": 1,
+        "fact": "The rate was minus 0.5% a year, meaning borrowers repaid slightly less than they borrowed, a side effect of Denmark's years of negative central bank rates.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Denmark's 2020 Climate Act commits the country to cutting greenhouse gas emissions by 2030 by what share compared with 1990?",
+        "choices": ["40%", "55%", "70%", "100%"],
+        "answer": 2,
+        "fact": "The law passed with support from almost every party in the Folketing; it also sets a target of climate neutrality by 2050.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "The standard full-time working week in Denmark, set by collective agreements, is how many hours?",
+        "choices": ["35", "37", "40", "42"],
+        "answer": 1,
+        "fact": "Danes also enjoy at least five weeks of paid holiday a year, and most leave the office by mid-afternoon on Fridays.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "What is 'SU' in Denmark?",
+        "choices": ["A youth unemployment benefit", "A public health insurance card", "A pension savings scheme", "A monthly state grant paid to students"],
+        "answer": 3,
+        "fact": "Statens Uddannelsesstøtte pays students over 18 a monthly sum for up to six years of study, and tuition at Danish universities is free for EU citizens.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2024, Denmark became the first country to agree a tax on emissions from what?",
+        "choices": ["Livestock such as cows and pigs", "Domestic flights", "Cruise ships", "Wood-burning stoves"],
+        "answer": 0,
+        "fact": "The 'green tripartite' deal taxes methane from farm animals from 2030, starting at 300 kroner per tonne of CO2 equivalent, with a 60% rebate for farmers.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "How are wage floors set in Denmark?",
+        "choices": ["By a national minimum wage law", "By the EU", "By collective agreements between unions and employers", "By each city council"],
+        "answer": 2,
+        "fact": "Denmark has no statutory minimum wage and, with Sweden, opposed the EU's 2022 minimum wage directive to protect its bargaining model.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2022, Denmark's state pension age rose by half a year to what?",
+        "choices": ["65", "66", "67", "68"],
+        "answer": 2,
+        "fact": "It had been 65 as recently as 2018; the stepwise rises are tied to a 2006 cross-party welfare agreement.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Denmark's economic growth in 2023 was driven almost entirely by which industry?",
+        "choices": ["Shipping", "Pharmaceuticals", "Wind turbines", "Tourism"],
+        "answer": 1,
+        "fact": "Statistics Denmark noted that without the pharmaceutical sector, dominated by the maker of Ozempic and Wegovy, the economy would barely have grown.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2022, Danish unemployment fell to its lowest level since 2008, at roughly what?",
+        "choices": ["About 7%", "About 12%", "About 18%", "Under 3%"],
+        "answer": 3,
+        "fact": "Employers complained of labour shortages, and the government eased rules on recruiting workers from outside the EU.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In September 2022, Danmarks Nationalbank raised its key interest rate above zero for the first time since which year?",
+        "choices": ["2008", "2012", "2014", "2019"],
+        "answer": 2,
+        "fact": "Denmark first cut its deposit rate below zero in 2012 and, apart from a few months in 2014, kept it negative until 2022, the world's longest spell, to defend the krone's peg to the euro.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which circular Copenhagen Metro line, with 17 new stations, opened in September 2019?",
+        "choices": ["M1", "M2", "M3 Cityringen", "M4 Nordhavn"],
+        "answer": 2,
+        "fact": "The driverless loop links the main station with Frederiksberg, Nørrebro and Østerbro; the M4 branch to Nordhavn followed in 2020.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In 2021, Denmark's parliament removed which word from its laws on disadvantaged housing areas?",
+        "choices": ["Slum", "Suburb", "Estate", "Ghetto"],
+        "answer": 3,
+        "fact": "The areas are now called 'parallel societies' in law; the policy still requires some estates to reduce their share of social housing.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Danish unemployment benefits, 'dagpenge', are paid through voluntary insurance funds known as what?",
+        "choices": ["A-kasser", "Kommuner", "Fagforeninger", "Pensionskasser"],
+        "answer": 0,
+        "fact": "Membership is optional, and those who do not join must rely on the lower, means-tested 'kontanthjælp'; benefits normally run for up to two years.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "From August 2022, Danish law earmarked how many weeks of parental leave for each parent that cannot be transferred?",
+        "choices": ["11", "4", "20", "26"],
+        "answer": 0,
+        "fact": "The change implemented an EU directive and aimed to get fathers to take more leave; parents share 48 weeks of paid leave in total.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In autumn 2022, Denmark capped annual rent increases for certain leases at what rate for two years?",
+        "choices": ["2%", "4%", "8%", "10%"],
+        "answer": 1,
+        "fact": "The cap applied to leases whose rent is indexed to inflation, protecting tenants after inflation jumped to around 10%.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Denmark's early retirement scheme for people with long working lives, which opened for applications in 2021, is nicknamed after whom?",
+        "choices": ["Karen, a nurse", "Jens, a fisherman", "Mette, the prime minister", "Arne, a brewery worker"],
+        "answer": 3,
+        "fact": "The 'Arne pension' lets those who entered the labour market early retire up to three years before the state pension age; Arne Juhl featured in the 2019 election campaign.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2022, Denmark paid a one-off 'heat cheque' to households hit by soaring gas and district heating prices. How much was it?",
+        "choices": ["6,000 kroner", "1,000 kroner", "15,000 kroner", "30,000 kroner"],
+        "answer": 0,
+        "fact": "The tax-free 'varmecheck' went automatically to about 400,000 lower-income households heated by gas or gas-based district heating.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In summer 2021, Denmark's parliament passed a law to end a ten-week strike by which group of workers?",
+        "choices": ["Train drivers", "Teachers", "Dockers", "Nurses"],
+        "answer": 3,
+        "fact": "The nurses had twice rejected pay deals; the government imposed the rejected agreement by law in August 2021.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "Denmark's December 2023 tax deal introduced a new 'top-top tax' from 2026 on annual incomes above roughly what?",
+        "choices": ["1 million kroner", "2.5 million kroner", "5 million kroner", "10 million kroner"],
+        "answer": 1,
+        "fact": "The 5% extra bracket affects only a few thousand earners; the same deal cut tax for middle earners and raised the employment deduction.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "On 1 January 2024, Denmark introduced its first new system for which tax in two decades, based on fresh property valuations?",
+        "choices": ["Housing tax", "Inheritance tax", "Car registration tax", "Church tax"],
+        "answer": 0,
+        "fact": "Valuations had been frozen since 2011 after errors; the new rules cut tax for most owners, with any rises for existing owners deferred until the home is sold.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Denmark's new Holiday Act, in force from September 2020, changed what for employees?",
+        "choices": ["A sixth week of holiday became law", "Holiday pay was abolished", "All holiday must be taken in July", "Holiday can be taken in the same year it is earned"],
+        "answer": 3,
+        "fact": "Under the old system holiday earned in one calendar year could only be taken from the following May; the change brought Denmark in line with EU rules.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "In December 2022, Danske Bank agreed to pay about 2 billion US dollars over money-laundering failures at its branch in which country?",
+        "choices": ["Latvia", "Estonia", "Russia", "Cyprus"],
+        "answer": 1,
+        "fact": "Around 200 billion euros of suspicious transactions passed through the Tallinn branch from 2007 to 2015, making it one of Europe's largest laundering scandals.",
+        "difficulty": 3,
+        "asOf": "2022"
+      }
+    ],
     "general": [
       {
         "q": "What is the capital of Denmark?",

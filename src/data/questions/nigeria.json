@@ -911,6 +911,208 @@
         "asOf": "2025"
       }
     ],
+    "society": [
+      {
+        "q": "On his inauguration day in May 2023, Nigeria's President Tinubu announced the end of a subsidy on what?",
+        "choices": ["Electricity", "Petrol", "Fertiliser", "Bread"],
+        "answer": 1,
+        "fact": "The words 'subsidy is gone' in the speech sent pump prices up roughly threefold within days and set off a wider cost-of-living squeeze.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In June 2023, Nigeria's central bank let the naira float by unifying its exchange rates. What happened to the currency?",
+        "choices": ["It rose sharply", "It was pegged to the euro", "It was replaced", "It fell sharply"],
+        "answer": 3,
+        "fact": "The naira lost more than half its value against the dollar within a year, pushing up the price of imported goods for ordinary households.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In June 2024, Nigeria's annual inflation rate reached roughly what level, its highest in almost three decades?",
+        "choices": ["8%", "16%", "34%", "60%"],
+        "answer": 2,
+        "fact": "The NBS put headline inflation at 34.2%, with food inflation above 40%; the index was later rebased in January 2025.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In July 2024, Nigeria's monthly minimum wage was raised from ₦30,000 to what?",
+        "choices": ["₦70,000", "₦40,000", "₦50,000", "₦100,000"],
+        "answer": 0,
+        "fact": "Unions had demanded far more; the new law also shortened the review cycle from five years to three.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "'Japa', a Yoruba word meaning to flee, became Nigerian slang in the 2020s for what?",
+        "choices": ["Dodging traffic", "Avoiding taxes", "Skipping work", "Emigrating abroad"],
+        "answer": 3,
+        "fact": "Doctors, nurses and tech workers led the wave; the UK, Canada and the US were the most popular destinations.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "United Nations estimates in 2023 put Nigeria's population at roughly how many people?",
+        "choices": ["About 90 million", "About 150 million", "About 220 million", "About 400 million"],
+        "answer": 2,
+        "fact": "The UN projects Nigeria will overtake the United States to become the world's third most populous country by around 2050.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2020, Nigeria fell into its second recession in five years, driven by the pandemic and a slump in the price of what?",
+        "choices": ["Cocoa", "Crude oil", "Gold", "Natural gas"],
+        "answer": 1,
+        "fact": "The economy shrank in two consecutive quarters before returning to growth in the final quarter of 2020.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "After the May 2023 subsidy removal, Nigeria's official petrol price rose overnight from under ₦200 per litre to roughly what?",
+        "choices": ["₦250", "₦350", "₦540", "₦900"],
+        "answer": 2,
+        "fact": "Prices kept climbing as the naira weakened, passing ₦1,000 per litre at many stations by late 2024.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "After Nigeria lost its title as Africa's largest economy in 2024, where did the IMF rank it on the continent?",
+        "choices": ["Second", "Third", "Fourth", "Sixth"],
+        "answer": 2,
+        "fact": "Measured in dollars, naira devaluation shrank Nigeria's GDP to about $253bn, behind South Africa, Egypt and Algeria.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "By early 2024, roughly how many naira did one US dollar cost at Nigeria's official rate?",
+        "choices": ["About 450", "About 800", "About 3,000", "About 1,500"],
+        "answer": 3,
+        "fact": "Before the June 2023 float the official rate had been held near ₦460 to the dollar.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Nigeria's late 2022 decision to redesign three banknotes led to what in early 2023?",
+        "choices": ["A nationwide cash shortage", "A ban on mobile money", "A new ₦5,000 note", "A switch to the CFA franc"],
+        "answer": 0,
+        "fact": "Queues formed at ATMs and the Supreme Court extended the life of the old ₦200, ₦500 and ₦1,000 notes.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2019, Nigeria raised its national monthly minimum wage from ₦18,000 to what?",
+        "choices": ["₦22,000", "₦30,000", "₦45,000", "₦60,000"],
+        "answer": 1,
+        "fact": "The Act came after years of union pressure; the level went unchanged for five years despite high inflation.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "From January 2024, which country stopped most international students bringing dependants, sharply cutting applications from Nigeria?",
+        "choices": ["Canada", "Australia", "Germany", "The United Kingdom"],
+        "answer": 3,
+        "fact": "Nigerians had been among the largest groups of student dependants, so the change hit Nigerian applicants especially hard.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In which year did Nigeria last complete a national population census?",
+        "choices": ["1991", "2006", "2016", "2023"],
+        "answer": 1,
+        "fact": "A census planned for 2023 was postponed, so population figures still rely on projections.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "For roughly how long were Nigeria's public universities closed by the ASUU lecturers' strike of 2022?",
+        "choices": ["Two weeks", "Two months", "Eight months", "Two years"],
+        "answer": 2,
+        "fact": "The strike ran from February to October 2022 over pay and funding, and courts eventually ordered lecturers back.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Nationwide protests in Nigeria in August 2024 were held under which banner?",
+        "choices": ["#EndSARS", "#OccupyNigeria", "#BringBackOurGirls", "#EndBadGovernance"],
+        "answer": 3,
+        "fact": "The ten days of protests focused on hunger and the cost of living after subsidy removal and the naira's fall.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In February 2020, Nigeria raised its value added tax rate from 5% to what?",
+        "choices": ["6%", "7.5%", "10%", "15%"],
+        "answer": 1,
+        "fact": "The rise took effect on 1 February 2020 under the Finance Act; to soften it, staples such as bread, cereals, fish, flour, fruit and vegetables were made VAT-exempt.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "Construction began in 2024 on a coastal highway from Lagos to which city, roughly 700 km away?",
+        "choices": ["Port Harcourt", "Calabar", "Benin City", "Warri"],
+        "answer": 1,
+        "fact": "Demolitions along the Lagos shoreline made the Lagos-Calabar project one of the country's most debated public works.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In April 2024, Nigeria's regulator roughly tripled electricity tariffs for which group of customers?",
+        "choices": ["Band A", "Rural households", "Government offices", "Prepaid meter users"],
+        "answer": 0,
+        "fact": "Band A customers, promised at least 20 hours of supply a day, saw rates jump from ₦68 to ₦225 per kilowatt-hour.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, Nigeria's statistics bureau adopted a new ILO method that cut the reported unemployment rate from 33% to roughly what?",
+        "choices": ["12%", "20%", "28%", "4%"],
+        "answer": 3,
+        "fact": "The new survey counts anyone working at least an hour a week as employed, which is why the figure fell so dramatically.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "The 2022 Multidimensional Poverty Index found roughly how many Nigerians were poor?",
+        "choices": ["45 million", "80 million", "133 million", "190 million"],
+        "answer": 2,
+        "fact": "That was 63% of the population, with poverty rates ranging from 27% in Ondo State to 91% in Sokoto.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "NELFUND, which began paying out in 2024, is Nigeria's new fund for what?",
+        "choices": ["Farm insurance", "Pensions", "Housing deposits", "Student loans"],
+        "answer": 3,
+        "fact": "The Student Loans Act was signed in 2023 and rewritten in 2024 to offer interest-free loans for fees and upkeep.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "A 2022 law replaced Nigeria's old NHIS with a new authority and made what compulsory for all residents?",
+        "choices": ["Health insurance", "Pension savings", "Car insurance", "Tax registration"],
+        "answer": 0,
+        "fact": "The National Health Insurance Authority Act aimed to lift coverage from under 10% of Nigerians towards universal care.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In May 2024, Nigeria withdrew a planned 0.5% levy on electronic transfers that was meant to fund what?",
+        "choices": ["Cybersecurity", "Road repairs", "Police pensions", "Flood defences"],
+        "answer": 0,
+        "fact": "The central bank's circular prompted a public outcry and the president ordered its suspension within days.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In April 2020, the IMF approved emergency pandemic financing for Nigeria of roughly how much?",
+        "choices": ["$1.4 billion", "$3.4 billion", "$7 billion", "$12 billion"],
+        "answer": 1,
+        "fact": "The Rapid Financing Instrument loan was meant to cushion the oil-price collapse and pandemic; the IMF confirmed in 2025 that Nigeria had fully repaid it.",
+        "difficulty": 3,
+        "asOf": "2020"
+      }
+    ],
     "general": [
       {
         "q": "Nigeria is the most populous country on which continent?",

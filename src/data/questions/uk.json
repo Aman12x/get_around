@@ -911,6 +911,208 @@
         "asOf": "2023"
       }
     ],
+    "society": [
+      {
+        "q": "In October 2022, UK consumer price inflation peaked at roughly what annual rate, its highest for over 40 years?",
+        "choices": ["4%", "7%", "11%", "18%"],
+        "answer": 2,
+        "fact": "CPI inflation hit 11.1% in October 2022, the highest since 1981, driven by soaring energy and food prices; it fell back below 4% by early 2024.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "What is the name of the UK's statutory minimum wage rate for older workers, which since April 2024 applies from age 21?",
+        "choices": ["National Living Wage", "Real Living Wage", "Basic Income Rate", "Universal Wage"],
+        "answer": 0,
+        "fact": "The National Living Wage was introduced in April 2016, originally for workers aged 25 and over; the age threshold was lowered to 23 in 2021 and to 21 in 2024.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "The UK's state pension 'triple lock' guarantees that the pension rises each year by the highest of average earnings growth, inflation, or what?",
+        "choices": ["1%", "2.5%", "4%", "5%"],
+        "answer": 1,
+        "fact": "Introduced in 2010-11, the triple lock delivered a 10.1% rise in April 2023 and 8.5% in April 2024 because inflation and then earnings growth were unusually high.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In July 2024 the UK government restricted which previously universal pensioner benefit to those receiving Pension Credit?",
+        "choices": ["Winter Fuel Payment", "Free TV licence", "Free bus pass", "Christmas Bonus"],
+        "answer": 0,
+        "fact": "The change removed the payment of up to £300 from about 10 million pensioners; in June 2025 it was partly reversed so that pensioners with income under £35,000 qualified again.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "During the COVID-19 pandemic, the UK's furlough scheme paid employees who could not work what share of their usual wages, up to £2,500 a month?",
+        "choices": ["50%", "60%", "100%", "80%"],
+        "answer": 3,
+        "fact": "The Coronavirus Job Retention Scheme ran from March 2020 to September 2021 and supported about 11.7 million jobs at a cost of roughly £70 billion.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which single UK benefit, rolled out nationwide by the 2020s, replaced six older working-age benefits including Jobseeker's Allowance and housing benefit?",
+        "choices": ["Income Support", "Universal Credit", "Pension Credit", "Child Benefit"],
+        "answer": 1,
+        "fact": "Universal Credit claims jumped by millions in the first weeks of the 2020 pandemic lockdown, and by 2025 the remaining legacy claimants were being moved onto it.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In August 2020 the UK government ran 'Eat Out to Help Out', giving diners what discount on meals from Monday to Wednesday?",
+        "choices": ["25% off", "50% off, up to £10 per head", "A free drink", "Free meals for children"],
+        "answer": 1,
+        "fact": "More than 160 million meals were claimed under the scheme, which cost the Treasury around £840 million and was intended to revive the hospitality trade after lockdown.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Which regulator sets the UK's energy price cap, the limit on what suppliers can charge most households per unit of gas and electricity?",
+        "choices": ["Ofcom", "Ofwat", "Ofsted", "Ofgem"],
+        "answer": 3,
+        "fact": "The cap was introduced in January 2019; in April 2022 it jumped by 54%, and from 2022 it has been reset every three months rather than every six.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2022 around 60 UK companies took part in what was billed as the world's largest trial of which working pattern?",
+        "choices": ["Four-day week", "Six-hour day", "Fully remote work", "Job sharing"],
+        "answer": 0,
+        "fact": "About 2,900 employees worked a four-day week for six months on full pay; most participating firms chose to keep the arrangement when the trial ended.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "By October 2020 the UK state pension age for both men and women had risen to what?",
+        "choices": ["63", "65", "66", "68"],
+        "answer": 2,
+        "fact": "The age is legislated to rise again to 67 between 2026 and 2028; women's pension age had only reached parity with men's at 65 in 2018.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "The 2021 census of England and Wales was the first in which fewer than half of people described themselves as what?",
+        "choices": ["White British", "Christian", "Married", "Homeowners"],
+        "answer": 1,
+        "fact": "46.2% identified as Christian, down from 59.3% in 2011, while 37.2% said they had no religion; the census counted a population of 59.6 million.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which trade union, led by Mick Lynch, staged the UK's biggest rail strikes in 30 years beginning in June 2022?",
+        "choices": ["Unite", "ASLEF", "TSSA", "RMT"],
+        "answer": 3,
+        "fact": "The dispute over pay, jobs and conditions ran for nearly two years, with rail workers walking out on dozens of days before a settlement in 2024.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which organisation represented England's junior doctors in the strikes over pay that began in March 2023?",
+        "choices": ["Royal College of Physicians", "British Medical Association", "Unison", "General Medical Council"],
+        "answer": 1,
+        "fact": "In September 2024 junior doctors accepted a deal worth about 22% over two years, and the grade was renamed 'resident doctors'.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "After the UK 'mini-budget' of September 2022, the pound fell to a record low of about what against the US dollar?",
+        "choices": ["$1.03", "$1.20", "$1.35", "$1.50"],
+        "answer": 0,
+        "fact": "The package of unfunded tax cuts prompted a sell-off in UK government bonds, forcing the Bank of England to intervene to protect pension funds.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In August 2023 the Bank of England raised its base interest rate to what level, the highest since 2008?",
+        "choices": ["2.25%", "3.5%", "7%", "5.25%"],
+        "answer": 3,
+        "fact": "It was the 14th consecutive rise since December 2021, when the rate stood at just 0.1%; the first cut did not come until August 2024.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "From October 2022 the UK's Energy Price Guarantee limited a typical household's annual gas and electricity bill to about how much?",
+        "choices": ["£1,000", "£2,500", "£4,000", "£6,000"],
+        "answer": 1,
+        "fact": "Without the guarantee the Ofgem cap would have pushed typical bills above £3,500; the scheme cost taxpayers tens of billions of pounds.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "From January 2025, which UK tax began to be charged at 20% on private school fees?",
+        "choices": ["Stamp duty", "Income tax", "Capital gains tax", "VAT"],
+        "answer": 3,
+        "fact": "Private school fees had been exempt from VAT for decades; the government said the money raised would fund more teachers in state schools.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "From January 2023 the government capped most single bus fares in England outside London at what price?",
+        "choices": ["£1", "£1.50", "£2", "£3"],
+        "answer": 2,
+        "fact": "The £2 cap covered thousands of routes and was repeatedly extended before being raised to £3 in January 2025.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In April 2024 the UK's National Living Wage rose to what hourly rate?",
+        "choices": ["£9.50", "£10.42", "£11.44", "£12.21"],
+        "answer": 2,
+        "fact": "The 9.8% rise was one of the largest ever; the rate went up again to £12.21 in April 2025.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023 the total fertility rate in England and Wales fell to a record low of roughly how many children per woman?",
+        "choices": ["1.1", "1.44", "1.8", "2.1"],
+        "answer": 1,
+        "fact": "Fewer than 600,000 babies were born in England and Wales in 2023, the lowest number since 1977.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "According to revised ONS figures, UK net migration reached a record of about how many people in the year to June 2023?",
+        "choices": ["300,000", "500,000", "900,000", "1.5 million"],
+        "answer": 2,
+        "fact": "The figure was later revised to 906,000; net migration then roughly halved in 2024 after visa rules for students' and care workers' dependants were tightened.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2024 the main rate of employee National Insurance in the UK was cut in two steps from 12% to what?",
+        "choices": ["6%", "8%", "10%", "11%"],
+        "answer": 1,
+        "fact": "The rate fell to 10% in January 2024 and to 8% in April 2024; the October 2024 Budget then raised the employer rate to 15% from April 2025.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "The Renters' Rights Act, passed in 2025, abolished which kind of eviction for private tenants in England?",
+        "choices": ["Section 8 rent-arrears evictions", "Section 21 'no-fault' evictions", "Bailiff evictions", "Evictions during winter"],
+        "answer": 1,
+        "fact": "Ending no-fault evictions had been promised by successive governments since 2019; the Act also bans rental bidding wars and limits rent rises to once a year.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "For the 2025/26 academic year, the cap on undergraduate tuition fees in England rose for the first time since 2017, from £9,250 to what?",
+        "choices": ["£9,535", "£10,000", "£11,000", "£12,500"],
+        "answer": 0,
+        "fact": "The fee cap had been frozen at £9,250 for eight years, and many universities warned of financial crisis as inflation eroded the real value of the fee.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In early 2024 the number of working-age people in the UK out of the labour market because of long-term sickness reached a record of about how many?",
+        "choices": ["800,000", "1.5 million", "2.8 million", "5 million"],
+        "answer": 2,
+        "fact": "The figure had risen by around 700,000 since the pandemic, with mental health conditions among the fastest-growing reasons.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
     "general": [
       {
         "q": "What is the capital of Scotland?",

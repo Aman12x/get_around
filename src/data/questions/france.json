@@ -911,6 +911,208 @@
         "asOf": "2022"
       }
     ],
+    "society": [
+      {
+        "q": "The 'gilets jaunes' (yellow vest) protests that swept France from late 2018 into 2019 began as a revolt against a planned increase in what?",
+        "choices": ["Fuel taxes", "Income tax", "Motorway tolls", "Train fares"],
+        "answer": 0,
+        "fact": "The movement took its name from the high-visibility vests French drivers must carry; the government scrapped the fuel tax rise in December 2018 and launched a 'great national debate'.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "What is the name of France's national minimum wage?",
+        "choices": ["SMIC", "RSA", "CSG", "APL"],
+        "answer": 0,
+        "fact": "The SMIC is automatically raised whenever inflation passes 2%, so in 2022 it went up three times in a single year.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "France's 'bouclier tarifaire' (tariff shield), introduced in late 2021, limited rises in the price of what?",
+        "choices": ["Bread and pasta", "Rents", "Gas and electricity", "Petrol"],
+        "answer": 2,
+        "fact": "The shield froze regulated gas prices and capped the 2022 electricity price rise at 4%, which helped keep French inflation among the lowest in the eurozone.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In January 2024 which group blockaded motorways around Paris with hundreds of tractors in protest at low incomes and rising costs?",
+        "choices": ["Lorry drivers", "Taxi drivers", "Farmers", "Fishermen"],
+        "answer": 2,
+        "fact": "The protests spread across France and much of the EU; the government responded with fuel-tax concessions and promises to simplify regulations.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "According to INSEE, France's population at the start of 2024 was roughly how many people?",
+        "choices": ["68 million", "55 million", "80 million", "95 million"],
+        "answer": 0,
+        "fact": "The figure includes overseas departments; population growth slowed to 0.3% a year as births fell and deaths rose with an ageing population.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which French energy company was taken fully into state ownership in 2023, after the government bought out minority shareholders?",
+        "choices": ["TotalEnergies", "Engie", "EDF", "Orano"],
+        "answer": 2,
+        "fact": "EDF's shares were delisted in June 2023; the state had already owned about 84% and wanted full control to finance a new fleet of nuclear reactors.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "A strike against pension reform in December 2019 and January 2020 became the longest in the history of which French transport company?",
+        "choices": ["Air France", "SNCF", "Uber", "Eurostar"],
+        "answer": 1,
+        "fact": "Rail and Paris metro workers stayed out for well over a month; the reform was then shelved during the pandemic before a new version was adopted in 2023.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "France's annual inflation rate peaked at roughly what level during the 2022-23 cost-of-living squeeze?",
+        "choices": ["3%", "6%", "11%", "18%"],
+        "answer": 1,
+        "fact": "French inflation topped out at just over 6% in early 2023, well below the 10%-plus seen in Germany, Italy and the UK, thanks largely to state energy price caps.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In March 2023 the government pushed its pension reform through parliament without a vote by invoking which article of the French constitution?",
+        "choices": ["Article 16", "Article 49.3", "Article 89", "Article 11"],
+        "answer": 1,
+        "fact": "The decision triggered a no-confidence motion that failed by just nine votes, and fresh nationwide protests followed.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which local tax on main residences was completely abolished in France in 2023, after being phased out from 2018?",
+        "choices": ["Taxe d'habitation", "Taxe foncière", "CSG", "Taxe de séjour"],
+        "answer": 0,
+        "fact": "The abolition saved households an average of several hundred euros a year, though the tax still applies to second homes.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023 the number of births in France fell below what level for the first time since the Second World War?",
+        "choices": ["500,000", "600,000", "700,000", "900,000"],
+        "answer": 2,
+        "fact": "About 678,000 babies were born in 2023, and President Macron called for 'demographic rearmament'; births fell further to around 663,000 in 2024.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "By the end of 2022 France's unemployment rate had fallen to roughly what level, its lowest since 2008?",
+        "choices": ["3%", "7%", "12%", "16%"],
+        "answer": 1,
+        "fact": "The rate had been close to 10% in 2015; a boom in subsidised apprenticeships was one factor credited with the fall.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2023 France's public debt passed which symbolic milestone for the first time?",
+        "choices": ["€1 trillion", "€2 trillion", "€3 trillion", "€5 trillion"],
+        "answer": 2,
+        "fact": "Debt reached about 110% of GDP in 2023, among the highest in the eurozone, and the cost of servicing it became a major political issue.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "From January 2025 a single metro or train ticket anywhere in the Paris region (Île-de-France) cost a flat price of how much?",
+        "choices": ["€1.50", "€2.50", "€4", "€6"],
+        "answer": 1,
+        "fact": "The flat fare replaced a zone-based system under which a trip to the outer suburbs could cost more than €5; bus and tram tickets were set at €2.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which French nuclear reactor, about 12 years behind schedule, was finally connected to the grid in December 2024?",
+        "choices": ["Fessenheim", "Flamanville 3", "Gravelines", "Cattenom"],
+        "answer": 1,
+        "fact": "It was France's first new reactor in 25 years; the EPR project's cost rose from an estimated €3.3 billion to well over €13 billion.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "France's 'Pass Culture' app, rolled out nationally in 2021, gave 18-year-olds a credit of how much to spend on books, concerts and other cultural goods?",
+        "choices": ["€100", "€500", "€1,000", "€300"],
+        "answer": 3,
+        "fact": "Manga and other books were by far the most popular purchases; in 2025 the credit for 18-year-olds was cut to €150 to save money.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "From January 2025, French homes with which energy-performance rating could no longer be put up for rent?",
+        "choices": ["C", "E", "F", "G"],
+        "answer": 3,
+        "fact": "The ban on letting the worst 'passoires thermiques' (thermal sieves) is set to extend to F-rated homes in 2028 and E-rated homes in 2034.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2024 France's gross monthly minimum wage (SMIC) for a full-time worker was roughly how much?",
+        "choices": ["€1,200", "€2,400", "€3,000", "€1,800"],
+        "answer": 3,
+        "fact": "Around 17% of French employees were paid at the SMIC in 2023, a record share, because repeated inflation-linked rises lifted the minimum faster than other wages.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "France's '100% Santé' reform, fully in force from 2021, made certain glasses, dental prostheses and what else available with no out-of-pocket cost?",
+        "choices": ["Hearing aids", "Wheelchairs", "Physiotherapy", "Prescription drugs"],
+        "answer": 0,
+        "fact": "Patients choose from a basket of fully reimbursed products; sales of hearing aids rose sharply once they became free in 2021.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "During the 2020 lockdowns, France's 'chômage partiel' scheme paid workers on short-time about what share of their net salary?",
+        "choices": ["50%", "60%", "84%", "100%"],
+        "answer": 2,
+        "fact": "Workers on the minimum wage received 100% of their pay; at its peak in April 2020 the scheme covered more than 8 million employees.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "According to INSEE, roughly what share of people in France lived below the poverty line in 2023?",
+        "choices": ["5%", "15%", "25%", "35%"],
+        "answer": 1,
+        "fact": "The rate of 15.4% was the highest since INSEE's series began in 1996; the poverty line is set at 60% of median income.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "France's public deficit for 2024 came in at roughly what share of GDP, far above the EU's 3% limit?",
+        "choices": ["1.5%", "3%", "5.8%", "9%"],
+        "answer": 2,
+        "fact": "The overshoot led the EU to open an excessive deficit procedure against France in 2024, and budget disputes brought down two governments within a year.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2022 France signed more than how many new apprenticeship contracts, a record driven by hiring subsidies of several thousand euros per apprentice?",
+        "choices": ["200,000", "400,000", "800,000", "1.5 million"],
+        "answer": 2,
+        "fact": "Apprenticeship numbers nearly tripled from 2018, when fewer than 320,000 contracts were signed; the hiring aid was set at €6,000 from 2023.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In July 2019 Paris reintroduced which housing measure, setting a legal ceiling on what landlords may charge for each neighbourhood?",
+        "choices": ["Rent control", "A ban on short-term lets", "A vacancy tax", "Compulsory social housing"],
+        "answer": 0,
+        "fact": "Rents are capped at 20% above a reference level set by the prefecture; Lille, Lyon, Bordeaux and Montpellier followed with their own schemes.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "France's annual gender equality index, which every company with 50 or more employees has had to publish since 2020, is scored out of how many points?",
+        "choices": ["10", "20", "50", "100"],
+        "answer": 3,
+        "fact": "Companies scoring below 75 must take corrective measures within three years or face a fine of up to 1% of their payroll.",
+        "difficulty": 3,
+        "asOf": "2020"
+      }
+    ],
     "general": [
       {
         "q": "Which mountain on the France-Italy border is the highest in the Alps?",

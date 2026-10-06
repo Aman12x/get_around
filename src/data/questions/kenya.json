@@ -911,6 +911,208 @@
         "asOf": "2021"
       }
     ],
+    "society": [
+      {
+        "q": "Large youth-led protests across Kenya in June 2024 were sparked by which piece of legislation?",
+        "choices": ["The Finance Bill 2024", "The Housing Act", "The Health Bill", "The Education Act"],
+        "answer": 0,
+        "fact": "The bill proposed new taxes on everyday goods; President Ruto withdrew it on 26 June after the protests.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "A new Kenyan payroll levy of 1.5% of salary, introduced in 2023, was created to fund what?",
+        "choices": ["Universal health care", "Affordable housing", "Road building", "Teacher pay"],
+        "answer": 1,
+        "fact": "Employers match the deduction; courts struck the levy down before parliament re-enacted it in 2024.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In October 2024, Kenya replaced its NHIF health insurer with a new scheme charging what share of gross salary?",
+        "choices": ["1%", "5%", "10%", "2.75%"],
+        "answer": 3,
+        "fact": "The Social Health Insurance Fund replaced NHIF's flat monthly bands and is run by the Social Health Authority.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, roughly what share of Kenya's electricity came from renewable sources such as geothermal, hydro and wind?",
+        "choices": ["About 30%", "About 50%", "About 70%", "About 90%"],
+        "answer": 3,
+        "fact": "Geothermal from the Rift Valley is the single largest source, giving Kenya one of Africa's greenest grids.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "What is the Hustler Fund, launched by Kenya's government in November 2022?",
+        "choices": ["A micro-loan scheme via mobile phone", "A sovereign wealth fund", "A farming subsidy", "A sports lottery"],
+        "answer": 0,
+        "fact": "Borrowers could get as little as KSh 500 instantly; it was a flagship promise of Ruto's 'bottom-up' economic plan.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Kenya's Competency-Based Curriculum, whose first cohort reached Grade 9 in 2025, replaced which school system?",
+        "choices": ["7-4-2-3", "8-4-4", "6-3-3-4", "5-5-2"],
+        "answer": 1,
+        "fact": "The new 2-6-3-3-3 structure brought junior secondary into primary school grounds, requiring thousands of new classrooms.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2023, what was Kenya's largest source of foreign exchange, ahead of tea exports and tourism?",
+        "choices": ["Coffee exports", "Diaspora remittances", "Flower exports", "Gold mining"],
+        "answer": 1,
+        "fact": "Kenyans abroad sent home over $4bn in 2023, with the United States the biggest source.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In September 2023, the price of a litre of petrol in Nairobi passed which milestone for the first time?",
+        "choices": ["KSh 100", "KSh 150", "KSh 300", "KSh 200"],
+        "answer": 3,
+        "fact": "The regulator set super petrol at KSh 211.64 after VAT on fuel had been doubled earlier that year.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In September 2024, Kenya signed a labour-mobility agreement to send skilled workers to which European country?",
+        "choices": ["France", "Germany", "Italy", "Poland"],
+        "answer": 1,
+        "fact": "Signed during President Ruto's visit to Berlin, the deal set no quota despite reports of 250,000 jobs.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Kenya's 2019 census counted roughly how many people?",
+        "choices": ["About 38 million", "About 47.6 million", "About 55 million", "About 62 million"],
+        "answer": 1,
+        "fact": "It was the first Kenyan census to use digital data capture, and found that nearly 70% of people lived in rural areas.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In January 2024, the Kenyan shilling hit a record low of roughly how many shillings to the US dollar?",
+        "choices": ["About 100", "About 130", "About 250", "About 160"],
+        "answer": 3,
+        "fact": "It then staged a strong recovery to around 130 by April after Kenya refinanced its 2024 Eurobond.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Kenya's Finance Act 2023 doubled the VAT rate on petrol and diesel from 8% to what?",
+        "choices": ["10%", "12%", "16%", "20%"],
+        "answer": 2,
+        "fact": "The change brought fuel into line with the standard VAT rate and was a key driver of 2023 pump-price rises.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "On Labour Day 2022, Kenya's president announced a minimum wage increase of what size?",
+        "choices": ["3%", "6%", "12%", "25%"],
+        "answer": 2,
+        "fact": "It was the first rise in over three years; a further 6% increase was announced on Labour Day 2024.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "On 1 October 2019, which old Kenyan banknote ceased to be legal tender as new notes were introduced?",
+        "choices": ["KSh 50", "KSh 200", "KSh 500", "KSh 1,000"],
+        "answer": 3,
+        "fact": "The swap was intended to flush out illicit cash; the new notes carry images of wildlife rather than a president.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In October 2022, Kenya's inflation rate reached roughly what level, its highest in over five years?",
+        "choices": ["9.6%", "4%", "7%", "15%"],
+        "answer": 0,
+        "fact": "Food prices drove the rise, with a 2 kg packet of maize flour up by a third year on year.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Opposition-led demonstrations in Kenya in March to July 2023 were mainly about what?",
+        "choices": ["The cost of living", "Election dates", "Land reform", "University fees"],
+        "answer": 0,
+        "fact": "Protesters in the 'maandamano' also disputed the 2022 election result; talks later produced a bipartisan dialogue.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "For how long did Kenya's public-hospital doctors strike in 2024 over intern pay and postings?",
+        "choices": ["Nine days", "Three weeks", "56 days", "Six months"],
+        "answer": 2,
+        "fact": "The strike ran from March to May 2024 and ended with a return-to-work agreement.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Just before the August 2022 election, Kenya's government subsidised a 2 kg packet of maize flour to what price?",
+        "choices": ["KSh 50", "KSh 150", "KSh 200", "KSh 100"],
+        "answer": 3,
+        "fact": "Unsubsidised unga had topped KSh 200; the subsidy was suspended in mid-August 2022 for lack of funds and was not revived by the incoming government.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In February 2023, monthly NSSF pension contributions for Kenyan employees rose from a flat KSh 200 to up to what?",
+        "choices": ["KSh 1,080", "KSh 400", "KSh 600", "KSh 2,500"],
+        "answer": 0,
+        "fact": "The 2013 NSSF Act took effect after a decade of court battles, and the cap doubled again in February 2024.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In June 2024, Kenya repaid its first Eurobond, issued in 2014, which had been worth how much?",
+        "choices": ["$500 million", "$1 billion", "$2 billion", "$5 billion"],
+        "answer": 2,
+        "fact": "Fears of a default had weighed on the shilling until a February 2024 buyback funded by a new bond.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In April 2020, Kenya cut its standard VAT rate from 16% to what as a pandemic relief measure?",
+        "choices": ["8%", "12%", "15%", "14%"],
+        "answer": 3,
+        "fact": "The cut, along with lower income tax, was reversed in January 2021 as the government rebuilt its revenues.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "Under Inua Jamii, how much does Kenya's government pay monthly to citizens aged 70 and over?",
+        "choices": ["KSh 500", "KSh 1,000", "KSh 2,000", "KSh 5,000"],
+        "answer": 2,
+        "fact": "The older persons' cash transfer became universal for over-70s in 2018 and is paid through bank accounts.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Kazi Mtaani, launched in Kenya in 2020, gave young people temporary work doing what?",
+        "choices": ["Cleaning and street works in informal settlements", "Tree planting in forests", "Contact tracing", "Teaching online classes"],
+        "answer": 0,
+        "fact": "The scheme paid daily wages during the pandemic downturn and reached hundreds of thousands of youths.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "What is 'Maisha Namba', launched by Kenya in late 2023?",
+        "choices": ["A universal pension", "A digital identity number", "A road toll card", "A cash-transfer app"],
+        "answer": 1,
+        "fact": "It replaced the stalled Huduma Namba project, assigning a unique number from birth and a new Maisha ID card.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In April 2021, the IMF approved a 38-month programme for Kenya worth roughly how much?",
+        "choices": ["$700 million", "$2.3 billion", "$6 billion", "$12 billion"],
+        "answer": 1,
+        "fact": "The programme's reforms included tax rises that fed into the unpopular 2023 and 2024 finance bills.",
+        "difficulty": 3,
+        "asOf": "2021"
+      }
+    ],
     "general": [
       {
         "q": "What is the capital of Kenya?",

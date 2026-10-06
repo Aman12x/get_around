@@ -911,6 +911,208 @@
         "asOf": "2019"
       }
     ],
+    "society": [
+      {
+        "q": "Turkey's annual inflation rate peaked in October 2022 at roughly what?",
+        "choices": ["85%", "25%", "45%", "150%"],
+        "answer": 0,
+        "fact": "Official inflation hit 85.5%, the highest since 1998, after the central bank cut interest rates despite rising prices; independent estimates were higher still.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "By the end of 2023, one US dollar bought roughly how many Turkish lira?",
+        "choices": ["3", "10", "100", "30"],
+        "answer": 3,
+        "fact": "The lira had traded at under 6 to the dollar in 2019; the slide made imported goods and foreign travel far costlier for Turks.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In the early 2020s Turkey hosted the world's largest refugee population, mostly people from which country?",
+        "choices": ["Iraq", "Afghanistan", "Syria", "Ukraine"],
+        "answer": 2,
+        "fact": "Some 3.3 million Syrians held temporary protection status in mid-2023; numbers declined after 2022 and more returned once Syria's government changed in late 2024.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Turkey's net monthly minimum wage for 2025 was set at roughly how many lira?",
+        "choices": ["8,000", "22,000", "15,000", "40,000"],
+        "answer": 1,
+        "fact": "The rise to 22,104 lira was 30%; a large share of Turkish employees earn at or near the minimum wage, so the annual decision is closely watched.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "According to the statistics office TÜİK, Turkey's population passed what milestone by the end of 2023?",
+        "choices": ["85 million", "65 million", "75 million", "95 million"],
+        "answer": 0,
+        "fact": "Growth slowed to just 0.1% in 2023, the lowest on record, with Istanbul alone home to about 15.7 million people.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Turkey's first nuclear power station, Akkuyu on the Mediterranean coast, is being built by a state company from which country?",
+        "choices": ["France", "China", "South Korea", "Russia"],
+        "answer": 3,
+        "fact": "Rosatom delivered the first nuclear fuel to the site in April 2023; the four reactors are planned to supply about a tenth of Turkey's electricity.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which Istanbul-based rapid grocery delivery app was valued at nearly $12 billion in 2022 before pulling out of most foreign markets?",
+        "choices": ["Trendyol", "Yemeksepeti", "Getir", "Hepsiburada"],
+        "answer": 2,
+        "fact": "Founded in 2015, Getir promised deliveries in minutes; it exited Europe and the United States in 2024 to concentrate on Turkey.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Ahead of the May 2023 election, the Turkish government made which household utility free for a month?",
+        "choices": ["Electricity", "Natural gas", "Water", "Internet"],
+        "answer": 1,
+        "fact": "President Erdoğan announced free gas for May 2023 plus 25 cubic metres a month for a year, timed with the start of production from the Black Sea.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023 Turkey welcomed a record number of foreign visitors, roughly how many?",
+        "choices": ["50 million", "15 million", "30 million", "90 million"],
+        "answer": 0,
+        "fact": "Tourism revenue hit a record of around $54 billion as the weak lira made Turkey a bargain; Russians and Germans were the largest groups.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "After the 2023 election, Turkey's central bank raised its policy rate from 8.5% to what by March 2024?",
+        "choices": ["15%", "25%", "90%", "50%"],
+        "answer": 3,
+        "fact": "The reversal of the earlier low-rate policy came under a new economic team; the bank began cutting again from December 2024.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Who was appointed Turkey's finance minister in June 2023, signalling a return to conventional economic policy?",
+        "choices": ["Berat Albayrak", "Nureddin Nebati", "Mehmet Şimşek", "Naci Ağbal"],
+        "answer": 2,
+        "fact": "A former Merrill Lynch strategist, Şimşek had held the post from 2009 to 2015; he said Turkey had 'no choice but to return to rational ground'.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "What did Turkey's 'EYT' law of 2023 remove for workers who first joined the social security system before September 1999?",
+        "choices": ["The contribution requirement", "The minimum retirement age", "Income tax on pensions", "The health insurance premium"],
+        "answer": 1,
+        "fact": "More than 2 million people became eligible to retire at once; the acronym stands for 'those stuck by the retirement age'.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "From June 2022 until July 2024, Turkey capped annual rent rises on homes at what?",
+        "choices": ["25%", "10%", "50%", "75%"],
+        "answer": 0,
+        "fact": "With inflation far above the cap, disputes between landlords and tenants flooded the courts; the cap was allowed to lapse in July 2024.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Turkey's unemployment rate in 2023 was roughly what, according to TÜİK?",
+        "choices": ["4%", "16%", "25%", "9%"],
+        "answer": 3,
+        "fact": "The headline rate of about 9.4% understated slack: the broader 'composite' measure counting underemployment was above 20%.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In April 2023 Turkey began producing natural gas from the Sakarya field, located in which sea?",
+        "choices": ["Aegean Sea", "Mediterranean Sea", "Black Sea", "Sea of Marmara"],
+        "answer": 2,
+        "fact": "Discovered in 2020, the field is Turkey's largest; the gas is piped ashore at Filyos, in a country that imports almost all of its energy.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "President Erdoğan declared 2025 the 'Year of' what, in response to Turkey's falling birth rate?",
+        "choices": ["Youth", "The Family", "The Worker", "Science"],
+        "answer": 1,
+        "fact": "Measures announced included cash support for newborns and interest-free marriage loans for young couples.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "The Turkish government estimated the economic cost of the February 2023 earthquakes at roughly what?",
+        "choices": ["$100 billion", "$10 billion", "$40 billion", "$400 billion"],
+        "answer": 0,
+        "fact": "The Strategy and Budget Office put the bill at about $104 billion; reconstruction added to inflation pressures and the budget deficit.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Turkey's annual exports passed which milestone for the first time in 2022?",
+        "choices": ["$100 billion", "$500 billion", "$1 trillion", "$250 billion"],
+        "answer": 3,
+        "fact": "Exports reached about $254 billion, with Germany, the United States and Britain among the top buyers and vehicles the biggest product group.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "The Turkish 'KKM' deposit scheme launched in December 2021 protected savers against what?",
+        "choices": ["Bank failures", "Rises in interest rates", "Falls in the lira against foreign currencies", "Losses on gold"],
+        "answer": 2,
+        "fact": "The Treasury topped up lira deposits to match currency losses; the scheme cost the public purse heavily and was wound down from 2023.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Turkey's total fertility rate fell by 2023 to about what, a record low?",
+        "choices": ["2.1", "1.5", "2.7", "3.3"],
+        "answer": 1,
+        "fact": "TÜİK's figure of 1.51 was below the 2.1 replacement level; it fell again to 1.48 in 2024, prompting new family policies.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2022 Turkey raised the minimum property purchase for citizenship by investment from $250,000 to what?",
+        "choices": ["$400,000", "$300,000", "$500,000", "$1 million"],
+        "answer": 0,
+        "fact": "The programme, popular with buyers from Iran, Iraq and Russia, drew criticism for pushing up housing prices in Istanbul.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "From 2022, workers earning Turkey's minimum wage were exempted from which tax?",
+        "choices": ["VAT", "Property tax", "Social security contributions", "Income tax"],
+        "answer": 3,
+        "fact": "The law, passed in December 2021, also removed stamp duty on the minimum wage and applied the exemption to the minimum-wage portion of higher earners' pay.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2023 roughly what share of Turkish women aged 15 and over were in the labour force?",
+        "choices": ["15%", "55%", "36%", "70%"],
+        "answer": 2,
+        "fact": "The rate for men was about 72%; Turkey's female participation remained the lowest among OECD countries.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In January 2024 Turkey raised the lowest monthly state pension to how many lira?",
+        "choices": ["5,000", "10,000", "20,000", "40,000"],
+        "answer": 1,
+        "fact": "Successive rises took the floor to 16,881 lira by July 2025; millions of retirees depend on the minimum amount.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In what year did the Başakşehir Çam and Sakura City Hospital, one of Europe's largest, open in Istanbul?",
+        "choices": ["2020", "2016", "2018", "2022"],
+        "answer": 0,
+        "fact": "Built with Japanese partners and named for the cherry blossom, it opened during the pandemic as part of a public-private 'city hospitals' programme.",
+        "difficulty": 3,
+        "asOf": "2020"
+      }
+    ],
     "general": [
       {
         "q": "Which city straddles Europe and Asia on either side of the Bosphorus?",

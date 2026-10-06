@@ -1,4 +1,4 @@
-export type TopicId = 'history' | 'technology' | 'art' | 'politics' | 'current-affairs' | 'general';
+export type TopicId = 'history' | 'technology' | 'art' | 'politics' | 'current-affairs' | 'society' | 'general';
 
 export interface Topic {
   id: TopicId;
@@ -14,6 +14,7 @@ export const TOPICS: Topic[] = [
   { id: 'art', label: 'Art & Culture', icon: '🎨', color: '#f472b6', blurb: 'Painting, music, literature & film' },
   { id: 'politics', label: 'Politics', icon: '⚖️', color: '#a78bfa', blurb: 'Rulers, constitutions & institutions' },
   { id: 'current-affairs', label: 'Current Affairs', icon: '📰', color: '#a3e635', blurb: 'What happened in the 2020s' },
+  { id: 'society', label: 'Society & Economy', icon: '🏘️', color: '#f87171', blurb: 'Cost of living, jobs, housing & the issues of the day' },
   { id: 'general', label: 'General Knowledge', icon: '🌍', color: '#fb923c', blurb: 'Geography, food, sport & more' },
 ];
 

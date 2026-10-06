@@ -1536,6 +1536,333 @@
         "asOf": "2019"
       }
     ],
+    "society": [
+      {
+        "q": "In February 2020, Egypt's population officially passed which milestone?",
+        "choices": [
+          "100 million",
+          "60 million",
+          "80 million",
+          "150 million"
+        ],
+        "answer": 0,
+        "fact": "The statistics agency CAPMAS marked the moment on a live population counter in Cairo; Egypt is the most populous Arab country.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "After Egypt let its currency float in March 2024, roughly how many Egyptian pounds bought one US dollar?",
+        "choices": [
+          "15",
+          "50",
+          "30",
+          "100"
+        ],
+        "answer": 1,
+        "fact": "The pound fell from about 31 to the dollar overnight, having already lost half its value in a series of devaluations since early 2022.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Egypt's annual urban inflation rate peaked in September 2023 at roughly what level?",
+        "choices": [
+          "8%",
+          "18%",
+          "38%",
+          "78%"
+        ],
+        "answer": 2,
+        "fact": "It was a record for Egypt, driven by a weaker pound and import costs; food inflation was even higher at over 70%.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "From 2023, Egypt's government ministries began moving out of Cairo to which newly built city?",
+        "choices": [
+          "New Alamein",
+          "New Cairo",
+          "6th of October City",
+          "New Administrative Capital"
+        ],
+        "answer": 3,
+        "fact": "Built in the desert about 45 km east of Cairo since 2015, it is intended to relieve pressure on the capital, home to over 20 million people.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In the summers of 2023 and 2024, Egypt imposed scheduled daily cuts to what because of a natural gas shortage?",
+        "choices": [
+          "Water supply",
+          "Electricity",
+          "Mobile internet",
+          "Petrol sales"
+        ],
+        "answer": 1,
+        "fact": "Rolling blackouts of up to three hours a day hit homes and businesses in heatwaves; they ended in July 2024 after emergency fuel imports.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In June 2024, Egypt raised the price of subsidised bread for the first time in roughly how many years?",
+        "choices": [
+          "5 years",
+          "12 years",
+          "60 years",
+          "30 years"
+        ],
+        "answer": 3,
+        "fact": "The price of a subsidised loaf rose from 5 to 20 piastres, still a fraction of its cost; around 70 million Egyptians rely on the scheme.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "From 2023, Egypt took in large numbers of people fleeing a war in which neighbouring country?",
+        "choices": [
+          "Sudan",
+          "Libya",
+          "Ethiopia",
+          "Syria"
+        ],
+        "answer": 0,
+        "fact": "By 2024 the UN estimated over a million people had crossed from Sudan, adding to pressure on housing and services in Cairo and Aswan.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Egypt recorded a record number of tourist arrivals in 2024, roughly how many?",
+        "choices": [
+          "6 million",
+          "26 million",
+          "16 million",
+          "46 million"
+        ],
+        "answer": 2,
+        "fact": "About 15.7 million visitors came, beating the 2023 record; tourism is a key source of foreign currency and employs millions of Egyptians.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "What is the name of Egypt's long-term national development strategy, launched in 2016?",
+        "choices": [
+          "New Egypt Plan",
+          "Nile Horizon 2040",
+          "Egypt First",
+          "Egypt Vision 2030"
+        ],
+        "answer": 3,
+        "fact": "It sets targets across the economy, education and health, and is aligned with the UN Sustainable Development Goals.",
+        "difficulty": 1,
+        "asOf": "2016"
+      },
+      {
+        "q": "In March 2024, the IMF increased its loan programme for Egypt to a total of what?",
+        "choices": [
+          "$8 billion",
+          "$3 billion",
+          "$20 billion",
+          "$50 billion"
+        ],
+        "answer": 0,
+        "fact": "The original $3 billion deal of December 2022 was expanded after Egypt devalued the pound and raised interest rates by six percentage points.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2024, Egypt raised the minimum monthly wage for public sector workers to what amount?",
+        "choices": [
+          "EGP 2,000",
+          "EGP 6,000",
+          "EGP 12,000",
+          "EGP 20,000"
+        ],
+        "answer": 1,
+        "fact": "It was raised from EGP 4,000 as part of a package to cushion inflation, and lifted again to EGP 7,000 in 2025.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Egypt's official poverty rate in 2019/20 was roughly what share of the population?",
+        "choices": [
+          "10%",
+          "50%",
+          "30%",
+          "70%"
+        ],
+        "answer": 2,
+        "fact": "CAPMAS put it at 29.7%, the first fall in two decades, down from 32.5% in 2017/18.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "Egypt's official unemployment rate in 2023 was roughly what?",
+        "choices": [
+          "3%",
+          "15%",
+          "25%",
+          "7%"
+        ],
+        "answer": 3,
+        "fact": "CAPMAS put it at 7.1% in the third quarter of 2023; the rate for women (about 17%) is far higher than for men, and many jobs are informal.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Roughly how many Egyptians were covered by state food ration cards in the early 2020s?",
+        "choices": [
+          "10 million",
+          "30 million",
+          "60 million",
+          "90 million"
+        ],
+        "answer": 2,
+        "fact": "The 'tamween' cards give monthly allowances for staples such as cooking oil, sugar and rice; the government has moved to trim the rolls.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Under a 2019 law, Egypt's retirement age is to rise gradually from 60 to what?",
+        "choices": [
+          "65",
+          "62",
+          "67",
+          "70"
+        ],
+        "answer": 0,
+        "fact": "Under Law 148 of 2019 the increase begins in July 2032, rising one year every two years to reach 65 by 2040, to keep the pension system solvent.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "In 2024, Egypt went back to being a net importer of which fuel, having exported it since 2019?",
+        "choices": [
+          "Crude oil",
+          "Natural gas",
+          "Coal",
+          "Diesel"
+        ],
+        "answer": 1,
+        "fact": "Output from the giant Zohr field declined faster than expected, forcing Egypt to buy liquefied natural gas cargoes during summer power shortages.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "What was the name of the family-planning campaign Egypt launched in 2018 to slow population growth?",
+        "choices": [
+          "One Is Best",
+          "Plan Your Family",
+          "Two Is Enough",
+          "Small Is Beautiful"
+        ],
+        "answer": 2,
+        "fact": "'Etnein Kefaya' targeted rural families; Egypt's fertility rate has since fallen from about 3.5 to under 2.5 children per woman.",
+        "difficulty": 2,
+        "asOf": "2018"
+      },
+      {
+        "q": "Egypt's economy grew by roughly what in fiscal year 2019/20, when most economies shrank?",
+        "choices": [
+          "-5%",
+          "0.5%",
+          "9%",
+          "3.6%"
+        ],
+        "answer": 3,
+        "fact": "Egypt was one of the few emerging economies to avoid recession in 2020, helped by state construction projects and remittances.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "In 2022, Egypt signed a deal with which company to build a roughly 2,000 km high-speed rail network?",
+        "choices": [
+          "Alstom",
+          "Siemens",
+          "CRRC",
+          "Hitachi"
+        ],
+        "answer": 1,
+        "fact": "The €8.1 billion contract is Siemens Mobility's largest ever order; the first line links the Red Sea coast with Alexandria via the new capital.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "'Hayah Karima' (Decent Life), launched in 2019, is an Egyptian initiative to do what?",
+        "choices": [
+          "Upgrade services in poor villages",
+          "Train young entrepreneurs",
+          "Build new universities",
+          "Digitise government records"
+        ],
+        "answer": 0,
+        "fact": "Expanded in 2021 to more than 4,000 villages, it provides water, sewage, housing and clinics and is described as the largest development project in Egypt's history.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "'Takaful and Karama', expanded through the 2020s, is Egypt's programme providing what?",
+        "choices": [
+          "Free school meals",
+          "Subsidised housing loans",
+          "Pensions for farmers",
+          "Cash transfers to poor families"
+        ],
+        "answer": 3,
+        "fact": "Takaful pays mothers conditional on children's school attendance and health checks; Karama supports the elderly and disabled.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2019, Egypt began rolling out its universal health insurance system, starting in which governorate?",
+        "choices": [
+          "Cairo",
+          "Alexandria",
+          "Port Said",
+          "Luxor"
+        ],
+        "answer": 2,
+        "fact": "The scheme is being phased in governorate by governorate over about 15 years, replacing a patchwork of older insurance funds.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "What is the standard rate of value-added tax in Egypt, set in 2017?",
+        "choices": [
+          "14%",
+          "5%",
+          "20%",
+          "25%"
+        ],
+        "answer": 0,
+        "fact": "VAT replaced the old sales tax in 2016 at 13%, rising to 14% in 2017 as part of a reform programme agreed with the IMF.",
+        "difficulty": 3,
+        "asOf": "2017"
+      },
+      {
+        "q": "Around 2023, roughly what share of Egyptian women of working age were in the labour force?",
+        "choices": [
+          "35%",
+          "15%",
+          "55%",
+          "75%"
+        ],
+        "answer": 1,
+        "fact": "It is among the lowest rates in the world, compared with about 70% for Egyptian men, despite women making up over half of university students.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "The Egyptian-Japanese Schools, opened from 2018, teach a model of all-round education known by which Japanese word?",
+        "choices": [
+          "Kaizen",
+          "Ikigai",
+          "Juku",
+          "Tokkatsu"
+        ],
+        "answer": 3,
+        "fact": "Tokkatsu uses classroom cleaning, group activities and daily reflection to build character; dozens of such schools now operate across Egypt.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
     "general": [
       {
         "q": "Which river flows north through Egypt to the Mediterranean Sea?",

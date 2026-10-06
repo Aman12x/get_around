@@ -911,6 +911,208 @@
         "asOf": "2019"
       }
     ],
+    "society": [
+      {
+        "q": "What rate of value-added tax has the UAE levied since it introduced VAT in 2018?",
+        "choices": ["10%", "15%", "20%", "5%"],
+        "answer": 3,
+        "fact": "VAT arrived on 1 January 2018 alongside Saudi Arabia's; the UAE had previously relied almost entirely on oil revenue and fees.",
+        "difficulty": 1,
+        "asOf": "2018"
+      },
+      {
+        "q": "What is the name of the UAE's long-term residence visa for investors, professionals and talented people, launched in 2019?",
+        "choices": ["Platinum Visa", "Emirates Pass", "Falcon Visa", "Golden Visa"],
+        "answer": 3,
+        "fact": "It lasts ten years and, unlike ordinary work visas, does not need a local employer as sponsor.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "By 2023, the population of the UAE was closest to which figure?",
+        "choices": ["3 million", "25 million", "50 million", "10 million"],
+        "answer": 3,
+        "fact": "The population was under one million at the federation's founding in 1971; most growth has come from foreign workers.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "The UAE dirham has been pegged at a fixed rate to which currency since 1997?",
+        "choices": ["The euro", "The pound sterling", "The US dollar", "The Saudi riyal"],
+        "answer": 2,
+        "fact": "The peg is 3.6725 dirhams to the dollar, so UAE interest rates generally track decisions of the US Federal Reserve.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In January 2023, Dubai suspended a 30% municipality tax on what?",
+        "choices": ["Hotel rooms", "Alcohol", "Petrol", "Restaurant bills"],
+        "answer": 1,
+        "fact": "The fee for a personal alcohol licence was scrapped at the same time, in a move seen as supporting tourism and expatriate residents.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which card do passengers use to pay fares on Dubai's metro, trams and buses?",
+        "choices": ["Hafilat card", "Salik card", "Darb card", "Nol card"],
+        "answer": 3,
+        "fact": "'Nol' means 'fare' in Arabic; Abu Dhabi's buses use a separate Hafilat card.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Roughly what share of the UAE's residents are foreign nationals rather than Emirati citizens?",
+        "choices": ["About 10%", "About 40%", "About 65%", "About 90%"],
+        "answer": 3,
+        "fact": "Indians form the largest single community, and the UAE has one of the highest proportions of migrants of any country in the world.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "As of 2024, what statutory national minimum wage did the UAE have for private-sector workers?",
+        "choices": ["1,000 dirhams a month", "3,000 dirhams a month", "5,000 dirhams a month", "None"],
+        "answer": 3,
+        "fact": "The 2022 labour law allowed the cabinet to set one but it did not; employers must instead pay wages through the Wage Protection System.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2021, the UAE launched a one-year visa allowing people employed by companies abroad to live in the country while doing what?",
+        "choices": ["Studying", "Starting a farm", "Working remotely", "Volunteering"],
+        "answer": 2,
+        "fact": "Applicants needed proof of a monthly income of at least 3,500 US dollars; Dubai had piloted a similar scheme in late 2020.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In January 2023, the UAE introduced a compulsory scheme giving private-sector and federal workers which protection?",
+        "choices": ["Free housing", "A state pension", "Unemployment insurance", "Dental cover"],
+        "answer": 2,
+        "fact": "Workers pay as little as 5 dirhams a month and can claim 60% of their basic salary for up to three months if they lose their job.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "What is the name of the federal programme launched in 2021 to boost the employment of Emiratis in the private sector?",
+        "choices": ["Tawteen", "Nafis", "Absher", "Watani"],
+        "answer": 1,
+        "fact": "Nafis tops up Emiratis' private-sector salaries and pension contributions, and the scheme is backed by fines for firms that miss their quotas.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Under the labour law in force from February 2022, private-sector employees in the UAE had to move to which type of contract?",
+        "choices": ["Zero-hours", "Lifetime", "Fixed-term", "Verbal"],
+        "answer": 2,
+        "fact": "Open-ended contracts were phased out; the same law formally recognised part-time, temporary and flexible work for the first time.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which emirate moved its government employees to a four-day working week in January 2022?",
+        "choices": ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"],
+        "answer": 2,
+        "fact": "Sharjah's public staff work Monday to Thursday with a three-day weekend, going further than the federal four-and-a-half-day week.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Since the UAE deregulated fuel prices in 2015, how often does a government committee set the price of petrol?",
+        "choices": ["Weekly", "Monthly", "Quarterly", "Annually"],
+        "answer": 1,
+        "fact": "Prices track world oil markets; in mid-2022 petrol passed 4 dirhams a litre, a record for the country.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In November 2020, a package of legal reforms made it lawful for unmarried couples in the UAE to do what?",
+        "choices": ["Live together", "Vote", "Adopt a child", "Buy property"],
+        "answer": 0,
+        "fact": "The same reforms let non-Muslims drink alcohol without a licence and allowed expatriates to use their home countries' inheritance laws.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "In 2023, which railway network was completed to link the UAE's emirates, initially carrying freight?",
+        "choices": ["Etihad Rail", "Gulf Express", "Union Line", "Emirates Rail"],
+        "answer": 0,
+        "fact": "The 900-km network runs from the Saudi border to Fujairah; a passenger service between Abu Dhabi and Dubai was promised for later in the decade.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In World Bank figures for 2021, the UAE ranked second in the world, behind only the United States, as a source of what?",
+        "choices": ["Outward remittances", "Tourist arrivals", "Foreign aid", "Wheat exports"],
+        "answer": 0,
+        "fact": "Migrant workers sent home around 47 billion US dollars that year, much of it to India, Pakistan, Egypt and the Philippines.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "By 2023, the population of the emirate of Dubai was closest to which figure?",
+        "choices": ["1 million", "3.5 million", "7 million", "12 million"],
+        "answer": 1,
+        "fact": "Rapid post-pandemic inflows pushed rents up sharply in 2022 and 2023, making housing costs the main cost-of-living concern for residents.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Under UAE Emiratisation rules from 2022, firms with 50 or more staff must raise the Emirati share of skilled jobs by how much each year?",
+        "choices": ["1%", "2%", "5%", "10%"],
+        "answer": 1,
+        "fact": "The target is 10% by the end of 2026; companies that fall short pay a monthly fine for each Emirati not hired.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "From 2022, buying property worth at least how many dirhams qualified an investor for a UAE Golden Visa?",
+        "choices": ["500,000", "1 million", "2 million", "10 million"],
+        "answer": 2,
+        "fact": "The 2022 reform also let buyers qualify with off-plan or mortgaged property, fuelling demand in Dubai's housing market.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "From December 2019, the UAE applied a 50% excise tax to which products?",
+        "choices": ["Sugary drinks", "Perfumes", "Fast food", "Plastic bags"],
+        "answer": 0,
+        "fact": "Tobacco and energy drinks had faced a 100% excise since 2017; electronic cigarettes were added at 100% at the same time as sugary drinks.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "From January 2025, employers in all seven emirates were required to provide what for private-sector workers?",
+        "choices": ["Health insurance", "Free transport", "Pension contributions", "Housing allowance"],
+        "answer": 0,
+        "fact": "Abu Dhabi and Dubai had required it for years; the 2025 rule extended cover to the northern emirates with a basic package costing around 320 dirhams a year.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In 2020, the UAE became the first Arab country to give private-sector fathers paid parental leave of how many working days?",
+        "choices": ["2", "5", "10", "20"],
+        "answer": 1,
+        "fact": "The leave can be taken at any time in the six months after the birth; maternity leave for private-sector mothers was set at 60 days in 2022.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "In 2019, a presidential directive required women to hold what share of seats in the UAE's Federal National Council?",
+        "choices": ["25%", "33%", "50%", "60%"],
+        "answer": 2,
+        "fact": "The rule applied from the October 2019 elections and put the council among the world's parliaments with the highest share of women.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "In September 2022, which operator of Dubai's road-toll gates was floated on the Dubai Financial Market?",
+        "choices": ["Darb", "Salik", "Nol", "Roads Co"],
+        "answer": 1,
+        "fact": "The listing raised about 1 billion US dollars; the toll of 4 dirhams per gate had not changed since the system opened in 2007.",
+        "difficulty": 3,
+        "asOf": "2022"
+      }
+    ],
     "general": [
       {
         "q": "What is the currency of the United Arab Emirates?",

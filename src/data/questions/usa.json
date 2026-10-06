@@ -911,6 +911,208 @@
         "asOf": "2022"
       }
     ],
+    "society": [
+      {
+        "q": "In June 2022, annual inflation in the United States peaked at roughly what, a 40-year high?",
+        "choices": ["4%", "9%", "15%", "21%"],
+        "answer": 1,
+        "fact": "Consumer prices rose 9.1% year on year in June 2022, the fastest since 1981; the rate fell back below 4% by mid-2023.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "The third round of US pandemic 'stimulus checks', paid in 2021, was worth up to how much per person?",
+        "choices": ["$600", "$1,200", "$1,400", "$2,000"],
+        "answer": 2,
+        "fact": "It was part of the $1.9 trillion American Rescue Plan; the first round in 2020 paid up to $1,200 and the second up to $600.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "What has the US federal minimum wage been since 2009, unchanged through 2025?",
+        "choices": ["$5.15", "$7.25", "$10.10", "$15.00"],
+        "answer": 1,
+        "fact": "It was the longest stretch without a rise since the federal minimum was created in 1938; by 2025, 30 states and Washington DC set higher floors, California's at $16.50.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "What name was given to the record wave of Americans quitting their jobs in 2021?",
+        "choices": ["The Great Reset", "Lean In", "Quiet Quitting", "The Great Resignation"],
+        "answer": 3,
+        "fact": "About 47 million workers quit in 2021, a record at the time; 'quiet quitting', doing only what the job requires, trended on TikTok in 2022.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In June 2023, the US Supreme Court struck down President Biden's plan to cancel up to how much federal student debt per borrower?",
+        "choices": ["$5,000", "$10,000", "$50,000", "$100,000"],
+        "answer": 1,
+        "fact": "Pell Grant recipients would have qualified for up to $20,000; loan repayments resumed in October 2023 after a pause that began in March 2020.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In April 2020, the US unemployment rate jumped to roughly what, the highest since the Great Depression?",
+        "choices": ["6%", "25%", "15%", "33%"],
+        "answer": 2,
+        "fact": "The rate hit 14.7% as more than 20 million jobs vanished in a single month; it was back below 4% by December 2021.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In early 2025, the price of which grocery staple hit record highs in the United States because of bird flu?",
+        "choices": ["Eggs", "Bread", "Coffee", "Orange juice"],
+        "answer": 0,
+        "fact": "The average price of a dozen large eggs reached $6.23 in March 2025, per the Bureau of Labor Statistics, and some supermarkets rationed purchases.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In June 2022, the US national average petrol price passed what level for the first time?",
+        "choices": ["$3 a gallon", "$4 a gallon", "$7 a gallon", "$5 a gallon"],
+        "answer": 3,
+        "fact": "AAA recorded a national average of $5.02 on 14 June 2022; the government released 180 million barrels from the Strategic Petroleum Reserve to ease prices.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "What name did President Trump give to 2 April 2025, when he announced sweeping tariffs on imports from nearly every country?",
+        "choices": ["Freedom Day", "Liberation Day", "Independence Day", "Tariff Tuesday"],
+        "answer": 1,
+        "fact": "A 10% baseline tariff took effect days later; analysts at the Yale Budget Lab estimated the average effective US tariff rate rose to its highest since the 1930s.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In late 2022, the average US 30-year mortgage rate topped what level for the first time in 20 years?",
+        "choices": ["3%", "5%", "7%", "12%"],
+        "answer": 2,
+        "fact": "Rates had been below 3% in early 2021; Freddie Mac's survey peaked at 7.79% in October 2023, freezing home sales as owners held on to cheap loans.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "By July 2023, the Federal Reserve had raised its benchmark rate to a range of roughly what, the highest in over 20 years?",
+        "choices": ["1.25-1.5%", "3-3.25%", "5.25-5.5%", "9-9.25%"],
+        "answer": 2,
+        "fact": "There were 11 increases in 16 months from near zero in March 2022; the first cut, a half point, came in September 2024.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "The 2020 US census counted the resident population at roughly how many people?",
+        "choices": ["280 million", "331 million", "365 million", "410 million"],
+        "answer": 1,
+        "fact": "Growth of 7.4% over the 2010s was the slowest since the 1930s; Texas gained two House seats and seven states lost one each.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "The US total fertility rate fell to a record low in 2023 of roughly how many births per woman?",
+        "choices": ["1.1", "2.1", "2.6", "1.6"],
+        "answer": 3,
+        "fact": "About 3.6 million babies were born in 2023, the fewest since 1979; the rate has been below the 2.1 'replacement' level since 2007.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "The January 2024 federal count found roughly how many people experiencing homelessness in the US on a single night, a record?",
+        "choices": ["250,000", "770,000", "1.5 million", "3 million"],
+        "answer": 1,
+        "fact": "The total was up 18% on 2023 and the highest since the annual count began in 2007; rising rents and the end of pandemic aid were cited as causes.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In autumn 2023, which union staged a first-ever simultaneous strike against Ford, General Motors and Stellantis?",
+        "choices": ["Teamsters", "SEIU", "United Auto Workers", "AFL-CIO"],
+        "answer": 2,
+        "fact": "The deals included pay rises of about 25% over four and a half years; 2023 also saw Hollywood writers and actors strike together for the first time since 1960.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which federal food-aid programme, formerly known as food stamps, supported around 42 million Americans a month in 2023?",
+        "choices": ["WIC", "SNAP", "TANF", "Medicaid"],
+        "answer": 1,
+        "fact": "Pandemic 'emergency allotments' that had boosted benefits ended in early 2023, cutting the average participant's monthly benefit by about $90, per the Center on Budget and Policy Priorities.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, US Social Security benefits rose by what cost-of-living adjustment, the largest in four decades?",
+        "choices": ["2.5%", "5.9%", "8.7%", "12.4%"],
+        "answer": 2,
+        "fact": "The 2022 adjustment had been 5.9% and 2024's was 3.2%; around 70 million people receive Social Security payments.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In March 2023, which lender's collapse was the largest US bank failure since 2008?",
+        "choices": ["Silicon Valley Bank", "Signature Bank", "Washington Mutual", "Wells Fargo"],
+        "answer": 0,
+        "fact": "First Republic Bank followed in May 2023, overtaking it as the second-largest failure in US history; regulators guaranteed all deposits at the failed banks.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which 2020 California ballot measure let Uber and Lyft keep classifying drivers as independent contractors rather than employees?",
+        "choices": ["Proposition 8", "Proposition 13", "Proposition 22", "Proposition 65"],
+        "answer": 2,
+        "fact": "App companies spent over $200 million backing it, the most expensive ballot campaign in state history; the California Supreme Court upheld it in 2024.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Helped by an expanded child tax credit, the US child poverty rate (supplemental measure) fell in 2021 to a record low of roughly what?",
+        "choices": ["5%", "12%", "20%", "30%"],
+        "answer": 0,
+        "fact": "The credit paid up to $3,600 per young child in monthly instalments; after it lapsed, the rate more than doubled to 12.4% in 2022, per the Census Bureau.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2024, the US population grew by about 1%, the fastest rate since 2001. What did the Census Bureau cite as the main driver?",
+        "choices": ["Rising births", "Immigration", "Falling deaths", "Returning expatriates"],
+        "answer": 1,
+        "fact": "Net international migration added about 2.8 million people in the year to July 2024, far outweighing natural increase of around half a million.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "The SECURE 2.0 Act of 2022 raised the age at which Americans must start withdrawing from retirement accounts such as 401(k)s to what?",
+        "choices": ["65", "70", "73", "80"],
+        "answer": 2,
+        "fact": "The age had been 72; it rises again to 75 in 2033. The law also allowed employers to match student-loan repayments with retirement contributions.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which law signed on 4 July 2025 made the 2017 individual tax cuts permanent and added deductions for tips and overtime pay?",
+        "choices": ["One Big Beautiful Bill Act", "Inflation Reduction Act", "American Rescue Plan Act", "CARES Act"],
+        "answer": 0,
+        "fact": "It also cut future spending on Medicaid and SNAP; the Congressional Budget Office estimated it would add over $3 trillion to deficits over a decade.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In August 2023, which agency downgraded US government debt from its top AAA rating?",
+        "choices": ["Moody's", "S&P Global", "DBRS", "Fitch"],
+        "answer": 3,
+        "fact": "S&P had already downgraded the US in 2011, and Moody's followed in May 2025, leaving the US without a top rating from any of the three big agencies.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "In June 2022, the median price of an existing US home passed what milestone for the first time, per the National Association of Realtors?",
+        "choices": ["$200,000", "$300,000", "$400,000", "$600,000"],
+        "answer": 2,
+        "fact": "The median hit $413,800 that month; prices had risen more than 40% since the start of the pandemic in early 2020.",
+        "difficulty": 3,
+        "asOf": "2022"
+      }
+    ],
     "general": [
       {
         "q": "What is the capital of the United States?",

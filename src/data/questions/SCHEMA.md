@@ -11,6 +11,7 @@ One JSON file per country: `src/data/questions/<countryId>.json`
     "art":             [ /* 25+ */ ],
     "politics":        [ /* 25+ */ ],
     "current-affairs": [ /* 25+ */ ],
+    "society":         [ /* 25+ */ ],
     "general":         [ /* 25+ */ ]
   }
 }
@@ -34,6 +35,7 @@ Each question:
 - `answer`: index (0-3) of the correct choice in `choices`.
 - `fact`: 1-2 sentence "postcard" fact shown after answering. Keep it under ~220 characters.
 - `difficulty`: 1 (easy), 2 (medium), 3 (hard).
-- `asOf`: required for `current-affairs`, omitted elsewhere. The year the fact was true.
+- `asOf`: required for `current-affairs` and `society`, omitted elsewhere. The year the fact was true.
+- `society` (Society & Economy) covers recent socio-economic issues: cost of living, housing, jobs and wages, pensions, demographics, migration, inequality, welfare and the like, from roughly 2019 on. Prefer dated, past-tense phrasing ("In 2023, ...") that stays true.
 
 A quiz is 10 items drawn to match the level (Explorer, Voyager, Legend); the player needs 90% (9/10) to earn a stamp.

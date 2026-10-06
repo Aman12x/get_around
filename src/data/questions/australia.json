@@ -911,6 +911,208 @@
         "asOf": "2021"
       }
     ],
+    "society": [
+      {
+        "q": "Australia's annual inflation rate peaked in the December 2022 quarter at roughly what level?",
+        "choices": ["4.8%", "7.8%", "10.8%", "13.8%"],
+        "answer": 1,
+        "fact": "It was the highest annual CPI reading since 1990, driven by housing, food and fuel costs, and fell back below 3% by late 2024.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "After 13 rises from May 2022, at what level did the Reserve Bank of Australia's cash rate peak in November 2023?",
+        "choices": ["2.35%", "3.35%", "4.35%", "5.35%"],
+        "answer": 2,
+        "fact": "The cash rate had sat at a record low of 0.10% during the pandemic; the first cut of the cycle did not come until February 2025.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Australia's 2020 JobKeeper wage subsidy initially paid eligible workers how much per fortnight?",
+        "choices": ["$750", "$1,000", "$1,500", "$2,000"],
+        "answer": 2,
+        "fact": "JobKeeper supported around 3.8 million workers and over a million businesses, and cost about $89 billion, making it one of the largest fiscal programmes in Australia's history.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In 2024, the Australian Bureau of Statistics reported that the country's population had passed which milestone?",
+        "choices": ["24 million", "27 million", "30 million", "33 million"],
+        "answer": 1,
+        "fact": "Growth was driven mostly by overseas migration rather than births; the population had only passed 25 million in 2018.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In which year did Australia's revised 'stage 3' income tax cuts, which gave a cut to every taxpayer, take effect?",
+        "choices": ["2022", "2023", "2024", "2025"],
+        "answer": 2,
+        "fact": "The government redesigned the cuts in January 2024 to give more to lower and middle earners, and they started on 1 July that year.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2024, Australian employees gained a new legal right to do what outside working hours?",
+        "choices": ["Disconnect from work contact", "Work from home", "Work a four-day week", "Take unlimited leave"],
+        "answer": 0,
+        "fact": "The 'right to disconnect' lets staff refuse to monitor or respond to unreasonable out-of-hours contact; it applied to larger employers from August 2024.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "On 1 July 2025, the compulsory superannuation guarantee paid by Australian employers reached what rate?",
+        "choices": ["10%", "12%", "15%", "20%"],
+        "answer": 1,
+        "fact": "The rate rose by half a percentage point each year from 9.5% in 2020-21, completing a timetable set out more than a decade earlier.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "On 1 July 2023, Australia's qualifying age for the Age Pension reached what, completing a gradual rise that began in 2017?",
+        "choices": ["65", "66", "67", "70"],
+        "answer": 2,
+        "fact": "The age rose in six-month steps from 65; a proposal to lift it further to 70 was dropped in 2018.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "The May 2024 federal budget gave every Australian household a rebate on energy bills worth how much?",
+        "choices": ["$100", "$300", "$500", "$1,000"],
+        "answer": 1,
+        "fact": "The $300 was credited in quarterly instalments over 2024-25; small businesses received $325, and the relief was later extended into 2025.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In March 2022, in response to soaring petrol prices, the federal government did what to the fuel excise for six months?",
+        "choices": ["Doubled it", "Halved it", "Abolished it", "Froze it"],
+        "answer": 1,
+        "fact": "The excise fell by 22.1 cents a litre to 22.1 cents; the cut ended as planned at the end of September 2022.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Australia's net overseas migration hit a record in 2022-23 of roughly how many people?",
+        "choices": ["About 150,000", "About 300,000", "About 500,000", "About 800,000"],
+        "answer": 2,
+        "fact": "The surge reflected the return of international students and workers after border closures, and migration became a major political issue.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "From January 2023, the maximum general co-payment for a medicine on Australia's Pharmaceutical Benefits Scheme was cut from $42.50 to what?",
+        "choices": ["$10", "$20", "$30", "$40"],
+        "answer": 2,
+        "fact": "It was the first cut to the PBS co-payment in the scheme's 75-year history; a further reduction to $25 was legislated for 2026.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "From August 2024, Queensland introduced a flat fare on all public transport in Brisbane and across the state of how much?",
+        "choices": ["50 cents", "$1", "$2", "Free"],
+        "answer": 0,
+        "fact": "The trial was made permanent by the incoming state government in late 2024 after patronage jumped; each trip costs 50 cents regardless of distance.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In June 2023, Australian HECS-HELP student loans were indexed by what rate, the highest in over 30 years?",
+        "choices": ["7.1%", "3.1%", "5.1%", "9.1%"],
+        "answer": 0,
+        "fact": "The backlash led the government in 2024 to cap indexation at the lower of CPI or wage growth, and in 2025 to legislate a 20% cut to all student debts.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "From 1 July 2024, Australia's national minimum wage was set at what hourly rate after a 3.75% increase?",
+        "choices": ["$21.10", "$24.10", "$27.10", "$30.10"],
+        "answer": 1,
+        "fact": "The Fair Work Commission sets the rate each year; it had raised it by 5.75% in 2023 and lifted it again to $24.95 in July 2025.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In mid-2022, Australia's unemployment rate fell to roughly what level, its lowest in almost 50 years?",
+        "choices": ["3.5%", "5.5%", "7.5%", "9.5%"],
+        "answer": 0,
+        "fact": "The rate dipped to 3.4% in October 2022, the lowest since 1974, as the labour market tightened sharply after the pandemic.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "From July 2023, Australia's 'Cheaper Child Care' reforms lifted the maximum childcare subsidy for lower-income families to what share of fees?",
+        "choices": ["60%", "75%", "90%", "100%"],
+        "answer": 2,
+        "fact": "The changes raised the subsidy for about 1.2 million families and lifted the income cut-off to $530,000.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "The 2022-23 federal budget outcome was Australia's first surplus since which financial year?",
+        "choices": ["2001-02", "2007-08", "2012-13", "2018-19"],
+        "answer": 1,
+        "fact": "The $22 billion surplus was helped by high commodity prices and strong employment; a second surplus followed in 2023-24.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In the 2021 Census, roughly what proportion of Australians reported having 'no religion'?",
+        "choices": ["49%", "39%", "29%", "19%"],
+        "answer": 1,
+        "fact": "The scheme ran from July 2015 to November 2019 and was found unlawful; it raised about $1.7 billion in debts, and a 2020 class action was settled for $1.2 billion.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "The 'Robodebt' scheme, examined by a royal commission that reported in July 2023, used automated income averaging to raise what?",
+        "choices": ["Unpaid tax bills", "Student loan repayments", "Unpaid traffic fines", "Welfare overpayment debts"],
+        "answer": 3,
+        "fact": "The scheme ran from 2015 to 2019 and was found unlawful; a 2020 class-action settlement was worth about $1.8 billion.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In July 2024, Australia more than doubled its international student visa application fee to what amount?",
+        "choices": ["$1,600", "$900", "$1,200", "$2,500"],
+        "answer": 0,
+        "fact": "The fee rose from $710 and was lifted again to $2,000 in July 2025, making it the most expensive student visa among major study destinations.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "The May 2023 federal budget raised the maximum rate of Commonwealth Rent Assistance by what percentage, the largest rise in 30 years?",
+        "choices": ["25%", "5%", "15%", "40%"],
+        "answer": 2,
+        "fact": "A further 10% increase followed in the 2024 budget as rents rose sharply and vacancy rates in major cities sat near 1%.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Australia's National Housing Accord set a target of building how many new homes in the five years from July 2024?",
+        "choices": ["1.2 million", "600,000", "2 million", "3 million"],
+        "answer": 0,
+        "fact": "The target was lifted from an initial 1 million in 2023; it equates to 240,000 homes a year, well above recent building rates.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "From February 2024, Australia's Workplace Gender Equality Agency began publishing gender pay gaps for employers with at least how many employees?",
+        "choices": ["20", "100", "500", "1,000"],
+        "answer": 1,
+        "fact": "Around 5,000 employers were named in the first release, which showed a median total pay gap of about 19% in favour of men.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In November 2023, the federal government changed the Medicare bulk-billing incentive for GP visits by children and concession card holders in what way?",
+        "choices": ["Doubled it", "Quadrupled it", "Halved it", "Tripled it"],
+        "answer": 3,
+        "fact": "The $3.5 billion measure aimed to reverse a slide in bulk billing; in 2025 the incentive was extended to all patients.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
     "general": [
       {
         "q": "What is the Aboriginal name of the giant sandstone rock in Central Australia once called Ayers Rock?",

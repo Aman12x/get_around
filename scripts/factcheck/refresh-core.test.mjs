@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { applyVerified, screenProposals } from './refresh-core.mjs';
+import { applyVerified, REFRESH_TOPICS, screenProposals, writerPrompt } from './refresh-core.mjs';
 import { stringifyBank } from './lib.mjs';
 
 const SRC = ['https://example.com/a'];
@@ -78,6 +78,20 @@ describe('applyVerified', () => {
     expect(qs[2].q).toBe('Old three?');
     expect(qs[0]).toEqual(q('New one?'));
     expect(qs[1].q).toBe('Old two?');
+  });
+});
+
+describe('writerPrompt', () => {
+  const qs = [q('Old one?')];
+  it('briefs the writer on the subject being refreshed', () => {
+    const society = writerPrompt('kenya', qs, { fresh: 2, today: '2026-10-06', topic: 'society' });
+    expect(society).toContain('Subject: Society & Economy');
+    expect(society).toContain('social and economic developments in kenya');
+    expect(society).toContain('up to 2 new questions');
+    const news = writerPrompt('kenya', qs, { fresh: 1, today: '2026-10-06' });
+    expect(news).toContain('Subject: Current Affairs');
+    expect(news).toContain('news from roughly the last two months about kenya');
+    expect(Object.keys(REFRESH_TOPICS)).toEqual(['current-affairs', 'society']);
   });
 });
 
