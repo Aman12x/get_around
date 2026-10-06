@@ -911,6 +911,208 @@
         "asOf": "2023"
       }
     ],
+    "society": [
+      {
+        "q": "Which camp in northern Jordan, opened in 2012, remained one of the world's largest refugee camps with about 80,000 residents in the 2020s?",
+        "choices": ["Zaatari", "Azraq", "Baqa'a", "Jerash"],
+        "answer": 0,
+        "fact": "Home to Syrians, Zaatari has its own market street nicknamed the 'Champs-Élysées'; Jordan hosted around 650,000 UNHCR-registered Syrians overall.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Since 1995 the Jordanian dinar has been pegged to which currency?",
+        "choices": ["Euro", "British pound", "Saudi riyal", "US dollar"],
+        "answer": 3,
+        "fact": "The fixed rate of about 0.71 dinar to the dollar has helped keep inflation low but makes Jordan one of the region's pricier countries for visitors.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Jordan's unemployment rate in 2023 was roughly what?",
+        "choices": ["7%", "14%", "22%", "35%"],
+        "answer": 2,
+        "fact": "The Department of Statistics put the rate at 22.0%, down from a pandemic peak of about 24% in 2021.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Unlike many countries, Jordan's inflation rate in 2022 stayed near what level?",
+        "choices": ["12%", "4%", "25%", "60%"],
+        "answer": 1,
+        "fact": "The dollar peg and government-set fuel and bread prices kept inflation at about 4.2%; it fell to around 2% in 2023.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2019 which profession's syndicate held a month-long nationwide strike in Jordan over pay?",
+        "choices": ["Teachers", "Doctors", "Bus drivers", "Nurses"],
+        "answer": 0,
+        "fact": "The strike ended with an agreement on pay rises of 35% to 75% depending on rank; the syndicate was suspended by a court order in 2020.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "In January 2020 Jordan began importing natural gas under a 15-year deal from which neighbour?",
+        "choices": ["Egypt", "Saudi Arabia", "Iraq", "Israel"],
+        "answer": 3,
+        "fact": "The $10 billion deal with the Leviathan field's partners went ahead despite parliamentary opposition; Jordan imports almost all of its energy.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In 2018 nationwide protests in Jordan against an IMF-backed bill on which tax led the prime minister to resign?",
+        "choices": ["VAT", "Property tax", "Income tax", "Car tax"],
+        "answer": 2,
+        "fact": "Hani Mulki resigned and was replaced by Omar Razzaz; a revised income tax law still passed later in 2018.",
+        "difficulty": 1,
+        "asOf": "2018"
+      },
+      {
+        "q": "By 2023 Jordan's population was estimated by its Department of Statistics at roughly what?",
+        "choices": ["5 million", "11 million", "8 million", "16 million"],
+        "answer": 1,
+        "fact": "The 2015 census counted 9.5 million, of whom roughly 30% were non-Jordanians, including Syrians, Egyptians and Palestinians.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "To make room for Syrian refugee children, many Jordanian public schools adopted what arrangement?",
+        "choices": ["Double shifts", "Weekend classes", "Online-only lessons", "Boarding places"],
+        "answer": 0,
+        "fact": "Jordanian pupils typically attend in the morning and Syrian pupils in the afternoon; more than 200 schools ran double shifts.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In the early 2020s roughly what share of young Jordanians aged 15 to 24 in the labour force were unemployed?",
+        "choices": ["About 1 in 10", "About 1 in 4", "About three-quarters", "Nearly half"],
+        "answer": 3,
+        "fact": "Youth unemployment reached about 46% in 2022, among the highest rates in the world, despite Jordan's high university enrolment.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In January 2024 the IMF approved a new four-year programme for Jordan worth about how much?",
+        "choices": ["$300 million", "$5 billion", "$1.2 billion", "$12 billion"],
+        "answer": 2,
+        "fact": "It followed a $1.3 billion arrangement agreed in 2020; Jordan has had IMF programmes almost continuously since 2012.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2021 Jordan raised its monthly minimum wage from 220 dinars to what?",
+        "choices": ["240 dinars", "260 dinars", "300 dinars", "350 dinars"],
+        "answer": 1,
+        "fact": "The rise took effect on 1 January 2021; a further increase to 290 dinars followed in January 2025.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Which ten-year plan launched by Jordan in 2022 set a target of creating one million jobs?",
+        "choices": ["Economic Modernisation Vision", "Jordan 2040 Charter", "National Renaissance Plan", "Hashemite Growth Compact"],
+        "answer": 0,
+        "fact": "Launched by King Abdullah II in June 2022, it aims to double growth and attract about 41 billion dinars of investment over a decade.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In March 2020 Jordan activated which 1992 law to impose one of the world's strictest COVID-19 lockdowns?",
+        "choices": ["The Emergency Law", "The Public Order Law", "The Martial Law", "The Defence Law"],
+        "answer": 3,
+        "fact": "Defence orders governed curfews, business closures and even temporary pay cuts; the lockdown began with sirens and a total curfew.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "In December 2022 lorry drivers in southern Jordan went on strike over the price of what?",
+        "choices": ["Bread", "Tyres", "Diesel", "Electricity"],
+        "answer": 2,
+        "fact": "The protests began in the city of Ma'an after fuel prices rose with world oil markets, and spread to other southern towns.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "How often does Jordan's government reset the official price of petrol and diesel?",
+        "choices": ["Weekly", "Monthly", "Quarterly", "Annually"],
+        "answer": 1,
+        "fact": "A pricing committee announces the new prices at the end of each month based on world oil prices, so fuel costs are a regular news item.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Jordan's 'National Water Carrier' project agreed in the 2020s will desalinate Red Sea water at which city?",
+        "choices": ["Aqaba", "Irbid", "Zarqa", "Karak"],
+        "answer": 0,
+        "fact": "The water will be pumped about 450 km uphill to Amman; Jordan is among the most water-scarce countries, with annual supply per person under 100 cubic metres.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In the early 2020s roughly what share of Jordanian women were in the labour force, one of the lowest rates in the world?",
+        "choices": ["30%", "45%", "60%", "14%"],
+        "answer": 3,
+        "fact": "The rate is striking because women make up over half of Jordan's university students; childcare costs and transport are often cited as barriers.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "By 2023 Jordan's public debt stood at roughly what share of GDP?",
+        "choices": ["30%", "60%", "90%", "150%"],
+        "answer": 2,
+        "fact": "The figure excludes debt held by the Social Security Investment Fund; including it, debt was over 110% of GDP.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Under Jordan's Social Security Corporation rules, the standard retirement age for men is what?",
+        "choices": ["55", "60", "62", "65"],
+        "answer": 1,
+        "fact": "Women can retire at 55; the corporation covers private-sector workers and runs the country's main pension fund.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "The 2016 'Jordan Compact' agreed with the EU and donors opened work permits to refugees from which country?",
+        "choices": ["Syria", "Iraq", "Yemen", "Sudan"],
+        "answer": 0,
+        "fact": "More than 300,000 permits had been issued by 2022, mostly in agriculture and construction, in return for trade concessions and grants.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "What is the name of the cash-assistance programme that Jordan's National Aid Fund expanded during the pandemic?",
+        "choices": ["Sanad", "Himmat Watan", "Zakat Plus", "Takaful"],
+        "answer": 3,
+        "fact": "Takaful payments are made through e-wallets; the World Bank supported its expansion to tens of thousands of extra families from 2020.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2019 Greater Amman Municipality launched which branded bus network to modernise the capital's public transport?",
+        "choices": ["Amman Metro", "Rakeb", "Amman Bus", "CityLink"],
+        "answer": 2,
+        "fact": "Buses with fixed timetables, GPS tracking and smart cards were a novelty in a city long served by informal minibuses.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "By the 2020s what was Jordan's biggest manufactured export to the United States?",
+        "choices": ["Cars", "Clothing", "Phosphate fertiliser", "Olive oil"],
+        "answer": 1,
+        "fact": "Garment factories, many staffed by workers from South Asia, grew under a 2001 free-trade agreement and ship over $1 billion of clothing a year to the US.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "By 2023 roughly what share of Jordan's electricity was generated from renewable sources?",
+        "choices": ["27%", "5%", "50%", "75%"],
+        "answer": 0,
+        "fact": "Solar and wind grew from almost nothing in 2014, with large solar farms around Ma'an and the Tafila wind project.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
     "general": [
       {
         "q": "The Dead Sea shore is the lowest point on dry land on Earth. Roughly how far below sea level does it lie?",

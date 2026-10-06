@@ -911,6 +911,208 @@
         "asOf": "2021"
       }
     ],
+    "society": [
+      {
+        "q": "Iranians usually quote prices in tomans rather than rials. One toman equals how many rials?",
+        "choices": ["10", "100", "1,000", "10,000"],
+        "answer": 0,
+        "fact": "Shops, taxis and property adverts almost all use tomans, so a visitor reading a price tag has to multiply by ten to get the official rial figure.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In November 2019, a sudden overnight rise in the price of which product triggered nationwide protests in Iran?",
+        "choices": ["Bread", "Electricity", "Mobile data", "Petrol"],
+        "answer": 3,
+        "fact": "The rationed petrol price rose by 50% and the unrationed price tripled, announced with no warning at midnight on 15 November 2019.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Iran's economy has been squeezed by sanctions reimposed after the United States withdrew in 2018 from which agreement?",
+        "choices": ["The Algiers Accords", "The Paris Climate Agreement", "The JCPOA nuclear deal", "The Caspian Sea Convention"],
+        "answer": 2,
+        "fact": "The rial lost most of its value against the dollar in the years after the 2018 withdrawal, feeding persistent double-digit inflation.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In the 2020s, which country has been by far the largest buyer of Iranian oil?",
+        "choices": ["India", "Turkey", "Russia", "China"],
+        "answer": 3,
+        "fact": "Independent 'teapot' refineries in China's Shandong province take most of the crude, often routed through intermediaries despite US sanctions.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2024 and 2025, Iranian authorities repeatedly closed government offices and schools for days to save what?",
+        "choices": ["Drinking water", "Petrol", "Paper", "Electricity and gas"],
+        "answer": 3,
+        "fact": "Rolling blackouts hit homes and factories in summer and winter alike, as ageing power plants and gas shortages failed to keep pace with demand.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "By 2023, Iran's population was closest to which figure?",
+        "choices": ["30 million", "60 million", "90 million", "150 million"],
+        "answer": 2,
+        "fact": "Iran's population has more than doubled since the 1979 revolution, although growth has slowed sharply as the birth rate has fallen.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, Iran's official annual inflation rate was closest to which figure?",
+        "choices": ["5%", "15%", "45%", "90%"],
+        "answer": 2,
+        "fact": "Food prices rose even faster than the headline rate, and Iran has had one of the highest inflation rates in the world since 2018.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Iran holds the world's second-largest reserves of which fuel, yet suffered winter shortages of it in 2024?",
+        "choices": ["Coal", "Uranium", "Diesel", "Natural gas"],
+        "answer": 3,
+        "fact": "Only Russia has larger gas reserves, but under-investment and heavy domestic use left Iran burning fuel oil in power plants to cope.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which large salt lake in north-western Iran has shrunk dramatically since the 1990s, prompting a national restoration effort?",
+        "choices": ["Lake Urmia", "The Caspian Sea", "Lake Hamun", "Lake Bakhtegan"],
+        "answer": 0,
+        "fact": "Once one of the largest salt lakes on Earth, Urmia lost about 90% of its area by 2015, with salt storms affecting nearby farms and towns.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In May 2020, Iran's parliament approved a plan to rename the currency the toman and remove how many zeros from the rial?",
+        "choices": ["One", "Two", "Four", "Six"],
+        "answer": 2,
+        "fact": "The redenomination was planned to take several years to phase in; a renewed version was approved again in 2025.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "In December 2024, Iran lifted its block on which messaging app, which had been restricted since 2022?",
+        "choices": ["Telegram", "Signal", "WhatsApp", "Facebook Messenger"],
+        "answer": 2,
+        "fact": "The Supreme Council of Cyberspace unblocked WhatsApp and Google Play; Telegram, blocked since 2018, remained restricted.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "On taking office in 2021, President Ebrahim Raisi pledged to build how many new homes a year to tackle Iran's housing crisis?",
+        "choices": ["100,000", "250,000", "500,000", "1 million"],
+        "answer": 3,
+        "fact": "The 'National Housing Movement' targeted four million homes in four years; construction lagged far behind the goal as building costs soared.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2022, Iran approved resuming imports of which consumer product, banned since 2018 to save foreign currency?",
+        "choices": ["Smartphones", "Cars", "Rice", "Televisions"],
+        "answer": 1,
+        "fact": "The ban left domestic makers Iran Khodro and Saipa with little competition; the first imported cars arrived in 2023.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In May 2025, which group of workers held a nationwide strike across Iran over fuel costs, insurance and low rates?",
+        "choices": ["Teachers", "Nurses", "Lorry drivers", "Oil workers"],
+        "answer": 2,
+        "fact": "The strike spread to dozens of cities within days, disrupting deliveries, and followed earlier proposals to raise diesel prices.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "Iran's official overall unemployment rate in 2023 was closest to which figure?",
+        "choices": ["3%", "8%", "20%", "35%"],
+        "answer": 1,
+        "fact": "The headline figure masks far higher joblessness among graduates and young people, and a labour force participation rate of only about 40%.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "By 2020, Iran's fertility rate had fallen to roughly how many children per woman?",
+        "choices": ["1.7", "2.5", "3.5", "4.5"],
+        "answer": 0,
+        "fact": "The rate was above six in the early 1980s; its rapid fall prompted the government to drop family-planning programmes and push pro-natal policies.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "What do Iranians call the monthly cash payment the state has made to most citizens since subsidies were cut in 2010?",
+        "choices": ["Yaraneh", "Sahmiyeh", "Bonyad", "Khoms"],
+        "answer": 0,
+        "fact": "Inflation eroded the original 455,000-rial payment; new, larger payments were added in 2022 after food import subsidies were removed.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In which Iranian city are schools and offices regularly closed for days each winter because of severe air pollution?",
+        "choices": ["Shiraz", "Tehran", "Rasht", "Bandar Abbas"],
+        "answer": 1,
+        "fact": "Tehran's mountain-ringed basin traps smog from old vehicles and, in gas-short winters, from power plants burning fuel oil.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2022, Iran scrapped a preferential exchange rate of about how many rials to the US dollar used for importing essential goods?",
+        "choices": ["4,200", "42,000", "420,000", "4,200,000"],
+        "answer": 1,
+        "fact": "The rate had been introduced in 2018; its removal in May 2022 caused the price of flour-based foods and cooking oil to jump sharply.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Since the 2019 reform, Iranian private motorists have received a monthly quota of how many litres of petrol at the cheapest subsidised price?",
+        "choices": ["20 litres", "60 litres", "120 litres", "200 litres"],
+        "answer": 1,
+        "fact": "Drivers use a 'fuel card' at the pump; the quota price of 15,000 rials a litre stayed among the lowest in the world for years.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "In March 2022, Iran's Supreme Labour Council raised the monthly minimum wage by roughly what percentage?",
+        "choices": ["7%", "20%", "57%", "100%"],
+        "answer": 2,
+        "fact": "The 57% rise was the largest in decades, but employers' groups objected and inflation soon ate into the gain.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "What was the name of the law passed by Iran's parliament in 2021 to raise the birth rate?",
+        "choices": ["Youthful Population and Protection of the Family", "National Family Charter", "Mothers' Dignity Act", "Second Generation Plan"],
+        "answer": 0,
+        "fact": "The law offered loans and housing perks to parents and restricted the free distribution of contraceptives in the public health system.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In the early 2020s, women's labour force participation in Iran was closest to which figure?",
+        "choices": ["4%", "14%", "35%", "55%"],
+        "answer": 1,
+        "fact": "The rate is among the lowest in the world even though women make up more than half of Iran's university students.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2024, Iran raised its value-added tax rate from 9% to what?",
+        "choices": ["10%", "12%", "15%", "18%"],
+        "answer": 0,
+        "fact": "The one-point rise took effect with the Iranian year starting in March 2024, as the state sought revenue to offset lower oil income.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In November 2021, farmers in Isfahan held large protests in the dried-up bed of which river?",
+        "choices": ["Karun", "Zayandeh Rud", "Sefid Rud", "Aras"],
+        "answer": 1,
+        "fact": "Water from the river had been diverted to industry and other provinces; its famous Isfahan bridges now often stand over dry ground.",
+        "difficulty": 3,
+        "asOf": "2021"
+      }
+    ],
     "general": [
       {
         "q": "What is the Persian New Year, celebrated at the spring equinox, called?",

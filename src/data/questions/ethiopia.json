@@ -911,6 +911,208 @@
         "asOf": "2023"
       }
     ],
+    "society": [
+      {
+        "q": "During 2022, Ethiopia's annual inflation rate hovered around what level?",
+        "choices": ["5%", "12%", "30%", "60%"],
+        "answer": 2,
+        "fact": "Food prices rose fastest, with inflation above 30% for much of 2022 and 2023 before easing in 2024.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Which product was Ethiopia's biggest export earner throughout the early 2020s?",
+        "choices": ["Gold", "Cut flowers", "Oilseeds", "Coffee"],
+        "answer": 3,
+        "fact": "Ethiopia is Africa's largest coffee producer, and millions of smallholder households depend on the crop for cash income.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2023, the median age of Ethiopia's population was roughly what?",
+        "choices": ["About 19", "About 27", "About 34", "About 42"],
+        "answer": 0,
+        "fact": "Roughly 40% of Ethiopians were under 15, making job creation for young people a central economic issue.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2022, UN estimates put Ethiopia's population at roughly how many people?",
+        "choices": ["About 60 million", "About 90 million", "About 120 million", "About 200 million"],
+        "answer": 2,
+        "fact": "The country adds over 2.5 million people a year and is projected to pass 200 million by around 2050.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Between 2020 and 2023, southern and eastern Ethiopia endured the Horn of Africa's worst drought in roughly how many years?",
+        "choices": ["10 years", "20 years", "100 years", "40 years"],
+        "answer": 3,
+        "fact": "Five consecutive rainy seasons failed, devastating pastoralist herds in the Somali and Oromia regions.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In the early 2020s, which sector still employed the majority of Ethiopia's workforce?",
+        "choices": ["Manufacturing", "Agriculture", "Mining", "Tourism"],
+        "answer": 1,
+        "fact": "Around two-thirds of workers were in farming, mostly on small rain-fed plots, so harvests shape the whole economy.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "According to World Bank data for 2022, roughly what share of Ethiopians had access to electricity?",
+        "choices": ["About 15%", "About 55%", "About 80%", "About 95%"],
+        "answer": 1,
+        "fact": "Access is far higher in cities than in the countryside, where many households still rely on kerosene and firewood.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In July 2022, Ethiopia began phasing out subsidies on what, sending prices sharply higher?",
+        "choices": ["Fuel", "Bread", "Electricity", "Mobile data"],
+        "answer": 0,
+        "fact": "Public transport operators were initially exempted to soften the blow for commuters in Addis Ababa.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2023, Ethiopia's government said a large irrigation drive meant it would stop importing which staple grain?",
+        "choices": ["Rice", "Maize", "Barley", "Wheat"],
+        "answer": 3,
+        "fact": "Lowland irrigated wheat was planted on hundreds of thousands of hectares; analysts questioned how much was actually exported.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In December 2023, Ethiopia became the third African country in three years to default on what?",
+        "choices": ["A Eurobond payment", "World Bank loans", "Chinese railway loans", "Its AU membership fees"],
+        "answer": 0,
+        "fact": "It missed a $33m coupon on its only international bond, following Zambia and Ghana into default.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "By 2024, Ethiopia was hosting roughly how many refugees, one of the largest numbers in Africa?",
+        "choices": ["About 100,000", "About 400,000", "About 1 million", "About 4 million"],
+        "answer": 2,
+        "fact": "Most came from South Sudan, Somalia, Eritrea and Sudan, and were housed in camps near the borders.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In October 2018, Ethiopia formed a cabinet in which what share of ministers were women?",
+        "choices": ["A quarter", "A third", "Half", "Two-thirds"],
+        "answer": 2,
+        "fact": "Ten of the twenty ministers were women, including the heads of defence and peace, a first for Ethiopia.",
+        "difficulty": 2,
+        "asOf": "2018"
+      },
+      {
+        "q": "As of 2024, Ethiopia was unusual among large countries in lacking what for private-sector workers?",
+        "choices": ["A pension scheme", "A weekly day off", "Paid maternity leave", "A national minimum wage"],
+        "answer": 3,
+        "fact": "A 2019 labour law allowed for a wage board to set one, but no national minimum wage had been fixed.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "When Ethiopia replaced its banknotes in September 2020, how long were people given to swap old notes?",
+        "choices": ["One week", "Three months", "One year", "Three years"],
+        "answer": 1,
+        "fact": "A new 200-birr note was introduced, and cash withdrawals were capped to push hoarded money back into banks.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "In October 2024, Ethiopia offered the public shares in which state company for the first time?",
+        "choices": ["Ethiopian Airlines", "Ethio Telecom", "Commercial Bank of Ethiopia", "Ethiopian Electric Power"],
+        "answer": 1,
+        "fact": "Ten percent of the company was offered at 300 birr a share, with purchases made through the telebirr app.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In which year did Ethiopia last hold a national population census?",
+        "choices": ["1994", "2007", "2015", "2021"],
+        "answer": 1,
+        "fact": "A fourth census has been postponed repeatedly since 2017, so population figures rely on projections.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "By the end of 2024, a few months after the birr was floated, one US dollar bought roughly how many birr at banks?",
+        "choices": ["About 25", "About 60", "About 400", "About 125"],
+        "answer": 3,
+        "fact": "The rate had been held near 57 birr before the July 2024 reform, so imported goods became much dearer.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In the 2022 national school-leaving exam, roughly what share of Ethiopian students scored the 50% needed for university?",
+        "choices": ["About 3%", "About 25%", "About 50%", "About 75%"],
+        "answer": 0,
+        "fact": "Only about 30,000 of nearly 900,000 candidates passed after exams were moved to university campuses to curb cheating.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In July 2024, alongside the currency float, the IMF approved a four-year programme for Ethiopia worth roughly how much?",
+        "choices": ["$800 million", "$3.4 billion", "$10 billion", "$25 billion"],
+        "answer": 1,
+        "fact": "About $1bn was released immediately, and the deal unlocked further World Bank financing for the reforms.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Ethiopia's Productive Safety Net Programme, which gives cash or food for work, supported roughly how many people in 2020?",
+        "choices": ["About 1 million", "About 3 million", "About 30 million", "About 8 million"],
+        "answer": 3,
+        "fact": "Launched in 2005, it is one of Africa's largest social protection schemes and is backed by the World Bank.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "What is 'Fayda', rolled out in Ethiopia from 2021?",
+        "choices": ["A national digital ID", "A ride-hailing app", "A fuel ration card", "A wheat subsidy"],
+        "answer": 0,
+        "fact": "The biometric ID is being linked to banking and other public services, with a target of tens of millions of registrations by 2025.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "What is the name of the scheme launched in 2024 that widened roads and cleared old neighbourhoods across Addis Ababa?",
+        "choices": ["Corridor Development Project", "Green Legacy", "Addis Rising", "Smart City Initiative"],
+        "answer": 0,
+        "fact": "It added cycle lanes and pavements but displaced many residents and traders from inner-city areas.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Ethiopia's 2021 labour force survey put urban unemployment at roughly what rate?",
+        "choices": ["About 5%", "About 35%", "About 50%", "About 18%"],
+        "answer": 3,
+        "fact": "Rural unemployment was only about 5%, but much rural work is unpaid or seasonal on family farms.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In early 2021, Ethiopia became one of the first countries to seek debt relief under which G20 initiative?",
+        "choices": ["The Common Framework", "The Paris Club", "HIPC", "The Brady Plan"],
+        "answer": 0,
+        "fact": "Talks with creditors dragged on for years, and a bilateral debt restructuring deal was only agreed in 2025.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2024, Ethiopia's central bank introduced its first formal policy interest rate, set at what level?",
+        "choices": ["5%", "10%", "15%", "25%"],
+        "answer": 2,
+        "fact": "The move was part of a shift from directly rationing credit towards steering the economy with interest rates.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
     "general": [
       {
         "q": "What is the capital of Ethiopia?",

@@ -911,6 +911,208 @@
         "asOf": "2024"
       }
     ],
+    "society": [
+      {
+        "q": "Which instant payment system, launched by Brazil's central bank in November 2020, became the country's most used way to pay?",
+        "choices": ["Pix", "Boleto", "Mercado Pago", "TED"],
+        "answer": 0,
+        "fact": "Pix transfers are free for individuals and settle in seconds; within a few years it handled more transactions than credit and debit cards combined.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "Brazil's 2019 pension reform set a minimum retirement age of 65 for men and what for women?",
+        "choices": ["58", "60", "62", "65"],
+        "answer": 2,
+        "fact": "The constitutional amendment passed in November 2019 also lengthened contribution periods and was projected to save about R$800 billion over a decade.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "Brazil's 2022 census counted roughly how many people?",
+        "choices": ["163 million", "183 million", "203 million", "223 million"],
+        "answer": 2,
+        "fact": "The total of 203.1 million was about 10 million below earlier IBGE projections; the census had been delayed from 2020 by the pandemic.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "When Bolsa Família was relaunched in March 2023, what minimum monthly payment per family did it guarantee?",
+        "choices": ["R$300", "R$400", "R$600", "R$900"],
+        "answer": 2,
+        "fact": "Families also receive an extra R$150 for each child under six; the programme reached roughly 21 million households in 2023.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In December 2024, the Brazilian real weakened past what level against the US dollar for the first time?",
+        "choices": ["4 reais", "5 reais", "6 reais", "8 reais"],
+        "answer": 2,
+        "fact": "The slide followed market doubts about a government spending-cut package; the central bank sold dollars from its reserves to steady the currency.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2024, Brazil's average unemployment rate fell to roughly what, the lowest since the IBGE series began in 2012?",
+        "choices": ["3%", "7%", "11%", "15%"],
+        "answer": 1,
+        "fact": "The annual average was 6.6%, down from 7.8% in 2023, and the rate dipped to 6.2% in the final quarter of 2024.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Brazil's official IPCA inflation rate for 2021 was roughly what, the highest in six years?",
+        "choices": ["3%", "6%", "10%", "17%"],
+        "answer": 2,
+        "fact": "Inflation of 10.06% in 2021 was driven by fuel, electricity and food prices, and the central bank responded with a long series of rate rises.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "In July 2025, the UN's Food and Agriculture Organization reported that Brazil had once again left which list?",
+        "choices": ["The Hunger Map", "The Least Developed Countries list", "The money-laundering grey list", "The deforestation watchlist"],
+        "answer": 0,
+        "fact": "Undernourishment fell below the 2.5% threshold; Brazil had first left the Hunger Map in 2014 and returned to it in 2022.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "Which country was the main source of refugees and migrants received through Brazil's 'Operação Acolhida' in Roraima state?",
+        "choices": ["Bolivia", "Haiti", "Argentina", "Venezuela"],
+        "answer": 3,
+        "fact": "By 2023 Brazil hosted more than half a million Venezuelans; the operation relocated tens of thousands of them to other states to find work.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2021, Brazil's government replaced Bolsa Família with a programme called what?",
+        "choices": ["Renda Cidadã", "Brasil Carinhoso", "Bolsa Verde", "Auxílio Brasil"],
+        "answer": 3,
+        "fact": "Auxílio Brasil raised the minimum benefit to R$400 and then R$600 in 2022; the Bolsa Família name was restored in 2023.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Desenrola Brasil, launched in July 2023, helped Brazilians do what?",
+        "choices": ["Buy their first home", "Renegotiate overdue debts", "Register as self-employed", "Claim unpaid pensions"],
+        "answer": 1,
+        "fact": "Banks offered discounts to clear defaulted debts, and small debts of up to R$100 were struck off credit blacklists; millions of people took part.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "A constitutional amendment passed in December 2023 overhauled Brazil's consumption taxes, replacing five levies with what?",
+        "choices": ["A value-added tax", "A flat 5% sales tax", "A wealth tax", "Import tariffs"],
+        "answer": 0,
+        "fact": "The dual VAT (CBS and IBS) replaces PIS, Cofins, IPI, ICMS and ISS, with a transition running from 2026 to 2033.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "What does the '6x1' campaign, which gained momentum in Brazil in late 2024, seek to end?",
+        "choices": ["Six-month probation periods", "A six-year wait for pensions", "Six-hour school days", "Six working days followed by one day off"],
+        "answer": 3,
+        "fact": "The push for a constitutional amendment spread on social media from a movement called VAT; Brazil's legal limit is a 44-hour week.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which housing programme did the Brazilian government relaunch under its original name in February 2023?",
+        "choices": ["Casa Verde e Amarela", "Minha Casa Minha Vida", "Lar Brasileiro", "Morar Bem"],
+        "answer": 1,
+        "fact": "It had been renamed Casa Verde e Amarela in 2020; the relaunch restored a heavily subsidised tier for the lowest-income families.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In January 2023, which large Brazilian retailer revealed accounting 'inconsistencies' of about R$20 billion, leading to a huge bankruptcy case?",
+        "choices": ["Magazine Luiza", "Casas Bahia", "Lojas Renner", "Americanas"],
+        "answer": 3,
+        "fact": "The retailer, founded in 1929, filed for judicial recovery days later with debts of over R$40 billion.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Brazil's 2022 census found that people aged 65 and over made up roughly what share of the population?",
+        "choices": ["5%", "11%", "17%", "23%"],
+        "answer": 1,
+        "fact": "The share rose from 7.4% in 2010 to 10.9%, while the number of children under 15 fell; the median age reached 35.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "Nubank, the Brazilian digital bank, listed its shares in December 2021 on which stock exchange?",
+        "choices": ["Nasdaq", "New York Stock Exchange", "London Stock Exchange", "Hong Kong Stock Exchange"],
+        "answer": 1,
+        "fact": "The IPO valued it at over US$40 billion; by 2024 it counted more than 100 million customers across Brazil, Mexico and Colombia.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "A law signed in November 2025 exempted Brazilians earning up to what monthly amount from income tax, starting in 2026?",
+        "choices": ["R$2,500", "R$3,500", "R$5,000", "R$7,500"],
+        "answer": 2,
+        "fact": "The Finance Ministry said about 20 million people would stop paying; the loss is offset by a minimum tax of up to 10% on very high incomes.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "In August 2022, Brazil's central bank raised the Selic benchmark rate to what level, where it then stayed for a year?",
+        "choices": ["9.25%", "11.75%", "13.75%", "15.50%"],
+        "answer": 2,
+        "fact": "The Selic had been at a record low of 2% in early 2021 before twelve consecutive increases; cuts began in August 2023.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Brazil's 2022 census showed annual population growth since 2010 of roughly what, the slowest since the first census in 1872?",
+        "choices": ["0.5%", "1.2%", "1.9%", "2.6%"],
+        "answer": 0,
+        "fact": "Growth of 0.52% a year reflected a falling birth rate; the population rose by 12.3 million over the 12 years.",
+        "difficulty": 3,
+        "asOf": "2022"
+      },
+      {
+        "q": "Pé-de-Meia, created in 2024, pays low-income public high-school students how much per month to stay in school?",
+        "choices": ["R$100", "R$200", "R$400", "R$600"],
+        "answer": 1,
+        "fact": "Pupils also get R$1,000 deposited for each completed year, withdrawable after graduation; 3.9 million students enrolled in the first year.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "During the 2021 drought, Brazil added which new top tier to the 'tariff flag' surcharge on electricity bills?",
+        "choices": ["Black flag", "Emergency flag", "Red flag level 3", "Water scarcity flag"],
+        "answer": 3,
+        "fact": "The 'bandeira escassez hídrica' added R$14.20 per 100 kWh; reservoirs at hydro plants had fallen to their lowest in about 90 years.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2023, Brazil replaced the 2016 constitutional spending cap (teto de gastos) with which new fiscal rule?",
+        "choices": ["The golden rule", "The fiscal framework (arcabouço fiscal)", "The zero-deficit pact", "The debt brake"],
+        "answer": 1,
+        "fact": "The new rule lets spending grow at up to 70% of revenue growth, within a band of 0.6% to 2.5% real growth a year.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Brazil's national minimum monthly wage was set at what for 2025?",
+        "choices": ["R$1,212", "R$1,320", "R$1,412", "R$1,518"],
+        "answer": 3,
+        "fact": "The rise from R$1,412 followed a formula of inflation plus GDP growth, with the real increase capped at 2.5% by the new fiscal rule.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "Brazil's unemployment rate peaked during the pandemic at roughly what in early 2021?",
+        "choices": ["9%", "12%", "15%", "20%"],
+        "answer": 2,
+        "fact": "The 14.7% rate in the quarter to March 2021 was the highest in the IBGE series, with about 14.8 million people out of work.",
+        "difficulty": 3,
+        "asOf": "2021"
+      }
+    ],
     "general": [
       {
         "q": "What is the official language of Brazil?",

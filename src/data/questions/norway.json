@@ -911,6 +911,208 @@
         "asOf": "2019"
       }
     ],
+    "society": [
+      {
+        "q": "By the end of 2024, Norway's Government Pension Fund Global, the oil fund, was worth closest to how much?",
+        "choices": ["170 billion US dollars", "600 billion US dollars", "1.7 trillion US dollars", "9 trillion US dollars"],
+        "answer": 2,
+        "fact": "That works out at over 300,000 US dollars for every Norwegian; the fund owns about 1.5% of all listed shares in the world.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Most of Norway's electricity comes from which source?",
+        "choices": ["Nuclear", "Natural gas", "Hydropower", "Wind"],
+        "answer": 2,
+        "fact": "Hydropower supplies roughly 90% of generation, which is why the 2021-22 price surge in the south came as a shock to households.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "What is Norway's standard rate of VAT?",
+        "choices": ["15%", "20%", "25%", "30%"],
+        "answer": 2,
+        "fact": "Food is taxed at a reduced 15%, and transport, cinema and hotel stays at 12%, which still leaves Norway with some of Europe's highest shop prices.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In December 2021, Norway introduced a scheme paying part of households' bills for what?",
+        "choices": ["Electricity", "Rent", "Petrol", "Broadband"],
+        "answer": 0,
+        "fact": "The 'strømstøtte' covers a share of the price above a set threshold per kilowatt-hour and was extended repeatedly as prices stayed high.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Since 2022, people from which country have made up by far the largest group of refugees arriving in Norway?",
+        "choices": ["Syria", "Ukraine", "Afghanistan", "Eritrea"],
+        "answer": 1,
+        "fact": "More than 80,000 Ukrainians had been granted collective protection by 2024, the largest refugee arrival in Norway's history.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In Norway, wine and spirits can be bought only from which state-owned chain?",
+        "choices": ["Systembolaget", "Vinmonopolet", "Alko", "Rema 1000"],
+        "answer": 1,
+        "fact": "Supermarkets may sell drinks up to 4.7% alcohol, and only until 8pm on weekdays; high prices send many Norwegians over the border to Sweden.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "What is the standard age at which Norwegians draw the full state pension?",
+        "choices": ["60", "62", "65", "67"],
+        "answer": 3,
+        "fact": "The pension can be drawn flexibly from 62 to 75, with higher monthly payments for those who wait longer.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Norway's unemployment rate in 2024, as measured by the labour force survey, was closest to which figure?",
+        "choices": ["1%", "4%", "9%", "15%"],
+        "answer": 1,
+        "fact": "Unemployment stayed low after the pandemic, while employers in care, construction and hospitality reported shortages of workers.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "What statutory national minimum wage does Norway have?",
+        "choices": ["None", "150 kroner an hour", "200 kroner an hour", "250 kroner an hour"],
+        "answer": 0,
+        "fact": "Pay is set by collective agreements, though minimum rates in sectors such as cleaning and construction are made legally binding for everyone.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, Norway's population passed which milestone?",
+        "choices": ["3.5 million", "4.5 million", "5.5 million", "7.5 million"],
+        "answer": 2,
+        "fact": "Growth came almost entirely from immigration, with Ukrainian arrivals pushing 2022 and 2023 to record net migration.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Norges Bank raised its policy interest rate from zero in 2021 to a peak of what in December 2023?",
+        "choices": ["2.5%", "3.5%", "4.5%", "6.5%"],
+        "answer": 2,
+        "fact": "The rate stayed at 4.5% for a year and a half before the first cut in June 2025, squeezing households with floating-rate mortgages.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Norway's consumer price inflation peaked in October 2022 at closest to which figure?",
+        "choices": ["2%", "7.5%", "15%", "25%"],
+        "answer": 1,
+        "fact": "It was the highest reading since the late 1980s, driven by electricity, food and a weak krone that made imports dearer.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2022, billionaire Kjell Inge Røkke moved from Norway to which country, highlighting a trend among wealthy Norwegians?",
+        "choices": ["Monaco", "Switzerland", "Sweden", "United Kingdom"],
+        "answer": 1,
+        "fact": "Dozens of rich Norwegians relocated after increases in the wealth tax, prompting a public debate about the tax's design.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In Norway's 2019 local elections, a new protest party won seats by campaigning against which charges on motorists?",
+        "choices": ["Parking fees", "Road tolls", "Congestion fines", "Ferry fares"],
+        "answer": 1,
+        "fact": "The 'People's Action No to More Road Tolls' took about 17% of the vote in Bergen, where toll rings fund roads and public transport.",
+        "difficulty": 2,
+        "asOf": "2019"
+      },
+      {
+        "q": "Norwegian employees on sick leave receive what share of their normal salary for up to a year?",
+        "choices": ["50%", "70%", "80%", "100%"],
+        "answer": 3,
+        "fact": "Employers pay the first 16 days and the state the rest; Norway's sickness absence rate is among the highest in the OECD.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "At full pay, how many weeks of paid parental leave do Norwegian parents share after a birth?",
+        "choices": ["26", "36", "49", "72"],
+        "answer": 2,
+        "fact": "Parents can instead take 59 weeks at 80% pay; 15 weeks are reserved for each parent so that fathers take their share.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In September 2022, a months-long strike by which group in Norway was ended by government-imposed compulsory arbitration?",
+        "choices": ["Teachers", "Nurses", "Train drivers", "Oil workers"],
+        "answer": 0,
+        "fact": "The strike had kept thousands of pupils out of class since the start of the school year; the government cited harm to pupils' mental health.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "From autumn 2023, Norway began charging university tuition fees to students from where?",
+        "choices": ["Outside the EEA and Switzerland", "Other Nordic countries", "All foreign countries", "Outside the Oslo region"],
+        "answer": 0,
+        "fact": "Higher education had been free for everyone; the change led to a sharp fall in new students from countries such as China, India and Nepal.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Norway's total fertility rate fell to a record low of about what in 2023?",
+        "choices": ["1.4", "1.7", "2.1", "2.4"],
+        "answer": 0,
+        "fact": "The rate was 1.98 in 2009; the government appointed a birth-rate committee in 2024 to look into the causes of the decline.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "Norway's fiscal rule limits the government's annual spending of oil fund money to about what share of the fund's value?",
+        "choices": ["1%", "3%", "5%", "10%"],
+        "answer": 1,
+        "fact": "The limit was cut from 4% to 3% in 2017 as expected returns fell; it still covers roughly a fifth of the state budget.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "From August 2024, the maximum monthly price of a kindergarten place in Norway was cut to how many kroner?",
+        "choices": ["500", "2,000", "4,000", "6,000"],
+        "answer": 1,
+        "fact": "The cap had been 3,000 kroner; places are free for the third child and in parts of northern Norway.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which is the largest of the three groups that dominate Norway's grocery market?",
+        "choices": ["Coop", "Rema 1000", "NorgesGruppen", "Bunnpris"],
+        "answer": 2,
+        "fact": "NorgesGruppen, owner of Kiwi and Meny, held over 40% of the market; the competition authority fined the big three in 2024 over price-scanning data.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "From 2023, Norway charged VAT on the part of an electric car's price above how many kroner?",
+        "choices": ["200,000", "350,000", "500,000", "1 million"],
+        "answer": 2,
+        "fact": "It was the first dent in the full VAT exemption that had made electric cars cheaper than petrol equivalents for over a decade.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2019, couriers for which food-delivery company held a five-week strike in Norway that won them a collective agreement?",
+        "choices": ["Wolt", "Foodora", "Deliveroo", "Uber Eats"],
+        "answer": 1,
+        "fact": "It was seen as the first successful strike in Norway's gig economy; the couriers were employees rather than freelancers.",
+        "difficulty": 3,
+        "asOf": "2019"
+      },
+      {
+        "q": "In 2023, Norway's parliament agreed to extend its 40% gender quota for company boards to which firms?",
+        "choices": ["Large private companies", "Co-operatives only", "Banks only", "State agencies"],
+        "answer": 0,
+        "fact": "The quota had applied to listed companies since 2008; the extension is being phased in from 2024 for firms with over 100 employees or 100 million kroner in revenue.",
+        "difficulty": 3,
+        "asOf": "2023"
+      }
+    ],
     "general": [
       {
         "q": "Norway's coast is famous for which deep, narrow sea inlets carved by glaciers?",

@@ -1536,6 +1536,333 @@
         "asOf": "2022"
       }
     ],
+    "society": [
+      {
+        "q": "In 2024, Greece passed a law allowing some businesses to put staff on a working week of how many days?",
+        "choices": [
+          "Six",
+          "Four",
+          "Five",
+          "Seven"
+        ],
+        "answer": 0,
+        "fact": "The law, in force from July 2024, lets businesses operating around the clock schedule a sixth day paid at a 40% overtime premium; unions held strikes against it.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, Greece's sovereign credit rating regained which status for the first time since the 2010 debt crisis?",
+        "choices": [
+          "Junk status",
+          "Investment grade",
+          "Triple-A",
+          "Default"
+        ],
+        "answer": 1,
+        "fact": "DBRS, S&P and Fitch all upgraded Greece in late 2023, roughly 13 years after rating agencies first cut it to 'junk'.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "International tourist arrivals in Greece reached a record of roughly how many in 2024?",
+        "choices": [
+          "16 million",
+          "26 million",
+          "36 million",
+          "56 million"
+        ],
+        "answer": 2,
+        "fact": "That is over three times the country's population of about 10.5 million, fuelling debate about overtourism on islands such as Santorini and Mykonos.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "During the 2022 energy shock, Greece's annual inflation rate peaked at roughly what level?",
+        "choices": [
+          "3%",
+          "7%",
+          "20%",
+          "12%"
+        ],
+        "answer": 3,
+        "fact": "Inflation hit about 12% in September 2022, the highest since the early 1990s, with energy and food prices leading the rise.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Greece's 2021 census counted roughly how many residents?",
+        "choices": [
+          "8.5 million",
+          "10.5 million",
+          "12.5 million",
+          "14.5 million"
+        ],
+        "answer": 1,
+        "fact": "The count of about 10.48 million was down roughly 3.5% on 2011, the first fall between censuses in Greece's modern history.",
+        "difficulty": 1,
+        "asOf": "2021"
+      },
+      {
+        "q": "Since reforms adopted during the debt crisis, what has been the standard retirement age in Greece?",
+        "choices": [
+          "62",
+          "65",
+          "70",
+          "67"
+        ],
+        "answer": 3,
+        "fact": "Retirement at 67 applies with 15 years of contributions; workers with 40 years of contributions can retire at 62.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "What is the name of Greece's single online portal for public services, launched in 2020?",
+        "choices": [
+          "gov.gr",
+          "hellas.gov",
+          "e-Greece",
+          "my.gr"
+        ],
+        "answer": 0,
+        "fact": "Launched in March 2020 as the pandemic began, it lets citizens get documents such as sworn statements and prescriptions with a few clicks.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "What is the popular name of Greece's scheme offering residence permits to non-EU nationals who buy property?",
+        "choices": [
+          "Blue Card",
+          "Sun Visa",
+          "Golden Visa",
+          "Olive Pass"
+        ],
+        "answer": 2,
+        "fact": "Launched in 2013, it became one of Europe's most popular such schemes, with Chinese buyers the largest group, and has been blamed for pushing up housing costs.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "By roughly how much did Greece's economy shrink in 2020, the first year of the pandemic?",
+        "choices": [
+          "2%",
+          "15%",
+          "22%",
+          "9%"
+        ],
+        "answer": 3,
+        "fact": "The fall of around 9% was among the steepest in the EU because of Greece's heavy reliance on tourism; growth of over 8% followed in 2021.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In April 2024, Greece raised its gross monthly minimum wage to what amount?",
+        "choices": [
+          "€830",
+          "€650",
+          "€1,000",
+          "€1,200"
+        ],
+        "answer": 0,
+        "fact": "It was the fourth rise since 2019, when the minimum wage was €650; the government set a target of €950 by 2027.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "By 2024, Greece's unemployment rate had fallen to roughly what level?",
+        "choices": [
+          "5%",
+          "10%",
+          "17%",
+          "24%"
+        ],
+        "answer": 1,
+        "fact": "At its crisis peak in 2013, unemployment was nearly 28%, the highest in the EU; it has fallen steadily since but remains among the bloc's highest.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In August 2022, Greece exited which EU monitoring regime that had followed its bailouts?",
+        "choices": [
+          "Excessive deficit procedure",
+          "Troika review",
+          "Enhanced surveillance",
+          "Stability pact"
+        ],
+        "answer": 2,
+        "fact": "Enhanced surveillance had been in place since the third bailout ended in 2018; its end was marked by the government as the close of a 12-year chapter.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2022, Greece recorded its lowest number of births in modern records, roughly how many?",
+        "choices": [
+          "46,000",
+          "106,000",
+          "136,000",
+          "76,000"
+        ],
+        "answer": 3,
+        "fact": "Deaths that year were nearly double the number of births, and Greece has had more deaths than births every year since 2011.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In October 2022, Greece's electricity grid ran for several hours entirely on what, for the first time?",
+        "choices": [
+          "Nuclear power",
+          "Imported power",
+          "Renewable energy",
+          "Natural gas"
+        ],
+        "answer": 2,
+        "fact": "Grid operator IPTO reported that wind, solar and hydro met 100% of demand for about five hours on 7 October 2022.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2021, Greece introduced a special visa aimed at attracting which kind of worker to live in the country?",
+        "choices": [
+          "Digital nomads",
+          "Seasonal farm workers",
+          "Ship engineers",
+          "Retired doctors"
+        ],
+        "answer": 0,
+        "fact": "The digital nomad visa targets remote workers employed abroad; applicants must show a monthly income of at least €3,500.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "Greece's public debt peaked in 2020 at roughly what share of its GDP?",
+        "choices": [
+          "90%",
+          "200%",
+          "130%",
+          "300%"
+        ],
+        "answer": 1,
+        "fact": "At just over 200% of GDP, it was the highest ratio in the EU; strong growth and inflation brought it down to about 150% by 2024.",
+        "difficulty": 2,
+        "asOf": "2020"
+      },
+      {
+        "q": "What was the name of the subsidy card Greece introduced in 2023 to help households with grocery bills?",
+        "choices": [
+          "Food Pass",
+          "Basket Pass",
+          "Market Pass",
+          "Shop Pass"
+        ],
+        "answer": 2,
+        "fact": "It followed the 2022 'Fuel Pass' for motorists; payments were loaded onto a digital card and scaled by household size and income.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "What was the name of Greece's national plan for spending EU post-pandemic recovery funds?",
+        "choices": [
+          "Hellas Forward",
+          "New Greece",
+          "Greece Rising",
+          "Greece 2.0"
+        ],
+        "answer": 3,
+        "fact": "Approved in 2021, Greece 2.0 channels over €30 billion in EU grants and loans into green, digital and employment projects.",
+        "difficulty": 2,
+        "asOf": "2021"
+      },
+      {
+        "q": "In 2024, Greece raised the minimum property investment for a Golden Visa in Athens and popular islands to what?",
+        "choices": [
+          "€250,000",
+          "€800,000",
+          "€500,000",
+          "€1,500,000"
+        ],
+        "answer": 1,
+        "fact": "The threshold had been €250,000 for years; the increase, in force from September 2024, was meant to ease pressure on housing for locals.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "From 2025, cruise passengers landing on Santorini and Mykonos in high season pay a fee of how much?",
+        "choices": [
+          "€20",
+          "€2",
+          "€5",
+          "€50"
+        ],
+        "answer": 0,
+        "fact": "The levy applies from June to September; smaller fees apply to other ports and in low season, with the money earmarked for local infrastructure.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "For 2025, Greece froze new short-term rental registrations in three districts of which city?",
+        "choices": [
+          "Thessaloniki",
+          "Heraklion",
+          "Patras",
+          "Athens"
+        ],
+        "answer": 3,
+        "fact": "The one-year freeze covered central Athens, where platforms such as Airbnb were blamed for soaring rents; owners who switched to long-term lets got tax breaks.",
+        "difficulty": 3,
+        "asOf": "2025"
+      },
+      {
+        "q": "'Spiti Mou' (My Home), launched in 2023, is a Greek state programme offering what?",
+        "choices": [
+          "Free solar panels",
+          "Rent vouchers for students",
+          "Low-interest mortgages for young people",
+          "Grants to renovate village houses"
+        ],
+        "answer": 2,
+        "fact": "It offered cheap loans to buyers aged 25 to 39 with the state covering most of the interest; demand far exceeded the initial budget.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2020, Greece introduced a flat tax rate of what on the foreign income of pensioners who move their tax residence to Greece?",
+        "choices": [
+          "7%",
+          "0%",
+          "15%",
+          "22%"
+        ],
+        "answer": 0,
+        "fact": "The 7% rate applies for 15 years, part of a push to attract retirees and wealthy foreigners after the crisis.",
+        "difficulty": 3,
+        "asOf": "2020"
+      },
+      {
+        "q": "From 2024, Greece replaced its hotel 'stayover tax' with a levy named after what?",
+        "choices": [
+          "Overtourism",
+          "The climate crisis",
+          "Water shortages",
+          "Earthquakes"
+        ],
+        "answer": 1,
+        "fact": "The 'climate crisis resilience fee' is charged per night, higher in summer and for five-star hotels, after the wildfires and floods of 2023.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In April 2025, the Greek gross monthly minimum wage rose to what amount?",
+        "choices": [
+          "€780",
+          "€830",
+          "€950",
+          "€880"
+        ],
+        "answer": 3,
+        "fact": "It was the fifth rise since 2019 and worth about €1,000 a month gross to full-time workers, who in Greece are paid 14 monthly wages a year.",
+        "difficulty": 3,
+        "asOf": "2025"
+      }
+    ],
     "general": [
       {
         "q": "Which mountain, the highest in Greece, was said to be the home of the gods?",

@@ -911,6 +911,208 @@
         "asOf": "2020"
       }
     ],
+    "society": [
+      {
+        "q": "Icelandic inflation peaked in early 2023 at roughly what annual rate?",
+        "choices": ["4%", "10%", "17%", "25%"],
+        "answer": 1,
+        "fact": "Housing costs were a major driver, as home prices had jumped during the pandemic; inflation stayed well above the central bank's target into 2025.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Roughly how many foreign tourists visited Iceland in 2023, a country of under 400,000 people?",
+        "choices": ["500,000", "5 million", "10 million", "2 million"],
+        "answer": 3,
+        "fact": "Arrivals had collapsed to under 500,000 in 2020 and 2021 during the pandemic; tourism is Iceland's biggest export earner, ahead of fishing and aluminium.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "In 2024, Iceland's population was roughly what?",
+        "choices": ["100,000", "390,000", "1.2 million", "3 million"],
+        "answer": 1,
+        "fact": "It is Europe's least densely populated country; the population passed 300,000 only in 2006 and has grown fast since, largely through immigration.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which country is by far the largest source of immigrants living in Iceland?",
+        "choices": ["Denmark", "Philippines", "Ukraine", "Poland"],
+        "answer": 3,
+        "fact": "Poles make up roughly a third of all immigrants in Iceland, many drawn by construction, fishing and tourism jobs from the 2000s onwards.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "Almost all of Iceland's electricity comes from which two sources?",
+        "choices": ["Hydro and geothermal", "Wind and solar", "Nuclear and gas", "Coal and oil"],
+        "answer": 0,
+        "fact": "About nine in ten homes are heated with geothermal hot water, which kept Icelandic heating bills largely immune to the 2022 European energy shock.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Which annual ranking has Iceland topped every year since 2009?",
+        "choices": ["The World Economic Forum's Global Gender Gap Index", "The UN's Human Development Index", "The OECD's cost-of-living index", "The World Bank's ease of doing business ranking"],
+        "answer": 0,
+        "fact": "In 2024 Iceland was the only country rated as having closed more than 90% of its gender gap; equal pay certification for larger employers has been law since 2018.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2022, Iceland had the world's second-highest share of plug-in cars among new car sales, behind which country?",
+        "choices": ["Sweden", "China", "Netherlands", "Norway"],
+        "answer": 3,
+        "fact": "Cheap renewable electricity and tax breaks helped; more than half of new cars sold in Iceland that year could be plugged in.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "Iceland's largest manufactured export, smelted using its cheap electricity, is what?",
+        "choices": ["Steel", "Aluminium", "Cement", "Fertiliser"],
+        "answer": 1,
+        "fact": "Three smelters produce the metal from imported bauxite ore and use most of Iceland's electricity; the plant at Straumsvík near Reykjavík opened in 1969.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "Roughly what share of Icelanders live in the Reykjavík capital region?",
+        "choices": ["One quarter", "One third", "One half", "Two thirds"],
+        "answer": 3,
+        "fact": "The region's housing shortage is a constant political issue; the next-largest urban area, Akureyri in the north, has under 20,000 people.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2024, Iceland set up a state-owned company to buy homes from residents of which town?",
+        "choices": ["Grindavík", "Vík", "Húsavík", "Selfoss"],
+        "answer": 0,
+        "fact": "The company, Þórkatla, bought hundreds of homes at 95% of their insured value from owners displaced by the volcanic activity on the Reykjanes Peninsula.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In March 2017, Iceland lifted which financial restriction that had been in place since the 2008 banking collapse?",
+        "choices": ["Capital controls", "A ban on foreign banks", "A freeze on house prices", "A cap on credit card limits"],
+        "answer": 0,
+        "fact": "The controls had limited how much money people and firms could move abroad for more than eight years; their removal marked the end of the crisis era.",
+        "difficulty": 2,
+        "asOf": "2017"
+      },
+      {
+        "q": "From autumn 2024, what did Icelandic primary schools begin offering to all pupils as part of a wage deal?",
+        "choices": ["Free laptops", "Free bus passes", "Free uniforms", "Free school lunches"],
+        "answer": 3,
+        "fact": "The government funded the meals, plus higher child benefits and rent support, to help unions accept modest pay rises aimed at cutting inflation.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Many Icelandic mortgages are 'verðtryggð', meaning the amount owed is linked to what?",
+        "choices": ["The consumer price index", "The price of fish", "The US dollar", "The homeowner's salary"],
+        "answer": 0,
+        "fact": "When inflation jumped in 2022-23, the debt on indexed loans rose with it, a uniquely Icelandic headache for households.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "At what age do Icelanders normally qualify for the state old-age pension?",
+        "choices": ["62", "65", "67", "70"],
+        "answer": 2,
+        "fact": "Alongside the state pension, all workers must pay into occupational pension funds, which together hold assets worth well over the country's annual GDP.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "The Central Bank of Iceland's inflation target is what annual rate?",
+        "choices": ["1%", "2%", "4%", "2.5%"],
+        "answer": 3,
+        "fact": "The target has been in place since 2001; inflation ran above it continuously from 2020 through to 2025.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "Iceland's standard rate of VAT, among the highest in the world, was what in the 2020s?",
+        "choices": ["15%", "20%", "24%", "27%"],
+        "answer": 2,
+        "fact": "A reduced rate of 11% covers food, hotels and books, which is one reason Iceland consistently ranks among Europe's most expensive countries.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In early 2023, which trade union led strikes by hotel and bus workers in the Reykjavík area?",
+        "choices": ["VR", "ASÍ", "BSRB", "Efling"],
+        "answer": 3,
+        "fact": "Efling, representing mainly low-paid and immigrant workers, rejected a deal signed by other unions; the dispute ended with a mediated settlement in March 2023.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "By 2023, roughly what share of Iceland's population were immigrants, one of Europe's fastest rises?",
+        "choices": ["One in twenty", "One in ten", "Nearly one in five", "One in three"],
+        "answer": 2,
+        "fact": "Statistics Iceland counted immigrants at about 18% of residents in 2023, up from under 10% in 2012.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In August 2023, the Central Bank of Iceland raised its key interest rate to what level, where it stayed for over a year?",
+        "choices": ["5%", "7.5%", "9.25%", "12%"],
+        "answer": 2,
+        "fact": "It was the 14th consecutive rise since May 2021, when the rate had stood at just 0.75%; cuts began in October 2024.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "In January 2024, Iceland reinstated its overnight accommodation tax and extended it to what for the first time?",
+        "choices": ["Camper vans", "Cruise ships", "Private rentals", "Mountain huts"],
+        "answer": 1,
+        "fact": "The tax had been suspended during the pandemic; hotels charge 600 krónur per room per night and cruise passengers pay per night in Icelandic waters.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "The collective wage agreements signed in Iceland in March 2024 were unusually long. How many years did they run?",
+        "choices": ["One", "Two", "Four", "Six"],
+        "answer": 2,
+        "fact": "Unions accepted modest annual rises in return for government welfare measures, aiming to break Iceland's wage-price spiral.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "During the pandemic, Iceland's registered unemployment peaked in January 2021 at roughly what?",
+        "choices": ["3%", "11%", "20%", "30%"],
+        "answer": 1,
+        "fact": "The collapse of tourism hit hardest; the rate had been around 3% in 2019 and fell back below 4% as visitors returned in 2022.",
+        "difficulty": 3,
+        "asOf": "2021"
+      },
+      {
+        "q": "From January 2024, Iceland introduced a per-kilometre road charge for which vehicles?",
+        "choices": ["Electric and plug-in hybrid cars", "Lorries over 12 tonnes", "Rental cars", "Diesel cars"],
+        "answer": 0,
+        "fact": "The 'kílómetragjald' replaced lost fuel tax revenue, with electric cars paying 6 krónur per kilometre; it was extended to all cars in 2025.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In October 2023, Bjarni Benediktsson resigned as finance minister after an ombudsman's ruling about the sale of shares in which bank?",
+        "choices": ["Landsbankinn", "Arion banki", "Íslandsbanki", "Kvika"],
+        "answer": 2,
+        "fact": "The state sold a 22.5% stake in March 2022; the ombudsman found the minister should have stepped aside because his father was among the buyers.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "What is Borgarlína, a major project planned for Iceland's capital region?",
+        "choices": ["A bus rapid transit network", "A tram line", "A new airport", "A harbour tunnel"],
+        "answer": 0,
+        "fact": "Agreed between the state and six municipalities in 2019, it gives buses dedicated lanes on key routes; the first line was slated for the late 2020s.",
+        "difficulty": 3,
+        "asOf": "2024"
+      }
+    ],
     "general": [
       {
         "q": "Which is the world's northernmost capital of a sovereign state?",

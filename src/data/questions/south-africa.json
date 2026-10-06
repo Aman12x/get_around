@@ -911,6 +911,208 @@
         "asOf": "2024"
       }
     ],
+    "society": [
+      {
+        "q": "In 2023, South Africa's official unemployment rate hovered around what level?",
+        "choices": ["32%", "12%", "22%", "42%"],
+        "answer": 0,
+        "fact": "Stats SA's Quarterly Labour Force Survey put the rate at 32.9% in early 2023; the broader measure including discouraged job-seekers was above 40%.",
+        "difficulty": 1,
+        "asOf": "2023"
+      },
+      {
+        "q": "South Africa's 2022 census counted a population of roughly how many people?",
+        "choices": ["42 million", "52 million", "72 million", "62 million"],
+        "answer": 3,
+        "fact": "Census 2022 recorded 62.0 million people, up from 51.8 million in 2011; Gauteng remained the most populous province.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "During the 2020 COVID-19 lockdown, South Africa banned the sale of which two products?",
+        "choices": ["Bread and milk", "Petrol and diesel", "Alcohol and tobacco", "Sugar and salt"],
+        "answer": 2,
+        "fact": "The tobacco ban lasted about five months and the alcohol ban was reimposed several times, hitting the wine industry and the Treasury's excise income.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "What monthly amount was South Africa's Social Relief of Distress (SRD) grant when it was introduced in 2020?",
+        "choices": ["R150", "R350", "R700", "R1,000"],
+        "answer": 1,
+        "fact": "Introduced as a temporary COVID-19 measure for unemployed adults, the 'R350 grant' was extended repeatedly and raised to R370 in 2024.",
+        "difficulty": 1,
+        "asOf": "2020"
+      },
+      {
+        "q": "In 2022 the World Bank described South Africa as the most unequal country in the world, using which measure?",
+        "choices": ["Gini coefficient", "Human Development Index", "GDP per capita", "Big Mac index"],
+        "answer": 0,
+        "fact": "The World Bank's 2022 report put the Gini coefficient at about 0.63 and found that race still explained a large part of the gap in incomes.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In what year did South Africa introduce a national minimum wage for the first time?",
+        "choices": ["2015", "2017", "2021", "2019"],
+        "answer": 3,
+        "fact": "The wage started at R20 an hour on 1 January 2019 and has been raised each year since, passing R28 an hour in 2025.",
+        "difficulty": 1,
+        "asOf": "2019"
+      },
+      {
+        "q": "From late March 2024, Eskom suspended load shedding for a run of more than how many consecutive days?",
+        "choices": ["30", "100", "300", "1,000"],
+        "answer": 2,
+        "fact": "After 2023's record power cuts, better plant performance and a boom in rooftop solar kept the grid stable until outages briefly returned in early 2025.",
+        "difficulty": 1,
+        "asOf": "2025"
+      },
+      {
+        "q": "In mid-2022 the inland price of a litre of 95 petrol in South Africa hit a record of roughly what?",
+        "choices": ["R10", "R26", "R16", "R40"],
+        "answer": 1,
+        "fact": "The July 2022 price of about R26.70 followed the oil-price surge after Russia's invasion of Ukraine; the fuel levy was cut temporarily to soften the blow.",
+        "difficulty": 1,
+        "asOf": "2022"
+      },
+      {
+        "q": "In May 2024 President Ramaphosa signed into law a bill creating what?",
+        "choices": ["National Health Insurance", "A basic income grant", "A wealth tax", "Free university tuition"],
+        "answer": 0,
+        "fact": "The NHI Act aims to fund universal healthcare through a single state fund; medical schemes and business groups launched court challenges against it.",
+        "difficulty": 1,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023, roughly what share of South Africans aged 15 to 24 in the labour force were unemployed?",
+        "choices": ["20%", "40%", "80%", "60%"],
+        "answer": 3,
+        "fact": "Stats SA put the rate for 15-24 year olds at over 60% in early 2023, among the highest in the world; for 25-34 year olds it was around 40%.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "South African consumer inflation peaked in July 2022 at roughly what, a 13-year high?",
+        "choices": ["4%", "15%", "8%", "25%"],
+        "answer": 2,
+        "fact": "The 7.8% reading was driven by fuel and food prices; inflation fell back inside the Reserve Bank's 3-6% target band by mid-2023.",
+        "difficulty": 2,
+        "asOf": "2022"
+      },
+      {
+        "q": "In 2023 the rand fell to a record low of roughly how many rand to the US dollar?",
+        "choices": ["9", "19", "14", "29"],
+        "answer": 1,
+        "fact": "The currency slid past R19 in May and June 2023 amid record load shedding and a diplomatic row with the United States.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In February 2023 South Africa was placed on the 'grey list' of which international body?",
+        "choices": ["Financial Action Task Force", "World Trade Organization", "Paris Club", "Basel Committee"],
+        "answer": 0,
+        "fact": "The listing, for weaknesses in fighting money laundering, raised compliance costs for banks; South Africa was removed from the list in October 2025.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In April 2025 South Africa's finance minister withdrew a planned increase to which tax after coalition partners objected?",
+        "choices": ["Fuel levy", "Personal income tax", "Sugar tax", "VAT"],
+        "answer": 3,
+        "fact": "The budget had proposed lifting VAT from 15% in stages; the row between the ANC and DA delayed the budget and the rise was scrapped, leaving VAT at 15%.",
+        "difficulty": 2,
+        "asOf": "2025"
+      },
+      {
+        "q": "By 2024 the state old-age grant paid to South Africans over 60 was roughly how much a month?",
+        "choices": ["R700", "R1,200", "R2,200", "R4,000"],
+        "answer": 2,
+        "fact": "The grant (about R2,190 in 2024) is funded from general taxes rather than contributions and reaches almost 4 million pensioners.",
+        "difficulty": 2,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023 South Africa ran its first coordinated pilot of what working pattern, linked to the group 4 Day Week Global?",
+        "choices": ["A six-hour working day", "A four-day working week", "Compulsory remote work", "A two-year sabbatical"],
+        "answer": 1,
+        "fact": "Dozens of companies joined the six-month trial organised with Stellenbosch Business School; most said they planned to keep the shorter week.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Which state-owned company's rail and port breakdowns in 2023 left dozens of ships queuing outside Durban harbour?",
+        "choices": ["Transnet", "Eskom", "Prasa", "Denel"],
+        "answer": 0,
+        "fact": "Cable theft, locomotive shortages and ageing equipment cut freight-rail volumes; exporters of coal and iron ore turned to trucks instead.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "Nationals of which country held the roughly 178,000 'exemption permits' that South Africa moved to end from 2021?",
+        "choices": ["Nigeria", "Mozambique", "Somalia", "Zimbabwe"],
+        "answer": 3,
+        "fact": "The Zimbabwean Exemption Permit had allowed holders to live and work legally since 2009; court challenges saw its expiry extended several times.",
+        "difficulty": 2,
+        "asOf": "2023"
+      },
+      {
+        "q": "In May 2023 the South African Reserve Bank raised its repo rate to what, the highest level in 14 years?",
+        "choices": ["5.25%", "11.25%", "8.25%", "15.25%"],
+        "answer": 2,
+        "fact": "Ten consecutive hikes from November 2021 lifted the rate from 3.5%; the first cut came in September 2024.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "What name was given to the retirement reform introduced in September 2024 that lets savers withdraw part of their fund early?",
+        "choices": ["Three-tier system", "Two-pot system", "Golden handshake", "Nest-egg scheme"],
+        "answer": 1,
+        "fact": "One third of new contributions goes into an accessible 'savings pot'; within two months more than 2 million people had applied for withdrawals.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "South Africa's 2024 matric pass rate reached a record of about what?",
+        "choices": ["87%", "67%", "77%", "97%"],
+        "answer": 0,
+        "fact": "The 87.3% rate announced in January 2025 followed 82.9% in 2023; critics note it excludes pupils who drop out before the final exam.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "In 2023 the budget offered households a tax rebate on new solar panels worth what share of the cost, capped at R15,000?",
+        "choices": ["10%", "50%", "100%", "25%"],
+        "answer": 3,
+        "fact": "The one-year incentive responded to record load shedding; Eskom estimated that private rooftop solar capacity more than doubled during 2023.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "By 2024 South Africa's gross government debt stood at roughly what share of GDP?",
+        "choices": ["25%", "50%", "75%", "100%"],
+        "answer": 2,
+        "fact": "Debt-service costs became the fastest-growing item in the budget, consuming more than a fifth of government revenue.",
+        "difficulty": 3,
+        "asOf": "2024"
+      },
+      {
+        "q": "By roughly how much did South Africa's economy grow in 2023?",
+        "choices": ["About 3%", "Under 1%", "About 5%", "About 7%"],
+        "answer": 1,
+        "fact": "Stats SA reported growth of just 0.6%, as load shedding and logistics bottlenecks weighed on mining and manufacturing.",
+        "difficulty": 3,
+        "asOf": "2023"
+      },
+      {
+        "q": "During the 2020 lockdown the Unemployment Insurance Fund paid wage relief through a scheme known by which acronym?",
+        "choices": ["TERS", "SETA", "NSFAS", "SARB"],
+        "answer": 0,
+        "fact": "The Temporary Employer/Employee Relief Scheme paid out over R60 billion to millions of workers; later audits flagged many irregular claims.",
+        "difficulty": 3,
+        "asOf": "2020"
+      }
+    ],
     "general": [
       {
         "q": "Which flat-topped mountain overlooks the city of Cape Town?",
