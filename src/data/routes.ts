@@ -59,7 +59,7 @@ export const ROUTES: Route[] = [
     code: 'GA 492',
     tagline: 'Maya astronomers, samba streets and the American dream.',
     color: '#10b981',
-    themes: ['general', 'art', 'current-affairs'],
+    themes: ['general', 'art', 'current-affairs', 'society'],
     stops: ['mexico', 'usa', 'brazil'],
   },
   {
@@ -68,7 +68,7 @@ export const ROUTES: Route[] = [
     code: 'GA 777',
     tagline: 'The classic eleven-stop circuit, eastbound around the world.',
     color: '#a78bfa',
-    themes: ['history', 'technology', 'art', 'politics', 'current-affairs', 'general'],
+    themes: ['history', 'technology', 'art', 'politics', 'current-affairs', 'society', 'general'],
     stops: ['uk', 'france', 'italy', 'greece', 'egypt', 'india', 'china', 'japan', 'usa', 'mexico', 'brazil'],
   },
   {
@@ -77,7 +77,7 @@ export const ROUTES: Route[] = [
     code: 'GA 230',
     tagline: 'From the souks of Marrakesh to the Cape of Good Hope.',
     color: '#ea580c',
-    themes: ['history', 'general', 'art'],
+    themes: ['history', 'general', 'art', 'society'],
     stops: ['morocco', 'nigeria', 'ethiopia', 'kenya', 'south-africa'],
   },
   {
@@ -104,7 +104,7 @@ export const ROUTES: Route[] = [
     code: 'GA 404',
     tagline: 'Table Mountain to the Opera House, Aotearoa and Rio.',
     color: '#059669',
-    themes: ['general', 'current-affairs', 'history'],
+    themes: ['general', 'current-affairs', 'society', 'history'],
     stops: ['south-africa', 'australia', 'new-zealand', 'brazil'],
   },
   {

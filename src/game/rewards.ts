@@ -163,7 +163,7 @@ export const ACHIEVEMENTS: Achievement[] = [
     id: 'polymath',
     icon: '🎓',
     name: 'Polymath',
-    desc: 'Stamp all six subjects in one country.',
+    desc: 'Stamp every subject in one country.',
     reward: 300,
     done: (s) => Object.values(passport(s)).some((t) => Object.keys(t ?? {}).length >= TOPICS.length),
   },

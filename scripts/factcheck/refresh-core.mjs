@@ -82,6 +82,19 @@ export function applyVerified(qs, candidates, verdicts) {
 // ------------------------------------------------------------- writer prompt
 // The brief the writer session gets, the shape its answer must take, and the PR body.
 
+/** The dated subjects the refresh keeps current, with what "fresh" means for each. */
+export const REFRESH_TOPICS = {
+  'current-affairs': {
+    label: 'Current Affairs',
+    fresh: 'Search the news from roughly the last two months about {country}. Propose up to {fresh} new questions about notable, settled developments',
+  },
+  society: {
+    label: 'Society & Economy',
+    fresh:
+      'Search for recent, well-documented social and economic developments in {country}: cost of living and inflation, housing and rents, jobs and wages, pensions, population and migration figures, poverty and inequality, welfare and subsidies, strikes over pay, energy prices and major economic policy changes. Prefer published statistics and decided policies (national statistics office, central bank, IMF/OECD/World Bank, major news organisations). Propose up to {fresh} new questions about them',
+  },
+};
+
 export const QUESTION_SCHEMA = {
   type: 'object',
   additionalProperties: false,
@@ -119,7 +132,7 @@ export const CHANGES_SCHEMA = {
   },
 };
 
-export const WRITER_SYSTEM = `You maintain the Current Affairs questions for "Get Around", a travel trivia game where players fly between countries answering questions. Questions must be true, unambiguous, fun, and answerable by an interested general audience.
+export const WRITER_SYSTEM = `You maintain the dated question banks (Current Affairs, and Society & Economy) for "Get Around", a travel trivia game where players fly between countries answering questions. Questions must be true, unambiguous, fun, and answerable by an interested general audience.
 
 Rules for every question you write:
 - Exactly 4 distinct, plausible choices; "answer" is the 0-based index of the single correct one. Vary which position is correct.
@@ -129,19 +142,20 @@ Rules for every question you write:
 - Every claim must be confirmed by web search with reputable sources; list at least one source URL for each change, ideally two independent ones.
 - Do not duplicate a question already in the bank.`;
 
-export function writerPrompt(country, qs, { fresh, today }) {
+export function writerPrompt(country, qs, { fresh, today, topic = 'current-affairs' }) {
+  const { label, fresh: freshBrief } = REFRESH_TOPICS[topic];
   const listing = qs
     .map((q, i) => `#${i} [difficulty ${q.difficulty}, asOf ${q.asOf}] ${q.q} -> ${q.choices[q.answer]}. Fact: ${q.fact}`)
     .join('\n');
-  return `Today is ${today}. Country: ${country}.
+  return `Today is ${today}. Country: ${country}. Subject: ${label}.
 
-Here is the current Current Affairs bank (${qs.length} questions):
+Here is the current ${label} bank (${qs.length} questions):
 ${listing}
 
 1. Find every question that is no longer true today, read exactly as written. For each, propose a corrected replacement at the same index ("kind": "outdated"): either the updated fact or a new question on the same theme.
    A question is outdated only if its question, marked answer or fact now states something false, typically present-tense claims ("is the current...", "holds the record", "is the tallest") overtaken by events, or a "will" that turned out differently.
    A dated statement about the past ("In October 2023, X set a world record in Chicago") is NOT outdated just because something changed later (the record was since broken, the person left office); it is still true as history. Do not mark it outdated. If it has merely gone stale, you may replace it as one of your "fresh" questions instead.
-2. Search the news from roughly the last two months about ${country}. Propose up to ${fresh} new questions about notable, settled developments ("kind": "fresh"), each replacing the stalest or least interesting existing question of the SAME difficulty (prefer the oldest asOf).
+2. ${freshBrief.replaceAll('{country}', country).replaceAll('{fresh}', String(fresh))} ("kind": "fresh"), each replacing the stalest or least interesting existing question of the SAME difficulty (prefer the oldest asOf).
 Each index may be used at most once. If nothing needs changing, submit an empty list.`;
 }
 
@@ -159,7 +173,7 @@ export function renderRefreshSummary(report, intro) {
     if (r.error) L.push(`⚠️ Failed: ${r.error}`, '');
     for (const a of r.applied) {
       L.push(
-        `**#${a.index} (${a.kind}, difficulty ${a.question.difficulty})**: ${a.reason}`,
+        `**${a.topic ? `${REFRESH_TOPICS[a.topic]?.label ?? a.topic} ` : ''}#${a.index} (${a.kind}, difficulty ${a.question.difficulty})**: ${a.reason}`,
         `- Before: ${a.before.q} → *${a.before.choices[a.before.answer]}* (asOf ${a.before.asOf})`,
         `- After: ${a.question.q} → *${a.question.choices[a.question.answer]}*`,
         `- Fact: ${a.question.fact}`,
@@ -169,7 +183,7 @@ export function renderRefreshSummary(report, intro) {
     }
     if (r.rejected.length) {
       L.push('<details><summary>Rejected proposals</summary>', '');
-      for (const x of r.rejected) L.push(`- #${x.index} ${x.question?.q ?? ''}: ${x.why}`);
+      for (const x of r.rejected) L.push(`- ${x.topic ? `${REFRESH_TOPICS[x.topic]?.label ?? x.topic} ` : ''}#${x.index} ${x.question?.q ?? ''}: ${x.why}`);
       L.push('', '</details>', '');
     }
   }

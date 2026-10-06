@@ -1,8 +1,8 @@
 name: Current affairs refresh
 
 # Twice a month (the 1st and 15th, 06:17 UTC), Claude Code (Sonnet 5.5) reviews every
-# country's Current Affairs questions against the news, rewrites ones that are no longer
-# true and proposes a couple of fresh ones. scripts/factcheck/factcheck.mjs screens the
+# country's Current Affairs and Society & Economy questions against the news, rewrites ones
+# that are no longer true and proposes a couple of fresh ones per subject. scripts/factcheck/factcheck.mjs screens the
 # proposals (schema, same difficulty, no duplicates, at least one source URL), has a separate
 # Claude Code session fact-check them, and keeps only changes it passes with high confidence.
 # Once the tests pass, this workflow opens a pull request against main, merges it, and starts

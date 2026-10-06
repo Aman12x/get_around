@@ -3,7 +3,9 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 
 const dir = new URL('../src/data/questions/', import.meta.url).pathname;
-const TOPICS = ['history', 'technology', 'art', 'politics', 'current-affairs', 'general'];
+const TOPICS = ['history', 'technology', 'art', 'politics', 'current-affairs', 'society', 'general'];
+// Subjects about recent events: every question carries the year it was true as of.
+const DATED = new Set(['current-affairs', 'society']);
 const errors = [];
 let total = 0;
 
@@ -35,7 +37,7 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json') && (!only.
       if (typeof q.fact !== 'string' || !q.fact.trim()) errors.push(`${where(t, i)}: missing fact`);
       else if (q.fact.length > 240) errors.push(`${where(t, i)}: fact too long (${q.fact.length})`);
       if (![1, 2, 3].includes(q.difficulty)) errors.push(`${where(t, i)}: difficulty must be 1, 2 or 3`);
-      if (t === 'current-affairs' && !/^\d{4}$/.test(q.asOf ?? '')) errors.push(`${where(t, i)}: current-affairs needs asOf year`);
+      if (DATED.has(t) && !/^\d{4}$/.test(q.asOf ?? '')) errors.push(`${where(t, i)}: ${t} needs asOf year`);
       const key = q.q?.toLowerCase().replace(/[^a-z0-9]/g, '');
       if (seen.has(key)) errors.push(`${where(t, i)}: duplicate question`);
       seen.add(key);
