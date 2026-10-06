@@ -1538,7 +1538,7 @@
     ],
     "society": [
       {
-        "q": "In 2024, Greece passed a law allowing some businesses to put staff on a working week of how many days?",
+        "q": "In 2024, a Greek law came into force allowing some businesses to put staff on a working week of how many days?",
         "choices": [
           "Six",
           "Four",
@@ -1546,7 +1546,7 @@
           "Seven"
         ],
         "answer": 0,
-        "fact": "The law, in force from July 2024, lets businesses operating around the clock schedule a sixth day paid at a 40% overtime premium; unions held strikes against it.",
+        "fact": "Law 5053/2023, in force from 1 July 2024, lets businesses operating around the clock schedule a sixth day paid at a 40% overtime premium; unions held strikes against it.",
         "difficulty": 1,
         "asOf": "2024"
       },
@@ -1566,13 +1566,13 @@
       {
         "q": "International tourist arrivals in Greece reached a record of roughly how many in 2024?",
         "choices": [
-          "16 million",
-          "26 million",
-          "36 million",
-          "56 million"
+          "21 million",
+          "31 million",
+          "41 million",
+          "51 million"
         ],
         "answer": 2,
-        "fact": "That is over three times the country's population of about 10.5 million, fuelling debate about overtourism on islands such as Santorini and Mykonos.",
+        "fact": "Bank of Greece data put arrivals at 40.7 million, almost four times the population of about 10.5 million, fuelling debate about overtourism on islands such as Santorini and Mykonos.",
         "difficulty": 1,
         "asOf": "2024"
       },
@@ -1585,7 +1585,7 @@
           "12%"
         ],
         "answer": 3,
-        "fact": "Inflation hit about 12% in September 2022, the highest since the early 1990s, with energy and food prices leading the rise.",
+        "fact": "ELSTAT put inflation at 12% in September 2022; the EU-harmonised rate of 12.1% was the highest since Greece joined the euro, with energy prices up over 50% year on year.",
         "difficulty": 1,
         "asOf": "2022"
       },
@@ -1598,7 +1598,7 @@
           "14.5 million"
         ],
         "answer": 1,
-        "fact": "The count of about 10.48 million was down roughly 3.5% on 2011, the first fall between censuses in Greece's modern history.",
+        "fact": "The final count of 10,482,487 was down about 3% on 2011; births fell, deaths rose, people emigrated, and 12 of the country's 13 regions lost population.",
         "difficulty": 1,
         "asOf": "2021"
       },
@@ -1676,7 +1676,7 @@
           "24%"
         ],
         "answer": 1,
-        "fact": "At its crisis peak in 2013, unemployment was nearly 28%, the highest in the EU; it has fallen steadily since but remains among the bloc's highest.",
+        "fact": "The annual average was 10.1% in 2024, down from 11.1% in 2023 and 12.4% in 2022; it dipped to 9.4% in December 2024 but was still the second-highest rate in the EU.",
         "difficulty": 2,
         "asOf": "2024"
       },
@@ -1702,7 +1702,7 @@
           "76,000"
         ],
         "answer": 3,
-        "fact": "Deaths that year were nearly double the number of births, and Greece has had more deaths than births every year since 2011.",
+        "fact": "Deaths that year numbered 140,801, nearly double the 76,541 births; births were down 10.3% on 2021, according to ELSTAT.",
         "difficulty": 2,
         "asOf": "2022"
       },
@@ -1806,7 +1806,7 @@
           "Athens"
         ],
         "answer": 3,
-        "fact": "The one-year freeze covered central Athens, where platforms such as Airbnb were blamed for soaring rents; owners who switched to long-term lets got tax breaks.",
+        "fact": "The freeze, later extended to the end of 2026, covered the first three municipal districts, where platforms such as Airbnb were blamed for soaring rents; a daily tax on short lets also rose.",
         "difficulty": 3,
         "asOf": "2025"
       },

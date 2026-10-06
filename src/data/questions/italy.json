@@ -1590,7 +1590,7 @@
         "asOf": "2024"
       },
       {
-        "q": "What is the standard state retirement age in Italy, in force since 2019 and linked to life expectancy?",
+        "q": "What is the standard state retirement age in Italy, in force since 2019?",
         "choices": [
           "62",
           "65",
@@ -1598,12 +1598,12 @@
           "67"
         ],
         "answer": 3,
-        "fact": "Italy spends about 16% of GDP on pensions, one of the highest shares in the OECD, partly because of generous early-retirement schemes.",
+        "fact": "Italy spends about 16% of GDP on pensions, one of the highest shares in the OECD; the age is nominally indexed to life expectancy, though that link was frozen until 2026.",
         "difficulty": 1,
         "asOf": "2019"
       },
       {
-        "q": "In October 2021 Italy became the first European country to require all workers to show what in order to enter their workplace?",
+        "q": "In October 2021 Italy became the first major European economy to require all workers to show what in order to enter their workplace?",
         "choices": [
           "A COVID-19 'green pass'",
           "A digital identity card",
@@ -1728,7 +1728,7 @@
           "33%"
         ],
         "answer": 2,
-        "fact": "Italy's median age was about 48, and ISTAT projected that over-65s would make up more than a third of the population by 2050.",
+        "fact": "Italy's median age was about 47, and ISTAT projected that over-65s would make up more than a third of the population by 2050.",
         "difficulty": 2,
         "asOf": "2024"
       },
@@ -1741,7 +1741,7 @@
           "Poland"
         ],
         "answer": 0,
-        "fact": "Only around 56% of Italian women aged 20 to 64 were in work, compared with an EU average of about 70%; in parts of the south the rate was below 40%.",
+        "fact": "Only around 56% of Italian women aged 20 to 64 were in work, compared with an EU average of about 70%; Italy's overall employment rate was also the lowest in the EU.",
         "difficulty": 2,
         "asOf": "2023"
       },

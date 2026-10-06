@@ -1076,7 +1076,7 @@
         "q": "What is 'Fayda', rolled out in Ethiopia from 2021?",
         "choices": ["A national digital ID", "A ride-hailing app", "A fuel ration card", "A wheat subsidy"],
         "answer": 0,
-        "fact": "The biometric ID is being linked to banking and other public services, with a target of tens of millions of registrations by 2025.",
+        "fact": "The biometric ID is being linked to banking and other public services; the original target of 90 million registrations by 2025 was later pushed back to 2028.",
         "difficulty": 3,
         "asOf": "2023"
       },

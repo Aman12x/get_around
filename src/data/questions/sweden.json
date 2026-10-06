@@ -916,7 +916,7 @@
         "q": "Sweden's central bank, the Riksbank, aims to keep inflation at what annual rate?",
         "choices": ["2%", "0%", "4%", "6%"],
         "answer": 0,
-        "fact": "The 2% target, measured by the CPIF index, was introduced in 1993 after the krona was floated; the Riksbank is the world's oldest central bank, founded in 1668.",
+        "fact": "The 2% target was set in 1993 after the krona was floated, and since 2017 it has been measured by the CPIF index; the Riksbank, founded in 1668, is the world's oldest central bank.",
         "difficulty": 1,
         "asOf": "2024"
       },
@@ -969,10 +969,10 @@
         "asOf": "2022"
       },
       {
-        "q": "In 2024, Sweden's population statistics showed something not seen for decades. What was it?",
-        "choices": ["More people emigrating than immigrating", "A fall in life expectancy", "More deaths than births", "A population above 12 million"],
-        "answer": 0,
-        "fact": "Statistics Sweden reported net emigration for the year, as asylum arrivals fell to very low levels and more residents moved abroad.",
+        "q": "At the end of 2024, Statistics Sweden put the country's population at roughly what?",
+        "choices": ["9.2 million", "10.6 million", "11.5 million", "12.8 million"],
+        "answer": 1,
+        "fact": "The population grew by about 36,000 during 2024, with 29,700 more immigrations than emigrations and 7,200 more births than deaths; it had passed 10 million only in 2017.",
         "difficulty": 1,
         "asOf": "2024"
       },
@@ -1073,10 +1073,10 @@
         "asOf": "2024"
       },
       {
-        "q": "Which part of Sweden received the government's 'elstöd' electricity price support, paid out in 2023?",
-        "choices": ["The whole country", "Only southern Sweden", "Only northern Sweden", "Only the Stockholm region"],
-        "answer": 1,
-        "fact": "The first payment went only to households in the two southern price zones, where prices had spiked in 2022; a later, smaller round covered the whole country.",
+        "q": "The first round of Sweden's 'elstöd' electricity price support, paid from February 2023, went to households in which price zones?",
+        "choices": ["The two southern zones, SE3 and SE4", "The two northern zones, SE1 and SE2", "All four zones equally", "Only the Stockholm zone, SE3"],
+        "answer": 0,
+        "fact": "Payments to SE3 and SE4 households began on 20 February 2023 and covered October 2021 to September 2022; a second, smaller round for November and December 2022 later covered the whole country.",
         "difficulty": 3,
         "asOf": "2023"
       },
@@ -1108,7 +1108,7 @@
         "q": "Which 5% surtax on high incomes did Sweden abolish from 1 January 2020?",
         "choices": ["Fastighetsskatten", "Värnskatten", "Arvsskatten", "Förmögenhetsskatten"],
         "answer": 1,
-        "fact": "Introduced as a temporary 'defence tax' in 1995 to fix public finances, it had survived for 25 years; the others were scrapped in 2008, 2005 and 2007 respectively.",
+        "fact": "Introduced as a temporary 'defence tax' in 1995 to repair public finances after the early-1990s crisis, it added five points to state income tax for top earners; scrapping it cut the top state rate from 25% to 20%.",
         "difficulty": 3,
         "asOf": "2020"
       }

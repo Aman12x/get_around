@@ -924,7 +924,7 @@
         "q": "Roughly how many foreign tourists visited Iceland in 2023, a country of under 400,000 people?",
         "choices": ["500,000", "5 million", "10 million", "2 million"],
         "answer": 3,
-        "fact": "Arrivals had collapsed to under 500,000 in 2020 and 2021 during the pandemic; tourism is Iceland's biggest export earner, ahead of fishing and aluminium.",
+        "fact": "Arrivals had collapsed to under 500,000 in 2020 and about 690,000 in 2021 during the pandemic; tourism is Iceland's biggest export earner, ahead of fishing and aluminium.",
         "difficulty": 1,
         "asOf": "2023"
       },
@@ -972,7 +972,7 @@
         "q": "Iceland's largest manufactured export, smelted using its cheap electricity, is what?",
         "choices": ["Steel", "Aluminium", "Cement", "Fertiliser"],
         "answer": 1,
-        "fact": "Three smelters produce the metal from imported bauxite ore and use most of Iceland's electricity; the plant at Straumsvík near Reykjavík opened in 1969.",
+        "fact": "Three smelters produce the metal from imported alumina and use most of Iceland's electricity; the plant at Straumsvík near Reykjavík opened in 1969.",
         "difficulty": 1,
         "asOf": "2024"
       },
@@ -1052,7 +1052,7 @@
         "q": "By 2023, roughly what share of Iceland's population were immigrants, one of Europe's fastest rises?",
         "choices": ["One in twenty", "One in ten", "Nearly one in five", "One in three"],
         "answer": 2,
-        "fact": "Statistics Iceland counted immigrants at about 18% of residents in 2023, up from under 10% in 2012.",
+        "fact": "Statistics Iceland counted immigrants at 16.7% of residents at the start of 2023 and 18.2% a year later, up from 7.4% in 2012.",
         "difficulty": 2,
         "asOf": "2023"
       },
@@ -1068,7 +1068,7 @@
         "q": "In January 2024, Iceland reinstated its overnight accommodation tax and extended it to what for the first time?",
         "choices": ["Camper vans", "Cruise ships", "Private rentals", "Mountain huts"],
         "answer": 1,
-        "fact": "The tax had been suspended during the pandemic; hotels charge 600 krónur per room per night and cruise passengers pay per night in Icelandic waters.",
+        "fact": "The tax had been suspended during the pandemic; hotels charge 600 krónur per room per night and cruise ships 1,000 krónur per cabin per night while docked in Icelandic harbours.",
         "difficulty": 3,
         "asOf": "2024"
       },
@@ -1092,7 +1092,7 @@
         "q": "From January 2024, Iceland introduced a per-kilometre road charge for which vehicles?",
         "choices": ["Electric and plug-in hybrid cars", "Lorries over 12 tonnes", "Rental cars", "Diesel cars"],
         "answer": 0,
-        "fact": "The 'kílómetragjald' replaced lost fuel tax revenue, with electric cars paying 6 krónur per kilometre; it was extended to all cars in 2025.",
+        "fact": "The 'kílómetragjald' replaced lost fuel tax revenue, with electric cars paying 6 krónur per kilometre; from 2026 it was extended to all cars, charged by weight.",
         "difficulty": 3,
         "asOf": "2024"
       },
@@ -1108,7 +1108,7 @@
         "q": "What is Borgarlína, a major project planned for Iceland's capital region?",
         "choices": ["A bus rapid transit network", "A tram line", "A new airport", "A harbour tunnel"],
         "answer": 0,
-        "fact": "Agreed between the state and six municipalities in 2019, it gives buses dedicated lanes on key routes; the first line was slated for the late 2020s.",
+        "fact": "Agreed between the state and six municipalities in 2019, it gives buses dedicated lanes on key routes; after repeated delays the first phase is not expected before about 2031.",
         "difficulty": 3,
         "asOf": "2024"
       }

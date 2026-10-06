@@ -1044,7 +1044,7 @@
         "q": "In February 2020, Nigeria raised its value added tax rate from 5% to what?",
         "choices": ["6%", "7.5%", "10%", "15%"],
         "answer": 1,
-        "fact": "It was the first VAT rise since the tax was introduced in 1994; a 2025 tax overhaul kept the rate unchanged.",
+        "fact": "The rise took effect on 1 February 2020 under the Finance Act; to soften it, staples such as bread, cereals, fish, flour, fruit and vegetables were made VAT-exempt.",
         "difficulty": 2,
         "asOf": "2020"
       },
@@ -1108,7 +1108,7 @@
         "q": "In April 2020, the IMF approved emergency pandemic financing for Nigeria of roughly how much?",
         "choices": ["$1.4 billion", "$3.4 billion", "$7 billion", "$12 billion"],
         "answer": 1,
-        "fact": "The Rapid Financing Instrument loan was Nigeria's first IMF borrowing in decades and was fully repaid by 2025.",
+        "fact": "The Rapid Financing Instrument loan was meant to cushion the oil-price collapse and pandemic; the IMF confirmed in 2025 that Nigeria had fully repaid it.",
         "difficulty": 3,
         "asOf": "2020"
       }

@@ -948,7 +948,7 @@
         "q": "Since 2022, people from which country have made up by far the largest group of refugees arriving in Norway?",
         "choices": ["Syria", "Ukraine", "Afghanistan", "Eritrea"],
         "answer": 1,
-        "fact": "More than 80,000 Ukrainians had been granted collective protection by 2024, the largest refugee arrival in Norway's history.",
+        "fact": "Around 87,000 Ukrainians had been granted collective protection by the end of 2024, the largest refugee arrival in Norway's history.",
         "difficulty": 1,
         "asOf": "2024"
       },
@@ -988,7 +988,7 @@
         "q": "In 2023, Norway's population passed which milestone?",
         "choices": ["3.5 million", "4.5 million", "5.5 million", "7.5 million"],
         "answer": 2,
-        "fact": "Growth came almost entirely from immigration, with Ukrainian arrivals pushing 2022 and 2023 to record net migration.",
+        "fact": "Growth came almost entirely from immigration, with Ukrainian arrivals producing record net migration in 2022 and a near-record in 2023.",
         "difficulty": 2,
         "asOf": "2023"
       },
@@ -1108,7 +1108,7 @@
         "q": "In 2023, Norway's parliament agreed to extend its 40% gender quota for company boards to which firms?",
         "choices": ["Large private companies", "Co-operatives only", "Banks only", "State agencies"],
         "answer": 0,
-        "fact": "The quota had applied to listed companies since 2008; the extension is being phased in from 2024 for firms with over 100 employees or 100 million kroner in revenue.",
+        "fact": "The quota had applied to listed companies since 2008; the extension is phased in from 2024, starting with firms with over 100 million kroner in revenue.",
         "difficulty": 3,
         "asOf": "2023"
       }

@@ -1012,7 +1012,7 @@
         "q": "In 2023 France's public debt passed which symbolic milestone for the first time?",
         "choices": ["€1 trillion", "€2 trillion", "€3 trillion", "€5 trillion"],
         "answer": 2,
-        "fact": "Debt reached about 112% of GDP in 2023, among the highest in the eurozone, and the cost of servicing it became a major political issue.",
+        "fact": "Debt reached about 110% of GDP in 2023, among the highest in the eurozone, and the cost of servicing it became a major political issue.",
         "difficulty": 2,
         "asOf": "2023"
       },
@@ -1105,12 +1105,12 @@
         "asOf": "2019"
       },
       {
-        "q": "Since 2019, French companies with 50 or more employees must publish an annual gender equality index scored out of how many points?",
+        "q": "France's annual gender equality index, which every company with 50 or more employees has had to publish since 2020, is scored out of how many points?",
         "choices": ["10", "20", "50", "100"],
         "answer": 3,
         "fact": "Companies scoring below 75 must take corrective measures within three years or face a fine of up to 1% of their payroll.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2020"
       }
     ],
     "general": [

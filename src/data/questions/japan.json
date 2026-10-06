@@ -1012,9 +1012,9 @@
         "q": "A law in force from April 2021 asks Japanese companies to make efforts to let employees keep working until what age?",
         "choices": ["60", "65", "70", "75"],
         "answer": 2,
-        "fact": "Firms were already required to secure employment until 65; Japan's public pension can be claimed anywhere between 60 and 75, with larger payments for waiting.",
+        "fact": "Firms were already required to secure employment until 65; since April 2022 Japan's public pension can be claimed anywhere between 60 and 75, with larger payments for waiting.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2022"
       },
       {
         "q": "Foreign residents in Japan reached a record of roughly how many at the end of 2024?",

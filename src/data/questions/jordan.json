@@ -916,7 +916,7 @@
         "q": "Which camp in northern Jordan, opened in 2012, remained one of the world's largest refugee camps with about 80,000 residents in the 2020s?",
         "choices": ["Zaatari", "Azraq", "Baqa'a", "Jerash"],
         "answer": 0,
-        "fact": "Home to Syrians, Zaatari has its own market street nicknamed the 'Champs-Élysées'; Jordan hosted around 650,000 UNHCR-registered Syrians overall.",
+        "fact": "Home to Syrians, Zaatari has its own market street nicknamed the 'Champs-Élysées'; Jordan hosted around 660,000 UNHCR-registered Syrians overall.",
         "difficulty": 1,
         "asOf": "2023"
       },
@@ -932,7 +932,7 @@
         "q": "Jordan's unemployment rate in 2023 was roughly what?",
         "choices": ["7%", "14%", "22%", "35%"],
         "answer": 2,
-        "fact": "The Department of Statistics put the rate at 22.0%, down from a pandemic peak of about 24% in 2021.",
+        "fact": "The Department of Statistics' quarterly rate ran from 22.3% to 21.4% during 2023, down from 23.3% at the end of 2021 after the pandemic.",
         "difficulty": 1,
         "asOf": "2023"
       },
@@ -948,7 +948,7 @@
         "q": "In 2019 which profession's syndicate held a month-long nationwide strike in Jordan over pay?",
         "choices": ["Teachers", "Doctors", "Bus drivers", "Nurses"],
         "answer": 0,
-        "fact": "The strike ended with an agreement on pay rises of 35% to 75% depending on rank; the syndicate was suspended by a court order in 2020.",
+        "fact": "The strike ended with an agreement on pay rises of 35% to 75% depending on rank; the syndicate was shut down by an attorney general's order in 2020.",
         "difficulty": 1,
         "asOf": "2019"
       },
@@ -988,7 +988,7 @@
         "q": "In the early 2020s roughly what share of young Jordanians aged 15 to 24 in the labour force were unemployed?",
         "choices": ["About 1 in 10", "About 1 in 4", "About three-quarters", "Nearly half"],
         "answer": 3,
-        "fact": "Youth unemployment reached about 46% in 2022, among the highest rates in the world, despite Jordan's high university enrolment.",
+        "fact": "The Department of Statistics put youth unemployment at 47.2% in late 2022, among the highest rates in the world, despite Jordan's high university enrolment.",
         "difficulty": 2,
         "asOf": "2022"
       },
@@ -1076,9 +1076,9 @@
         "q": "The 2016 'Jordan Compact' agreed with the EU and donors opened work permits to refugees from which country?",
         "choices": ["Syria", "Iraq", "Yemen", "Sudan"],
         "answer": 0,
-        "fact": "More than 300,000 permits had been issued by 2022, mostly in agriculture and construction, in return for trade concessions and grants.",
+        "fact": "About 373,000 permits had been issued cumulatively by 2023, mostly in agriculture and construction, in return for trade concessions and grants.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2023"
       },
       {
         "q": "What is the name of the cash-assistance programme that Jordan's National Aid Fund expanded during the pandemic?",
@@ -1108,7 +1108,7 @@
         "q": "By 2023 roughly what share of Jordan's electricity was generated from renewable sources?",
         "choices": ["27%", "5%", "50%", "75%"],
         "answer": 0,
-        "fact": "Solar and wind grew from almost nothing in 2014, with large solar farms around Ma'an and the Tafila wind project.",
+        "fact": "Solar and wind grew from almost nothing in 2014, with large solar farms around Ma'an and the Tafila wind project; the government targets 50% by 2030.",
         "difficulty": 3,
         "asOf": "2023"
       }

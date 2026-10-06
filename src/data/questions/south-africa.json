@@ -1028,7 +1028,7 @@
         "q": "By 2024 the state old-age grant paid to South Africans over 60 was roughly how much a month?",
         "choices": ["R700", "R1,200", "R2,200", "R4,000"],
         "answer": 2,
-        "fact": "The grant (about R2,190 in 2024) is funded from general taxes rather than contributions and reaches almost 4 million pensioners.",
+        "fact": "The grant was R2,180 a month from April 2024 and R2,190 from October 2024; it is funded from general taxes rather than contributions and rises each year.",
         "difficulty": 2,
         "asOf": "2024"
       },
@@ -1036,7 +1036,7 @@
         "q": "In 2023 South Africa ran its first coordinated pilot of what working pattern, linked to the group 4 Day Week Global?",
         "choices": ["A six-hour working day", "A four-day working week", "Compulsory remote work", "A two-year sabbatical"],
         "answer": 1,
-        "fact": "Dozens of companies joined the six-month trial organised with Stellenbosch Business School; most said they planned to keep the shorter week.",
+        "fact": "Twenty-eight companies joined the six-month trial, run from March to August 2023 with Stellenbosch Business School and Boston College; it was the first such pilot in Africa.",
         "difficulty": 2,
         "asOf": "2023"
       },
@@ -1068,7 +1068,7 @@
         "q": "What name was given to the retirement reform introduced in September 2024 that lets savers withdraw part of their fund early?",
         "choices": ["Three-tier system", "Two-pot system", "Golden handshake", "Nest-egg scheme"],
         "answer": 1,
-        "fact": "One third of new contributions goes into an accessible 'savings pot'; within two months more than 2 million people had applied for withdrawals.",
+        "fact": "One third of new contributions goes into an accessible 'savings pot'; within three months SARS had received more than 2 million applications for withdrawals.",
         "difficulty": 3,
         "asOf": "2024"
       },
@@ -1084,7 +1084,7 @@
         "q": "In 2023 the budget offered households a tax rebate on new solar panels worth what share of the cost, capped at R15,000?",
         "choices": ["10%", "50%", "100%", "25%"],
         "answer": 3,
-        "fact": "The one-year incentive responded to record load shedding; Eskom estimated that private rooftop solar capacity more than doubled during 2023.",
+        "fact": "The one-year incentive, running from 1 March 2023 to 29 February 2024, applied to panels only (not inverters or batteries) and responded to record load shedding.",
         "difficulty": 3,
         "asOf": "2023"
       },

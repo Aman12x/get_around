@@ -921,7 +921,7 @@
         "asOf": "2022"
       },
       {
-        "q": "After 13 consecutive rises from May 2022, at what level did the Reserve Bank of Australia's cash rate peak in November 2023?",
+        "q": "After 13 rises from May 2022, at what level did the Reserve Bank of Australia's cash rate peak in November 2023?",
         "choices": ["2.35%", "3.35%", "4.35%", "5.35%"],
         "answer": 2,
         "fact": "The cash rate had sat at a record low of 0.10% during the pandemic; the first cut of the cycle did not come until February 2025.",
@@ -932,7 +932,7 @@
         "q": "Australia's 2020 JobKeeper wage subsidy initially paid eligible workers how much per fortnight?",
         "choices": ["$750", "$1,000", "$1,500", "$2,000"],
         "answer": 2,
-        "fact": "JobKeeper supported around 3.8 million workers at its peak and cost about $89 billion, making it the largest single programme in Australia's history.",
+        "fact": "JobKeeper supported around 3.8 million workers and over a million businesses, and cost about $89 billion, making it one of the largest fiscal programmes in Australia's history.",
         "difficulty": 1,
         "asOf": "2020"
       },
@@ -1012,7 +1012,7 @@
         "q": "From August 2024, Queensland introduced a flat fare on all public transport in Brisbane and across the state of how much?",
         "choices": ["50 cents", "$1", "$2", "Free"],
         "answer": 0,
-        "fact": "The six-month trial was made permanent in December 2024 after patronage jumped; each trip costs 50 cents regardless of distance.",
+        "fact": "The trial was made permanent by the incoming state government in late 2024 after patronage jumped; each trip costs 50 cents regardless of distance.",
         "difficulty": 2,
         "asOf": "2024"
       },
@@ -1060,7 +1060,7 @@
         "q": "In the 2021 Census, roughly what proportion of Australians reported having 'no religion'?",
         "choices": ["49%", "39%", "29%", "19%"],
         "answer": 1,
-        "fact": "'No religion' was the fastest-growing response, up from 30% in 2016, while Christianity fell below half the population for the first time.",
+        "fact": "The scheme ran from July 2015 to November 2019 and was found unlawful; it raised about $1.7 billion in debts, and a 2020 class action was settled for $1.2 billion.",
         "difficulty": 3,
         "asOf": "2021"
       },

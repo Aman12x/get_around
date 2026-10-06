@@ -1036,7 +1036,7 @@
         "q": "Which federal food-aid programme, formerly known as food stamps, supported around 42 million Americans a month in 2023?",
         "choices": ["WIC", "SNAP", "TANF", "Medicaid"],
         "answer": 1,
-        "fact": "Pandemic 'emergency allotments' that had boosted benefits ended in early 2023, cutting the average household's monthly benefit by about $90.",
+        "fact": "Pandemic 'emergency allotments' that had boosted benefits ended in early 2023, cutting the average participant's monthly benefit by about $90, per the Center on Budget and Policy Priorities.",
         "difficulty": 2,
         "asOf": "2023"
       },

@@ -937,12 +937,12 @@
         "asOf": "2025"
       },
       {
-        "q": "By the early 2020s, which industry had overtaken phosphates as Morocco's top export sector?",
+        "q": "In 2023, which industry became Morocco's largest export sector, overtaking phosphates?",
         "choices": ["Textiles", "Tourism", "Fishing", "Automotive"],
         "answer": 3,
-        "fact": "Renault in Tangier and Stellantis in Kenitra made Morocco Africa's largest car producer, with vehicle exports topping 100 billion dirhams a year by 2022.",
+        "fact": "Renault in Tangier and Stellantis in Kenitra drive the sector; car-industry exports rose 27% to about 142 billion dirhams in 2023 while phosphate sales fell to 76 billion.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2023"
       },
       {
         "q": "Morocco's unemployment rate, as measured by the HCP, stood at roughly what in 2024?",
@@ -1036,7 +1036,7 @@
         "q": "Remittances from Moroccans living abroad reached a record of roughly how much in 2023?",
         "choices": ["US$3 billion", "US$7 billion", "US$11 billion", "US$20 billion"],
         "answer": 2,
-        "fact": "Transfers of about 115 billion dirhams exceeded foreign direct investment and made the diaspora, roughly 5 million strong, a pillar of the economy.",
+        "fact": "Transfers of about 115 billion dirhams rose 4% on 2022; France was the largest source at about 31%, followed by Spain, Saudi Arabia and Italy.",
         "difficulty": 2,
         "asOf": "2023"
       },

@@ -961,7 +961,7 @@
         "asOf": "2025"
       },
       {
-        "q": "In 2023, what overtook tea and tourism as Kenya's largest source of foreign exchange?",
+        "q": "In 2023, what was Kenya's largest source of foreign exchange, ahead of tea exports and tourism?",
         "choices": ["Coffee exports", "Diaspora remittances", "Flower exports", "Gold mining"],
         "answer": 1,
         "fact": "Kenyans abroad sent home over $4bn in 2023, with the United States the biggest source.",
@@ -988,7 +988,7 @@
         "q": "Kenya's 2019 census counted roughly how many people?",
         "choices": ["About 38 million", "About 47.6 million", "About 55 million", "About 62 million"],
         "answer": 1,
-        "fact": "It was the first Kenyan census to use digital data capture, and found that over 70% of people lived in rural areas.",
+        "fact": "It was the first Kenyan census to use digital data capture, and found that nearly 70% of people lived in rural areas.",
         "difficulty": 2,
         "asOf": "2019"
       },
@@ -1012,7 +1012,7 @@
         "q": "On Labour Day 2022, Kenya's president announced a minimum wage increase of what size?",
         "choices": ["3%", "6%", "12%", "25%"],
         "answer": 2,
-        "fact": "It was the first rise in over three years; a further 6% increase followed in May 2024.",
+        "fact": "It was the first rise in over three years; a further 6% increase was announced on Labour Day 2024.",
         "difficulty": 2,
         "asOf": "2022"
       },
@@ -1052,7 +1052,7 @@
         "q": "Just before the August 2022 election, Kenya's government subsidised a 2 kg packet of maize flour to what price?",
         "choices": ["KSh 50", "KSh 150", "KSh 200", "KSh 100"],
         "answer": 3,
-        "fact": "Unsubsidised unga had topped KSh 200; the subsidy was scrapped by the incoming government weeks later.",
+        "fact": "Unsubsidised unga had topped KSh 200; the subsidy was suspended in mid-August 2022 for lack of funds and was not revived by the incoming government.",
         "difficulty": 2,
         "asOf": "2022"
       },

@@ -945,10 +945,10 @@
         "asOf": "2023"
       },
       {
-        "q": "In December 2024, the Brazilian real weakened past what level against the US dollar for the first time?",
+        "q": "In late 2024, the Brazilian real weakened past what level against the US dollar for the first time?",
         "choices": ["4 reais", "5 reais", "6 reais", "8 reais"],
         "answer": 2,
-        "fact": "The slide followed market doubts about a government spending-cut package; the central bank sold dollars from its reserves to steady the currency.",
+        "fact": "The real first closed beyond 6 per dollar on 29 November 2024 and hit a record 6.27 on 18 December; the central bank sold dollars from its reserves to steady it.",
         "difficulty": 1,
         "asOf": "2024"
       },

@@ -1010,9 +1010,9 @@
       },
       {
         "q": "In September 2022, Danmarks Nationalbank raised its key interest rate above zero for the first time since which year?",
-        "choices": ["2008", "2012", "2016", "2019"],
-        "answer": 1,
-        "fact": "Denmark had the world's longest spell of negative policy rates, almost a decade, imposed to defend the krone's peg to the euro.",
+        "choices": ["2008", "2012", "2014", "2019"],
+        "answer": 2,
+        "fact": "Denmark first cut its deposit rate below zero in 2012 and, apart from a few months in 2014, kept it negative until 2022, the world's longest spell, to defend the krone's peg to the euro.",
         "difficulty": 2,
         "asOf": "2022"
       },
@@ -1057,12 +1057,12 @@
         "asOf": "2022"
       },
       {
-        "q": "The early retirement scheme introduced in Denmark in 2022 for people with long working lives is nicknamed after whom?",
+        "q": "Denmark's early retirement scheme for people with long working lives, which opened for applications in 2021, is nicknamed after whom?",
         "choices": ["Karen, a nurse", "Jens, a fisherman", "Mette, the prime minister", "Arne, a brewery worker"],
         "answer": 3,
         "fact": "The 'Arne pension' lets those who entered the labour market early retire up to three years before the state pension age; Arne Juhl featured in the 2019 election campaign.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2021"
       },
       {
         "q": "In 2022, Denmark paid a one-off 'heat cheque' to households hit by soaring gas and district heating prices. How much was it?",
