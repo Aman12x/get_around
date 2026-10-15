@@ -1419,17 +1419,17 @@
         "asOf": "2025"
       },
       {
-        "q": "In 2022, Delhi's ceremonial avenue Rajpath was renamed what?",
+        "q": "Which team did India beat in the final of the 2026 Women's T20 Asia Cup, played in Dubai in September?",
         "choices": [
-          "Kartavya Path",
-          "Janpath",
-          "Rashtrapati Marg",
-          "Swaraj Path"
+          "Pakistan",
+          "Bangladesh",
+          "Sri Lanka",
+          "Thailand"
         ],
-        "answer": 0,
-        "fact": "The avenue runs from Rashtrapati Bhavan to India Gate and hosts the Republic Day parade each January.",
+        "answer": 2,
+        "fact": "India won by 72 runs for a record eighth title, avenging their defeat by Sri Lanka in the 2024 final.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In which sport did Manu Bhaker win two bronze medals at the Paris 2024 Olympics?",
@@ -1707,17 +1707,17 @@
         "asOf": "2024"
       },
       {
-        "q": "Launched in 2019, the PM-KISAN scheme pays farming families how much per year?",
+        "q": "In February 2026, India began publishing retail inflation using a new consumer price index with which base year?",
         "choices": [
-          "₹2,000",
-          "₹12,000",
-          "₹6,000",
-          "₹24,000"
+          "2024",
+          "2012",
+          "2018",
+          "2020"
         ],
-        "answer": 2,
-        "fact": "The money arrives in three instalments straight into bank accounts and reaches over 90 million farming households.",
+        "answer": 0,
+        "fact": "The revised basket tracks 358 items, up from 299 in the old 2012-based series. January 2026 inflation came out at 2.75% on the new basis, versus 1.33% in December on the old one.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "From October 2019, which group was given free travel on Delhi's public buses?",
@@ -1824,17 +1824,17 @@
         "asOf": "2024"
       },
       {
-        "q": "A 2022 NITI Aayog report estimated India had roughly how many gig workers in 2020-21?",
+        "q": "In June 2026, official provisional estimates put India's real GDP growth for the 2025-26 financial year at roughly what?",
         "choices": [
-          "7.7 million",
-          "2 million",
-          "30 million",
-          "75 million"
+          "6.2%",
+          "7.7%",
+          "8.9%",
+          "5.4%"
         ],
-        "answer": 0,
-        "fact": "It projected the number would reach over 23 million by 2030; a 2020 social security code was the first to formally define gig and platform work.",
+        "answer": 1,
+        "fact": "The statistics ministry's figure was above the 7.1% recorded for 2024-25 and the 7.4% first advance estimate; fourth-quarter growth was put at 7.8%.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "The Unified Pension Scheme, in force from April 2025, assures central government staff a pension of what share of their final-year average pay?",

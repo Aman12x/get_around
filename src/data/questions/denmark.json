@@ -831,12 +831,12 @@
         "asOf": "2022"
       },
       {
-        "q": "In November 2020, Denmark ordered a cull of all farmed animals of which species over a coronavirus mutation?",
-        "choices": ["Mink", "Pigs", "Chickens", "Salmon"],
-        "answer": 0,
-        "fact": "The order covered roughly 15 million animals and was later found to have lacked a clear legal basis.",
+        "q": "In September 2026, Denmark and Greenland signed an Arctic security agreement with which country at the UN General Assembly in New York?",
+        "choices": ["Canada", "The United States", "Norway", "The United Kingdom"],
+        "answer": 1,
+        "fact": "The deal lets the US set up defence areas at Narsarsuaq and Mestersvig, while Greenland stays under Danish sovereignty.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In August 2023, Denmark and the Netherlands pledged which fighter jets to Ukraine?",
@@ -879,12 +879,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In December 2020, Denmark's parliament voted to end all oil and gas extraction in its North Sea by which year?",
-        "choices": ["2030", "2040", "2050", "2060"],
+        "q": "Which party became Denmark's second-largest at the March 2026 general election, overtaking Venstre?",
+        "choices": ["Liberal Alliance", "The Denmark Democrats", "Green Left (SF)", "The Conservative People's Party"],
         "answer": 2,
-        "fact": "Denmark, then the EU's largest oil producer, also cancelled all future licensing rounds.",
+        "fact": "The Social Democrats stayed first with about 21.9%, their lowest share since 1903. Green Left took roughly 11.6% to Venstre's 10.1%.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In 2024, construction was under way on the Fehmarn Belt tunnel linking Lolland with which German island?",

@@ -1263,17 +1263,17 @@
         "asOf": "2024"
       },
       {
-        "q": "Who became Greece's first female President in March 2020?",
+        "q": "In September 2026, Greece began their first-ever Nations League campaign in the top division with a stoppage-time comeback win away to which country?",
         "choices": [
-          "Katerina Sakellaropoulou",
-          "Dora Bakoyannis",
-          "Anna Diamantopoulou",
-          "Fofi Gennimata"
+          "Serbia",
+          "Albania",
+          "Turkey",
+          "Bulgaria"
         ],
         "answer": 0,
-        "fact": "Sakellaropoulou, a judge, had previously been the first woman to lead Greece's Council of State, its supreme administrative court.",
+        "fact": "Serbia led from the fourth minute; Christos Tzolis equalised in the 74th and substitute Tasos Douvikas headed the 2-1 winner in stoppage time in Belgrade.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Which former Prime Minister stepped down as leader of SYRIZA after the 2023 elections?",
@@ -1850,17 +1850,17 @@
         "asOf": "2024"
       },
       {
-        "q": "In April 2025, the Greek gross monthly minimum wage rose to what amount?",
+        "q": "In April 2026, Greece raised its gross monthly minimum wage to what amount?",
         "choices": [
-          "€780",
-          "€830",
-          "€950",
-          "€880"
+          "€850",
+          "€900",
+          "€920",
+          "€1,000"
         ],
-        "answer": 3,
-        "fact": "It was the fifth rise since 2019 and worth about €1,000 a month gross to full-time workers, who in Greece are paid 14 monthly wages a year.",
+        "answer": 2,
+        "fact": "Ministerial Decision 8934/2026 lifted the wage from €880, a rise of about 4.5%. Greek full-time workers are paid 14 monthly wages a year, so the annual gross is €12,880.",
         "difficulty": 3,
-        "asOf": "2025"
+        "asOf": "2026"
       }
     ],
     "general": [

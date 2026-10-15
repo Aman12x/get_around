@@ -743,12 +743,12 @@
         "asOf": "2025"
       },
       {
-        "q": "What was the name of the rover China landed on Mars in May 2021?",
-        "choices": ["Yutu-2", "Zhurong", "Tianhe", "Wentian"],
+        "q": "Who became Hong Kong's first astronaut when she launched to China's Tiangong space station aboard Shenzhou-23 in May 2026?",
+        "choices": ["Wang Yaping", "Lai Ka-ying", "Liu Yang", "Zhang Zhiyuan"],
         "answer": 1,
-        "fact": "Zhurong, named after a fire god in Chinese mythology, touched down on the plain of Utopia Planitia as part of the Tianwen-1 mission.",
+        "fact": "She flew as a payload specialist, handling science experiments, alongside commander Zhu Yangzhu; the crew lifted off from Jiuquan on 24 May 2026.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Who became Premier of China in March 2023, succeeding Li Keqiang?",
@@ -775,12 +775,12 @@
         "asOf": "2023"
       },
       {
-        "q": "What is the name of the core module of China's Tiangong space station, launched in 2021?",
-        "choices": ["Wentian", "Tianhe", "Mengtian", "Tianzhou"],
-        "answer": 1,
-        "fact": "Tiangong means 'Heavenly Palace'; the station was completed in 2022 when the Wentian and Mengtian laboratory modules joined Tianhe.",
+        "q": "In September 2026, China's Gravity-1 rocket set sea-launch records for payload mass and orbit altitude while carrying satellites for which constellation?",
+        "choices": ["Qianfan", "Guowang", "Jilin-1", "Beidou"],
+        "answer": 0,
+        "fact": "Gravity-1 lifted off from waters off Shanghai with eight Qianfan broadband satellites plus one test satellite, a first for a sea-based mobile launch of a low-orbit internet constellation.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "How many gold medals did China win at the 2024 Paris Olympics, level with the United States for the most?",
@@ -1017,12 +1017,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In 2023, China recorded roughly how many births, a record low for the People's Republic?",
-        "choices": ["9 million", "5 million", "14 million", "18 million"],
-        "answer": 0,
-        "fact": "There were 9.02 million births in 2023; the figure rose to 9.54 million in 2024, a Year of the Dragon, the first increase since 2016.",
+        "q": "In 2025, China recorded roughly how many births, a new record low for the People's Republic?",
+        "choices": ["9.5 million", "8.7 million", "7.9 million", "6.8 million"],
+        "answer": 2,
+        "fact": "The 2025 total of 7.92 million was down 17% from 9.54 million in 2024, and the population fell for a fourth straight year, by 3.39 million to 1.405 billion.",
         "difficulty": 2,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "In spring 2022, which Chinese city of about 25 million people endured a roughly two-month citywide COVID lockdown?",
@@ -1057,12 +1057,12 @@
         "asOf": "2023"
       },
       {
-        "q": "China's consumer prices rose by roughly what over 2023 as a whole, prompting talk of deflation?",
-        "choices": ["0.2%", "2.5%", "5%", "8%"],
-        "answer": 0,
-        "fact": "Producer prices fell throughout 2023, and consumer prices dropped 0.8% year on year in January 2024, the steepest fall since 2009.",
+        "q": "China's consumer prices changed by roughly what over 2025 as a whole, well below the official 2% target?",
+        "choices": ["Up 0.8%", "Down 0.5%", "Up 2.1%", "Flat (0.0%)"],
+        "answer": 3,
+        "fact": "Factory-gate prices fell 2.6% over 2025, while December consumer prices rose 0.8% year on year, the fastest pace since early 2023.",
         "difficulty": 3,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "In 2022, buyers of unfinished flats in dozens of Chinese cities took what collective action against developers?",

@@ -791,12 +791,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Which party leader won the UK general election of December 2019?",
-        "choices": ["Boris Johnson", "Jeremy Corbyn", "Theresa May", "Jo Swinson"],
-        "answer": 0,
-        "fact": "Campaigning on the slogan \"Get Brexit Done\", Johnson's Conservatives won an 80-seat majority.",
+        "q": "Who became UK Prime Minister in July 2026, succeeding Keir Starmer?",
+        "choices": ["Wes Streeting", "Andy Burnham", "Ed Miliband", "Angela Rayner"],
+        "answer": 1,
+        "fact": "Burnham, a former Greater Manchester mayor, won the Makerfield by-election on 18 June to return to the Commons, then was appointed by King Charles III on 20 July as the 59th Prime Minister.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Which country beat England on penalties in the final of Euro 2020, played at Wembley in 2021?",
@@ -985,12 +985,12 @@
         "asOf": "2022"
       },
       {
-        "q": "By October 2020 the UK state pension age for both men and women had risen to what?",
-        "choices": ["63", "65", "66", "68"],
-        "answer": 2,
-        "fact": "The age is legislated to rise again to 67 between 2026 and 2028; women's pension age had only reached parity with men's at 65 in 2018.",
+        "q": "After the April 2026 triple-lock rise of 4.8%, the full new State Pension in the UK is worth how much a week?",
+        "choices": ["£230.25", "£241.30", "£236.10", "£248.50"],
+        "answer": 1,
+        "fact": "Earnings growth (4.8%) set the increase, beating September 2025 inflation of 3.8% and the 2.5% floor. The full new pension, about £12,548 a year, sits just below the £12,570 personal allowance.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "The 2021 census of England and Wales was the first in which fewer than half of people described themselves as what?",
@@ -1057,12 +1057,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In April 2024 the UK's National Living Wage rose to what hourly rate?",
-        "choices": ["£9.50", "£10.42", "£11.44", "£12.21"],
+        "q": "From April 2026, the UK National Living Wage for workers aged 21 and over rose to what hourly rate?",
+        "choices": ["£12.21", "£12.50", "£12.71", "£13.00"],
         "answer": 2,
-        "fact": "The 9.8% rise was one of the largest ever; the rate went up again to £12.21 in April 2025.",
+        "fact": "The 50p (4.1%) rise followed unanimous Low Pay Commission advice, which aims to keep the rate at two-thirds of median earnings. The 18-20 rate went to £10.85 and the 16-17 rate to £8.00.",
         "difficulty": 3,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "In 2023 the total fertility rate in England and Wales fell to a record low of roughly how many children per woman?",

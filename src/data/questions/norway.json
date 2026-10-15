@@ -823,12 +823,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Which giant North Sea oil field, named after a 19th-century prime minister, began production in October 2019?",
-        "choices": ["Johan Castberg", "Christian Michelsen", "Johan Sverdrup", "Gunnar Knudsen"],
-        "answer": 2,
-        "fact": "The field is powered by electricity from shore, giving it some of the lowest production emissions in the industry.",
+        "q": "At the 2026 World Cup, Norway beat which team 2-1 in the round of 16, both goals scored by Erling Haaland?",
+        "choices": ["Argentina", "Brazil", "France", "Germany"],
+        "answer": 1,
+        "fact": "The 5 July match at MetLife Stadium sent Norway into the World Cup quarter-finals for the first time.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In June 2022, Oslo opened a new building for which institution, the largest art museum in the Nordic countries?",
@@ -840,11 +840,11 @@
       },
       {
         "q": "Which member of Norway's royal family turned 18 in January 2022?",
-        "choices": ["Princess Ingrid Alexandra", "Princess Märtha Louise", "Princess Astrid", "Crown Princess Mette-Marit"],
+        "choices": ["Princess Ingrid Alexandra", "Princess Märtha Louise", "Prince Sverre Magnus", "Princess Astrid"],
         "answer": 0,
-        "fact": "She is second in line to the throne, after her father, Crown Prince Haakon.",
+        "fact": "She became Norway's heir apparent in August 2026, when her father Haakon succeeded King Harald V as king.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Which Arctic Norwegian city was a European Capital of Culture in 2024?",
@@ -937,12 +937,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In December 2021, Norway introduced a scheme paying part of households' bills for what?",
-        "choices": ["Electricity", "Rent", "Petrol", "Broadband"],
-        "answer": 0,
-        "fact": "The 'strømstøtte' covers a share of the price above a set threshold per kilowatt-hour and was extended repeatedly as prices stayed high.",
+        "q": "At the end of 2025, Norway's oil fund (the Government Pension Fund Global) was worth closest to how many kroner?",
+        "choices": ["12 trillion", "17 trillion", "21 trillion", "26 trillion"],
+        "answer": 2,
+        "fact": "The fund returned 15.1% in 2025, a gain of about 2.4 trillion kroner, though a stronger krone cut its value in kroner terms by roughly 1.2 trillion.",
         "difficulty": 1,
-        "asOf": "2021"
+        "asOf": "2025"
       },
       {
         "q": "Since 2022, people from which country have made up by far the largest group of refugees arriving in Norway?",
@@ -1017,12 +1017,12 @@
         "asOf": "2022"
       },
       {
-        "q": "In Norway's 2019 local elections, a new protest party won seats by campaigning against which charges on motorists?",
-        "choices": ["Parking fees", "Road tolls", "Congestion fines", "Ferry fares"],
-        "answer": 1,
-        "fact": "The 'People's Action No to More Road Tolls' took about 17% of the vote in Bergen, where toll rings fund roads and public transport.",
+        "q": "In May 2026, Norges Bank raised its policy rate for the first time in over two years, to what level?",
+        "choices": ["3.75%", "4.00%", "4.25%", "4.50%"],
+        "answer": 2,
+        "fact": "The bank cited inflation persistently above its 2% target, wage settlements and high energy prices; it had held at 4.00% in January and March 2026.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Norwegian employees on sick leave receive what share of their normal salary for up to a year?",

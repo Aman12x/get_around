@@ -929,12 +929,12 @@
         "asOf": "2022"
       },
       {
-        "q": "During the 2020 COVID-19 lockdown, South Africa banned the sale of which two products?",
-        "choices": ["Bread and milk", "Petrol and diesel", "Alcohol and tobacco", "Sugar and salt"],
+        "q": "From 1 March 2026, South Africa's national minimum wage rose to roughly how much per hour?",
+        "choices": ["R25.50", "R28.79", "R30.23", "R34.00"],
         "answer": 2,
-        "fact": "The tobacco ban lasted about five months and the alcohol ban was reimposed several times, hitting the wine industry and the Treasury's excise income.",
+        "fact": "The R30.23 rate, up 5% or R1.44 from R28.79, was gazetted in February 2026 and covers farm and domestic workers too; an estimated 5.5 million workers benefit.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "What monthly amount was South Africa's Social Relief of Distress (SRD) grant when it was introduced in 2020?",
@@ -1105,12 +1105,12 @@
         "asOf": "2023"
       },
       {
-        "q": "During the 2020 lockdown the Unemployment Insurance Fund paid wage relief through a scheme known by which acronym?",
-        "choices": ["TERS", "SETA", "NSFAS", "SARB"],
-        "answer": 0,
-        "fact": "The Temporary Employer/Employee Relief Scheme paid out over R60 billion to millions of workers; later audits flagged many irregular claims.",
+        "q": "In May 2026 the South African Reserve Bank raised its repo rate by 25 basis points to what level, its first increase since 2023?",
+        "choices": ["6.75%", "7.00%", "7.50%", "8.25%"],
+        "answer": 1,
+        "fact": "The MPC voted 4-2 for the hike on 28 May, citing rising inflation and global shocks. Commercial banks lifted the prime lending rate to 10.50%.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       }
     ],
     "general": [

@@ -751,12 +751,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Daði Freyr's viral song 'Think About Things' was Iceland's entry for which 2020 contest, cancelled because of COVID-19?",
-        "choices": ["Melodifestivalen", "Eurovision Song Contest", "Nordic Music Prize", "Sanremo Music Festival"],
+        "q": "On 12 August 2026, which rare event turned the afternoon sky dark over western Iceland, including Reykjavík, for the first time in decades?",
+        "choices": ["A volcanic ash cloud", "A total solar eclipse", "An extreme aurora storm", "A total lunar eclipse"],
         "answer": 1,
-        "fact": "The song's dance routine and knitted green jumpers spread worldwide online even though the contest never took place.",
+        "fact": "It was Iceland's first total solar eclipse since 1954. Totality reached Reykjavík around 17:48 and lasted about a minute, and up to 2 minutes 13 seconds in the Westfjords.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Which Icelandic low-cost airline collapsed in March 2019, stranding thousands of passengers?",
@@ -799,12 +799,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In 2021, which Swiss company opened 'Orca', then the world's largest plant capturing CO2 directly from the air, in Iceland?",
-        "choices": ["Equinor", "Carbon Engineering", "Siemens Energy", "Climeworks"],
-        "answer": 3,
-        "fact": "Orca was designed to remove up to 4,000 tonnes of CO2 a year, which Carbfix then stores as rock underground.",
+        "q": "In an August 2026 referendum, how did Icelandic voters decide on restarting European Union accession talks?",
+        "choices": ["They narrowly rejected restarting the talks", "They approved restarting the talks by a landslide", "They voted to apply for immediate EU membership", "They voted to leave the European Economic Area"],
+        "answer": 0,
+        "fact": "The 29 August vote was advisory and ended about 52.8% No to 47.2% Yes on a turnout above 80%. Reykjavík's two constituencies voted Yes; Prime Minister Kristrún Frostadóttir said talks will not resume this term.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "On 24 October 2023, Prime Minister Katrín Jakobsdóttir joined what nationwide action?",
@@ -1049,12 +1049,12 @@
         "asOf": "2023"
       },
       {
-        "q": "By 2023, roughly what share of Iceland's population were immigrants, one of Europe's fastest rises?",
-        "choices": ["One in twenty", "One in ten", "Nearly one in five", "One in three"],
+        "q": "On 1 January 2026, immigrants made up roughly what share of Iceland's population, a record high according to Statistics Iceland?",
+        "choices": ["About 12%", "About 16%", "About 20%", "About 25%"],
         "answer": 2,
-        "fact": "Statistics Iceland counted immigrants at 16.7% of residents at the start of 2023 and 18.2% a year later, up from 7.4% in 2012.",
+        "fact": "Statistics Iceland counted 77,226 immigrants (19.6%), up from 18.9% a year earlier; Poland is the largest country of origin, at about 30% of immigrants.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "In August 2023, the Central Bank of Iceland raised its key interest rate to what level, where it stayed for over a year?",
@@ -1081,12 +1081,12 @@
         "asOf": "2024"
       },
       {
-        "q": "During the pandemic, Iceland's registered unemployment peaked in January 2021 at roughly what?",
-        "choices": ["3%", "11%", "20%", "30%"],
-        "answer": 1,
-        "fact": "The collapse of tourism hit hardest; the rate had been around 3% in 2019 and fell back below 4% as visitors returned in 2022.",
+        "q": "In August 2026, the Central Bank of Iceland raised its key policy rate by 0.25 points to what level, as inflation rose above 5%?",
+        "choices": ["7.5%", "7.75%", "8%", "8.5%"],
+        "answer": 2,
+        "fact": "It was the third straight quarter-point hike of 2026; in October the bank held at 8% as inflation hit 5.9%, against a 2.5% target.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "From January 2024, Iceland introduced a per-kilometre road charge for which vehicles?",

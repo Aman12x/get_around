@@ -1009,12 +1009,12 @@
         "asOf": "2023"
       },
       {
-        "q": "On Labour Day 2022, Kenya's president announced a minimum wage increase of what size?",
-        "choices": ["3%", "6%", "12%", "25%"],
+        "q": "On Labour Day 2026, President Ruto announced a minimum wage rise for Kenya's agricultural workers of what size?",
+        "choices": ["6%", "12%", "15%", "23%"],
         "answer": 2,
-        "fact": "It was the first rise in over three years; a further 6% increase was announced on Labour Day 2024.",
+        "fact": "General wages rose 12%. The trade union body COTU had demanded 23%, while employers argued for no more than 5%. The previous rise was 6% in 2024.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "On 1 October 2019, which old Kenyan banknote ceased to be legal tender as new notes were introduced?",
@@ -1073,12 +1073,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In April 2020, Kenya cut its standard VAT rate from 16% to what as a pandemic relief measure?",
-        "choices": ["8%", "12%", "15%", "14%"],
-        "answer": 3,
-        "fact": "The cut, along with lower income tax, was reversed in January 2021 as the government rebuilt its revenues.",
+        "q": "According to the Kenya National Bureau of Statistics' 2026 Economic Survey, Kenya's real GDP grew by roughly what share in 2025?",
+        "choices": ["3.2%", "4.6%", "5.7%", "6.4%"],
+        "answer": 1,
+        "fact": "Growth edged down from 4.7% in 2024, and the economy was valued at about KSh 17.6 trillion. The survey was released in late April or early May 2026.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Under Inua Jamii, how much does Kenya's government pay monthly to citizens aged 70 and over?",

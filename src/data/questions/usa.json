@@ -743,12 +743,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Which NASA rover landed in Mars's Jezero Crater in February 2021?",
-        "choices": ["Curiosity", "Opportunity", "Spirit", "Perseverance"],
-        "answer": 3,
-        "fact": "It carried Ingenuity, a small helicopter that made the first powered, controlled flight on another planet in April 2021.",
+        "q": "Which NASA mission sent astronauts around the Moon in April 2026, the first crewed lunar trip since Apollo 17?",
+        "choices": ["Artemis I", "Artemis II", "Artemis III", "Gateway Pathfinder"],
+        "answer": 1,
+        "fact": "Its Orion capsule reached about 406,771 km from Earth, beating the distance record set by Apollo 13 in 1970.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Which NASA-led space telescope, launched in December 2021, released its first full-color science images in July 2022?",
@@ -1001,12 +1001,12 @@
         "asOf": "2024"
       },
       {
-        "q": "The 2020 US census counted the resident population at roughly how many people?",
-        "choices": ["280 million", "331 million", "365 million", "410 million"],
-        "answer": 1,
-        "fact": "Growth of 7.4% over the 2010s was the slowest since the 1930s; Texas gained two House seats and seven states lost one each.",
+        "q": "Nearly 71 million Social Security beneficiaries got what cost-of-living increase to their benefits beginning in January 2026?",
+        "choices": ["2.5%", "3.5%", "2.8%", "4.1%"],
+        "answer": 2,
+        "fact": "The rise added about $56 a month to the average retirement benefit; the 2025 adjustment had been 2.5%, and the taxable earnings cap went up to $184,500.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "The US total fertility rate fell to a record low in 2023 of roughly how many births per woman?",
@@ -1065,12 +1065,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Helped by an expanded child tax credit, the US child poverty rate (supplemental measure) fell in 2021 to a record low of roughly what?",
-        "choices": ["5%", "12%", "20%", "30%"],
-        "answer": 0,
-        "fact": "The credit paid up to $3,600 per young child in monthly instalments; after it lapsed, the rate more than doubled to 12.4% in 2022, per the Census Bureau.",
+        "q": "The Census Bureau reported in September 2026 that US real median household income in 2025 reached a record of roughly how much?",
+        "choices": ["$62,000", "$87,000", "$98,000", "$75,000"],
+        "answer": 1,
+        "fact": "It was up 2.6% from about $85,210 in 2024 and the highest since comparable records began in 1967; the official poverty rate also fell, to 10.2%.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In 2024, the US population grew by about 1%, the fastest rate since 2001. What did the Census Bureau cite as the main driver?",

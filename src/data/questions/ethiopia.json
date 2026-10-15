@@ -727,12 +727,12 @@
         "asOf": "2025"
       },
       {
-        "q": "In July 2019, Ethiopia reported that volunteers had planted roughly how many tree seedlings in a single day?",
-        "choices": ["3.5 million", "35 million", "350 million", "3.5 billion"],
-        "answer": 2,
-        "fact": "The mass planting was part of the national Green Legacy Initiative to restore forests and fight land degradation.",
+        "q": "In October 2026, who was sworn in for a second five-year term as Ethiopia's prime minister?",
+        "choices": ["Abiy Ahmed", "Taye Atske Selassie", "Ahmed Shide", "Demeke Mekonnen"],
+        "answer": 0,
+        "fact": "The oath came at the opening session of the new parliament, after the Prosperity Party won the June 2026 election. His new administration is called the 'Medemer Government'.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Which group of major emerging economies did Ethiopia join as a full member on 1 January 2024?",
@@ -855,12 +855,12 @@
         "asOf": "2025"
       },
       {
-        "q": "In October 2021, Letesenbet Gidey became the first woman to run a half marathon in under how long?",
-        "choices": ["60 minutes", "65 minutes", "63 minutes", "70 minutes"],
-        "answer": 2,
-        "fact": "She clocked 1:02:52 in Valencia, a city where she had also set a 5,000 m world record the year before.",
+        "q": "Which Ethiopian won the men's race at the Sydney Marathon on 30 August 2026, breaking the course record?",
+        "choices": ["Tamirat Tola", "Addisu Gobena", "Chimdessa Debele Gudeta", "Yomif Kejelcha"],
+        "answer": 1,
+        "fact": "He clocked 2:04:42, just four seconds ahead of compatriot Chimdessa Debele Gudeta, and took more than a minute off the previous course record. It was his first World Marathon Major win.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Which Ethiopian broke the men's half marathon world record in Valencia in October 2024?",
@@ -913,12 +913,12 @@
     ],
     "society": [
       {
-        "q": "During 2022, Ethiopia's annual inflation rate hovered around what level?",
-        "choices": ["5%", "12%", "30%", "60%"],
-        "answer": 2,
-        "fact": "Food prices rose fastest, with inflation above 30% for much of 2022 and 2023 before easing in 2024.",
+        "q": "After easing to 9.7% in December 2025, Ethiopia's annual inflation rate climbed to roughly what level in July 2026?",
+        "choices": ["About 6%", "About 15%", "About 25%", "About 40%"],
+        "answer": 1,
+        "fact": "The Ethiopian Statistics Service reported 15.3% for July 2026, with sugar, honey and chocolate prices up almost 40% year on year.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Which product was Ethiopia's biggest export earner throughout the early 2020s?",

@@ -823,12 +823,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In November 2021, Australia's men's cricket team won its first World Cup in which format?",
-        "choices": ["Test", "One-day (50 overs)", "T20", "The Hundred"],
+        "q": "Which club won the 2026 AFL Grand Final at the MCG, beating Fremantle by seven points for a third straight premiership?",
+        "choices": ["Geelong Cats", "Fremantle", "Brisbane Lions", "Collingwood"],
         "answer": 2,
-        "fact": "Australia beat New Zealand by eight wickets in the final in Dubai, with Mitchell Marsh named player of the match.",
+        "fact": "The Lions trailed by 17 points late in the final quarter, then kicked the last four goals. Fremantle's Shai Bolton won the Norm Smith Medal despite being on the losing side.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Who became Australia's foreign minister in May 2022?",
@@ -929,12 +929,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Australia's 2020 JobKeeper wage subsidy initially paid eligible workers how much per fortnight?",
-        "choices": ["$750", "$1,000", "$1,500", "$2,000"],
-        "answer": 2,
-        "fact": "JobKeeper supported around 3.8 million workers and over a million businesses, and cost about $89 billion, making it one of the largest fiscal programmes in Australia's history.",
+        "q": "At the end of September 2026, the Reserve Bank of Australia lifted its cash rate target to what level?",
+        "choices": ["4.35%", "4.60%", "3.85%", "5.10%"],
+        "answer": 1,
+        "fact": "It was the fourth quarter-point rise of 2026, after three cuts in 2025 had taken the rate down to 3.60%; the hikes began in February 2026.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In 2024, the Australian Bureau of Statistics reported that the country's population had passed which milestone?",
@@ -1033,12 +1033,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In mid-2022, Australia's unemployment rate fell to roughly what level, its lowest in almost 50 years?",
-        "choices": ["3.5%", "5.5%", "7.5%", "9.5%"],
-        "answer": 0,
-        "fact": "The rate dipped to 3.4% in October 2022, the lowest since 1974, as the labour market tightened sharply after the pandemic.",
+        "q": "From 1 July 2026, Australia's national minimum wage rose to what hourly rate?",
+        "choices": ["$24.95", "$25.65", "$26.44", "$27.30"],
+        "answer": 2,
+        "fact": "At $1,004.90 for a 38-hour week, it passed $1,000 a week for the first time. Most award rates rose 4.75%, with the lowest-paid award classifications getting a little extra.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "From July 2023, Australia's 'Cheaper Child Care' reforms lifted the maximum childcare subsidy for lower-income families to what share of fees?",
@@ -1058,11 +1058,11 @@
       },
       {
         "q": "In the 2021 Census, roughly what proportion of Australians reported having 'no religion'?",
-        "choices": ["49%", "39%", "29%", "19%"],
+        "choices": ["22%", "39%", "52%", "61%"],
         "answer": 1,
-        "fact": "The scheme ran from July 2015 to November 2019 and was found unlawful; it raised about $1.7 billion in debts, and a 2020 class action was settled for $1.2 billion.",
+        "fact": "No religion rose from 30.1% in 2016 and 22.3% in 2011. For the first time fewer than half of Australians (43.9%) identified as Christian, though Christianity stayed the most common religion.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "The 'Robodebt' scheme, examined by a royal commission that reported in July 2023, used automated income averaging to raise what?",

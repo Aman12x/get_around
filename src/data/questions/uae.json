@@ -839,12 +839,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In October 2021, the UAE announced a target to reach net-zero emissions by which year?",
-        "choices": ["2050", "2030", "2040", "2070"],
-        "answer": 0,
-        "fact": "It was the first country in the Middle East and North Africa to announce a net-zero target.",
+        "q": "In October 2026, which Abu Dhabi-built satellite, the first of a planned constellation of 10, launched aboard a SpaceX rideshare mission?",
+        "choices": ["Falcon Eye", "Altair-1", "Khalifa-Sat", "Nahid-1"],
+        "answer": 1,
+        "fact": "Built by Orbitworks in Abu Dhabi, Altair-1 carries five sensors, including optical, thermal and hyperspectral, for Earth observation. It flew on SpaceX's Transporter-18 from California.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In May 2025, which entertainment company announced plans for a theme park resort on Abu Dhabi's Yas Island?",
@@ -1025,12 +1025,12 @@
         "asOf": "2022"
       },
       {
-        "q": "In November 2020, a package of legal reforms made it lawful for unmarried couples in the UAE to do what?",
-        "choices": ["Live together", "Vote", "Adopt a child", "Buy property"],
-        "answer": 0,
-        "fact": "The same reforms let non-Muslims drink alcohol without a licence and allowed expatriates to use their home countries' inheritance laws.",
+        "q": "In June 2026, Etihad Rail began carrying passengers for the first time, on a route linking Abu Dhabi with which emirate?",
+        "choices": ["Sharjah", "Fujairah", "Ras Al Khaimah", "Ajman"],
+        "answer": 1,
+        "fact": "The first train left Fujairah at 5:34am on 30 June 2026 for the roughly 1 hour 45 minute run to Abu Dhabi; over 10,000 tickets were sold, with introductory Comfort fares from 55 dirhams.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In 2023, which railway network was completed to link the UAE's emirates, initially carrying freight?",
