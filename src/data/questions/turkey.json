@@ -791,12 +791,12 @@
         "asOf": "2022"
       },
       {
-        "q": "In April 2019, Turkish Airlines moved its main hub from Atatürk Airport to which airport?",
-        "choices": ["Sabiha Gökçen Airport", "Istanbul Airport", "Esenboğa Airport", "Antalya Airport"],
+        "q": "In August 2026, İlke Özyüksel Mihrioğlu won Türkiye's first European championship title in which sport, at a competition held in Istanbul?",
+        "choices": ["Fencing", "Modern pentathlon", "Triathlon", "Rowing"],
         "answer": 1,
-        "fact": "The overnight move of equipment was one of the largest airport relocations ever attempted.",
+        "fact": "Modern pentathlon combines fencing, an obstacle course, swimming and a laser run. Mihrioğlu had previously won two European bronze medals.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Who became the first Turkish astronaut to visit the International Space Station, in January 2024?",
@@ -903,22 +903,22 @@
         "asOf": "2025"
       },
       {
-        "q": "Which club won the 2019 UEFA Super Cup, played in Istanbul?",
-        "choices": ["Chelsea", "Liverpool", "Tottenham Hotspur", "Manchester City"],
-        "answer": 1,
-        "fact": "Liverpool beat Chelsea on penalties at Beşiktaş's stadium in August 2019.",
+        "q": "In the PISA 2025 education results published in September 2026, in which subjects did Türkiye score above the OECD average?",
+        "choices": ["Science and reading", "Mathematics and science", "Mathematics and reading", "All three subjects"],
+        "answer": 0,
+        "fact": "Türkiye scored 494 in science and 472 in reading, gains of 18 and 16 points since 2022, but its mathematics score of 462 was one point below the OECD average.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       }
     ],
     "society": [
       {
-        "q": "Turkey's annual inflation rate peaked in October 2022 at roughly what?",
-        "choices": ["85%", "25%", "45%", "150%"],
-        "answer": 0,
-        "fact": "Official inflation hit 85.5%, the highest since 1998, after the central bank cut interest rates despite rising prices; independent estimates were higher still.",
+        "q": "According to official figures, Turkey's annual inflation rate at the end of 2025 was roughly what?",
+        "choices": ["15%", "31%", "45%", "58%"],
+        "answer": 1,
+        "fact": "TÜİK reported 30.9% for December 2025, down from about 44% a year earlier and the lowest in over four years, though independent group ENAG put it far higher, at over 56%.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "By the end of 2023, one US dollar bought roughly how many Turkish lira?",
@@ -937,12 +937,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Turkey's net monthly minimum wage for 2025 was set at roughly how many lira?",
-        "choices": ["8,000", "22,000", "15,000", "40,000"],
-        "answer": 1,
-        "fact": "The rise to 22,104 lira was 30%; a large share of Turkish employees earn at or near the minimum wage, so the annual decision is closely watched.",
+        "q": "Turkey's net monthly minimum wage for 2026 was set at roughly how many lira?",
+        "choices": ["24,000", "26,000", "28,000", "32,000"],
+        "answer": 2,
+        "fact": "The net figure of 28,075.50 lira was a rise of about 27% on 2025; the gross wage was 33,030 lira. Unions had demanded far more and did not join the final talks.",
         "difficulty": 1,
-        "asOf": "2025"
+        "asOf": "2026"
       },
       {
         "q": "According to the statistics office TÜİK, Turkey's population passed what milestone by the end of 2023?",

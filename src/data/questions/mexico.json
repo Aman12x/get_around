@@ -863,10 +863,10 @@
         "asOf": "2026"
       },
       {
-        "q": "Which former Bolivian president received political asylum in Mexico in November 2019?",
-        "choices": ["Rafael Correa", "Nicolás Maduro", "Evo Morales", "Daniel Ortega"],
+        "q": "Which former Barcelona defender and El Tri captain was named head coach of Mexico's men's national team in July 2026?",
+        "choices": ["Javier Hernández", "Andrés Guardado", "Rafael Márquez", "Cuauhtémoc Blanco"],
         "answer": 2,
-        "fact": "Morales stayed in Mexico only about a month before moving on to Argentina in December 2019.",
+        "fact": "Márquez succeeded Javier Aguirre after Mexico's round-of-16 loss to England; as a player he appeared in five World Cups and won two Champions League titles with Barcelona.",
         "difficulty": 2,
         "asOf": "2026"
       },
@@ -961,12 +961,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Mexico's labour law allows a standard working week of up to how many hours, a limit campaigners have sought to cut to 40?",
-        "choices": ["35", "40", "44", "48"],
-        "answer": 3,
-        "fact": "The 48-hour, six-day week dates from the 1917 constitution; in 2025 the government pledged to phase in a 40-hour week by 2030.",
+        "q": "Under a constitutional reform published in March 2026, Mexico's standard working week is being cut in stages, from 48 hours down to how many by 2030?",
+        "choices": ["36", "44", "40", "42"],
+        "answer": 2,
+        "fact": "The cut happens in two-hour steps a year starting in 2027, with no reduction in pay; the reform also raised the legal overtime ceiling and required electronic time records.",
         "difficulty": 1,
-        "asOf": "2025"
+        "asOf": "2026"
       },
       {
         "q": "A reform in force from January 2023 raised the minimum paid annual leave for Mexican workers in their first year from six days to how many?",
@@ -1089,12 +1089,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Mexico's 2020 pension reform cut the weeks of contributions needed for a retirement pension from 1,250 to how many?",
-        "choices": ["500", "750", "1,000", "1,100"],
-        "answer": 1,
-        "fact": "The 750-week requirement rises gradually to 1,000 by 2031, while employer contributions climb in stages over the same period.",
+        "q": "What did Mexico's general daily minimum wage rise to in January 2026, after a 13% increase?",
+        "choices": ["298.50 pesos", "305.00 pesos", "312.25 pesos", "315.04 pesos"],
+        "answer": 3,
+        "fact": "It rose from 278.80 pesos; the northern border free zone rate rose a smaller 5%, to 440.87 pesos a day, as the border rate had already been raised sharply in earlier years.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "What was Mexico's general daily minimum wage set at for 2025, after a 12% rise?",

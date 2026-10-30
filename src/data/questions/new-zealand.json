@@ -711,12 +711,12 @@
     ],
     "current-affairs": [
       {
-        "q": "After the Christchurch mosque attacks of 15 March 2019, New Zealand quickly banned which items?",
-        "choices": ["Fireworks", "All handguns", "Hunting knives", "Most military-style semi-automatic firearms"],
-        "answer": 3,
-        "fact": "Parliament passed the ban by 119 votes to 1 in April 2019, and a government buy-back of the newly banned guns followed.",
+        "q": "On which date is New Zealand's 2026 general election being held?",
+        "choices": ["7 November 2026", "17 October 2026", "14 November 2026", "5 December 2026"],
+        "answer": 0,
+        "fact": "Prime Minister Christopher Luxon announced the date in January at National's caucus retreat in Christchurch; enrolment closes 13 days before polling, so no enrolling on election day.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Whakaari/White Island, which erupted on 9 December 2019, lies in which bay?",
@@ -969,12 +969,12 @@
         "asOf": "2024"
       },
       {
-        "q": "From 1 April 2025, New Zealand's adult minimum wage was set at what hourly rate?",
-        "choices": ["$18.50", "$21.50", "$23.50", "$26.50"],
-        "answer": 2,
-        "fact": "The 1.5% rise from $23.15 was deliberately below inflation; the minimum wage had climbed much faster, from $17.70 in 2019.",
+        "q": "From 1 April 2026, New Zealand's adult minimum wage rose to what hourly rate?",
+        "choices": ["$23.95", "$24.50", "$23.50", "$25.00"],
+        "answer": 0,
+        "fact": "The 45 cent rise from $23.50 also lifted the starting-out and training rate, which stays at 80% of the adult rate, from $18.80 to $19.16 an hour.",
         "difficulty": 1,
-        "asOf": "2025"
+        "asOf": "2026"
       },
       {
         "q": "In July 2023, New Zealand removed the standard prescription co-payment for medicines, which had been how much per item?",
@@ -1049,12 +1049,12 @@
         "asOf": "2022"
       },
       {
-        "q": "After a record low of 3.2% in 2022, New Zealand's unemployment rate rose to roughly what level by the end of 2024?",
-        "choices": ["3%", "5%", "8%", "11%"],
-        "answer": 1,
-        "fact": "The rate hit 5.1% in the December 2024 quarter, its highest since 2020, as the economy went through a prolonged recession.",
+        "q": "Stats NZ reported New Zealand's unemployment rate for the June 2026 quarter at roughly what level?",
+        "choices": ["4.6%", "6.6%", "5.6%", "7.6%"],
+        "answer": 2,
+        "fact": "It was up from 5.4% in March and above forecasts, a decade-high reading; the broader underutilisation rate climbed to 13.8%, with the North Island (6%) faring worse than the South (3.7%).",
         "difficulty": 2,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "The May 2025 Budget announced that the default KiwiSaver contribution rate for employees and employers would rise from 3% to what by 2028?",

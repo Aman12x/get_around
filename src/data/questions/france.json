@@ -735,12 +735,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Which team beat France on penalties in the 2022 FIFA World Cup final?",
-        "choices": ["Croatia", "Argentina", "Morocco", "Brazil"],
-        "answer": 1,
-        "fact": "Kylian Mbappé scored a hat-trick in the final, the first in a men's World Cup final since England's Geoff Hurst in 1966.",
+        "q": "Which 1998 World Cup winner was named head coach of the French national football team in July 2026, succeeding Didier Deschamps?",
+        "choices": ["Thierry Henry", "Patrick Vieira", "Zinedine Zidane", "Laurent Blanc"],
+        "answer": 2,
+        "fact": "Deschamps had coached Les Bleus since 2012 and led them to the 2018 World Cup title. His tenure ended after France finished fourth at the 2026 World Cup.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Which French swimmer won four individual gold medals at the Paris 2024 Olympics?",
@@ -1001,12 +1001,12 @@
         "asOf": "2023"
       },
       {
-        "q": "By the end of 2022 France's unemployment rate had fallen to roughly what level, its lowest since 2008?",
-        "choices": ["3%", "7%", "12%", "16%"],
+        "q": "According to INSEE's 2025 demographic report, in 2025 France recorded what for the first time since the Second World War?",
+        "choices": ["More births than marriages", "More deaths than births", "A fall in life expectancy", "A population below 65 million"],
         "answer": 1,
-        "fact": "The rate had been close to 10% in 2015; a boom in subsidised apprenticeships was one factor credited with the fall.",
+        "fact": "About 645,000 babies were born against roughly 651,000 deaths, partly due to a severe flu winter; the fertility rate fell to 1.56 children per woman, the lowest since the First World War.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In 2023 France's public debt passed which symbolic milestone for the first time?",
@@ -1097,12 +1097,12 @@
         "asOf": "2022"
       },
       {
-        "q": "In July 2019 Paris reintroduced which housing measure, setting a legal ceiling on what landlords may charge for each neighbourhood?",
-        "choices": ["Rent control", "A ban on short-term lets", "A vacancy tax", "Compulsory social housing"],
-        "answer": 0,
-        "fact": "Rents are capped at 20% above a reference level set by the prefecture; Lille, Lyon, Bordeaux and Montpellier followed with their own schemes.",
+        "q": "According to INSEE, France's public debt at the end of 2025 stood at roughly what share of GDP?",
+        "choices": ["About 96%", "About 106%", "About 126%", "About 116%"],
+        "answer": 3,
+        "fact": "Debt was about €3.46 trillion, up from 112.6% of GDP a year earlier, while the 2025 deficit narrowed to 5.1% of GDP from 5.8% in 2024.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "France's annual gender equality index, which every company with 50 or more employees has had to publish since 2020, is scored out of how many points?",

@@ -1471,17 +1471,17 @@
         "asOf": "2021"
       },
       {
-        "q": "In a September 2020 referendum, Italians approved cutting the number of elected members of Parliament from 945 to how many?",
+        "q": "Which southern Italian port city hosted the 2026 Mediterranean Games, held from 20 August to 3 September?",
         "choices": [
-          "700",
-          "500",
-          "600",
-          "800"
+          "Bari",
+          "Taranto",
+          "Palermo",
+          "Naples"
         ],
-        "answer": 2,
-        "fact": "From the 2022 election, the Chamber of Deputies shrank from 630 to 400 seats and the elected Senate from 315 to 200.",
+        "answer": 1,
+        "fact": "Italy topped the medal table with a record 224 medals, beating its previous best of 193 set at the 1997 Games in Bari.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Which two Lombard cities shared the title of Italian Capital of Culture in 2023?",
@@ -1538,17 +1538,17 @@
     ],
     "society": [
       {
-        "q": "Which anti-poverty benefit, a flagship policy of the Five Star Movement, was introduced in Italy in 2019?",
+        "q": "According to ISTAT's provisional data, about how many babies were born in Italy in 2025, another record low?",
         "choices": [
-          "Reddito di cittadinanza",
-          "Bonus bebè",
-          "Assegno sociale",
-          "Cassa integrazione"
+          "310,000",
+          "355,000",
+          "393,000",
+          "420,000"
         ],
-        "answer": 0,
-        "fact": "The 'citizens' income' reached more than a million households at its peak; it was scrapped at the end of 2023 and replaced by a narrower scheme.",
+        "answer": 1,
+        "fact": "That was about 15,000 fewer than in 2024, and the fertility rate slipped to 1.14 children per woman from 1.18; deaths, at roughly 652,000, outnumbered births almost two to one.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Italy's 'Superbonus', launched in 2020, offered homeowners a tax credit worth what percentage of the cost of energy-saving renovations?",

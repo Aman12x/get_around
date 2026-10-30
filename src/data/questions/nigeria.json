@@ -1001,12 +1001,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In 2019, Nigeria raised its national monthly minimum wage from ₦18,000 to what?",
-        "choices": ["₦22,000", "₦30,000", "₦45,000", "₦60,000"],
-        "answer": 1,
-        "fact": "The Act came after years of union pressure; the level went unchanged for five years despite high inflation.",
+        "q": "In June 2025, Nigeria's president signed tax reform laws that make which new body the main federal tax collector, replacing the FIRS?",
+        "choices": ["National Tax Authority", "Federal Revenue Board", "Nigeria Customs Revenue Office", "Nigeria Revenue Service"],
+        "answer": 3,
+        "fact": "Tinubu signed four tax bills on 26 June 2025, with the new regime due to take full effect in January 2026. The VAT rate stayed at 7.5%, but the rules on exemptions changed.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "From January 2024, which country stopped most international students bringing dependants, sharply cutting applications from Nigeria?",
@@ -1105,12 +1105,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In April 2020, the IMF approved emergency pandemic financing for Nigeria of roughly how much?",
-        "choices": ["$1.4 billion", "$3.4 billion", "$7 billion", "$12 billion"],
-        "answer": 1,
-        "fact": "The Rapid Financing Instrument loan was meant to cushion the oil-price collapse and pandemic; the IMF confirmed in 2025 that Nigeria had fully repaid it.",
+        "q": "When Nigeria's statistics bureau rebased its GDP in 2025, it replaced 2010 with which year as the new base year?",
+        "choices": ["2015", "2022", "2019", "2023"],
+        "answer": 2,
+        "fact": "The rebasing put 2024 nominal GDP at about ₦372.8 trillion and added newer activity such as digital services; crop production was the largest sector at roughly 17.6%.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       }
     ],
     "general": [

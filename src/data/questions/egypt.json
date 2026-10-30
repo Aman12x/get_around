@@ -1629,17 +1629,17 @@
         "asOf": "2024"
       },
       {
-        "q": "Egypt recorded a record number of tourist arrivals in 2024, roughly how many?",
+        "q": "Egypt set a new tourism record in 2025, welcoming roughly how many visitors?",
         "choices": [
-          "6 million",
-          "26 million",
-          "16 million",
-          "46 million"
+          "17 million",
+          "19 million",
+          "22 million",
+          "15 million"
         ],
-        "answer": 2,
-        "fact": "About 15.7 million visitors came, beating the 2023 record; tourism is a key source of foreign currency and employs millions of Egyptians.",
+        "answer": 1,
+        "fact": "The Ministry of Tourism and Antiquities reported a rise of about 21% on 2024's 15.8 million, well ahead of the roughly 5% global growth estimated by UN Tourism.",
         "difficulty": 1,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "What is the name of Egypt's long-term national development strategy, launched in 2016?",
@@ -1746,17 +1746,17 @@
         "asOf": "2024"
       },
       {
-        "q": "What was the name of the family-planning campaign Egypt launched in 2018 to slow population growth?",
+        "q": "From July 2026, Egypt's monthly minimum wage for public sector workers rose to what amount?",
         "choices": [
-          "One Is Best",
-          "Plan Your Family",
-          "Two Is Enough",
-          "Small Is Beautiful"
+          "EGP 6,500",
+          "EGP 7,000",
+          "EGP 8,000",
+          "EGP 9,500"
         ],
         "answer": 2,
-        "fact": "'Etnein Kefaya' targeted rural families; Egypt's fertility rate has since fallen from about 3.5 to under 2.5 children per woman.",
+        "fact": "Prime Minister Mostafa Madbouly announced the EGP 1,000 rise in April 2026 as part of the 2026/27 budget; the public wage bill was set to grow by about 21%, with payments starting on 20 July.",
         "difficulty": 2,
-        "asOf": "2018"
+        "asOf": "2026"
       },
       {
         "q": "Egypt's economy grew by roughly what in fiscal year 2019/20, when most economies shrank?",

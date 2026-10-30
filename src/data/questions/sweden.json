@@ -815,12 +815,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Which party finished second in Sweden's September 2022 general election?",
-        "choices": ["The Moderates", "The Centre Party", "The Left Party", "The Sweden Democrats"],
-        "answer": 3,
-        "fact": "The Social Democrats remained the largest party, with about 30% of the vote.",
+        "q": "After Sweden's September 2026 general election, which bloc won a narrow majority of 176 of the 349 Riksdag seats?",
+        "choices": ["The Tidö parties backing the government", "The left-leaning opposition led by the Social Democrats", "A grand coalition of Moderates and Social Democrats", "The Sweden Democrats and the Centre Party"],
+        "answer": 1,
+        "fact": "The Social Democrats stayed the largest party with 99 seats, and Ulf Kristersson announced he would resign as prime minister.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In August 2025, Kiruna's landmark wooden church was moved about 5 km to make way for what?",
@@ -1033,12 +1033,12 @@
         "asOf": "2024"
       },
       {
-        "q": "The dispute that toppled Prime Minister Stefan Löfven in June 2021 concerned a proposal to do what?",
-        "choices": ["Raise the pension age", "Abolish the child allowance", "Privatise the railways", "Allow market rents in newly built flats"],
-        "answer": 3,
-        "fact": "The Left Party withdrew its support over the plan to loosen Sweden's regulated rent-setting system; Löfven returned as prime minister a few weeks later.",
+        "q": "From 1 April 2026, Sweden temporarily halved the VAT on most food to what rate, from 12%?",
+        "choices": ["3%", "6%", "9%", "0%"],
+        "answer": 1,
+        "fact": "The Riksdag approved the cut in February 2026. It runs until the end of 2027, covers bottled water and takeaway food, but eat-in restaurant meals stay at 12%.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "According to Sweden's National Mediation Office, the unadjusted gender pay gap in 2023 was roughly what?",
@@ -1089,12 +1089,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In 2020, Sweden's financial regulator let banks pause which requirement for mortgage borrowers during the pandemic?",
-        "choices": ["Amortisation (paying down the loan)", "Income verification", "A minimum deposit", "Mortgage insurance"],
-        "answer": 0,
-        "fact": "The exemption ran from April 2020 to August 2021; Sweden had introduced compulsory amortisation in 2016 to curb household debt.",
+        "q": "In September 2025, the Riksbank cut its policy rate by a quarter point to what level?",
+        "choices": ["2.25%", "1.50%", "2.00%", "1.75%"],
+        "answer": 3,
+        "fact": "The cut surprised many forecasters and the bank signalled the rate would stay put for some time; it was still unchanged at its September 2026 meeting, when it cited a weaker krona and higher energy prices.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In 2024, Sweden announced that from 2026 it would raise the grant for migrants who return voluntarily to their home country to how much per adult?",

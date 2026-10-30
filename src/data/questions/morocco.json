@@ -783,12 +783,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Who was appointed Morocco's head of government after the September 2021 elections?",
-        "choices": ["Saadeddine Othmani", "Aziz Akhannouch", "Abdelilah Benkirane", "Nizar Baraka"],
-        "answer": 1,
-        "fact": "His National Rally of Independents (RNI) won the most seats, ending a decade of PJD-led governments.",
+        "q": "Which party won the most seats in Morocco's September 2026 parliamentary election?",
+        "choices": ["Authenticity and Modernity Party (PAM)", "National Rally of Independents (RNI)", "Istiqlal Party", "Justice and Development Party (PJD)"],
+        "answer": 0,
+        "fact": "PAM took 97 of the 395 seats in the House of Representatives, short of the 198 needed for a majority, so it had to build a coalition. Turnout was roughly 38%.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Which coach led Morocco to the 2022 World Cup semi-finals only months after taking charge?",
@@ -921,12 +921,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In February 2023, Morocco's annual inflation rate briefly rose above what level, driven mainly by food prices?",
-        "choices": ["3%", "6%", "10%", "20%"],
-        "answer": 2,
-        "fact": "Inflation hit 10.1% in February 2023, the highest in decades; the 2022 average had been 6.6%, and it fell back below 1% during 2024.",
+        "q": "According to the HCP, Morocco's average consumer price inflation in 2025 was roughly what?",
+        "choices": ["0.8%", "2.5%", "4.1%", "6.6%"],
+        "answer": 0,
+        "fact": "Prices rose only about 0.8% in 2025 against the 2024 average, with core inflation falling to 0.8% from 2.4%, a sharp contrast with the 6.6% average of 2022.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2025"
       },
       {
         "q": "In February 2025, King Mohammed VI asked Moroccans to forgo which Eid al-Adha tradition because drought had shrunk the national herd?",

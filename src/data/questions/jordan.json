@@ -735,12 +735,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In 2021 Jordan celebrated the centenary of which event?",
-        "choices": ["Its independence from Britain", "The Arab Revolt", "Its first constitution", "The founding of the Emirate of Transjordan"],
-        "answer": 3,
-        "fact": "Abdullah I established the emirate in Amman in April 1921, laying the foundations of today's Hashemite Kingdom.",
+        "q": "In June 2026, Jordan played its first ever FIFA World Cup match against which European team?",
+        "choices": ["Switzerland", "Austria", "Croatia", "Denmark"],
+        "answer": 1,
+        "fact": "Austria won 3-1 at Levi's Stadium on 16 June, but Ali Olwan scored Jordan's first-ever World Cup goal, in the 50th minute.",
         "difficulty": 1,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In 2022, which Jordanian national dish was added to UNESCO's Intangible Cultural Heritage list?",
@@ -751,12 +751,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Which 2021 film by Denis Villeneuve used Wadi Rum for scenes on the desert planet Arrakis?",
-        "choices": ["Avatar: The Way of Water", "Dune", "Tenet", "The Batman"],
-        "answer": 1,
-        "fact": "Its sequel, 'Dune: Part Two' (2024), also returned to Jordan's deserts for filming.",
+        "q": "Which reigning world champion did Jordan face in its last group match at the 2026 World Cup?",
+        "choices": ["France", "Brazil", "Spain", "Argentina"],
+        "answer": 3,
+        "fact": "Argentina won 3-1 at AT&T Stadium in Arlington on 27 June 2026; Musa Al-Taamari scored Jordan's goal in the 55th minute.",
         "difficulty": 1,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In 2024 Jordan marked King Abdullah II's Silver Jubilee. How many years had he been on the throne?",
@@ -1001,12 +1001,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In 2021 Jordan raised its monthly minimum wage from 220 dinars to what?",
-        "choices": ["240 dinars", "260 dinars", "300 dinars", "350 dinars"],
+        "q": "In January 2025 Jordan raised its monthly minimum wage for private-sector workers from 260 dinars to what?",
+        "choices": ["270 dinars", "290 dinars", "320 dinars", "350 dinars"],
         "answer": 1,
-        "fact": "The rise took effect on 1 January 2021; a further increase to 290 dinars followed in January 2025.",
+        "fact": "A tripartite labour committee of government, employers and workers agreed the rise, which is set to stay in force until the end of 2027; garment workers have a separate, lower floor.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Which ten-year plan launched by Jordan in 2022 set a target of creating one million jobs?",
@@ -1105,12 +1105,12 @@
         "asOf": "2023"
       },
       {
-        "q": "By 2023 roughly what share of Jordan's electricity was generated from renewable sources?",
-        "choices": ["27%", "5%", "50%", "75%"],
-        "answer": 0,
-        "fact": "Solar and wind grew from almost nothing in 2014, with large solar farms around Ma'an and the Tafila wind project; the government targets 50% by 2030.",
+        "q": "In the mid-2020s roughly what share of Jordan's electricity was generated from renewable sources?",
+        "choices": ["12%", "27%", "45%", "60%"],
+        "answer": 1,
+        "fact": "Solar and wind grew from almost nothing in 2014, with big solar farms around Ma'an and the Tafila wind project; officials now target over 30% by 2030 and 40% by 2035.",
         "difficulty": 3,
-        "asOf": "2023"
+        "asOf": "2026"
       }
     ],
     "general": [

@@ -815,12 +815,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Which team knocked Brazil out of the 2022 FIFA World Cup in the quarter-finals?",
-        "choices": ["Argentina", "Croatia", "France", "Morocco"],
-        "answer": 1,
-        "fact": "Croatia won on penalties after a 1-1 draw; Neymar's goal in the match equaled Pelé's record of 77 for Brazil.",
+        "q": "Which European team knocked Brazil out of the 2026 FIFA World Cup in the round of 16?",
+        "choices": ["Norway", "Croatia", "France", "Netherlands"],
+        "answer": 0,
+        "fact": "The loss was Brazil's earliest World Cup exit since 1990, and coach Carlo Ancelotti kept his job afterwards, with a contract running through the 2030 World Cup.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Neymar left Paris Saint-Germain in August 2023 to join a club in which country?",
@@ -921,12 +921,12 @@
         "asOf": "2020"
       },
       {
-        "q": "Brazil's 2019 pension reform set a minimum retirement age of 65 for men and what for women?",
-        "choices": ["58", "60", "62", "65"],
-        "answer": 2,
-        "fact": "The constitutional amendment passed in November 2019 also lengthened contribution periods and was projected to save about R$800 billion over a decade.",
+        "q": "Brazil's official IPCA inflation for 2025 closed at roughly what, its lowest since 2018 and inside the central bank's target band?",
+        "choices": ["3.1%", "4.3%", "5.8%", "6.9%"],
+        "answer": 1,
+        "fact": "The IPCA ended 2025 at 4.26%, down from 4.83% in 2024, helped by food-at-home prices rising only about 1.4% while housing costs pushed the other way.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2025"
       },
       {
         "q": "Brazil's 2022 census counted roughly how many people?",
@@ -1105,12 +1105,12 @@
         "asOf": "2025"
       },
       {
-        "q": "Brazil's unemployment rate peaked during the pandemic at roughly what in early 2021?",
-        "choices": ["9%", "12%", "15%", "20%"],
+        "q": "Brazil's average unemployment rate for 2025 hit a record low of roughly what, the best since the IBGE series began in 2012?",
+        "choices": ["7.8%", "6.6%", "5.6%", "4.6%"],
         "answer": 2,
-        "fact": "The 14.7% rate in the quarter to March 2021 was the highest in the IBGE series, with about 14.8 million people out of work.",
+        "fact": "The 5.6% annual rate was down from 6.6% in 2024, and the rate fell to 5.1% in the final quarter; employment reached a record of about 103 million people.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2025"
       }
     ],
     "general": [

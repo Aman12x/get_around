@@ -759,12 +759,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Who was elected president of Iran in June 2021?",
-        "choices": ["Hassan Rouhani", "Mahmoud Ahmadinejad", "Ebrahim Raisi", "Mohammad Khatami"],
-        "answer": 2,
-        "fact": "Raisi, previously head of the judiciary, succeeded Hassan Rouhani, who had served two terms.",
+        "q": "What was the result of all three of Iran's group games at the 2026 FIFA World Cup?",
+        "choices": ["Three draws", "Three defeats", "Two wins and a draw", "One win and two draws"],
+        "answer": 0,
+        "fact": "Iran drew 2-2 with New Zealand, 0-0 with Belgium and 1-1 with Egypt, finishing third in Group G but missing out on a best-third-place spot in the knockouts.",
         "difficulty": 1,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In 2022, UNESCO inscribed which winter-solstice celebration of Iran and Afghanistan on its intangible heritage list?",
@@ -807,12 +807,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Which ancient broadleaf forests along the Caspian Sea became a UNESCO natural World Heritage Site in 2019?",
-        "choices": ["Hyrcanian Forests", "Zagros Oak Forests", "Arasbaran Forests", "Mangroves of Qeshm"],
-        "answer": 0,
-        "fact": "These forests date back 25 to 50 million years, to a time when such woodland covered much of the northern temperate zone.",
+        "q": "In July 2026 UNESCO added Alamut Castle and related fortifications in Iran's Alborz mountains to the World Heritage List. Which medieval group used Alamut as its headquarters?",
+        "choices": ["Seljuk sultans", "Nizari Ismailis", "Safavid shahs", "Sasanian kings"],
+        "answer": 1,
+        "fact": "The seven-fortification site in Qazvin Province was the base of the Nizari Ismaili state founded by Hasan-i Sabbah in 1090; the decision came at the committee's session in Busan.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In 2020, Iran, Azerbaijan, Turkey and Uzbekistan jointly won UNESCO intangible heritage status for which art?",
@@ -961,12 +961,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In 2023, Iran's official annual inflation rate was closest to which figure?",
-        "choices": ["5%", "15%", "45%", "90%"],
+        "q": "The Statistical Centre of Iran said annual inflation for the twelve months ending in March 2026 was closest to which figure?",
+        "choices": ["25%", "35%", "51%", "75%"],
         "answer": 2,
-        "fact": "Food prices rose even faster than the headline rate, and Iran has had one of the highest inflation rates in the world since 2018.",
+        "fact": "The 50.6% reading was up from 47.5% a month earlier. Year-on-year inflation then climbed to 88.6% by June 2026, according to the same agency.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Iran holds the world's second-largest reserves of which fuel, yet suffered winter shortages of it in 2024?",

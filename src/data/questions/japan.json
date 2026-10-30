@@ -775,12 +775,12 @@
         "asOf": "2026"
       },
       {
-        "q": "In December 2020, Japan's Hayabusa2 mission delivered samples to Earth from which asteroid?",
-        "choices": ["Itokawa", "Bennu", "Ryugu", "Vesta"],
-        "answer": 2,
-        "fact": "Hayabusa2's sample capsule parachuted into the Australian outback, and scientists later found amino acids in the Ryugu material.",
+        "q": "Which Japanese chemist shared the 2026 Nobel Prize in Chemistry with France's Henri Kagan for work on mirror-image molecules?",
+        "choices": ["Kenso Soai", "Ryoji Noyori", "Akira Yoshino", "Susumu Kitagawa"],
+        "answer": 0,
+        "fact": "The 2026 prize honoured the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis, which help explain how life came to use only one of two mirror-image forms of molecules.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Which industrialist, known as the 'father of Japanese capitalism', appears on the new 10,000-yen note issued in 2024?",
@@ -871,12 +871,12 @@
         "asOf": "2026"
       },
       {
-        "q": "Who won the men's individual all-around gymnastics gold at the Paris 2024 Olympics?",
-        "choices": ["Daiki Hashimoto", "Shinnosuke Oka", "Kohei Uchimura", "Zhang Boheng"],
-        "answer": 1,
-        "fact": "Shinnosuke Oka won three golds in Paris, in the all-around, team and horizontal bar events, keeping the all-around title in Japanese hands.",
+        "q": "Which 17-year-old Japanese swimmer broke the men's 200m breaststroke world record at the 2026 Asian Games?",
+        "choices": ["Daiya Seto", "Ippei Watanabe", "Shin Ohashi", "Satoshi Takeuchi"],
+        "answer": 2,
+        "fact": "Ohashi swam 2:04.83, beating the 2:05.48 set by China's Qin Haiyang at the 2023 World Championships in Fukuoka, and won by more than three seconds.",
         "difficulty": 3,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "What is the name of Japan's new flagship rocket, which first reached orbit in February 2024?",
@@ -913,12 +913,12 @@
     ],
     "society": [
       {
-        "q": "In October 2019, Japan raised its consumption tax from 8% to what rate?",
-        "choices": ["9%", "10%", "12%", "15%"],
-        "answer": 1,
-        "fact": "Food and non-alcoholic drinks kept a reduced 8% rate, so a takeaway meal is taxed less than the same meal eaten in; the rise had been delayed twice since 2015.",
+        "q": "Japan welcomed a record number of foreign visitors in 2025. Roughly how many?",
+        "choices": ["37 million", "40 million", "43 million", "47 million"],
+        "answer": 2,
+        "fact": "The tourism agency counted about 42.7 million arrivals, up 15.8% on 2024 and some 10 million above 2019; South Korea and China were the two biggest source markets.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2025"
       },
       {
         "q": "Japan's population has fallen every year since peaking in 2008. Roughly what was it in 2024?",
