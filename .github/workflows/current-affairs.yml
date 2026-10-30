@@ -1,6 +1,6 @@
 name: Current affairs refresh
 
-# Twice a month (the 1st and 15th, 06:17 UTC), Claude Code (Sonnet 5.5) reviews every
+# Twice a month (the 1st and 15th, 06:17 UTC, with a backup attempt at 18:17 UTC), Claude Code (Sonnet 5.5) reviews every
 # country's Current Affairs and Society & Economy questions against the news, rewrites ones
 # that are no longer true and proposes a couple of fresh ones per subject. scripts/factcheck/factcheck.mjs screens the
 # proposals (schema, same difficulty, no duplicates, at least one source URL), has a separate
@@ -14,9 +14,14 @@ name: Current affairs refresh
 #   - repository secret CLAUDE_CODE_OAUTH_TOKEN (run `claude setup-token` locally)
 #   - Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests"
 # Runs count against your subscription's usage limits.
+#
+# GitHub can delay or drop scheduled runs under load (15 Oct 2026 ran five hours late), so a
+# second schedule retries in the evening; the guard job skips it if that day's refresh already
+# succeeded.
 on:
   schedule:
     - cron: '17 6 1,15 * *'
+    - cron: '17 18 1,15 * *' # backup
   workflow_dispatch:
     inputs:
       countries:
@@ -43,7 +48,34 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  guard:
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          EVENT: ${{ github.event_name }}
+          RUN_ID: ${{ github.run_id }}
+        # Manual runs always go ahead. A scheduled run is skipped if this workflow already
+        # succeeded today (the backup schedule after an on-time run).
+        run: |
+          skip=false
+          if [ "$EVENT" = "schedule" ]; then
+            today=$(date -u +%F)
+            done=$(gh run list --repo "$REPO" --workflow current-affairs.yml --limit 20 \
+              --json databaseId,conclusion,createdAt \
+              --jq "[.[] | select(.databaseId != $RUN_ID and .conclusion == \"success\" and (.createdAt | startswith(\"$today\")))] | length")
+            [ "$done" -gt 0 ] && skip=true
+          fi
+          echo "skip=$skip" >> "$GITHUB_OUTPUT"
+          echo "skip=$skip"
+
   refresh:
+    needs: guard
+    if: needs.guard.outputs.skip != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 300
     steps:
@@ -72,8 +104,9 @@ jobs:
       - name: Open and merge pull request
         env:
           GH_TOKEN: ${{ github.token }}
-          # Scheduled runs have no inputs, so anything but an explicit "false" means merge.
-          AUTOMERGE: ${{ inputs.automerge != false }}
+          # Scheduled runs have no inputs and always merge. (Don't write `inputs.automerge != false`:
+          # GitHub coerces a missing input and false to the same number, so that reads as "off".)
+          AUTOMERGE: ${{ github.event_name == 'schedule' || inputs.automerge }}
         run: |
           cat "$RUNNER_TEMP/pr-body.md" >> "$GITHUB_STEP_SUMMARY"
           if git diff --quiet -- src/data/questions; then
