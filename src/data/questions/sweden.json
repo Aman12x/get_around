@@ -1092,7 +1092,7 @@
         "q": "In September 2025, the Riksbank cut its policy rate by a quarter point to what level?",
         "choices": ["2.25%", "1.50%", "2.00%", "1.75%"],
         "answer": 3,
-        "fact": "The cut surprised many forecasters and the bank signalled the rate would stay put for some time; it was still unchanged at its September 2026 meeting, when it cited a weaker krona and higher energy prices.",
+        "fact": "The cut surprised many forecasters, and the bank signalled that the rate would stay at 1.75% for some time.",
         "difficulty": 3,
         "asOf": "2026"
       },
