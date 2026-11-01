@@ -751,12 +751,12 @@
         "asOf": "2021"
       },
       {
-        "q": "From 26 October 2019, what became permanently banned at Uluru?",
-        "choices": ["Photographing it", "Climbing it", "Camping in the national park", "Flying over it"],
+        "q": "Which club beat the Newcastle Knights 19-18 in the October 2026 NRL Grand Final?",
+        "choices": ["Penrith Panthers", "Sydney Roosters", "Melbourne Storm", "Brisbane Broncos"],
         "answer": 1,
-        "fact": "The date marked 34 years since Uluru was handed back to its Anangu traditional owners, who had long asked visitors not to climb.",
+        "fact": "It was the Roosters' first title since 2019. They came back from 12-0 down, and a Daly Cherry-Evans field goal helped them hold off a late Knights try.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In January 2022, who became the first Australian in decades to win the Australian Open women's singles title?",
@@ -783,12 +783,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In September 2021, Australia announced the AUKUS security partnership with which two countries?",
-        "choices": ["United States and Japan", "United Kingdom and United States", "United Kingdom and Canada", "New Zealand and United States"],
-        "answer": 1,
-        "fact": "A central part of AUKUS is helping Australia acquire nuclear-powered, conventionally armed submarines.",
+        "q": "Which new airport began passenger flights on 25 October 2026?",
+        "choices": ["Melbourne Western Airport", "Perth Eastern Airport", "Western Sydney International Airport", "Gold Coast South Airport"],
+        "answer": 2,
+        "fact": "The first passenger service was a Jetstar flight to the Gold Coast. Air New Zealand was due to begin flying from Auckland the next day, and Singapore Airlines to follow in late November.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Which leader's party won Australia's federal election held on 3 May 2025?",
@@ -913,12 +913,12 @@
     ],
     "society": [
       {
-        "q": "Australia's annual inflation rate peaked in the December 2022 quarter at roughly what level?",
-        "choices": ["4.8%", "7.8%", "10.8%", "13.8%"],
+        "q": "The Australian Bureau of Statistics reported annual consumer price inflation of what rate in the 12 months to September 2026?",
+        "choices": ["3.6%", "4.3%", "5.1%", "2.9%"],
         "answer": 1,
-        "fact": "It was the highest annual CPI reading since 1990, driven by housing, food and fuel costs, and fell back below 3% by late 2024.",
+        "fact": "Housing and transport led the rise as world oil prices pushed up fuel costs. Trimmed mean inflation, which excludes volatile items such as fuel, was lower at 3.6%. Annual CPI had been 4.0% in August.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "After 13 rises from May 2022, at what level did the Reserve Bank of Australia's cash rate peak in November 2023?",
@@ -985,12 +985,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In March 2022, in response to soaring petrol prices, the federal government did what to the fuel excise for six months?",
-        "choices": ["Doubled it", "Halved it", "Abolished it", "Froze it"],
-        "answer": 1,
-        "fact": "The excise fell by 22.1 cents a litre to 22.1 cents; the cut ended as planned at the end of September 2022.",
+        "q": "In June 2026, the Australian Bureau of Statistics population clock showed Australia's population passing which milestone?",
+        "choices": ["26 million", "27 million", "28 million", "30 million"],
+        "answer": 2,
+        "fact": "The clock had passed 27 million in January 2024, so the latest million took about two and a half years. Net overseas migration drove most of the growth. The clock is an estimate, not a formal count.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Australia's net overseas migration hit a record in 2022-23 of roughly how many people?",

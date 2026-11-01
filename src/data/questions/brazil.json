@@ -1081,12 +1081,12 @@
         "asOf": "2024"
       },
       {
-        "q": "During the 2021 drought, Brazil added which new top tier to the 'tariff flag' surcharge on electricity bills?",
-        "choices": ["Black flag", "Emergency flag", "Red flag level 3", "Water scarcity flag"],
-        "answer": 3,
-        "fact": "The 'bandeira escassez hídrica' added R$14.20 per 100 kWh; reservoirs at hydro plants had fallen to their lowest in about 90 years.",
+        "q": "By a decree issued in December 2025, Brazil's national minimum monthly wage was set at what amount from 1 January 2026?",
+        "choices": ["R$1,580", "R$1,600", "R$1,621", "R$1,700"],
+        "answer": 2,
+        "fact": "The rise from R$1,518 (about 6.8%) combined 4.18% INPC inflation with a real gain capped at 2.5% by the fiscal framework; Decree 12.797 also set the hourly rate at R$7.37.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In 2023, Brazil replaced the 2016 constitutional spending cap (teto de gastos) with which new fiscal rule?",

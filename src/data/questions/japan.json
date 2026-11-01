@@ -929,12 +929,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In 2024, annual births in Japan fell below what milestone for the first time since records began in 1899?",
-        "choices": ["1 million", "500,000", "700,000", "300,000"],
-        "answer": 2,
-        "fact": "About 686,000 babies were born to Japanese nationals in 2024; the first dip below 800,000 had come only two years earlier, in 2022.",
+        "q": "Births to Japanese nationals fell to roughly how many in 2025, a record low for the tenth year in a row?",
+        "choices": ["Around 770,000", "Around 671,000", "Around 590,000", "Around 720,000"],
+        "answer": 1,
+        "fact": "The total fertility rate slipped to 1.14, and Tokyo's fell to 0.96, below 1.0 for a third straight year; official projections had not expected births this low until about 2041.",
         "difficulty": 1,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "In 2024, the yen fell to its weakest level against the US dollar in about 38 years. Roughly how many yen bought one dollar at the low?",

@@ -895,12 +895,12 @@
         "asOf": "2024"
       },
       {
-        "q": "How far did Denmark's men's team go at the Euro 2020 football championship, played in 2021?",
-        "choices": ["Semi-finals", "Final", "Quarter-finals", "Round of 16"],
-        "answer": 0,
-        "fact": "They lost 2-1 to England after extra time at Wembley.",
+        "q": "On 27 June 2026, Denmark set a new national temperature record. What was the reading?",
+        "choices": ["34.8 °C", "35.6 °C", "37.0 °C", "39.2 °C"],
+        "answer": 2,
+        "fact": "The reading beat the previous Danish record of 36.4 °C, set in August 1975, during a wider European heatwave that also brought records in the Czech Republic.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In 2022, Queen Margrethe II announced that the children of which son would lose their prince and princess titles?",
@@ -937,12 +937,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In August 2019, Denmark's Jyske Bank made world headlines by offering a ten-year mortgage with what?",
-        "choices": ["No repayments for a decade", "A negative interest rate", "Payment in Bitcoin", "A 100-year term"],
+        "q": "In 2025, Denmark's population passed what milestone for the first time, according to Statistics Denmark?",
+        "choices": ["5 million", "6 million", "7 million", "6.5 million"],
         "answer": 1,
-        "fact": "The rate was minus 0.5% a year, meaning borrowers repaid slightly less than they borrowed, a side effect of Denmark's years of negative central bank rates.",
+        "fact": "The previous round milestone, 5 million, was reached in 1973. Growth now comes mainly from immigration, as the birth rate is falling; earlier forecasts had expected 6 million only around 2028.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2025"
       },
       {
         "q": "Denmark's 2020 Climate Act commits the country to cutting greenhouse gas emissions by 2030 by what share compared with 1990?",

@@ -831,12 +831,12 @@
         "asOf": "2026"
       },
       {
-        "q": "In June 2022, Oslo opened a new building for which institution, the largest art museum in the Nordic countries?",
-        "choices": ["The Munch Museum", "The Astrup Fearnley Museum", "The Viking Ship Museum", "The National Museum"],
-        "answer": 3,
-        "fact": "Its rooftop 'Light Hall' glows at night and is used for large temporary exhibitions.",
+        "q": "Which team knocked Norway out of the 2026 World Cup quarter-finals, winning 2-1 after extra time?",
+        "choices": ["France", "England", "Germany", "Portugal"],
+        "answer": 1,
+        "fact": "Andreas Schjelderup scored Norway's goal in Miami, but Jude Bellingham struck the winner. It was Norway's deepest run in four World Cup appearances.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Which member of Norway's royal family turned 18 in January 2022?",
@@ -903,22 +903,22 @@
         "asOf": "2025"
       },
       {
-        "q": "Which Norwegian city held the title of European Green Capital in 2019?",
-        "choices": ["Oslo", "Bergen", "Trondheim", "Stavanger"],
-        "answer": 0,
-        "fact": "The city had reopened buried streams, restricted cars in the centre and expanded electric public transport.",
+        "q": "In September 2026, Norway created its largest marine protected area, in which fjord off the coast of Troms?",
+        "choices": ["Hardangerfjord", "Sognefjord", "Andfjorden", "Porsangerfjord"],
+        "answer": 2,
+        "fact": "The area covers about 1,850 square kilometres and shelters coral reefs, whales and seabirds; it raises protected territorial waters off mainland Norway from about 4.8% to 6%.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       }
     ],
     "society": [
       {
-        "q": "By the end of 2024, Norway's Government Pension Fund Global, the oil fund, was worth closest to how much?",
-        "choices": ["170 billion US dollars", "600 billion US dollars", "1.7 trillion US dollars", "9 trillion US dollars"],
-        "answer": 2,
-        "fact": "That works out at over 300,000 US dollars for every Norwegian; the fund owns about 1.5% of all listed shares in the world.",
+        "q": "In the first half of 2026, Norway's oil fund (the Government Pension Fund Global) posted a record half-year return in kroner of about what?",
+        "choices": ["5.7%", "9.4%", "3.1%", "12.6%"],
+        "answer": 1,
+        "fact": "The gain was about 1.75 trillion kroner, but a stronger krone shaved roughly 427 billion off the value, leaving the fund at about 22.7 trillion kroner on 30 June 2026.",
         "difficulty": 1,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "Most of Norway's electricity comes from which source?",

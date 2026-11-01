@@ -823,12 +823,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In 2021, Mete Gazoz won Turkey's first Olympic gold medal in which sport?",
-        "choices": ["Archery", "Shooting", "Fencing", "Judo"],
-        "answer": 0,
-        "fact": "Gazoz won the men's individual title at the Tokyo Games.",
+        "q": "From 1 November 2026, Türkiye restricts social media access for children under which age?",
+        "choices": ["13", "15", "16", "18"],
+        "answer": 1,
+        "fact": "Parliament passed the law in April 2026; age checks run through the e-Devlet government portal, and existing accounts must be verified by 31 March 2027.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "Which city, known in antiquity as Antioch, was heavily damaged in the February 2023 earthquakes?",
@@ -1049,12 +1049,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Turkey's annual exports passed which milestone for the first time in 2022?",
-        "choices": ["$100 billion", "$500 billion", "$1 trillion", "$250 billion"],
-        "answer": 3,
-        "fact": "Exports reached about $254 billion, with Germany, the United States and Britain among the top buyers and vehicles the biggest product group.",
+        "q": "According to TÜİK, Turkey's annual consumer inflation in September 2026 eased to roughly what?",
+        "choices": ["24%", "27%", "30%", "34%"],
+        "answer": 2,
+        "fact": "The official rate was 29.73%, down from 31.51% in August. Monthly prices rose 1.84%, less than the 2.18% economists had forecast.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "The Turkish 'KKM' deposit scheme launched in December 2021 protected savers against what?",

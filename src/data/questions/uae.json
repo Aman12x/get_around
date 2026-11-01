@@ -815,12 +815,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Who served as President of COP28 in 2023?",
-        "choices": ["Suhail Al Mazrouei", "Sultan Al Jaber", "Shamma Al Mazrui", "Abdullah bin Zayed Al Nahyan"],
-        "answer": 1,
-        "fact": "Dr Sultan Al Jaber was also the UAE's Minister of Industry and Advanced Technology and chief executive of ADNOC.",
+        "q": "In April 2026, the UAE announced it was leaving which oil-producer group, effective 1 May?",
+        "choices": ["OPEC", "The Gulf Cooperation Council", "The International Energy Agency", "The Arab League"],
+        "answer": 0,
+        "fact": "The UAE had belonged to OPEC since 1967, when it joined through Abu Dhabi, four years before the country was founded. It left OPEC+ too, citing its national interests and long-term strategy.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "In June 2023, the UAE introduced a federal corporate tax at what headline rate?",
@@ -1073,12 +1073,12 @@
         "asOf": "2022"
       },
       {
-        "q": "From December 2019, the UAE applied a 50% excise tax to which products?",
-        "choices": ["Sugary drinks", "Perfumes", "Fast food", "Plastic bags"],
-        "answer": 0,
-        "fact": "Tobacco and energy drinks had faced a 100% excise since 2017; electronic cigarettes were added at 100% at the same time as sugary drinks.",
+        "q": "From 1 January 2026, what minimum monthly salary did the UAE set for Emiratis working in the private sector?",
+        "choices": ["3,000 dirhams", "4,500 dirhams", "6,000 dirhams", "10,000 dirhams"],
+        "answer": 2,
+        "fact": "Work permits listing a lower salary for an Emirati are not processed, and from 1 July 2026 Emiratis paid under the floor stopped counting towards a firm's Emiratisation targets.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "From January 2025, employers in all seven emirates were required to provide what for private-sector workers?",

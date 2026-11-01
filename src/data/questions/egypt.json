@@ -1523,17 +1523,17 @@
         "asOf": "2025"
       },
       {
-        "q": "The Benban solar park, one of the world's largest when completed in 2019, lies near which Egyptian city?",
+        "q": "In September 2026, Egypt's Amina Orfi became the youngest woman ever to reach world number one in which sport?",
         "choices": [
-          "Hurghada",
-          "Aswan",
-          "Siwa",
-          "Port Said"
+          "Tennis",
+          "Squash",
+          "Table tennis",
+          "Fencing"
         ],
         "answer": 1,
-        "fact": "Benban spreads millions of solar panels over roughly 37 square km of desert, among the sunniest land on Earth.",
+        "fact": "Aged 19, she won the Qatar Classic final over compatriot Hania El Hammamy and broke the record set by New Zealand's Susan Devoy in 1984.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       }
     ],
     "society": [
@@ -1720,17 +1720,17 @@
         "asOf": "2023"
       },
       {
-        "q": "Under a 2019 law, Egypt's retirement age is to rise gradually from 60 to what?",
+        "q": "In October 2026, Egypt's prime minister announced a target to raise the public sector minimum monthly wage to what amount by fiscal year 2029/30?",
         "choices": [
-          "65",
-          "62",
-          "67",
-          "70"
+          "EGP 10,000",
+          "EGP 12,000",
+          "EGP 15,000",
+          "EGP 20,000"
         ],
-        "answer": 0,
-        "fact": "Under Law 148 of 2019 the increase begins in July 2032, rising one year every two years to reach 65 by 2040, to keep the pension system solvent.",
+        "answer": 2,
+        "fact": "Mostafa Madbouly set the goal at the Egypt Forum on 24 October 2026, nearly doubling the EGP 8,000 floor that took effect in July 2026.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In 2024, Egypt went back to being a net importer of which fuel, having exported it since 2019?",
