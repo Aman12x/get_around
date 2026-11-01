@@ -937,20 +937,20 @@
         "asOf": "2023"
       },
       {
-        "q": "In 2022, New Zealand's one-off Cost of Living Payment gave people earning under $70,000 a total of how much?",
-        "choices": ["$150", "$350", "$750", "$1,000"],
+        "q": "In July 2026, the Reserve Bank of New Zealand raised its Official Cash Rate for the first time since 2023, to what level?",
+        "choices": ["2.25%", "2.50%", "3.00%", "3.25%"],
         "answer": 1,
-        "fact": "It was paid in three monthly instalments from August 2022 to about 2.1 million people, and drew criticism when some payments went to people living overseas.",
+        "fact": "The 25 basis point rise from a 2.25% low (reached in November 2025) ended the easing cycle that began in August 2024. A second 25 point rise followed in September 2026.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
-        "q": "In March 2022, alongside a cut to fuel excise, the New Zealand government halved the price of what for the public?",
-        "choices": ["Public transport fares", "Domestic flights", "Vehicle registration", "Electricity bills"],
-        "answer": 0,
-        "fact": "The 25 cents a litre fuel tax cut and half-price fares were extended several times before ending on 30 June 2023.",
+        "q": "New Zealand's annual consumer price inflation for the June 2026 quarter came in at roughly what rate?",
+        "choices": ["1.5%", "2.4%", "3.1%", "4.1%"],
+        "answer": 3,
+        "fact": "Higher fuel prices pushed inflation well above the Reserve Bank's 1-3% target band; it eased to 3.7% in the September 2026 quarter, still above the band.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In 2024, a record number of New Zealand citizens left the country, with most moving to which destination?",

@@ -961,12 +961,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In 2020, Nigeria fell into its second recession in five years, driven by the pandemic and a slump in the price of what?",
-        "choices": ["Cocoa", "Crude oil", "Gold", "Natural gas"],
+        "q": "Using Nigeria's rebased price index, headline inflation in January 2026 eased to roughly what level, down from over 27% a year earlier?",
+        "choices": ["About 9%", "About 15%", "About 22%", "About 34%"],
         "answer": 1,
-        "fact": "The economy shrank in two consecutive quarters before returning to growth in the final quarter of 2020.",
+        "fact": "The NBS put January 2026 inflation at 15.10%, down from 27.61% in January 2025 and 15.15% in December 2025. Some analysts doubted the figure, having expected a higher reading.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "After the May 2023 subsidy removal, Nigeria's official petrol price rose overnight from under ₦200 per litre to roughly what?",
@@ -1025,12 +1025,12 @@
         "asOf": "2023"
       },
       {
-        "q": "For roughly how long were Nigeria's public universities closed by the ASUU lecturers' strike of 2022?",
-        "choices": ["Two weeks", "Two months", "Eight months", "Two years"],
+        "q": "A renegotiated agreement between Nigeria's government and the ASUU lecturers' union, finalised in December 2025, gave university academics what pay rise?",
+        "choices": ["10%", "25%", "40%", "100%"],
         "answer": 2,
-        "fact": "The strike ran from February to October 2022 over pay and funding, and courts eventually ordered lecturers back.",
+        "fact": "The deal replaces the 2009 FG-ASUU agreement, took effect on 1 January 2026 and is due for review after three years. It also improved pensions for retiring professors.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Nationwide protests in Nigeria in August 2024 were held under which banner?",

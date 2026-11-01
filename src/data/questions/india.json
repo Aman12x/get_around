@@ -1276,17 +1276,17 @@
         "asOf": "2024"
       },
       {
-        "q": "At the G20 summit hosted in New Delhi in September 2023, which organization was admitted as a permanent member?",
+        "q": "Which team did India beat in the final of the men's cricket event at the 2026 Asian Games in Japan?",
         "choices": [
-          "ASEAN",
-          "Arab League",
-          "African Union",
-          "Mercosur"
+          "Sri Lanka",
+          "Bangladesh",
+          "Pakistan",
+          "Afghanistan"
         ],
         "answer": 2,
-        "fact": "The summit was held at Bharat Mandapam, a new convention centre in New Delhi.",
+        "fact": "Played in Nisshin on 3 October, India made 211/6 and won by 19 runs, with fifties from Abhishek Sharma and Tilak Varma, defending the title won in 2023.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Which team did India defeat in the final of the 2024 ICC Men's T20 World Cup?",
@@ -1720,17 +1720,17 @@
         "asOf": "2026"
       },
       {
-        "q": "From October 2019, which group was given free travel on Delhi's public buses?",
+        "q": "In August 2026, India's UPI payment system set a new monthly volume record of roughly how many transactions?",
         "choices": [
-          "Women",
-          "Students",
-          "Pensioners",
-          "Government staff"
+          "14.5 billion",
+          "19 billion",
+          "24.5 billion",
+          "31 billion"
         ],
-        "answer": 0,
-        "fact": "Passengers receive a 'pink ticket' for each free ride; Karnataka, Tamil Nadu and Punjab later launched similar schemes.",
+        "answer": 2,
+        "fact": "Volume rose about 22% on a year earlier, averaging roughly 791 million payments a day, worth around ₹29.8 lakh crore in the month.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "India's retail inflation peaked in April 2022 at roughly what level, its highest in eight years?",

@@ -839,12 +839,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Which international title did South Africa's Zozibini Tunzi win in December 2019?",
-        "choices": ["Miss Universe", "Miss World", "Miss International", "Miss Earth"],
-        "answer": 0,
-        "fact": "Tunzi, from the Eastern Cape, became the third South African to be crowned Miss Universe.",
+        "q": "Which team did South Africa beat 2-1 in a three-match home Test series in October 2026?",
+        "choices": ["India", "England", "Australia", "New Zealand"],
+        "answer": 2,
+        "fact": "The series was settled at Newlands in Cape Town, where off-spinner Simon Harmer took a career-best 6-16 as the Proteas won the decider by 176 runs.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Cape Town hosted the 2023 World Cup of which sport, the first time the tournament was held in Africa?",
@@ -913,12 +913,12 @@
     ],
     "society": [
       {
-        "q": "In 2023, South Africa's official unemployment rate hovered around what level?",
-        "choices": ["32%", "12%", "22%", "42%"],
-        "answer": 0,
-        "fact": "Stats SA's Quarterly Labour Force Survey put the rate at 32.9% in early 2023; the broader measure including discouraged job-seekers was above 40%.",
+        "q": "In the second quarter of 2026, South Africa's official unemployment rate rose to roughly what level?",
+        "choices": ["29.6%", "31.6%", "33.6%", "36.6%"],
+        "answer": 2,
+        "fact": "Stats SA's QLFS showed the rate up 0.9 points from 32.7% in Q1, with 8.5 million people unemployed; the broader measure including discouraged job-seekers was 43.8%.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "South Africa's 2022 census counted a population of roughly how many people?",
@@ -969,12 +969,12 @@
         "asOf": "2025"
       },
       {
-        "q": "In mid-2022 the inland price of a litre of 95 petrol in South Africa hit a record of roughly what?",
-        "choices": ["R10", "R26", "R16", "R40"],
-        "answer": 1,
-        "fact": "The July 2022 price of about R26.70 followed the oil-price surge after Russia's invasion of Ukraine; the fuel levy was cut temporarily to soften the blow.",
+        "q": "South Africa's annual consumer price inflation in September 2026 was about what?",
+        "choices": ["2.5%", "3.5%", "4.5%", "6.5%"],
+        "answer": 2,
+        "fact": "Stats SA reported 4.5%, up from 4.4% in August; inflation had peaked at 5% in June 2026, still above the Reserve Bank's 3% target.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In May 2024 President Ramaphosa signed into law a bill creating what?",

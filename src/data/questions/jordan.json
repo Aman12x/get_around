@@ -929,12 +929,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Jordan's unemployment rate in 2023 was roughly what?",
-        "choices": ["7%", "14%", "22%", "35%"],
+        "q": "In the second quarter of 2026, Jordan's Department of Statistics put unemployment among Jordanians at roughly what level?",
+        "choices": ["11%", "16%", "21%", "31%"],
         "answer": 2,
-        "fact": "The Department of Statistics' quarterly rate ran from 22.3% to 21.4% during 2023, down from 23.3% at the end of 2021 after the pandemic.",
+        "fact": "Including non-Jordanians the overall rate was 16.1%, down from 16.5% a year earlier; the rate for Jordanians alone eased from 21.3% in Q2 2025 to 21.0%.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Unlike many countries, Jordan's inflation rate in 2022 stayed near what level?",

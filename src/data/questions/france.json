@@ -1065,12 +1065,12 @@
         "asOf": "2021"
       },
       {
-        "q": "During the 2020 lockdowns, France's 'chômage partiel' scheme paid workers on short-time about what share of their net salary?",
-        "choices": ["50%", "60%", "84%", "100%"],
+        "q": "According to INSEE, France's ILO unemployment rate in the second quarter of 2026 was closest to which figure?",
+        "choices": ["6.5%", "7.4%", "8.3%", "9.5%"],
         "answer": 2,
-        "fact": "Workers on the minimum wage received 100% of their pay; at its peak in April 2020 the scheme covered more than 8 million employees.",
+        "fact": "The rate rose 0.2 points over the quarter and 0.7 points over a year, continuing a climb from 7.6% in mid-2025; it remains well below the 2015 peak.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "According to INSEE, roughly what share of people in France lived below the poverty line in 2023?",

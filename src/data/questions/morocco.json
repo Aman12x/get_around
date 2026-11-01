@@ -823,12 +823,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Which country beat hosts Morocco 2-1 in the Women's Africa Cup of Nations final in July 2022?",
-        "choices": ["Nigeria", "Zambia", "South Africa", "Cameroon"],
-        "answer": 2,
-        "fact": "Despite the defeat, Morocco's run to the final earned the team its first-ever place at a Women's World Cup.",
+        "q": "In September 2026, King Mohammed VI named Fatima Zahra El Mansouri as Morocco's first woman in which role?",
+        "choices": ["Head of government (prime minister)", "President of the House of Representatives", "Foreign minister", "Governor of Bank Al-Maghrib"],
+        "answer": 0,
+        "fact": "A lawyer and former mayor of Marrakech, she led the Authenticity and Modernity Party (PAM) to first place in the 23 September election and was asked to form a coalition government.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Which Real Madrid attacker chose in 2024 to represent Morocco rather than Spain?",
@@ -903,12 +903,12 @@
         "asOf": "2022"
       },
       {
-        "q": "In 2020 UNESCO recognised couscous traditions after a joint bid by Morocco, Algeria, Tunisia and which other country?",
-        "choices": ["Mauritania", "Libya", "Egypt", "Senegal"],
-        "answer": 0,
-        "fact": "The shared nomination celebrated the knowledge, know-how and practices around couscous across the Maghreb.",
+        "q": "Which team did Morocco beat 5-2 in the final of the Futsal Africa Cup of Nations in Rabat in October 2026?",
+        "choices": ["Egypt", "Angola", "Algeria", "Libya"],
+        "answer": 1,
+        "fact": "The win gave Morocco its fourth continental futsal title, after 2016, 2020 and 2024. Angola's two goals were the only ones the hosts conceded at the tournament.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       }
     ],
     "society": [
@@ -1089,12 +1089,12 @@
         "asOf": "2023"
       },
       {
-        "q": "A social agreement signed in April 2022 raised Morocco's private-sector minimum wage (SMIG) by what in total over two years?",
-        "choices": ["5%", "10%", "15%", "20%"],
-        "answer": 1,
-        "fact": "The rise came in two 5% steps in September 2022 and 2023; a further 10% over two years was agreed in April 2024.",
+        "q": "From January 2026, Morocco's private-sector non-agricultural minimum wage (SMIG) rose by 5% to how much per hour?",
+        "choices": ["15.50 dirhams", "16.40 dirhams", "17.92 dirhams", "19.10 dirhams"],
+        "answer": 2,
+        "fact": "It was the final stage of a 10% two-step rise agreed in April 2024; the agricultural minimum (SMAG) followed in April 2026 at 97.44 dirhams a day.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "The 'Intelaka' programme, launched in February 2020, offered Moroccans what?",

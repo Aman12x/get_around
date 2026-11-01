@@ -969,12 +969,12 @@
         "asOf": "2022"
       },
       {
-        "q": "At the end of 2024, Statistics Sweden put the country's population at roughly what?",
-        "choices": ["9.2 million", "10.6 million", "11.5 million", "12.8 million"],
+        "q": "Sweden's population grew by only about 17,800 people in 2025, its smallest annual increase in roughly how many years?",
+        "choices": ["10 years", "25 years", "50 years", "75 years"],
         "answer": 1,
-        "fact": "The population grew by about 36,000 during 2024, with 29,700 more immigrations than emigrations and 7,200 more births than deaths; it had passed 10 million only in 2017.",
+        "fact": "Statistics Sweden put the population at 10,605,500 at the end of 2025. Immigration fell by about 23% to 89,400, partly because fewer Ukrainians arrived, and births were 97,500.",
         "difficulty": 1,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "In May 2024, the Riksbank cut its policy rate for the first time in how many years?",

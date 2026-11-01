@@ -799,12 +799,12 @@
         "asOf": "2021"
       },
       {
-        "q": "Which company launched NASA astronauts to the International Space Station in May 2020, the first crewed orbital launch from US soil since 2011?",
-        "choices": ["SpaceX", "Blue Origin", "Boeing", "Virgin Galactic"],
-        "answer": 0,
-        "fact": "Astronauts Bob Behnken and Doug Hurley flew in a Crew Dragon capsule they named \"Endeavour.\"",
+        "q": "Which team won the 2026 World Series in October, beating the Tampa Bay Rays in five games?",
+        "choices": ["Los Angeles Dodgers", "Milwaukee Brewers", "New York Yankees", "Atlanta Braves"],
+        "answer": 1,
+        "fact": "It was the first World Series title in Brewers franchise history; catcher William Contreras was named series MVP after the clincher at Tropicana Field on October 28.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Who was sworn in as US Vice President in January 2025?",
@@ -953,12 +953,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In April 2020, the US unemployment rate jumped to roughly what, the highest since the Great Depression?",
-        "choices": ["6%", "25%", "15%", "33%"],
+        "q": "The US federal government shutdown that began on 1 October 2025 became the longest in history. About how many days did it last?",
+        "choices": ["21 days", "35 days", "43 days", "51 days"],
         "answer": 2,
-        "fact": "The rate hit 14.7% as more than 20 million jobs vanished in a single month; it was back below 4% by December 2021.",
+        "fact": "It ended on 12 November 2025 when President Trump signed a funding bill, surpassing the previous record of 35 days set during the 2018-19 shutdown.",
         "difficulty": 1,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In early 2025, the price of which grocery staple hit record highs in the United States because of bird flu?",
@@ -985,12 +985,12 @@
         "asOf": "2025"
       },
       {
-        "q": "In late 2022, the average US 30-year mortgage rate topped what level for the first time in 20 years?",
-        "choices": ["3%", "5%", "7%", "12%"],
-        "answer": 2,
-        "fact": "Rates had been below 3% in early 2021; Freddie Mac's survey peaked at 7.79% in October 2023, freezing home sales as owners held on to cheap loans.",
+        "q": "According to the Bureau of Labor Statistics, US consumer prices rose by roughly what percentage in the 12 months to December 2025?",
+        "choices": ["2.1%", "2.7%", "3.4%", "4.0%"],
+        "answer": 1,
+        "fact": "Core inflation, excluding food and energy, was 2.6%. Both rates were far below the 9.1% peak of June 2022, though still above the Federal Reserve's 2% target.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "By July 2023, the Federal Reserve had raised its benchmark rate to a range of roughly what, the highest in over 20 years?",

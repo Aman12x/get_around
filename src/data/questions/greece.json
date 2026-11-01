@@ -1510,17 +1510,17 @@
         "asOf": "2023"
       },
       {
-        "q": "Which Greek tennis player reached the semi-finals of both the French Open and the US Open in 2021?",
+        "q": "In October 2026, which country handed 22 ancient artefacts, including Attic and Corinthian vases, back to Greece at a ceremony in Athens?",
         "choices": [
-          "Despina Papamichail",
-          "Maria Sakkari",
-          "Valentini Grammatikopoulou",
-          "Eleni Daniilidou"
+          "Italy",
+          "Germany",
+          "Israel",
+          "Switzerland"
         ],
-        "answer": 1,
-        "fact": "Sakkari's mother, Angeliki Kanellopoulou, was also a professional tennis player who ranked in the world's top 50 in the 1980s.",
+        "answer": 2,
+        "fact": "The items, 15 Attic vessels, six Corinthian vessels and a bronze female statuette, were seized in a 2020 police investigation; Greek officials called it the first such return from this country.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In April 2022, Greece repaid its remaining loans from which lender, about two years early?",
@@ -1668,17 +1668,17 @@
         "asOf": "2024"
       },
       {
-        "q": "By 2024, Greece's unemployment rate had fallen to roughly what level?",
+        "q": "In August 2026, Greece's seasonally adjusted unemployment rate fell to roughly what level, its lowest since 2008?",
         "choices": [
           "5%",
-          "10%",
-          "17%",
-          "24%"
+          "7.4%",
+          "9.5%",
+          "11%"
         ],
         "answer": 1,
-        "fact": "The annual average was 10.1% in 2024, down from 11.1% in 2023 and 12.4% in 2022; it dipped to 9.4% in December 2024 but was still the second-highest rate in the EU.",
+        "fact": "ELSTAT put the rate at 7.4%, down from 7.9% in July 2026. It was near 28% at the 2013 crisis peak, and unemployment among women (about 10%) remains well above that among men (about 5%).",
         "difficulty": 2,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "In August 2022, Greece exited which EU monitoring regime that had followed its bailouts?",

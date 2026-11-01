@@ -759,12 +759,12 @@
         "asOf": "2024"
       },
       {
-        "q": "The March 2019 crash of Ethiopian Airlines Flight 302 led to the worldwide grounding of which aircraft model?",
-        "choices": ["Airbus A320neo", "Boeing 787 Dreamliner", "Airbus A350", "Boeing 737 MAX"],
-        "answer": 3,
-        "fact": "Regulators around the world grounded the type for about 20 months while its flight-control software was redesigned.",
+        "q": "Which Ethiopian Olympic champion won the Beijing Marathon in October 2026 in a course record of 2:03:10?",
+        "choices": ["Tamirat Tola", "Kenenisa Bekele", "Sisay Lemma", "Addisu Gobena"],
+        "answer": 0,
+        "fact": "His time was the fastest marathon ever run in China, beating the old Beijing course record by almost four minutes. Fellow Ethiopian Muktar Edris was second.",
         "difficulty": 1,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Which city hosted the second Africa Climate Summit in September 2025?",

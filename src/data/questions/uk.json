@@ -767,12 +767,12 @@
         "asOf": "2022"
       },
       {
-        "q": "The post-Brexit transition period, when the UK still followed EU single-market rules, ended on 31 December of which year?",
-        "choices": ["2019", "2021", "2020", "2022"],
-        "answer": 2,
-        "fact": "The UK formally left the EU on 31 January 2020, but trade carried on under EU rules until the transition period ended at the close of that year.",
+        "q": "Which London institution began displaying the Bayeux Tapestry to the public in September 2026?",
+        "choices": ["Tate Modern", "The British Museum", "The Victoria and Albert Museum", "The National Gallery"],
+        "answer": 1,
+        "fact": "The tapestry, on loan from France, is expected to stay at the museum until July 2027. Tickets sold out quickly after the 10 September opening.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Who was elected leader of the Conservative Party in November 2024?",
@@ -815,12 +815,12 @@
         "asOf": "2021"
       },
       {
-        "q": "Which royal couple announced in January 2020 that they would step back as senior working royals?",
-        "choices": ["Prince William and Catherine", "Prince Edward and Sophie", "Princess Anne and Timothy Laurence", "Prince Harry and Meghan"],
-        "answer": 3,
-        "fact": "The Duke and Duchess of Sussex later settled in Montecito, California.",
+        "q": "Which England captain won the men's Ballon d'Or in October 2026?",
+        "choices": ["Jude Bellingham", "Harry Kane", "Bukayo Saka", "Declan Rice"],
+        "answer": 1,
+        "fact": "Kane edged Kylian Mbappé and Lamine Yamal to win, becoming the first Englishman to take the men's award since Michael Owen in 2001.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In December 2020 the UK became the first country to approve which company's COVID-19 vaccine, made with BioNTech?",
@@ -961,12 +961,12 @@
         "asOf": "2025"
       },
       {
-        "q": "In August 2020 the UK government ran 'Eat Out to Help Out', giving diners what discount on meals from Monday to Wednesday?",
-        "choices": ["25% off", "50% off, up to £10 per head", "A free drink", "Free meals for children"],
-        "answer": 1,
-        "fact": "More than 160 million meals were claimed under the scheme, which cost the Treasury around £840 million and was intended to revive the hospitality trade after lockdown.",
+        "q": "According to the ONS, what was the UK's annual CPI inflation rate in the 12 months to September 2026?",
+        "choices": ["1.5%", "2.5%", "3.5%", "4.5%"],
+        "answer": 2,
+        "fact": "Up from 3.1% in August, driven mainly by transport: motor fuel prices were 29.8% higher than a year earlier, with petrol averaging 169.5p a litre and diesel 192.5p, the highest since 2022.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Which regulator sets the UK's energy price cap, the limit on what suppliers can charge most households per unit of gas and electricity?",

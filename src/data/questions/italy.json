@@ -1445,17 +1445,17 @@
         "asOf": "2024"
       },
       {
-        "q": "Which Italian astronaut commanded the International Space Station in 2019, the first Italian to do so?",
+        "q": "Which Italian driver won the 2026 Italian Grand Prix at Monza in September?",
         "choices": [
-          "Luca Parmitano",
-          "Samantha Cristoforetti",
-          "Paolo Nespoli",
-          "Roberto Vittori"
+          "George Russell",
+          "Max Verstappen",
+          "Kimi Antonelli",
+          "Lando Norris"
         ],
-        "answer": 0,
-        "fact": "Samantha Cristoforetti followed him in 2022, becoming the first European woman to command the space station.",
+        "answer": 2,
+        "fact": "Antonelli started 19th after a grid penalty and beat George Russell by about 3.9 seconds, the first Italian to win the race since Ludovico Scarfiotti in 1966.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Which Italian city hosted the G20 leaders' summit in October 2021?",

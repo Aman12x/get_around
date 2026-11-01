@@ -985,12 +985,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Kenya's 2019 census counted roughly how many people?",
-        "choices": ["About 38 million", "About 47.6 million", "About 55 million", "About 62 million"],
-        "answer": 1,
-        "fact": "It was the first Kenyan census to use digital data capture, and found that nearly 70% of people lived in rural areas.",
+        "q": "According to the Kenya National Bureau of Statistics, Kenya's real GDP grew by roughly what share in the first quarter of 2026 compared with a year earlier?",
+        "choices": ["3.5%", "4.1%", "5.3%", "6.2%"],
+        "answer": 2,
+        "fact": "It was faster than the 4.9% recorded in the first quarter of 2025, with all sectors growing, as the economy recovered from a sluggish spell of poor weather, currency pressure and high living costs.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In January 2024, the Kenyan shilling hit a record low of roughly how many shillings to the US dollar?",

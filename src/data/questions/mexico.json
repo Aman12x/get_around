@@ -815,10 +815,10 @@
         "asOf": "2026"
       },
       {
-        "q": "Which Mexican drug lord was convicted by a US federal jury in New York in February 2019?",
-        "choices": ["Ismael \"El Mayo\" Zambada", "Rafael Caro Quintero", "Nemesio \"El Mencho\" Oseguera", "Joaquín \"El Chapo\" Guzmán"],
-        "answer": 3,
-        "fact": "He was sentenced to life in prison plus 30 years and is held at the ADX Florence supermax prison in Colorado.",
+        "q": "For Day of the Dead 2026, Mexico City unveiled a record-setting giant figure of which iconic skeleton character in the Zócalo?",
+        "choices": ["La Catrina", "El Charro Negro", "La Llorona", "El Alebrije"],
+        "answer": 0,
+        "fact": "Built of papier-mâché-style cartonería, the Zócalo Catrina topped the previous Guinness record of 28.15 m set in Puerto Vallarta in 2023.",
         "difficulty": 1,
         "asOf": "2026"
       },
@@ -993,12 +993,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Jóvenes Construyendo el Futuro, launched in 2019, pays a monthly stipend to Mexicans aged 18 to 29 to do what?",
-        "choices": ["Train as apprentices in businesses", "Study at university abroad", "Serve in the National Guard", "Plant trees on farmland"],
-        "answer": 0,
-        "fact": "Apprentices receive a stipend pegged to the minimum wage plus health insurance for up to 12 months; it became a flagship social programme of the 2018-2024 government.",
+        "q": "In its 2024 measurement, released in August 2025, INEGI put Mexico's multidimensional poverty rate at roughly what share of the population?",
+        "choices": ["20%", "30%", "36%", "42%"],
+        "answer": 1,
+        "fact": "About 38.5 million people were still in poverty, 8.3 million fewer than in 2022; INEGI took over the measurement after the poverty agency CONEVAL was dissolved.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Which fund did Mexico create in 2024 to top up workers' retirement pensions towards their final salary?",
@@ -1105,12 +1105,12 @@
         "asOf": "2025"
       },
       {
-        "q": "In 2022, Mexico held down petrol prices during the global energy spike mainly by waiving which tax?",
-        "choices": ["IEPS excise duty", "VAT (IVA)", "Income tax (ISR)", "Import tariffs"],
+        "q": "Banxico's year-end figures for 2025 showed remittances sent to Mexico had done what compared with 2024?",
+        "choices": ["Fallen by about 4.6%", "Risen by about 4.6%", "Stayed almost unchanged", "Doubled"],
         "answer": 0,
-        "fact": "The Treasury gave up a large chunk of IEPS fuel revenue in 2022, a subsidy the government argued cost less than letting inflation run higher.",
+        "fact": "It was the first annual fall since 2013, after a record of roughly US$64.7 billion in 2024; monthly totals dropped for eight straight months from April to November 2025.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       }
     ],
     "general": [

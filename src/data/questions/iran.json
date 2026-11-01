@@ -985,12 +985,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In May 2020, Iran's parliament approved a plan to rename the currency the toman and remove how many zeros from the rial?",
-        "choices": ["One", "Two", "Four", "Six"],
-        "answer": 2,
-        "fact": "The redenomination was planned to take several years to phase in; a renewed version was approved again in 2025.",
+        "q": "In March 2026, Iran raised its monthly minimum wage by roughly what percentage for the new Iranian year?",
+        "choices": ["45%", "60%", "80%", "100%"],
+        "answer": 1,
+        "fact": "The minimum rose from about 103 million to 166 million rials a month from 20 March, but labour groups said a basic family basket costs far more.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In December 2024, Iran lifted its block on which messaging app, which had been restricted since 2022?",
@@ -1065,12 +1065,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Since the 2019 reform, Iranian private motorists have received a monthly quota of how many litres of petrol at the cheapest subsidised price?",
-        "choices": ["20 litres", "60 litres", "120 litres", "200 litres"],
-        "answer": 1,
-        "fact": "Drivers use a 'fuel card' at the pump; the quota price of 15,000 rials a litre stayed among the lowest in the world for years.",
+        "q": "In September 2026, Iran doubled the price of petrol bought above the monthly quotas to how many tomans per litre?",
+        "choices": ["3,000", "5,000", "10,000", "15,000"],
+        "answer": 2,
+        "fact": "The top tier began in December 2025 at 5,000 tomans a litre, while the first 60 litres a month stayed at 1,500 tomans. A toman equals 10 rials.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In March 2022, Iran's Supreme Labour Council raised the monthly minimum wage by roughly what percentage?",
