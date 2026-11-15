@@ -961,12 +961,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In 2022, Iceland had the world's second-highest share of plug-in cars among new car sales, behind which country?",
-        "choices": ["Sweden", "China", "Netherlands", "Norway"],
+        "q": "Which nationality made up the largest group of foreign visitors leaving Iceland via Keflavík in 2025, at roughly 29% of the total?",
+        "choices": ["British", "Germans", "Chinese", "Americans"],
         "answer": 3,
-        "fact": "Cheap renewable electricity and tax breaks helped; more than half of new cars sold in Iceland that year could be plugged in.",
+        "fact": "About 2.25 million foreign tourists visited in 2025, roughly flat on 2024; Americans numbered around 654,000, while Chinese visitors hit a record 124,000.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Iceland's largest manufactured export, smelted using its cheap electricity, is what?",

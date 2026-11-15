@@ -895,12 +895,12 @@
         "asOf": "2020"
       },
       {
-        "q": "Who was appointed French Prime Minister in July 2020, succeeding Édouard Philippe?",
-        "choices": ["Élisabeth Borne", "Jean Castex", "Gabriel Attal", "Bernard Cazeneuve"],
+        "q": "Who won France's 2026 Prix Goncourt for the novel \"L'Inconnue du quai de Javel\"?",
+        "choices": ["Sylvain Prudhomme", "Philippe Jaenada", "Laurent Mauvignier", "Nathacha Appanah"],
         "answer": 1,
-        "fact": "Castex had coordinated France's plan for lifting the first COVID-19 lockdown, earning him the nickname \"Monsieur Déconfinement\".",
+        "fact": "The novel revisits the 1949 killing of Louise Cansot, a young artists' model found by the Seine. Jaenada won on the first ballot, with six jury votes to three for Prudhomme.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Which French physicist shared the 2022 Nobel Prize in Physics for experiments on quantum entanglement?",
@@ -1033,12 +1033,12 @@
         "asOf": "2024"
       },
       {
-        "q": "France's 'Pass Culture' app, rolled out nationally in 2021, gave 18-year-olds a credit of how much to spend on books, concerts and other cultural goods?",
-        "choices": ["€100", "€500", "€1,000", "€300"],
-        "answer": 3,
-        "fact": "Manga and other books were by far the most popular purchases; in 2025 the credit for 18-year-olds was cut to €150 to save money.",
+        "q": "In December 2025 France's parliament adopted a social security budget that suspended which unpopular 2023 reform until after the 2027 presidential election?",
+        "choices": ["The unemployment insurance cuts", "The pension reform raising the retirement age", "The reform of the 35-hour week", "The abolition of the wealth tax"],
+        "answer": 1,
+        "fact": "The suspension, a concession by Prime Minister Sébastien Lecornu to win Socialist support, freezes the retirement age at 62 years and 9 months instead of rising towards 64.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "From January 2025, French homes with which energy-performance rating could no longer be put up for rent?",
@@ -1105,12 +1105,12 @@
         "asOf": "2026"
       },
       {
-        "q": "France's annual gender equality index, which every company with 50 or more employees has had to publish since 2020, is scored out of how many points?",
-        "choices": ["10", "20", "50", "100"],
-        "answer": 3,
-        "fact": "Companies scoring below 75 must take corrective measures within three years or face a fine of up to 1% of their payroll.",
+        "q": "By roughly what percentage was France's SMIC (minimum wage) raised on 1 January 2026?",
+        "choices": ["0.5%", "1.2%", "2.0%", "3.1%"],
+        "answer": 1,
+        "fact": "The 1.18% rise took the gross hourly SMIC from €11.88 to €12.02, about €1,823 a month; it was raised again automatically on 1 June 2026.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       }
     ],
     "general": [

@@ -903,12 +903,12 @@
         "asOf": "2025"
       },
       {
-        "q": "In March 2024 the Bank of Japan ended a policy it had kept since 2016. What was it?",
-        "choices": ["A fixed exchange rate", "Negative interest rates", "A currency board", "The gold standard"],
+        "q": "In October 2026, Tomoka Nishiyama became the first woman admitted to the regular professional ranks of which traditional Japanese board game?",
+        "choices": ["Go", "Shogi", "Mahjong", "Renju"],
         "answer": 1,
-        "fact": "The move was the Bank of Japan's first interest rate rise in 17 years.",
+        "fact": "She earned the chance by winning the women's Hakurei title for a fifth time, under a rule letting five-time winners apply to join the professional kishi ranks.",
         "difficulty": 3,
-        "asOf": "2024"
+        "asOf": "2026"
       }
     ],
     "society": [
@@ -1009,12 +1009,12 @@
         "asOf": "2024"
       },
       {
-        "q": "A law in force from April 2021 asks Japanese companies to make efforts to let employees keep working until what age?",
-        "choices": ["60", "65", "70", "75"],
+        "q": "Rengo's final tally of Japan's 2026 spring wage talks (shunto) showed an average pay rise of roughly what?",
+        "choices": ["3%", "4%", "5%", "6%"],
         "answer": 2,
-        "fact": "Firms were already required to secure employment until 65; since April 2022 Japan's public pension can be claimed anywhere between 60 and 75, with larger payments for waiting.",
+        "fact": "The final figure of 5.01% was the third straight year above 5%, though 0.24 points below 2025's 5.25%. Smaller unions averaged 4.69%, short of Rengo's 6% goal for them.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Foreign residents in Japan reached a record of roughly how many at the end of 2024?",
@@ -1105,12 +1105,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Japan's 2023 housing survey counted roughly how many empty homes, known as 'akiya'?",
-        "choices": ["2 million", "9 million", "20 million", "35 million"],
+        "q": "In fiscal 2025, Japan's national average minimum wage rose by a record amount to roughly how much per hour?",
+        "choices": ["1,055 yen", "1,121 yen", "1,250 yen", "1,500 yen"],
         "answer": 1,
-        "fact": "Empty homes made up a record 13.8% of all housing; a 2023 law let authorities raise property tax on badly maintained vacant houses.",
+        "fact": "The 66-yen rise (about 6.3%) was the largest since records began in 1978, and every prefecture's minimum passed 1,000 yen for the first time. The government's goal is 1,500 yen.",
         "difficulty": 3,
-        "asOf": "2023"
+        "asOf": "2026"
       }
     ],
     "general": [

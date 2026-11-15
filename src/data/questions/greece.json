@@ -1432,17 +1432,17 @@
         "asOf": "2023"
       },
       {
-        "q": "In August 2021, wildfires devastated the north of which large island, Greece's second largest?",
+        "q": "In October 2026, Greece's Parliament approved a ban on social media for children below which age?",
         "choices": [
-          "Rhodes",
-          "Crete",
-          "Lesbos",
-          "Evia (Euboea)"
+          "Under 13",
+          "Under 15",
+          "Under 16",
+          "Under 18"
         ],
-        "answer": 3,
-        "fact": "Ferries evacuated hundreds of residents and tourists from Evia's beaches as the flames reached the shore.",
+        "answer": 1,
+        "fact": "The law takes effect on 1 January 2027, requires platforms to verify age, and allows fines of up to 6% of global annual turnover; messaging apps remain open to under-15s.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In October 2024, Greece's footballers won at Wembley for the first time, beating which country?",
@@ -1564,17 +1564,17 @@
         "asOf": "2023"
       },
       {
-        "q": "International tourist arrivals in Greece reached a record of roughly how many in 2024?",
+        "q": "International tourist arrivals in Greece set a new record in 2025 of roughly how many visitors?",
         "choices": [
-          "21 million",
-          "31 million",
-          "41 million",
-          "51 million"
+          "28 million",
+          "33 million",
+          "38 million",
+          "44 million"
         ],
         "answer": 2,
-        "fact": "Bank of Greece data put arrivals at 40.7 million, almost four times the population of about 10.5 million, fuelling debate about overtourism on islands such as Santorini and Mykonos.",
+        "fact": "Bank of Greece data show 37.98 million arrivals, up 5.6% from about 35.95 million in 2024, excluding cruise passengers. Tourism receipts hit €23.6 billion, the third straight record year.",
         "difficulty": 1,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "During the 2022 energy shock, Greece's annual inflation rate peaked at roughly what level?",
@@ -1733,17 +1733,17 @@
         "asOf": "2021"
       },
       {
-        "q": "Greece's public debt peaked in 2020 at roughly what share of its GDP?",
+        "q": "At the end of 2025, Greece's public debt stood at roughly what share of GDP, according to Eurostat?",
         "choices": [
-          "90%",
-          "200%",
-          "130%",
-          "300%"
+          "116%",
+          "131%",
+          "146%",
+          "163%"
         ],
-        "answer": 1,
-        "fact": "At just over 200% of GDP, it was the highest ratio in the EU; strong growth and inflation brought it down to about 150% by 2024.",
+        "answer": 2,
+        "fact": "Greece still had the EU's highest debt ratio, ahead of Italy at about 137%, but it was far below the 2020 peak of about 207%. The state also ran a 2025 budget surplus of about 1.7% of GDP.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "What was the name of the subsidy card Greece introduced in 2023 to help households with grocery bills?",

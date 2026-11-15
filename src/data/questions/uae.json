@@ -807,12 +807,12 @@
         "asOf": "2024"
       },
       {
-        "q": "The UAE's Rashid rover was lost in April 2023 when its lander crashed on the Moon. Which country's company built the lander?",
-        "choices": ["Japan", "United States", "India", "Israel"],
+        "q": "On 30 September 2026, which UAE operator began scheduled passenger train services linking Abu Dhabi and Dubai?",
+        "choices": ["Etihad Rail", "Dubai Metro", "Emirates Railways", "Sharjah Express"],
         "answer": 0,
-        "fact": "ispace's Hakuto-R lander lost contact during its final descent; the rover was named after Sheikh Rashid bin Saeed.",
+        "fact": "Trains take about an hour between the two cities, with fares starting at AED 39 for Comfort class. The Dubai station was inaugurated on 28 September, two days before services began.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "In April 2026, the UAE announced it was leaving which oil-producer group, effective 1 May?",
@@ -871,12 +871,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Which spacecraft carried Hazza Al Mansouri to the International Space Station in 2019?",
-        "choices": ["Soyuz MS-15", "SpaceX Crew Dragon", "Space Shuttle Atlantis", "Shenzhou 11"],
-        "answer": 0,
-        "fact": "It launched from Baikonur in Kazakhstan on 25 September 2019; he returned to Earth aboard Soyuz MS-12.",
+        "q": "According to UNCTAD's World Investment Report 2026, where did the UAE rank worldwide for foreign direct investment inflows in 2025?",
+        "choices": ["3rd", "6th", "9th", "15th"],
+        "answer": 2,
+        "fact": "The UAE took in a record of about $48 billion, up roughly 6% on 2024, making it the Middle East's largest FDI recipient ahead of Saudi Arabia, which ranked 13th.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Sultan Al Neyadi flew to the International Space Station in March 2023 on which mission?",
@@ -1049,12 +1049,12 @@
         "asOf": "2021"
       },
       {
-        "q": "By 2023, the population of the emirate of Dubai was closest to which figure?",
-        "choices": ["1 million", "3.5 million", "7 million", "12 million"],
-        "answer": 1,
-        "fact": "Rapid post-pandemic inflows pushed rents up sharply in 2022 and 2023, making housing costs the main cost-of-living concern for residents.",
+        "q": "According to Dubai's official statistics, the emirate's resident population at the end of 2025 was closest to which figure?",
+        "choices": ["3.8 million", "4.2 million", "4.6 million", "5.1 million"],
+        "answer": 2,
+        "fact": "Dubai's real-time census put the population at 4.58 million, up about 332,000 (roughly 7.5%) during 2025 from 4.25 million a year earlier.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Under UAE Emiratisation rules from 2022, firms with 50 or more staff must raise the Emirati share of skilled jobs by how much each year?",
@@ -1097,12 +1097,12 @@
         "asOf": "2020"
       },
       {
-        "q": "In 2019, a presidential directive required women to hold what share of seats in the UAE's Federal National Council?",
-        "choices": ["25%", "33%", "50%", "60%"],
+        "q": "By July 2026, the UAE's labour ministry said how many Emiratis were working in the private sector under the Nafis-backed Emiratisation drive?",
+        "choices": ["About 50,000", "About 100,000", "About 190,000", "About 350,000"],
         "answer": 2,
-        "fact": "The rule applied from the October 2019 elections and put the council among the world's parliaments with the highest share of women.",
+        "fact": "They were employed across nearly 32,000 private companies, and the ministry said 95% of firms covered by the rules met their first-half 2026 Emiratisation targets.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In September 2022, which operator of Dubai's road-toll gates was floated on the Dubai Financial Market?",

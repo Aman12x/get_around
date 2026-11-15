@@ -847,12 +847,12 @@
         "asOf": "2024"
       },
       {
-        "q": "In February 2021, which platform briefly blocked news for Australian users in a dispute over a new media bargaining law?",
-        "choices": ["Google", "Facebook", "Twitter", "TikTok"],
-        "answer": 1,
-        "fact": "The block lasted about a week; it ended after the government agreed to amendments and the law was passed.",
+        "q": "Which horse won the 2026 Melbourne Cup at Flemington on 3 November?",
+        "choices": ["Zahrann", "Juja Kibo", "Point Of Law", "Royal Supremacy"],
+        "answer": 2,
+        "fact": "Trainer Ciaron Maher saddled the first three home, a first in the race's 166-year history. Point Of Law was ridden by Ethan Brown, from Alice Springs.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "How many medals did swimmer Emma McKeon win at the Tokyo Olympics, held in 2021?",
@@ -969,12 +969,12 @@
         "asOf": "2025"
       },
       {
-        "q": "On 1 July 2023, Australia's qualifying age for the Age Pension reached what, completing a gradual rise that began in 2017?",
-        "choices": ["65", "66", "67", "70"],
-        "answer": 2,
-        "fact": "The age rose in six-month steps from 65; a proposal to lift it further to 70 was dropped in 2018.",
+        "q": "The Australian Bureau of Statistics reported Australia's seasonally adjusted unemployment rate for September 2026 at what level?",
+        "choices": ["3.9%", "4.7%", "5.6%", "6.2%"],
+        "answer": 1,
+        "fact": "Released on 15 October 2026, it was the highest in nearly five years, up from 4.6% in August. The ABS says the trend rate, which stayed at 4.6%, is the better guide to underlying conditions.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "The May 2024 federal budget gave every Australian household a rebate on energy bills worth how much?",
@@ -993,12 +993,12 @@
         "asOf": "2026"
       },
       {
-        "q": "Australia's net overseas migration hit a record in 2022-23 of roughly how many people?",
-        "choices": ["About 150,000", "About 300,000", "About 500,000", "About 800,000"],
-        "answer": 2,
-        "fact": "The surge reflected the return of international students and workers after border closures, and migration became a major political issue.",
+        "q": "After Australia's under-16 social media minimum age law took effect on 10 December 2025, platforms reported removing or restricting roughly how many accounts?",
+        "choices": ["About 470,000", "About 1.4 million", "About 14 million", "About 4.7 million"],
+        "answer": 3,
+        "fact": "eSafety's figure covered the first weeks of the ban. The law required platforms such as Instagram, Snapchat and Reddit to take reasonable steps to keep under-16s off; later reviews found many teens still had access.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "From January 2023, the maximum general co-payment for a medicine on Australia's Pharmaceutical Benefits Scheme was cut from $42.50 to what?",

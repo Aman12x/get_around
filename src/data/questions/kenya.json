@@ -903,12 +903,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Which Kenyan won the men's 800 m at the Tokyo Olympics, held in 2021?",
-        "choices": ["David Rudisha", "Emmanuel Wanyonyi", "Emmanuel Korir", "Timothy Cheruiyot"],
+        "q": "In September 2026, Kenya's Agnes Ngetich won the half-marathon title at the World Athletics Road Running Championships in which city?",
+        "choices": ["Valencia", "Gdynia", "Copenhagen", "Berlin"],
         "answer": 2,
-        "fact": "Compatriot Ferguson Rotich took silver, giving Kenya a one-two finish.",
+        "fact": "Ngetich's 1:05:15 broke Peres Jepchirchir's women-only half-marathon world record by one second, and she led Kenya to the team title.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       }
     ],
     "society": [
@@ -1017,12 +1017,12 @@
         "asOf": "2026"
       },
       {
-        "q": "On 1 October 2019, which old Kenyan banknote ceased to be legal tender as new notes were introduced?",
-        "choices": ["KSh 50", "KSh 200", "KSh 500", "KSh 1,000"],
-        "answer": 3,
-        "fact": "The swap was intended to flush out illicit cash; the new notes carry images of wildlife rather than a president.",
+        "q": "According to the Kenya National Bureau of Statistics, Kenya's annual inflation rate in October 2026 reached roughly what level, its highest since mid-2023?",
+        "choices": ["5.4%", "6.1%", "7.3%", "8.8%"],
+        "answer": 2,
+        "fact": "It was up from 6.8% in September. Transport costs were 17.1% higher than a year earlier and food prices 10.2% higher.",
         "difficulty": 2,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "In October 2022, Kenya's inflation rate reached roughly what level, its highest in over five years?",

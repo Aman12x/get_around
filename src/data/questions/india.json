@@ -1445,17 +1445,17 @@
         "asOf": "2024"
       },
       {
-        "q": "A 2023 law reserves what share of seats in the Lok Sabha and state assemblies for women?",
+        "q": "Which team did India beat in the final of the 2026 men's Asian Champions Trophy hockey tournament, held in Mohali in November?",
         "choices": [
-          "One-quarter",
-          "One-half",
-          "One-fifth",
-          "One-third"
+          "South Korea",
+          "Malaysia",
+          "Japan",
+          "Pakistan"
         ],
-        "answer": 3,
-        "fact": "The idea had been debated for nearly three decades before the law, called the Nari Shakti Vandan Adhiniyam, was passed.",
+        "answer": 2,
+        "fact": "India won 4-1 after a second-half comeback, claiming a record sixth title and a third in a row.",
         "difficulty": 2,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "In June 2025, Shubhanshu Shukla became the first Indian astronaut to visit which orbiting station?",
@@ -1733,17 +1733,17 @@
         "asOf": "2026"
       },
       {
-        "q": "India's retail inflation peaked in April 2022 at roughly what level, its highest in eight years?",
+        "q": "In October 2026, the Reserve Bank of India raised its policy repo rate by 25 basis points to what level?",
         "choices": [
-          "4%",
-          "7.8%",
-          "12%",
-          "18%"
+          "5.25%",
+          "5.50%",
+          "5.75%",
+          "6.00%"
         ],
         "answer": 1,
-        "fact": "Food inflation reached 8.38% that month, and the previous peak was 8.33% in May 2014; the rise followed the war in Ukraine and kept inflation above the RBI's 6% ceiling.",
+        "fact": "The MPC also switched its stance from neutral to 'calibrated tightening'. The standing deposit facility rate rose to 5.25% and the bank rate to 5.75%.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "The Agnipath scheme, introduced in 2022, recruits soldiers for a fixed term of how many years?",

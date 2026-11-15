@@ -1668,17 +1668,17 @@
         "asOf": "2024"
       },
       {
-        "q": "Which country became Italy's largest supplier of natural gas in 2022, as Italy raced to replace Russian imports?",
+        "q": "ISTAT confirmed Italy's 2025 budget deficit at roughly what share of GDP, narrowly missing the EU's 3% threshold?",
         "choices": [
-          "Norway",
-          "Algeria",
-          "Qatar",
-          "Azerbaijan"
+          "2.7%",
+          "3.1%",
+          "3.8%",
+          "4.5%"
         ],
         "answer": 1,
-        "fact": "Russia had supplied about 40% of Italy's gas before the invasion of Ukraine; Italy also signed deals with Qatar, Azerbaijan and Egypt and opened new floating LNG terminals.",
+        "fact": "The deficit was down from 3.4% in 2024, but not enough to end Italy's EU excessive deficit procedure early; public debt ended 2025 at about 137% of GDP.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In 2023 the unemployment rate among Italians aged 15 to 24 was roughly what?",
@@ -1759,17 +1759,17 @@
         "asOf": "2024"
       },
       {
-        "q": "Which single monthly payment for families with children, replacing a patchwork of older bonuses and deductions, did Italy introduce in March 2022?",
+        "q": "According to ISTAT's report on 2025, about how many people in Italy were living in absolute poverty?",
         "choices": [
-          "Bonus mamma",
-          "Assegno unico universale",
-          "Reddito familiare",
-          "Carta Giovani"
+          "3.9 million",
+          "4.6 million",
+          "5.4 million",
+          "6.8 million"
         ],
-        "answer": 1,
-        "fact": "The 'universal single allowance' is paid for each child up to the age of 21, with amounts varying by household income.",
+        "answer": 2,
+        "fact": "That was 9.3% of residents, slightly down from 5.7 million (9.8%) in 2024; more than 2.1 million households were affected.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Italy's 'Quota 100' early-retirement scheme, in force from 2019 to 2021, allowed people to retire at 62 provided they had paid contributions for how many years?",

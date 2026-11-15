@@ -945,12 +945,12 @@
         "asOf": "2026"
       },
       {
-        "q": "According to the statistics office TÜİK, Turkey's population passed what milestone by the end of 2023?",
-        "choices": ["85 million", "65 million", "75 million", "95 million"],
-        "answer": 0,
-        "fact": "Growth slowed to just 0.1% in 2023, the lowest on record, with Istanbul alone home to about 15.7 million people.",
+        "q": "According to TÜİK, Turkey's population at the end of 2025 passed which milestone?",
+        "choices": ["84 million", "85 million", "86 million", "87 million"],
+        "answer": 2,
+        "fact": "TÜİK counted 86,092,168 people, up about 427,000 on the year. Esenyurt in Istanbul became the first district to top 1 million residents, and the median age rose to 34.9.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "Turkey's first nuclear power station, Akkuyu on the Mediterranean coast, is being built by a state company from which country?",

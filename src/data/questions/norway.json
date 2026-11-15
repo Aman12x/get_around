@@ -1009,12 +1009,12 @@
         "asOf": "2022"
       },
       {
-        "q": "In 2022, billionaire Kjell Inge Røkke moved from Norway to which country, highlighting a trend among wealthy Norwegians?",
-        "choices": ["Monaco", "Switzerland", "Sweden", "United Kingdom"],
-        "answer": 1,
-        "fact": "Dozens of rich Norwegians relocated after increases in the wealth tax, prompting a public debate about the tax's design.",
+        "q": "In September 2026, Norges Bank raised its policy rate by a quarter point to what level?",
+        "choices": ["4.00%", "4.25%", "4.50%", "4.75%"],
+        "answer": 2,
+        "fact": "It was the second hike of 2026, after May's rise to 4.25%. The bank cited inflation above target for several years; headline CPI was 3.3% in August. It held at 4.5% in November.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In May 2026, Norges Bank raised its policy rate for the first time in over two years, to what level?",
