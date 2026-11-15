@@ -1642,17 +1642,17 @@
         "asOf": "2026"
       },
       {
-        "q": "What is the name of Egypt's long-term national development strategy, launched in 2016?",
+        "q": "Egypt's annual urban inflation rate in October 2026 eased to roughly what level, according to CAPMAS?",
         "choices": [
-          "New Egypt Plan",
-          "Nile Horizon 2040",
-          "Egypt First",
-          "Egypt Vision 2030"
+          "9%",
+          "12.7%",
+          "18%",
+          "25%"
         ],
-        "answer": 3,
-        "fact": "It sets targets across the economy, education and health, and is aligned with the UN Sustainable Development Goals.",
+        "answer": 1,
+        "fact": "It was the third straight monthly slowdown and the lowest reading since January, down from 13.9% in September, helped by a high base from October 2025; this is far below the 38% peak of 2023.",
         "difficulty": 1,
-        "asOf": "2016"
+        "asOf": "2026"
       },
       {
         "q": "In March 2024, the IMF increased its loan programme for Egypt to a total of what?",

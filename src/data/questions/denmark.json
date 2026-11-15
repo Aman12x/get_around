@@ -791,12 +791,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Which Danish footballer suffered a cardiac arrest on the pitch during Euro 2020 in June 2021?",
-        "choices": ["Simon Kjær", "Kasper Schmeichel", "Pierre-Emile Højbjerg", "Christian Eriksen"],
-        "answer": 3,
-        "fact": "Teammates shielded him as medics restarted his heart, and he returned to international football in 2022.",
+        "q": "In the final of the 2026 men's European Handball Championship in Herning, which team did Denmark beat 34–27?",
+        "choices": ["France", "Sweden", "Germany", "Croatia"],
+        "answer": 2,
+        "fact": "It was Denmark's first European title since 2012, and it came on home soil, adding to their recent world and Olympic golds.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In a June 2022 referendum, Danish voters chose to drop their EU opt-out in which area?",
@@ -945,12 +945,12 @@
         "asOf": "2025"
       },
       {
-        "q": "Denmark's 2020 Climate Act commits the country to cutting greenhouse gas emissions by 2030 by what share compared with 1990?",
-        "choices": ["40%", "55%", "70%", "100%"],
+        "q": "From 1 January 2026, Denmark temporarily cut its general electricity tax for 2026 and 2027 to what level?",
+        "choices": ["Halved from the 2025 rate", "Abolished entirely", "The EU's legal minimum rate", "Frozen at the 2025 rate"],
         "answer": 2,
-        "fact": "The law passed with support from almost every party in the Folketing; it also sets a target of climate neutrality by 2050.",
+        "fact": "Passed by the Folketing in December 2025, the cut takes the tax from over 70 øre per kWh to just 0.8 øre, costing roughly 7 billion kroner a year and helping keep Danish inflation low.",
         "difficulty": 1,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "The standard full-time working week in Denmark, set by collective agreements, is how many hours?",

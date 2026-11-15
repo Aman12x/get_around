@@ -961,12 +961,12 @@
         "asOf": "2020"
       },
       {
-        "q": "In 2018 nationwide protests in Jordan against an IMF-backed bill on which tax led the prime minister to resign?",
-        "choices": ["VAT", "Property tax", "Income tax", "Car tax"],
-        "answer": 2,
-        "fact": "Hani Mulki resigned and was replaced by Omar Razzaz; a revised income tax law still passed later in 2018.",
+        "q": "Jordan's consumer price inflation for the whole of 2025 came in at roughly what level, according to the Department of Statistics?",
+        "choices": ["1.8%", "4.2%", "7.5%", "10%"],
+        "answer": 0,
+        "fact": "The 2025 rate of 1.77% was below the 2022 peak of 4.23%; the dollar-pegged dinar and government control of some prices helped keep Jordan's inflation low over 2021-2025.",
         "difficulty": 1,
-        "asOf": "2018"
+        "asOf": "2026"
       },
       {
         "q": "By 2023 Jordan's population was estimated by its Department of Statistics at roughly what?",

@@ -719,12 +719,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Which singer won the Grammy for Best Global Music Album in March 2021 with 'Twice as Tall'?",
-        "choices": ["Wizkid", "Burna Boy", "Davido", "Tiwa Savage"],
-        "answer": 1,
-        "fact": "The Port Harcourt-born star calls himself the 'African Giant', the title of the album before it.",
+        "q": "In November 2026, Nigeria's Flamingos beat Japan 2-1 in the final to win which tournament, a first for an African team?",
+        "choices": ["FIFA U-17 Women's World Cup", "FIFA U-20 Women's World Cup", "Women's Africa Cup of Nations", "Olympic women's football tournament"],
+        "answer": 0,
+        "fact": "Nigeria lost their opening match to Poland yet still lifted the trophy, and Oluebube Umejiaku won the Golden Ball as the tournament's best player.",
         "difficulty": 1,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In March 2021, Ngozi Okonjo-Iweala became the first woman and first African to lead which organisation?",
@@ -863,12 +863,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Which US payments company bought the Lagos start-up Paystack in 2020?",
-        "choices": ["PayPal", "Square", "Visa", "Stripe"],
-        "answer": 3,
-        "fact": "The deal, reported at over $200 million, was then one of the largest acquisitions of a Nigerian start-up.",
+        "q": "In October 2026, Nigeria's upstream regulator NUPRC opened a 2026 oil and gas licensing round offering how many blocks?",
+        "choices": ["20", "30", "40", "60"],
+        "answer": 2,
+        "fact": "The blocks span land, shallow-water and deepwater areas, and the round opened later than its originally planned third-quarter 2026 start.",
         "difficulty": 3,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "In April 2019, which Lagos-founded online retailer became the first African tech start-up listed on the New York Stock Exchange?",
@@ -969,12 +969,12 @@
         "asOf": "2026"
       },
       {
-        "q": "After the May 2023 subsidy removal, Nigeria's official petrol price rose overnight from under ₦200 per litre to roughly what?",
-        "choices": ["₦250", "₦350", "₦540", "₦900"],
-        "answer": 2,
-        "fact": "Prices kept climbing as the naira weakened, passing ₦1,000 per litre at many stations by late 2024.",
+        "q": "Nigeria's National Bureau of Statistics reported that headline inflation in September 2026 slowed to roughly what level?",
+        "choices": ["About 9%", "About 14.6%", "About 21%", "About 28%"],
+        "answer": 1,
+        "fact": "The NBS put September 2026 headline inflation at 14.63%, down from 15.39% in August. Food inflation was still higher, at 19.59% year on year, while urban inflation was 15.64%.",
         "difficulty": 1,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "After Nigeria lost its title as Africa's largest economy in 2024, where did the IMF rank it on the continent?",

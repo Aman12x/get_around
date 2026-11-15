@@ -1089,10 +1089,10 @@
         "asOf": "2024"
       },
       {
-        "q": "In September 2025, the Riksbank cut its policy rate by a quarter point to what level?",
-        "choices": ["2.25%", "1.50%", "2.00%", "1.75%"],
-        "answer": 3,
-        "fact": "The cut surprised many forecasters, and the bank signalled that the rate would stay at 1.75% for some time.",
+        "q": "In November 2026, the Riksbank raised its policy rate by a quarter point from 1.75% to what level?",
+        "choices": ["1.5%", "2%", "2.5%", "3%"],
+        "answer": 1,
+        "fact": "The rise took effect on 11 November 2026. The Riksbank cited a strengthening economy and war-related cost increases, and said inflation was expected to rise above its 2% target next year.",
         "difficulty": 3,
         "asOf": "2026"
       },

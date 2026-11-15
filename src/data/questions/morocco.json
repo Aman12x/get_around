@@ -759,12 +759,12 @@
         "asOf": "2025"
       },
       {
-        "q": "At the Tokyo Olympics in August 2021, Soufiane El Bakkali won gold in which event?",
-        "choices": ["Marathon", "1,500 m", "3,000 m steeplechase", "10,000 m"],
-        "answer": 2,
-        "fact": "He was the first non-Kenyan to win the men's Olympic steeplechase since 1980, and he retained his title at Paris 2024.",
+        "q": "Which country won the FIFA U-17 Women's World Cup final in Morocco in November 2026, beating Japan 2-1?",
+        "choices": ["Spain", "Nigeria", "North Korea", "United States"],
+        "answer": 1,
+        "fact": "It was Nigeria's first title in the tournament, and the first for any African team. Morocco hosted the event from 17 October to 7 November 2026.",
         "difficulty": 1,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In July 2024, King Mohammed VI marked how many years on the throne?",
@@ -986,11 +986,11 @@
       },
       {
         "q": "In May 2024, Morocco began phasing out its butane gas subsidy by raising the price of a 12 kg bottle from 40 dirhams to what?",
-        "choices": ["45 dirhams", "50 dirhams", "60 dirhams", "80 dirhams"],
-        "answer": 1,
-        "fact": "The price had been frozen since 1990; a further rise to 60 dirhams followed in 2025, with the savings earmarked for direct social aid.",
+        "choices": ["60 dirhams", "45 dirhams", "50 dirhams", "70 dirhams"],
+        "answer": 2,
+        "fact": "The price had been frozen since 1990. A planned further rise to 60 dirhams was not applied in 2025, and in 2026 the state raised its subsidy per bottle to keep the price steady.",
         "difficulty": 2,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "Launched in January 2024, Morocco's 'Daam Sakane' programme offers first-time buyers of a new home what?",

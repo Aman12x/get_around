@@ -711,10 +711,10 @@
     ],
     "current-affairs": [
       {
-        "q": "On which date is New Zealand's 2026 general election being held?",
-        "choices": ["7 November 2026", "17 October 2026", "14 November 2026", "5 December 2026"],
-        "answer": 0,
-        "fact": "Prime Minister Christopher Luxon announced the date in January at National's caucus retreat in Christchurch; enrolment closes 13 days before polling, so no enrolling on election day.",
+        "q": "On which date was New Zealand's 2026 general election held?",
+        "choices": ["31 October 2026", "7 November 2026", "14 November 2026", "21 November 2026"],
+        "answer": 1,
+        "fact": "Prime Minister Christopher Luxon announced the date in January. Preliminary results left the outcome hinging on special votes, with final official results due on 27 November.",
         "difficulty": 1,
         "asOf": "2026"
       },

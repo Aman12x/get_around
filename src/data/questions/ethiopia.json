@@ -887,12 +887,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Who won the women's marathon at the 2022 World Athletics Championships in Eugene?",
-        "choices": ["Tigst Assefa", "Worknesh Degefa", "Letesenbet Gidey", "Gotytom Gebreslase"],
-        "answer": 3,
-        "fact": "Her winning time of 2:18:11 set a new championship record.",
+        "q": "In October 2026, the Ethiopian Investment Commission won a UN Investment Promotion Award for attracting investment in which sector?",
+        "choices": ["The digital economy", "Mining and gold", "Coffee and agriculture", "Tourism and hospitality"],
+        "answer": 0,
+        "fact": "The awards were presented at the 9th World Investment Forum in Doha, Qatar, on 25 October 2026. Invest Qatar and Invest KOREA were among the other winners.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In which year did the Grand Ethiopian Renaissance Dam first generate electricity?",
@@ -1089,12 +1089,12 @@
         "asOf": "2024"
       },
       {
-        "q": "Ethiopia's 2021 labour force survey put urban unemployment at roughly what rate?",
-        "choices": ["About 5%", "About 35%", "About 50%", "About 18%"],
-        "answer": 3,
-        "fact": "Rural unemployment was only about 5%, but much rural work is unpaid or seasonal on family farms.",
+        "q": "When the IMF completed its fifth review of Ethiopia's Extended Credit Facility in July 2026, roughly how much could Ethiopia draw immediately?",
+        "choices": ["$120 million", "$261 million", "$464 million", "$1 billion"],
+        "answer": 2,
+        "fact": "The disbursement brought total payments under the 48-month programme to about $2.65 billion; the previous review, in January 2026, released about $261 million.",
         "difficulty": 3,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "In early 2021, Ethiopia became one of the first countries to seek debt relief under which G20 initiative?",

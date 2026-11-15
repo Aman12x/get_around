@@ -767,10 +767,10 @@
         "asOf": "2026"
       },
       {
-        "q": "Which Mexican driver finished runner-up in the 2023 Formula One World Drivers' Championship?",
-        "choices": ["Esteban Gutiérrez", "Pato O'Ward", "Pedro Rodríguez", "Sergio Pérez"],
-        "answer": 3,
-        "fact": "\"Checo\" Pérez's second place behind teammate Max Verstappen was the best F1 championship finish ever by a Mexican driver.",
+        "q": "Which team did Mexican driver Sergio Pérez race for at the 2026 Mexico City Grand Prix, his return to F1 after a year away?",
+        "choices": ["Aston Martin", "Cadillac", "Haas", "Williams"],
+        "answer": 1,
+        "fact": "His home race in late October 2026 was also his 300th Grand Prix, and the three-day event drew a record crowd of more than 405,000 fans.",
         "difficulty": 2,
         "asOf": "2026"
       },
@@ -1057,12 +1057,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In March 2023, Banxico raised its benchmark interest rate to a record high of what?",
-        "choices": ["8.25%", "9.75%", "10.50%", "11.25%"],
+        "q": "After cutting at every one of its eight policy meetings in 2025, Banxico ended the year with its benchmark interest rate at what level?",
+        "choices": ["9.0%", "8.25%", "5.5%", "7.0%"],
         "answer": 3,
-        "fact": "The rate was held at 11.25% for a year before the first cut in March 2024, as inflation eased back towards the 3% target.",
+        "fact": "The rate started 2025 at 10%; the final 25-basis-point cut in December came on a split vote, with sub-governor Jonathan Heath preferring to hold at 7.25%.",
         "difficulty": 3,
-        "asOf": "2023"
+        "asOf": "2025"
       },
       {
         "q": "Mexico's refugee agency COMAR received a record number of asylum applications in 2023: roughly how many?",

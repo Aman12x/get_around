@@ -727,12 +727,12 @@
         "asOf": "2022"
       },
       {
-        "q": "Which Brazilian football legend, a three-time World Cup winner, died in December 2022?",
-        "choices": ["Garrincha", "Zico", "Pelé", "Sócrates"],
+        "q": "Who won Brazil's presidential runoff on 25 October 2026, earning a fourth term as president?",
+        "choices": ["Flávio Bolsonaro", "Tarcísio de Freitas", "Luiz Inácio Lula da Silva", "Ratinho Júnior"],
         "answer": 2,
-        "fact": "Born Edson Arantes do Nascimento, Pelé won his first World Cup in 1958 at just 17, scoring twice in the final against Sweden.",
+        "fact": "He beat Flávio Bolsonaro, son of former president Jair Bolsonaro, after trailing in the first round; his new term is due to begin on 5 January 2027.",
         "difficulty": 1,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In 2024, Brazil held the presidency of which forum of major economies, hosting its leaders' summit in Rio de Janeiro?",
@@ -1009,12 +1009,12 @@
         "asOf": "2023"
       },
       {
-        "q": "What does the '6x1' campaign, which gained momentum in Brazil in late 2024, seek to end?",
-        "choices": ["Six-month probation periods", "A six-year wait for pensions", "Six-hour school days", "Six working days followed by one day off"],
-        "answer": 3,
-        "fact": "The push for a constitutional amendment spread on social media from a movement called VAT; Brazil's legal limit is a 44-hour week.",
+        "q": "In October 2026, Brazil's Congress promulgated a constitutional amendment ending the '6x1' schedule and cutting the maximum working week to how many hours?",
+        "choices": ["35 hours", "36 hours", "40 hours", "42 hours"],
+        "answer": 2,
+        "fact": "Amendment 141 guarantees two paid rest days a week without pay cuts; the week drops from 44 hours, with an intermediate step of 42 hours before reaching 40 about 14 months later.",
         "difficulty": 2,
-        "asOf": "2024"
+        "asOf": "2026"
       },
       {
         "q": "Which housing programme did the Brazilian government relaunch under its original name in February 2023?",
@@ -1057,12 +1057,12 @@
         "asOf": "2025"
       },
       {
-        "q": "In August 2022, Brazil's central bank raised the Selic benchmark rate to what level, where it then stayed for a year?",
-        "choices": ["9.25%", "11.75%", "13.75%", "15.50%"],
+        "q": "At its 4 November 2026 meeting, Brazil's central bank held the Selic benchmark rate at what level, pausing a run of five straight cuts?",
+        "choices": ["13.25%", "13.50%", "13.75%", "14.00%"],
         "answer": 2,
-        "fact": "The Selic had been at a record low of 2% in early 2021 before twelve consecutive increases; cuts began in August 2023.",
+        "fact": "The unanimous hold surprised part of the market, which had expected a quarter-point cut; the cuts began in March 2026 from a 15% peak that had stood since mid-2025.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "Brazil's 2022 census showed annual population growth since 2010 of roughly what, the slowest since the first census in 1872?",

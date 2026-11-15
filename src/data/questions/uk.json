@@ -831,12 +831,12 @@
         "asOf": "2020"
       },
       {
-        "q": "Oxford University developed a COVID-19 vaccine in partnership with which company?",
-        "choices": ["Moderna", "AstraZeneca", "Johnson & Johnson", "Sanofi"],
+        "q": "Who delivered the first Budget of Andy Burnham's government, on 28 October 2026?",
+        "choices": ["Rachel Reeves", "John Healey", "Wes Streeting", "Ed Miliband"],
         "answer": 1,
-        "fact": "AstraZeneca agreed to supply the Oxford vaccine on a not-for-profit basis during the pandemic.",
+        "fact": "It was Healey's first Budget as Chancellor. It was held earlier than the 2025 Autumn Budget (26 November) and extended the 5p fuel duty cut to July 2027.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Who succeeded Nicola Sturgeon as First Minister of Scotland in March 2023?",
@@ -879,12 +879,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Who was elected Speaker of the House of Commons in November 2019, succeeding John Bercow?",
-        "choices": ["Harriet Harman", "Chris Bryant", "Eleanor Laing", "Lindsay Hoyle"],
-        "answer": 3,
-        "fact": "Hoyle is known for naming his pets after politicians, including a tortoise called Maggie and a parrot called Boris.",
+        "q": "Which British author won the 2026 Booker Prize for the novel The End of Everything?",
+        "choices": ["Zadie Smith", "M. John Harrison", "Hilary Mantel", "Ian McEwan"],
+        "answer": 1,
+        "fact": "At 81, Harrison became the oldest author to win the Booker Prize, and the first winner to emerge from the science fiction world. The prize is worth £50,000.",
         "difficulty": 3,
-        "asOf": "2019"
+        "asOf": "2026"
       },
       {
         "q": "Who became the first woman to serve as First Minister of Wales, in August 2024?",
@@ -1073,12 +1073,12 @@
         "asOf": "2023"
       },
       {
-        "q": "According to revised ONS figures, UK net migration reached a record of about how many people in the year to June 2023?",
-        "choices": ["300,000", "500,000", "900,000", "1.5 million"],
-        "answer": 2,
-        "fact": "The figure was later revised to 906,000; net migration then roughly halved in 2024 after visa rules for students' and care workers' dependants were tightened.",
+        "q": "According to ONS estimates published in May 2026, UK net migration in the year to December 2025 was about how many people?",
+        "choices": ["171,000", "331,000", "649,000", "944,000"],
+        "answer": 0,
+        "fact": "That was nearly 48% lower than the 331,000 of 2024, and far below the record of 944,000 in the year to March 2023, as visa rules for students, care workers and dependants were tightened.",
         "difficulty": 3,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "In 2024 the main rate of employee National Insurance in the UK was cut in two steps from 12% to what?",

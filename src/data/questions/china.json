@@ -847,12 +847,12 @@
         "asOf": "2025"
       },
       {
-        "q": "Which Chinese mission brought lunar samples back to Earth in December 2020?",
-        "choices": ["Chang'e 5", "Chang'e 3", "Chang'e 4", "Yutu 2"],
+        "q": "In September 2026, China opened the Pinglu Canal, giving inland Guangxi and the Xijiang river system a direct waterway to which body of water?",
+        "choices": ["The Beibu Gulf", "The Bohai Sea", "Hangzhou Bay", "The Taiwan Strait"],
         "answer": 0,
-        "fact": "Chang'e 5 returned about 1.7 kg of lunar rock and soil, the first Moon samples brought to Earth since the Soviet Luna 24 in 1976.",
+        "fact": "Opened on 16 September 2026, the roughly 134 km canal takes vessels of up to 5,000 tonnes and is described as China's first major national river-to-sea canal project since 1949.",
         "difficulty": 2,
-        "asOf": "2020"
+        "asOf": "2026"
       },
       {
         "q": "Which Chinese swimmer set a world record while winning the men's 100 m freestyle at the Paris 2024 Olympics?",
@@ -1001,12 +1001,12 @@
         "asOf": "2026"
       },
       {
-        "q": "Which slogan did Xi Jinping revive in 2021 to describe the goal of narrowing China's wealth gap?",
-        "choices": ["Harmonious society", "Chinese dream", "Common prosperity", "Great rejuvenation"],
-        "answer": 2,
-        "fact": "Zhejiang province was named a pilot zone; big tech firms such as Tencent and Alibaba pledged billions of yuan to charitable causes after the slogan was promoted.",
+        "q": "Since the autumn 2025 semester, China has waived childcare and education fees for which stage of schooling?",
+        "choices": ["The final year of kindergarten", "The first year of primary school", "All of senior high school", "The first year of university"],
+        "answer": 0,
+        "fact": "A Ministry of Finance official said in August 2026 that about 24 million kindergarten children had benefited; 45.8 billion yuan was allocated for preschool support in 2026.",
         "difficulty": 2,
-        "asOf": "2021"
+        "asOf": "2026"
       },
       {
         "q": "What is the name of China's household registration system, which ties access to schools and benefits to a person's registered hometown?",
@@ -1089,12 +1089,12 @@
         "asOf": "2023"
       },
       {
-        "q": "Which internet slang term, derived from an English word, spread in 2022 to describe the idea of emigrating from China?",
-        "choices": ["Lie flat", "Bai lan", "Run", "Chill"],
-        "answer": 2,
-        "fact": "Written with the character 'run' (rùn), the term took off during Shanghai's 2022 lockdown, when online searches about emigration surged.",
+        "q": "According to official figures, China's economy grew by roughly what rate year on year in the third quarter of 2026?",
+        "choices": ["3.8%", "4.5%", "5.2%", "6.0%"],
+        "answer": 1,
+        "fact": "Growth was up from 4.3% in the second quarter; over the first three quarters GDP grew 4.6% to about 107.11 trillion yuan.",
         "difficulty": 3,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In May 2024, China cut the minimum mortgage down-payment for first-time home buyers to what share of the price?",

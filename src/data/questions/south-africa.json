@@ -993,12 +993,12 @@
         "asOf": "2023"
       },
       {
-        "q": "South African consumer inflation peaked in July 2022 at roughly what, a 13-year high?",
-        "choices": ["4%", "15%", "8%", "25%"],
+        "q": "In September 2026 the South African Reserve Bank raised its repo rate by 25 basis points to what level?",
+        "choices": ["6.75%", "7.00%", "7.25%", "7.50%"],
         "answer": 2,
-        "fact": "The 7.8% reading was driven by fuel and food prices; inflation fell back inside the Reserve Bank's 3-6% target band by mid-2023.",
+        "fact": "The unanimous MPC decision on 23 September followed a May hike and a July hold, and was driven by fuel price shocks linked to the Middle East conflict. The prime lending rate rose to 10.75%.",
         "difficulty": 2,
-        "asOf": "2022"
+        "asOf": "2026"
       },
       {
         "q": "In 2023 the rand fell to a record low of roughly how many rand to the US dollar?",
@@ -1057,12 +1057,12 @@
         "asOf": "2023"
       },
       {
-        "q": "In May 2023 the South African Reserve Bank raised its repo rate to what, the highest level in 14 years?",
-        "choices": ["5.25%", "11.25%", "8.25%", "15.25%"],
-        "answer": 2,
-        "fact": "Ten consecutive hikes from November 2021 lifted the rate from 3.5%; the first cut came in September 2024.",
+        "q": "In November 2025 South Africa formally adopted a lower inflation target of what level, replacing the old 3-6% band?",
+        "choices": ["2%", "3%", "4%", "4.5%"],
+        "answer": 1,
+        "fact": "The Reserve Bank adopted a 3% point target with a one-percentage-point tolerance band, announced alongside a 25 basis point rate cut to 6.75%.",
         "difficulty": 3,
-        "asOf": "2023"
+        "asOf": "2026"
       },
       {
         "q": "What name was given to the retirement reform introduced in September 2024 that lets savers withdraw part of their fund early?",
